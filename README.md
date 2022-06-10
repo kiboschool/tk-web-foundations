@@ -1,4 +1,6 @@
-# Kibo Course Template
+# Web Foundations
+
+Created from the [Kibo Course Template](https://github.com/rrcobb/course-template)
 
 A template for an [mdbook](https://rust-lang.github.io/mdBook/index.html)-powered course site.
 
