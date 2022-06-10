@@ -1,0 +1,440 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Html elements and attributes - Template Course</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../../web-foundations-april-2022.html">Web foundations april 2022</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/community-orientation-april-25th-2022.html"><strong aria-hidden="true">1.</strong> Community orientation april 25th 2022</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/final-project-instructions.html"><strong aria-hidden="true">2.</strong> Final project instructions</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/lesson-0-learning-with-kibo.html"><strong aria-hidden="true">3.</strong> Learning with kibo</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/lesson-0-learning-with-kibo/0-1-lesson-topics-and-navigation.html"><strong aria-hidden="true">3.1.</strong> Lesson topics and navigation</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/lesson-0-learning-with-kibo/0-2-sign-up-for-replit.html"><strong aria-hidden="true">3.2.</strong> Sign up for replit</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/lesson-0-learning-with-kibo/0-3-intro-to-web-development.html"><strong aria-hidden="true">3.3.</strong> Intro to web development</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/lesson-0-learning-with-kibo/0-4-assignment-scavenger-hunt.html"><strong aria-hidden="true">3.4.</strong> Assignment scavenger hunt</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/lesson-0-learning-with-kibo/0-5-the-debugging-mindset.html"><strong aria-hidden="true">3.5.</strong> The debugging mindset</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/lesson-0-learning-with-kibo/0-6-learning-together.html"><strong aria-hidden="true">3.6.</strong> Learning together</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/lesson-0-learning-with-kibo/wrap-up.html"><strong aria-hidden="true">3.7.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/try-kibo-onboarding.html"><strong aria-hidden="true">4.</strong> Try kibo onboarding</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-1-foundations.html"><strong aria-hidden="true">5.</strong> Foundations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-1-foundations/1-1-program-overview.html"><strong aria-hidden="true">5.1.</strong> Program overview</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-1-foundations/1-2-websites-and-the-internet.html"><strong aria-hidden="true">5.2.</strong> Websites and the internet</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-1-foundations/1-3-html-elements-and-attributes.html" class="active"><strong aria-hidden="true">5.3.</strong> Html elements and attributes</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-1-foundations/1-4-css-selectors-and-properties.html"><strong aria-hidden="true">5.4.</strong> Css selectors and properties</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-1-foundations/1-5-a-taste-of-javascript.html"><strong aria-hidden="true">5.5.</strong> A taste of javascript</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-1-foundations/bonus-more-html-elements.html"><strong aria-hidden="true">5.6.</strong> Bonus more html elements</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-1-foundations/practice.html"><strong aria-hidden="true">5.7.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-1-foundations/project.html"><strong aria-hidden="true">5.8.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-1-foundations/wrap-up.html"><strong aria-hidden="true">5.9.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-2-web-design.html"><strong aria-hidden="true">6.</strong> Web design</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-2-web-design/2-1-what-is-web-design.html"><strong aria-hidden="true">6.1.</strong> What is web design</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-2-web-design/2-2-styling-text.html"><strong aria-hidden="true">6.2.</strong> Styling text</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-2-web-design/2-3-the-box-model.html"><strong aria-hidden="true">6.3.</strong> The box model</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-2-web-design/2-4-layout.html"><strong aria-hidden="true">6.4.</strong> Layout</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-2-web-design/2-5-positioning.html"><strong aria-hidden="true">6.5.</strong> Positioning</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-2-web-design/2-6-colors.html"><strong aria-hidden="true">6.6.</strong> Colors</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-2-web-design/practice.html"><strong aria-hidden="true">6.7.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-2-web-design/project.html"><strong aria-hidden="true">6.8.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-2-web-design/wrap-up.html"><strong aria-hidden="true">6.9.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-3-action-and-interaction.html"><strong aria-hidden="true">7.</strong> Action and interaction</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-3-action-and-interaction/3-1-multimedia-html-elements.html"><strong aria-hidden="true">7.1.</strong> Multimedia html elements</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-3-action-and-interaction/3-2-introduction-to-javascript.html"><strong aria-hidden="true">7.2.</strong> Introduction to javascript</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-3-action-and-interaction/3-3-responding-to-events-in-javascript.html"><strong aria-hidden="true">7.3.</strong> Responding to events in javascript</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-3-action-and-interaction/final-project-preparation.html"><strong aria-hidden="true">7.4.</strong> Final project preparation</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-3-action-and-interaction/practice.html"><strong aria-hidden="true">7.5.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-3-action-and-interaction/project.html"><strong aria-hidden="true">7.6.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-3-action-and-interaction/wrap-up.html"><strong aria-hidden="true">7.7.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-4-publishing-and-sharing.html"><strong aria-hidden="true">8.</strong> Publishing and sharing</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-4-publishing-and-sharing/4-1-how-the-internet-works-again.html"><strong aria-hidden="true">8.1.</strong> How the internet works again</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-4-publishing-and-sharing/4-2-publishing-your-site.html"><strong aria-hidden="true">8.2.</strong> Publishing your site</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-4-publishing-and-sharing/4-3-domains-and-hosting.html"><strong aria-hidden="true">8.3.</strong> Domains and hosting</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-4-publishing-and-sharing/4-4-sharing-your-work.html"><strong aria-hidden="true">8.4.</strong> Sharing your work</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-4-publishing-and-sharing/practice.html"><strong aria-hidden="true">8.5.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-4-publishing-and-sharing/project.html"><strong aria-hidden="true">8.6.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/week-4-publishing-and-sharing/wrap-up.html"><strong aria-hidden="true">8.7.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/wrapping-up-final-steps-for-web-foundations.html"><strong aria-hidden="true">9.</strong> Wrapping up final steps for web foundations</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Template Course</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="13-html-elements-and-attributes"><a class="header" href="#13-html-elements-and-attributes">1.3 HTML Elements and Attributes</a></h1>
+<p><em>Estimated Time: 30 minutes</em></p>
+<hr />
+<p>In Week 0, you learned about the roles HTML, CSS, and JavaScript play, and you learned what HTML and CSS look like.</p>
+<p>In this lesson, you’ll revisit HTML in more detail, and learn more elements.</p>
+<aside>
+📺 Check out this video on the basics of HTML
+</aside>
+<p><a href="https://www.youtube.com/watch?v=Hjl6gbg9kmk">https://www.youtube.com/watch?v=Hjl6gbg9kmk</a></p>
+<h1 id="whats-html-again"><a class="header" href="#whats-html-again">What’s HTML again?</a></h1>
+<p>HTML makes up the content and structure of the webpage. It’s what a page is made of.</p>
+<p>Here’s an example. On the left is a snippet of HTML. On the right is that same snippet, as a webpage.</p>
+<p>Example:</p>
+<pre><code class="language-html">&lt;p&gt;
+	This is a paragraph. It has an 
+	&lt;a href=&quot;https://example.com&quot;&gt;
+		Example Link
+	&lt;/a&gt; 
+	inside the paragraph.
+&lt;/p&gt;
+&lt;img src=&quot;./images/valley-waterfall.png&quot; alt=&quot;this is an example image&quot; /&gt;
+</code></pre>
+<p>Result:</p>
+<p>This is a paragraph. It has an <a href="http://example.com">Example Link</a> inside the paragraph.</p>
+<p><img src="/web-foundations-april-2022/week-4-publishing-and-sharing/4-3-domains-and-hosting/untitled.png" alt="Untitled" /></p>
+<h2 id="html-elements"><a class="header" href="#html-elements">HTML Elements</a></h2>
+<p>HTML is made of text you can type on your keyboard. In addition to normal words, there are special words in angle brackets, like <code>&lt;p&gt;</code>, <code>&lt;a&gt;</code>,  and <code>&lt;img&gt;</code> that add structure to the content.</p>
+<p>The building blocks of HTML are called <strong>elements.</strong> A webpage is made up of elements.</p>
+<ul>
+<li>Elements have different <strong>types</strong></li>
+<li>Elements can <strong>nest</strong> inside each other</li>
+<li>Elements can have <strong>attributes</strong></li>
+</ul>
+<h2 id="types-and-tags"><a class="header" href="#types-and-tags"><strong>Types and Tags</strong></a></h2>
+<p>There are lots of types of elements. In the snippet above, the elements are:</p>
+<ul>
+<li><code>&lt;a&gt;</code> stands for ‘anchor’, but means link</li>
+<li><code>&lt;p&gt;</code> for paragraph</li>
+<li><code>&lt;img&gt;</code> for images</li>
+</ul>
+<p>The syntax that looks like  <code>&lt;some name&gt;</code> is called a <strong>tag</strong>*.* It says what kind of element it is. </p>
+<p>Elements usually have two tags: an opening tag, and a closing tag. They say where the element starts and where it stops.</p>
+<pre><code class="language-html">&lt;p&gt;Opening first, then closing&lt;/p&gt;
+</code></pre>
+<ul>
+<li>The opening tag is <code>&lt;p&gt;</code></li>
+<li>The closing tag is <code>&lt;/p&gt;</code>, with a forward slash <code>/</code> before the <code>p</code>.</li>
+</ul>
+<p>There are <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">many many elements</a> in addition to these three. You’ll learn about 20 to 30 elements in the course. You can always look them up if you forget.</p>
+<h3 id="self-closing-tags"><a class="header" href="#self-closing-tags">Self-closing tags</a></h3>
+<p>Elements <em>usually</em> have two tags, but sometimes they only have one.</p>
+<p>If the element doesn’t need to have any content inside it, it can use a <strong>self-closing tag.</strong></p>
+<pre><code class="language-html">&lt;img src=&quot;./waterfall.png&quot; /&gt;
+</code></pre>
+<p>Instead of having a closing tag like <code>&lt;/img&gt;</code>, this tag ends with <code>/&gt;</code>. It closes itself — it doesn’t need the closing tag too.</p>
+<p>Not every element can be self-closing. Image elements never have any content inside, so they can self-close. <a href="https://developer.mozilla.org/en-US/docs/Glossary/empty_element">MDN lists the ‘empty’ elements that can be self-closing</a>.</p>
+<h2 id="nesting"><a class="header" href="#nesting"><strong>Nesting</strong></a></h2>
+<p>HTML elements can go inside of each other. Everything that’s in between the opening tag and the closing tag is ‘inside’ an element. It can be text, like the paragraph above, or other HTML elements, or both!</p>
+<pre><code class="language-html">&lt;div&gt;  &lt;!-- Outer Element --&gt;
+	&lt;p&gt;  &lt;!-- Inner Element --&gt;
+		some text
+	&lt;/p&gt;  
+&lt;/div&gt;
+</code></pre>
+<aside>
+💬 **HTML Comments** won’t show up on the page.
+<pre><code class="language-html">&lt;!-- This is a comment, so it's ignored --&gt;
+</code></pre>
+<p>We use comments to inform you about the code, like in the example above.</p>
+</aside>
+<h2 id="attributes"><a class="header" href="#attributes"><strong>Attributes</strong></a></h2>
+<p>HTML elements can also tell the browser more information about themselves. For instance, an <code>&lt;img&gt;</code> tag can tell the browser where to find the actual image, and an <code>&lt;a&gt;</code> tag can tell where to link to.</p>
+<p>This kind of information goes in an element’s <strong>attributes.</strong> So attributes provide more information about how an element should work.</p>
+<p>Here’s some examples:</p>
+<ul>
+<li>the <code>src</code> (source) of an <code>&lt;img&gt;</code> (image) element tells the browser where to go to find the actual image to put there:</li>
+</ul>
+<pre><code class="language-html">&lt;img src=&quot;./images/valley-waterfall.png&quot; /&gt;
+</code></pre>
+<ul>
+<li>the <code>href</code> (hypertext reference) of an anchor tag (<code>&lt;a&gt;</code>) tells the browser where the link should go when you click it.</li>
+</ul>
+<pre><code class="language-html">&lt;a href=&quot;https://example.com&quot;&gt;The text that shows up&lt;/a&gt;
+</code></pre>
+<ul>
+<li>the <code>class</code> attribute of any element helps identify it as part of a group. It’s really useful for styling and adding interactivity.</li>
+</ul>
+<pre><code class="language-html">&lt;p class=&quot;nice&quot;&gt;Hello world!&lt;/p&gt;
+</code></pre>
+<p>Here’s an image summarizing the parts of an HTML element:</p>
+<p><img src="/web-foundations-april-2022/week-4-publishing-and-sharing/4-3-domains-and-hosting/untitled-1.png" alt="Untitled" /></p>
+<h1 id="elements-to-know"><a class="header" href="#elements-to-know">Elements to know</a></h1>
+<p>There’s more than 200 HTML elements. (You can <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">see them all on MDN</a>). You don’t need to memorize all of them. There are tons of them you’ll never ever use! </p>
+<p>Here’s the ones that you actually ought to know, along with some examples:</p>
+<h2 id="a-hyperlink"><a class="header" href="#a-hyperlink"><code>&lt;a&gt;</code>: hyperlink</a></h2>
+<p><code>&lt;a&gt;</code> stands for ‘anchor’, but means link. It’s the element that connects the whole web together.</p>
+<p>Example:</p>
+<pre><code class="language-html">&lt;a href=&quot;https://kibo.school&quot;&gt;Kibo Homepage&lt;/a&gt;
+</code></pre>
+<p>Result:</p>
+<p><a href="https://kibo.school">Kibo Homepage</a></p>
+<ul>
+<li>The <strong>href</strong> attribute determines where the link will go when clicked</li>
+<li>Whatever’s inside the tag is clickable as a link</li>
+</ul>
+<aside>
+🤔 How would you make an **image** that linked to another page?
+<ul>
+<li>
+<p><strong>Answer</strong></p>
+<p>You put the image inside the link, like this:</p>
+<pre><code class="language-jsx">&lt;a href=&quot;https://kibo.school&quot;&gt;
+	&lt;img src=&quot;valley-waterfall.jpeg&quot; /&gt;
+&lt;/a&gt;
+</code></pre>
+<p>When someone clicks on the image, it will navigate to the URL, just like a text link.</p>
+</li>
+</ul>
+</aside>
+<ul>
+<li>
+<p><strong>Further Exploration: Hyperlinks</strong></p>
+<p><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks">Read more about the <code>&lt;a&gt;</code> tag and hyperlinks on MDN</a>. </p>
+<p>Topics to explore:</p>
+<ul>
+<li>URLs, paths, absolute and relative paths</li>
+<li>email (<code>mailto</code>) and phone (<code>tel</code>) links</li>
+<li>urls, absolute and relative paths, and files</li>
+<li>download links</li>
+<li>linking directly to a part of a page</li>
+</ul>
+</li>
+</ul>
+<h2 id="image-img"><a class="header" href="#image-img">Image: <code>&lt;img&gt;</code></a></h2>
+<p>Images make the web visually appealing. The <code>&lt;img&gt;</code> tag tells which image to add, where.</p>
+<p>Example:</p>
+<pre><code class="language-html">&lt;img	src=&quot;./images/valley-waterfall.png&quot; alt=&quot;a waterfall running through a valley&quot;/&gt;
+</code></pre>
+<p><img src="/web-foundations-april-2022/week-4-publishing-and-sharing/4-3-domains-and-hosting/untitled.png" alt="Untitled" /></p>
+<ul>
+<li>
+<p>The <strong>src</strong> attribute says where to find the image</p>
+</li>
+<li>
+<p>The <strong>alt</strong> attribute should contain a text description of the image, for accessibility</p>
+</li>
+<li>
+<p><strong>Further Exploration: Images</strong></p>
+<p><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML">Read more about <code>&lt;img&gt;</code> and Images in HTML on MDN.</a></p>
+<p>Topics to explore:</p>
+<ul>
+<li>URLs and paths for images</li>
+<li>types of image files</li>
+<li>alt text and screen readers</li>
+<li>setting image width and height</li>
+<li>figures and captions</li>
+<li>background images</li>
+</ul>
+<p>Also check out this <a href="https://www.youtube.com/watch?v=15aqFQQVBWU">video about images and Pixels from Code.org</a></p>
+</li>
+</ul>
+<h2 id="text"><a class="header" href="#text">Text</a></h2>
+<p><strong>Text Nodes</strong></p>
+<p>Inside a <code>&lt;p&gt;</code>, an <code>&lt;a&gt;</code>, or lots of other tags, you’ll see regular text. Text placed inside many elements shows up on the page. Sometimes, depending on the element, the text will show up differently.</p>
+<h2 id="text-elements"><a class="header" href="#text-elements">Text Elements</a></h2>
+<h3 id="p-paragraph"><a class="header" href="#p-paragraph"><code>&lt;p&gt;</code>: Paragraph</a></h3>
+<p><code>&lt;p&gt;</code> is for paragraph. It’s for the body text that makes up the bulk of text-heavy pages. </p>
+<p>Example:</p>
+<pre><code class="language-html">&lt;p&gt;It's a paragraph of text.&lt;/p&gt;
+&lt;p&gt;Hello world!&lt;/p&gt;
+</code></pre>
+<p>Result:</p>
+<p>It's a paragraph of text.</p>
+<p>Hello world!</p>
+<ul>
+<li>Paragraphs show the text inside the tag. They don’t make the text show a special way.</li>
+<li>Each paragraph gets shown on a new line when the page is displayed.</li>
+</ul>
+<h3 id="h1-to-h6-heading"><a class="header" href="#h1-to-h6-heading"><code>&lt;h1&gt;</code> to <code>&lt;h6&gt;</code>: Heading</a></h3>
+<p>Example:</p>
+<pre><code class="language-html">&lt;h1&gt;My Website&lt;/h1&gt;
+&lt;h2&gt;About me&lt;/h2&gt;
+</code></pre>
+<p>Result:</p>
+<h1 id="my-website"><a class="header" href="#my-website">My Website</a></h1>
+<h2 id="about-me"><a class="header" href="#about-me">About me</a></h2>
+<ul>
+<li>There are six heading elements.</li>
+<li>The biggest one is <code>h1</code>, the smallest is <code>h6</code></li>
+<li>They are used for the title of the page, section and subsection titles</li>
+</ul>
+<h3 id="ul-ol--li-lists"><a class="header" href="#ul-ol--li-lists"><code>&lt;ul&gt;</code>, <code>&lt;ol&gt;</code>,  <code>&lt;li&gt;</code>: Lists</a></h3>
+<p>Example:</p>
+<pre><code class="language-html">&lt;ul&gt;
+	&lt;li&gt;Onions&lt;/li&gt;
+	&lt;li&gt;Chicken&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;Preheat the oven&lt;/li&gt;
+	&lt;li&gt;Prepare the ingredients&lt;/li&gt;
+&lt;/ol&gt;
+</code></pre>
+<p>Result:</p>
+<ul>
+<li>Onions</li>
+<li>Chicken</li>
+</ul>
+<ol>
+<li>Preheat the oven</li>
+<li>Prepare the ingredients</li>
+</ol>
+<p>There are two kinds of lists. Unordered Lists <code>&lt;ul&gt;</code> have dots before each item. Ordered Lists <code>&lt;ol&gt;</code> have increasing numbers before each item. Both lists use <code>&lt;li&gt;</code> for list items.</p>
+<h3 id="strong-em-emphasized-text"><a class="header" href="#strong-em-emphasized-text"><code>&lt;strong&gt;</code>, <code>&lt;em&gt;</code>: emphasized text</a></h3>
+<p>Example:</p>
+<pre><code class="language-html">&lt;strong&gt;Important Note&lt;/strong&gt;
+&lt;em&gt;By the way, this text is distinct&lt;/em&gt;
+</code></pre>
+<p>Result:</p>
+<p><strong>Important Note</strong></p>
+<p><em>By the way, this text is distinct</em></p>
+<ul>
+<li>Both of these tags indicate that text is emphasized in some way</li>
+<li><code>&lt;strong&gt;</code> is a strong emphasis, for <strong>really important information</strong></li>
+<li><code>&lt;em&gt;</code> is for information that’s <em>different from the norm, but not as strongly emphasized</em></li>
+</ul>
+<h2 id="practice-use-the-basic-elements"><a class="header" href="#practice-use-the-basic-elements">Practice: Use the basic elements</a></h2>
+<aside>
+👉🏿 Your turn! Use these tags to mark up the page.
+</aside>
+<p><a href="https://replit.com/team/tk5-web/Practice-Use-the-basic-elements">https://replit.com/team/tk5-web/Practice-Use-the-basic-elements</a></p>
+<h2 id="practice-find-a-new-tag-on-mdn"><a class="header" href="#practice-find-a-new-tag-on-mdn">Practice: Find a new tag on MDN</a></h2>
+<aside>
+🔍 The **Mozilla Developer Network (MDN)** is a top source of tutorials and reference materials for Web Developers. 
+<p>Starting at the <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">MDN overview page on HTML</a>, find a description for an HTML element that’s new to you. In the Padlet below, share:</p>
+<ul>
+<li>the name of the element</li>
+<li>the link to the MDN page, and</li>
+<li>what you find interesting about it</li>
+</ul>
+</aside>
+<p><a href="https://padlet.com/curriculumpad/mxl15sdveaow1kk8">https://padlet.com/curriculumpad/mxl15sdveaow1kk8</a></p>
+<hr />
+<aside>
+<img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: [CSS Selectors and Properties](/web-foundations-april-2022/week-1-foundations/1-4-css-selectors-and-properties.md)
+</aside>
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../web-foundations-april-2022/week-1-foundations/1-2-websites-and-the-internet.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="../../web-foundations-april-2022/week-1-foundations/1-4-css-selectors-and-properties.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../web-foundations-april-2022/week-1-foundations/1-2-websites-and-the-internet.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="../../web-foundations-april-2022/week-1-foundations/1-4-css-selectors-and-properties.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

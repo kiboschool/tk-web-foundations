@@ -11,7 +11,7 @@ require 'fileutils'
 
 NOTION_ROOT = "./notion-export"
 TARGET_DIR = "./course/src"
-TITLE = "Template Course"
+TITLE = "Web Foundations"
 
 OLD_TO_NEW = {}
 BACKUP = {}
