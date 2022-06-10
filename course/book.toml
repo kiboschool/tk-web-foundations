@@ -1,0 +1,11 @@
+[book]
+authors = ["(enter list of contributor names)"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Template Course"
+
+[build]
+build-dir = "output"
+create-missing = false
+use-default-preprocessors = false
