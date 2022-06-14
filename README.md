@@ -35,6 +35,20 @@ This recursively walks the notion export files, cleaning them up as it goes:
 - renames the files to use a sanitized slug
 - fixes the filenames in the markdown files
 - creates the SUMMARY.md file that mdbook uses
+- re-srcs the img tags with the new file locations
+
+And it fixes (by matching and replacing on regexes) notion export issues with:
+- titles - removes leading numbers / "lesson 0"
+- slugs - removes leading numbers to match titles
+- asides
+- youtube embeds
+- loom embeds
+- replit embeds
+- typeform
+- padlet
+- google forms
+- google docs / slides
+
 
 ### course/
 
