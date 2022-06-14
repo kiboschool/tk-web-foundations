@@ -1,0 +1,417 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Styling text - Web Foundation - TK6</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../../web-foundations-april-2022.html">Web foundations april 2022</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction.html"><strong aria-hidden="true">1.</strong> Action and interaction</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/final-project-preparation.html"><strong aria-hidden="true">1.1.</strong> Final project preparation</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/introduction-to-javascript.html"><strong aria-hidden="true">1.2.</strong> Introduction to javascript</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/multimedia-html-elements.html"><strong aria-hidden="true">1.3.</strong> Multimedia html elements</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/practice.html"><strong aria-hidden="true">1.4.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/project.html"><strong aria-hidden="true">1.5.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/responding-to-events-in-javascript.html"><strong aria-hidden="true">1.6.</strong> Responding to events in javascript</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/wrap-up.html"><strong aria-hidden="true">1.7.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/community-orientation-april-25th-2022.html"><strong aria-hidden="true">2.</strong> Community orientation april 25th 2022</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/final-project-instructions.html"><strong aria-hidden="true">3.</strong> Final project instructions</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations.html"><strong aria-hidden="true">4.</strong> Foundations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/a-taste-of-javascript.html"><strong aria-hidden="true">4.1.</strong> A taste of javascript</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/bonus-more-html-elements.html"><strong aria-hidden="true">4.2.</strong> Bonus more html elements</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/css-selectors-and-properties.html"><strong aria-hidden="true">4.3.</strong> Css selectors and properties</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/html-elements-and-attributes.html"><strong aria-hidden="true">4.4.</strong> Html elements and attributes</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/practice.html"><strong aria-hidden="true">4.5.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/program-overview.html"><strong aria-hidden="true">4.6.</strong> Program overview</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/project.html"><strong aria-hidden="true">4.7.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/websites-and-the-internet.html"><strong aria-hidden="true">4.8.</strong> Websites and the internet</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/wrap-up.html"><strong aria-hidden="true">4.9.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo.html"><strong aria-hidden="true">5.</strong> Learning with kibo</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/assignment-scavenger-hunt.html"><strong aria-hidden="true">5.1.</strong> Assignment scavenger hunt</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/intro-to-web-development.html"><strong aria-hidden="true">5.2.</strong> Intro to web development</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/learning-together.html"><strong aria-hidden="true">5.3.</strong> Learning together</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/lesson-topics-and-navigation.html"><strong aria-hidden="true">5.4.</strong> Topics and navigation</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/sign-up-for-replit.html"><strong aria-hidden="true">5.5.</strong> Sign up for replit</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/the-debugging-mindset.html"><strong aria-hidden="true">5.6.</strong> The debugging mindset</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/wrap-up.html"><strong aria-hidden="true">5.7.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing.html"><strong aria-hidden="true">6.</strong> Publishing and sharing</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/domains-and-hosting.html"><strong aria-hidden="true">6.1.</strong> Domains and hosting</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/how-the-internet-works-again.html"><strong aria-hidden="true">6.2.</strong> How the internet works again</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/practice.html"><strong aria-hidden="true">6.3.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/project.html"><strong aria-hidden="true">6.4.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/publishing-your-site.html"><strong aria-hidden="true">6.5.</strong> Publishing your site</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/sharing-your-work.html"><strong aria-hidden="true">6.6.</strong> Sharing your work</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/wrap-up.html"><strong aria-hidden="true">6.7.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/try-kibo-onboarding.html"><strong aria-hidden="true">7.</strong> Try kibo onboarding</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design.html"><strong aria-hidden="true">8.</strong> Web design</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/colors.html"><strong aria-hidden="true">8.1.</strong> Colors</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/layout.html"><strong aria-hidden="true">8.2.</strong> Layout</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/positioning.html"><strong aria-hidden="true">8.3.</strong> Positioning</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/practice.html"><strong aria-hidden="true">8.4.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/project.html"><strong aria-hidden="true">8.5.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/styling-text.html" class="active"><strong aria-hidden="true">8.6.</strong> Styling text</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/the-box-model.html"><strong aria-hidden="true">8.7.</strong> The box model</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/what-is-web-design.html"><strong aria-hidden="true">8.8.</strong> What is web design</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/wrap-up.html"><strong aria-hidden="true">8.9.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/wrapping-up-final-steps-for-web-foundations.html"><strong aria-hidden="true">9.</strong> Wrapping up final steps for web foundations</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Web Foundation - TK6</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="styling-text"><a class="header" href="#styling-text">Styling text</a></h1>
+<p><em>Estimated Time: 1 hour</em></p>
+<hr />
+<p>Text is a huge part of a webpage. If the text looks good, the page will (most likely) look good.</p>
+<p>There’s a lot you can control about how text looks! Size, color, spacing, and shape are only the first layer. There’s also more niche text styles, like decoration (e.g. underline or <del>strikethrough</del>), the appearance of the icons beside list items, or whether text is laid out right-to-left or left-to-right.</p>
+<p>Choosing the right values for each property is complicated. Each change you make to one property forces you to tweak something else to get it right. Over time, you’ll build an intuition for what makes a site look good, and how to achieve good design with CSS. For now, we’ll focus on telling you what properties CSS can control, and the most important rules for good typography.</p>
+<h1 id="css-text-properties"><a class="header" href="#css-text-properties">CSS Text Properties</a></h1>
+<h3 id="key-rules-for-typography"><a class="header" href="#key-rules-for-typography">K<strong>ey rules for Typography</strong></a></h3>
+<p>The body text is the most important text to style. These rules help make text look good:</p>
+<ul>
+<li>Point size should be 15-25 pixels on the web.</li>
+<li>Line spacing should be 120–145% of the point size.</li>
+<li>The average line length should be 45–90 characters (including spaces).</li>
+<li>The easiest and most visible improvement you can make to your typography is to use a professional font.</li>
+</ul>
+<p>The <a href="https://practicaltypography.com/summary-of-key-rules.html">summary of key rules</a> from Practical Typography lists additional rules to making text look good:</p>
+<aside>
+<p>📘 In this lesson, we refer several times to Matthew Butterick’s book <a href="http://practicaltypography.com">Practical Typography</a>. It’s great further reading material, if you are curious to learn more about typography.</p>
+</aside>
+<p>Now that you know some about what good typography should look like, you need to know how to use CSS to control those properties. Let’s go through each of the key recommendations and identify the CSS property that controls that aspect of typography.</p>
+<h3 id="point-size-should-be-15-25-pixels"><a class="header" href="#point-size-should-be-15-25-pixels"><strong>Point size should be 15-25 pixels</strong></a></h3>
+<p><code>font-size</code> is the relevant CSS property, so the recommendation is that the body text have between <code>font-size: 15px</code> and <code>font-size: 25px</code>, depending on the particular font.</p>
+<h3 id="line-spacing-should-be-120145-of-the-point-size"><a class="header" href="#line-spacing-should-be-120145-of-the-point-size"><strong>Line spacing should be 120–145% of the point size</strong></a></h3>
+<p><code>line-height</code> controls how tall each line is. You can set it as a multiple of the <code>font-size</code> by using a value without units, like <code>1.4</code>. So, the recommendation is to use between <code>line-height: 1.2</code> and <code>line-height: 1.45</code> depending on the particular font. </p>
+<h3 id="the-average-line-length-should-be-4590-characters"><a class="header" href="#the-average-line-length-should-be-4590-characters"><strong>The average line length should be 45–90 characters</strong></a></h3>
+<p>Line length is determined by the width of the parent element. The <code>max-width</code> on the parent element is often easiest way to control the average line.</p>
+<h3 id="color"><a class="header" href="#color">Color</a></h3>
+<blockquote>
+<p><strong>Less color is more effective</strong>. When everything is emphasized, nothing is emphasized.</p>
+</blockquote>
+<p>Consider making your text dark gray rather than black.</p>
+<p><em><a href="https://practicaltypography.com/color.html">Butterick’s Practical Typography, Color</a></em></p>
+<blockquote>
+</blockquote>
+<p>The <code>color</code> property in CSS sets the color of text. Your primary goal should be to create <em>contrast</em> between the background color and the text color. Dark text on a dark background is hard to read. So is light text on a light background.</p>
+<p>Usually, the best choice is black or dark gray text, on a white or near-white background.</p>
+<h2 id="practice-css-text-properties"><a class="header" href="#practice-css-text-properties">Practice: CSS Text Properties</a></h2>
+<aside>
+<p>🔤 Practice using the properties to style text. Follow the instructions in the Repl.</p>
+<p>Access the exercise here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/21-Practice-CSS-Text-Properties" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> or below</p>
+</aside>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/21-Practice-CSS-Text-Properties" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<ul>
+<li>
+<p><strong>Further Exploration: Text and Font Styling</strong></p>
+<p>The <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals">Text and Font Styling</a> page on MDN has more detail about these properties and other properties you can use to style text. Read about:</p>
+<ul>
+<li>Text <code>color</code></li>
+<li>Values and Units</li>
+<li>Styling with <code>font-weight</code>, <code>text-transform</code>, <code>text-decoration</code>, and <code>text-shadow</code></li>
+<li>Alignment and spacing with <code>text-align</code>, <code>letter-spacing</code>, and <code>word-spacing</code></li>
+</ul>
+<p>It also links to many other pages about styling text. <strong>There’s a ton to explore</strong>.</p>
+</li>
+</ul>
+<h2 id="fonts"><a class="header" href="#fonts">Fonts</a></h2>
+<blockquote>
+<p>The easiest and most visible improvement you can make to your typography is to use a professional font</p>
+</blockquote>
+<p><a href="https://practicaltypography.com/summary-of-key-rules.html">*Butterick’s Practical Typography, Summary of key rules</a>*</p>
+<blockquote>
+</blockquote>
+<p>The <code>font-family</code> CSS property sets the font face.</p>
+<p>This example sets the font to <a href="https://en.wikipedia.org/wiki/Garamond">Garamond</a>, a nice-looking web safe font.</p>
+<pre><code class="language-css">body {
+	font-family: Garamond;
+}
+</code></pre>
+<p>There are <em>lots</em> of fonts. For using fonts on a web page, there are two categories you need to know: web safe fonts and custom fonts.</p>
+<p><strong>Web Safe Fonts</strong></p>
+<p>These fonts are pre-installed on most computers, so you can use them without any other steps. See <a href="https://www.cssfontstack.com/">CSS Font Stack</a> for the list.</p>
+<p><strong>Custom Fonts</strong></p>
+<p>If you want to use fonts that aren’t already installed on the user’s computer, you can use a <code>&lt;link&gt;</code> tag to load the font, just like you link a stylesheet. That way, the browser knows where to download the font before using it.</p>
+<p><a href="https://fonts.google.com/">Google Fonts</a> is a tool for finding and using custom fonts. You can browse or search for a font, then copy a <code>&lt;link&gt;</code> tag and <code>font-family</code> rule to use in your site. See the example for use under the toggle</p>
+<ul>
+<li>
+<p><strong>Example: Google Fonts usage</strong></p>
+<p>For using the font <a href="https://fonts.google.com/specimen/Merriweather">Merriweather</a> in Regular, <em>Italic</em>, and <strong>Bold,</strong> loading from Google fonts.</p>
+<p>Add this to the <code>&lt;head&gt;</code> in <code>index.html</code> </p>
+<pre><code class="language-jsx">&lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+&lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+&lt;link href=&quot;https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+</code></pre>
+<p>And use this as the CSS rule for the text to style (in this case, <code>body</code>):</p>
+<pre><code class="language-jsx">body {
+	font-family: 'Merriweather', serif;
+}
+</code></pre>
+<p>Both of these are copied from the Google Fonts page after selecting the fonts.</p>
+</li>
+</ul>
+<p><strong>Font stacks and Fallbacks</strong></p>
+<p>Since different users have different fonts installed, the <code>font-family</code> property allows specifying a list of fonts. The browser will try each one in order, and use the first one that works.</p>
+<p>For example:</p>
+<pre><code class="language-css">font-family: &quot;Lucida Grande&quot;, &quot;Lucida Sans&quot;, Geneva, Verdana, sans-serif;
+</code></pre>
+<p>Will try <code>Lucida Grande</code> first, then <code>Lucida Sans</code>, then <code>Geneva</code>, then <code>Verdana</code>, then the browser’s default <code>sans-serif</code> font. The first one that the computer has installed will be used.</p>
+<ul>
+<li>
+<p>Further Exploration: Web Fonts</p>
+<p>Read the MDN page on <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts">Web Fonts</a> to learn more about font stacks and setting custom fonts.</p>
+<ul>
+<li>Using <code>font-face</code> CSS property to declare your own fonts</li>
+<li>Details about how font loading works</li>
+</ul>
+</li>
+</ul>
+<h2 id="style-different-text-differently"><a class="header" href="#style-different-text-differently">Style different text differently</a></h2>
+<p>Most of the text on the page is body text, so most of the recommendations so far have been about body text. But, there’s other text on the page too!</p>
+<h3 id="headings"><a class="header" href="#headings">Headings</a></h3>
+<p>Like you learned in Week 1, you can use the <code>&lt;h1&gt;</code> through <code>&lt;h6&gt;</code> tags for headings. You can and should style those elements.</p>
+<p>Here’s the suggested rules:</p>
+<ul>
+<li>
+<p>Use space above and below (see the next lesson on spacing for how).</p>
+</li>
+<li>
+<p>Limit the number of heading levels (two or three is best).</p>
+</li>
+<li>
+<p>Larger than the body text, but not too much.</p>
+</li>
+<li>
+<p>You can use a different font family for headings, but you don’t have to.</p>
+</li>
+<li>
+<p><strong>Further Exploration</strong>: Styling headings</p>
+<p><a href="https://practicaltypography.com/headings.html">Read more about styling headings</a> from Practical Typography.</p>
+</li>
+</ul>
+<h3 id="emphasis"><a class="header" href="#emphasis">Emphasis</a></h3>
+<p>You can use the <code>&lt;strong&gt;</code> and <code>&lt;em&gt;</code> tags to create emphasis. You can style those elements to create further contrast, if you want.</p>
+<ul>
+<li><strong>Bold</strong> text creates strong emphasis</li>
+<li><em>Italic</em> text creates a more subtle emphasis</li>
+<li>Don’t use both at the same time, and try not to overuse them</li>
+</ul>
+<p>You can also use CSS properties to control emphasis:</p>
+<ul>
+<li><code>font-weight</code> controls how heavy (bold) text should appear.</li>
+<li><code>font-style</code> controls whether text should be italicized or not</li>
+<li><code>text-transform</code> and <code>font-variant</code> can be used to create all-caps or small-caps effects</li>
+<li><code>text-decoration</code> controls text underline, overline, or strike-through.</li>
+</ul>
+<aside>
+<p>🚧 People strongly associate underlining with hyperlinks. Therefore, on the web, it's best to underline only links.
+<em>(from <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals">MDN: HTML Text Fundamentals</a>)</em></p>
+</aside>
+<ul>
+<li>
+<p><strong>Further Exploration</strong>: Bold and Italic</p>
+<p>See Practical Typography’s <a href="https://practicaltypography.com/bold-or-italic.html">chapter on Bold and Italic</a></p>
+</li>
+</ul>
+<h3 id="links"><a class="header" href="#links">Links</a></h3>
+<p>People visually recognize links because they are styled differently from other text. </p>
+<p>Often, they are colored differently and underlined.</p>
+<ul>
+<li>
+<p>Links are a good time to use an accent color to style text.</p>
+</li>
+<li>
+<p>You can change the <code>text-decoration</code> - you can remove the underline, or show it only on hover.</p>
+</li>
+<li>
+<p>You can style other properties, like <code>background-color</code> and <code>border-bottom</code>.</p>
+</li>
+<li>
+<p>Link states: hover, visited, active</p>
+<p>Links can show differently when they are hovered over, or after they’ve been clicked. To apply styles to particular states, you need a new kind of selector: the <code>:hover</code> and <code>:visited</code> pseudo-selectors.</p>
+<pre><code class="language-css">/* default link styles  */
+a {
+  text-decoration: none;
+  color: royalblue;
+}
+
+/* link styles when hovered */
+a:hover {
+	text-decoration: underline;
+	color: midnightblue;
+}
+
+/* link styles after visited */
+a:visited {
+  text-decoration: none;
+	color: darkorchid;
+}
+</code></pre>
+<p>It’s also nice to be able to make the cursor show differently when hovering something clickable. By default, clickable links have <code>cursor: pointer</code> to make the pointer into a little hand icon. You can apply this yourself to other elements that are meant to be clicked.</p>
+</li>
+</ul>
+<p>Read more about <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links">styling links on MDN</a>.</p>
+<h3 id="styling-lists"><a class="header" href="#styling-lists">Styling Lists</a></h3>
+<p>You can control the appearance of lists using the text styling and spacing CSS properties. There’s also some additional properties to control the appearance of list items. Read more about <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists">styling lists on MDN</a>.</p>
+<h2 id="practice-typesetting-a-homepage"><a class="header" href="#practice-typesetting-a-homepage">Practice: Typesetting a Homepage</a></h2>
+<aside>
+<p>🏫 Practice applying what you’ve learned about styling text by styling the homepage for a school.</p>
+<p>Access the Repl here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/22-Typesetting-a-community-college-homepage" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> or below</p>
+</aside>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/22-Typesetting-a-community-college-homepage" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<ul>
+<li>
+<p><strong>Further Exploration</strong>: What makes good Typography?</p>
+<h2 id="what-makes-good-typography"><a class="header" href="#what-makes-good-typography">What makes good Typography?</a></h2>
+<p>The style and appearance of text on the page is called <strong>Typography.</strong> </p>
+<blockquote>
+<p>Good typography makes the text more effective.</p>
+</blockquote>
+<p><em><a href="https://practicaltypography.com/what-is-good-typography.html">Butterick’s Practical Typography</a> - What is good typography?</em></p>
+<blockquote>
+</blockquote>
+<p>That means that *different purposes ***<em>call for different text styles</em>.</p>
+<p>Still, there are some fundamentals that apply across most sites.</p>
+<aside>
+<p>👉🏿 Read <a href="https://practicaltypography.com/typography-in-ten-minutes.html">Typography in Ten Minutes</a>. Make a note of the terms you don’t understand. There’s a lot to learn about making text look good, but this is a good starting point.</p>
+<p>For each of the terms you don’t understand, try doing a quick google search to learn more about that term. You might not totally understand everything at first, but it’s a good habit to try to do a search when you encounter a term you don’t know.</p>
+</aside>
+</li>
+</ul>
+<hr />
+<aside>
+<p><img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: <a href="/web-foundations-april-2022/web-design/the-box-model.html">The Box Model</a></p>
+</aside>
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../web-foundations-april-2022/web-design/project.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="../../web-foundations-april-2022/web-design/the-box-model.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../web-foundations-april-2022/web-design/project.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="../../web-foundations-april-2022/web-design/the-box-model.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

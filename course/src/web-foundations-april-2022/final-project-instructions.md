@@ -1,4 +1,4 @@
-# Final Project Instructions
+# Final project instructions
 
 ---
 
@@ -7,6 +7,8 @@
 As mentioned in week 3, your final project (**due on Friday, June 3rd**) will be a website you create with a team.
 
 <aside>
+
+
 🏔️ **Final Project Description**
 
 You’ve learned a ton about HTML, CSS, and JavaScript in this course. The final project is your chance to build a website of your own design from scratch.
@@ -19,6 +21,8 @@ Some project ideas:
 </aside>
 
 <aside>
+
+
 👥 The final project will be a team project. You can have up to three people on your team. You can work with teammates you’ve worked with before, or find new teammates.
 
 If you have trouble finding a partner, use the **#help-web** channel in Discord to see who else needs a team. You can work with anyone, you are not restricted to your squad. You are allowed to work independently, but it’s good practice to work together.
@@ -61,6 +65,8 @@ It may be helpful to create a **design doc**. Using Google docs or a text file i
 A design doc can also help you track what work you’ve done, and what work is left to do.
 
 <aside>
+
+
 ✨ Your team should **create a new project in Replit**, so that you can collaborate.
 
 </aside>
@@ -68,9 +74,11 @@ A design doc can also help you track what work you’ve done, and what work is l
 ## Submitting the Project
 
 <aside>
+
+
 📽️ Once you have completed the project, **each teammate should submit the form below.**
 
-[https://forms.gle/JbAYaofCBjQ1GQmU8](https://forms.gle/JbAYaofCBjQ1GQmU8)
+<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfvZtBtQZElpzooF2mEF01u2nrOz7w0vtUcpqm-YXdzhmmCSA/viewform?usp=send_form&embed=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
 
 </aside>
 
