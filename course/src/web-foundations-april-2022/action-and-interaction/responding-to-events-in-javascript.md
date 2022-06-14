@@ -40,7 +40,7 @@ Access the exercise here: <div style="position: relative; padding-bottom: 56.25%
     
     If you get stuck, you can watch this video to see how to solve the exercise.
     
-    [https://www.youtube.com/watch?v=za3tQLEoWLk](https://www.youtube.com/watch?v=za3tQLEoWLk)
+    <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/za3tQLEoWLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
     
 </aside>
 

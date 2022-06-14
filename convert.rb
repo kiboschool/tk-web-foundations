@@ -116,7 +116,7 @@ def replace_internal_img_src(text)
 end
 
 # replace youtube links with iframes
-YOUTUBE_PATTERN = /\[https:\/\/youtu\.be\/(?<ytid>[a-zA-Z0-9]+)\]\(.+\)/
+YOUTUBE_PATTERN = /\[https:\/\/(youtu\.be\/|www\.youtube\.com\/watch\?v\=)(?<ytid>[a-zA-Z0-9]+)\]\(.+\)/
 def replace_youtube(text)
   text.gsub(YOUTUBE_PATTERN) do |_|
     matches = $~

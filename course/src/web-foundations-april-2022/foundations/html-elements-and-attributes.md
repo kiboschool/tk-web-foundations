@@ -15,7 +15,7 @@ In this lesson, you’ll revisit HTML in more detail, and learn more elements.
 
 </aside>
 
-[https://www.youtube.com/watch?v=Hjl6gbg9kmk](https://www.youtube.com/watch?v=Hjl6gbg9kmk)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Hjl6gbg9kmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 # What’s HTML again?
 

@@ -53,7 +53,7 @@ Before you dive deeper into the box model, here’s a quick tutorial on how to v
 🎥 **Video:** Learn the CSS Box Model
 This video from Web Dev Simplified explores the different parts of the Box Model covered in this lesson.
 
-[https://www.youtube.com/watch?v=rIO5326FgPE](https://www.youtube.com/watch?v=rIO5326FgPE)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/rIO5326FgPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 </aside>
 
