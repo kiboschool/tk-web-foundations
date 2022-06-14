@@ -3,7 +3,7 @@ authors = ["(enter list of contributor names)"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Template Course"
+title = "Web Foundation - TK6"
 
 [build]
 build-dir = "output"

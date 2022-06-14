@@ -10,12 +10,12 @@ This is the reading material, practice challenges, and assignment for the first 
 
 After this week, you will be able to:
 
-- Explain the role of HTML, CSS, and JavaScript
-- Use core HTML elements to structure a webpage
-- Select and apply styles using CSS
-- Use a script tag to include a JavaScript file on a webpage
+- Explain the role of HTML, CSS, and JavaScript.
+- Use core HTML elements to structure a webpage.
+- Select and apply styles using CSS.
+- Use a script tag to include a JavaScript file on a webpage.
 
-### Welcome Video
+### Welcome Video from your instructor, Wasiu
 
 <aside>
 <img src="instruction.png" alt="instruction.png" width="40px" /> Web Foundations instructor Wasiu welcomes you to the course.
