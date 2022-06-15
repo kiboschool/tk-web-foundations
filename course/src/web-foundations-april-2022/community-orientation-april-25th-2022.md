@@ -1,4 +1,4 @@
-# Community orientation april 25th 2022
+# Community orientation july 12th 2022
 
 **Spend the next hour completing the challenges with your squad.**
 
