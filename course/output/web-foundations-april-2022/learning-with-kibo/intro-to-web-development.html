@@ -1,0 +1,363 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Intro to web development - Web Foundation - TK6</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../../web-foundations-april-2022.html">Web foundations april 2022</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction.html"><strong aria-hidden="true">1.</strong> Action and interaction</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/final-project-preparation.html"><strong aria-hidden="true">1.1.</strong> Final project preparation</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/introduction-to-javascript.html"><strong aria-hidden="true">1.2.</strong> Introduction to javascript</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/multimedia-html-elements.html"><strong aria-hidden="true">1.3.</strong> Multimedia html elements</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/practice.html"><strong aria-hidden="true">1.4.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/project.html"><strong aria-hidden="true">1.5.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/responding-to-events-in-javascript.html"><strong aria-hidden="true">1.6.</strong> Responding to events in javascript</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/wrap-up.html"><strong aria-hidden="true">1.7.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/community-orientation-april-25th-2022.html"><strong aria-hidden="true">2.</strong> Community orientation april 25th 2022</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/final-project-instructions.html"><strong aria-hidden="true">3.</strong> Final project instructions</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations.html"><strong aria-hidden="true">4.</strong> Foundations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/a-taste-of-javascript.html"><strong aria-hidden="true">4.1.</strong> A taste of javascript</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/bonus-more-html-elements.html"><strong aria-hidden="true">4.2.</strong> Bonus more html elements</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/css-selectors-and-properties.html"><strong aria-hidden="true">4.3.</strong> Css selectors and properties</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/html-elements-and-attributes.html"><strong aria-hidden="true">4.4.</strong> Html elements and attributes</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/practice.html"><strong aria-hidden="true">4.5.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/program-overview.html"><strong aria-hidden="true">4.6.</strong> Program overview</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/project.html"><strong aria-hidden="true">4.7.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/websites-and-the-internet.html"><strong aria-hidden="true">4.8.</strong> Websites and the internet</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/wrap-up.html"><strong aria-hidden="true">4.9.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo.html"><strong aria-hidden="true">5.</strong> Learning with kibo</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/assignment-scavenger-hunt.html"><strong aria-hidden="true">5.1.</strong> Assignment scavenger hunt</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/intro-to-web-development.html" class="active"><strong aria-hidden="true">5.2.</strong> Intro to web development</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/learning-together.html"><strong aria-hidden="true">5.3.</strong> Learning together</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/lesson-topics-and-navigation.html"><strong aria-hidden="true">5.4.</strong> Topics and navigation</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/sign-up-for-replit.html"><strong aria-hidden="true">5.5.</strong> Sign up for replit</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/the-debugging-mindset.html"><strong aria-hidden="true">5.6.</strong> The debugging mindset</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/wrap-up.html"><strong aria-hidden="true">5.7.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing.html"><strong aria-hidden="true">6.</strong> Publishing and sharing</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/domains-and-hosting.html"><strong aria-hidden="true">6.1.</strong> Domains and hosting</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/how-the-internet-works-again.html"><strong aria-hidden="true">6.2.</strong> How the internet works again</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/practice.html"><strong aria-hidden="true">6.3.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/project.html"><strong aria-hidden="true">6.4.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/publishing-your-site.html"><strong aria-hidden="true">6.5.</strong> Publishing your site</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/sharing-your-work.html"><strong aria-hidden="true">6.6.</strong> Sharing your work</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/wrap-up.html"><strong aria-hidden="true">6.7.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/try-kibo-onboarding.html"><strong aria-hidden="true">7.</strong> Try kibo onboarding</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design.html"><strong aria-hidden="true">8.</strong> Web design</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/colors.html"><strong aria-hidden="true">8.1.</strong> Colors</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/layout.html"><strong aria-hidden="true">8.2.</strong> Layout</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/positioning.html"><strong aria-hidden="true">8.3.</strong> Positioning</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/practice.html"><strong aria-hidden="true">8.4.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/project.html"><strong aria-hidden="true">8.5.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/styling-text.html"><strong aria-hidden="true">8.6.</strong> Styling text</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/the-box-model.html"><strong aria-hidden="true">8.7.</strong> The box model</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/what-is-web-design.html"><strong aria-hidden="true">8.8.</strong> What is web design</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/wrap-up.html"><strong aria-hidden="true">8.9.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/wrapping-up-final-steps-for-web-foundations.html"><strong aria-hidden="true">9.</strong> Wrapping up final steps for web foundations</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Web Foundation - TK6</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="intro-to-web-development"><a class="header" href="#intro-to-web-development">Intro to web development</a></h1>
+<p><em>Estimated Time: 30 minutes</em></p>
+<hr />
+<p>In this section, you’ll learn the basics of HTML, CSS, and JavaScript.</p>
+<aside>
+<p>⚠️ You’ll see all this material again in Week 1 — you don’t need to memorize it now. Think of it as a preview of what the course will be like. You’ll get to apply what you learn in the DevTools Scavenger Hunt next.</p>
+</aside>
+<h1 id="web-development"><a class="header" href="#web-development">Web Development</a></h1>
+<p>This course about how to build web pages.</p>
+<p><strong>Web Development</strong> is everything that’s involved in building websites. Websites as different as Youtube, Wikipedia, Twitter, and Google all use the same building blocks under the hood. Under the hood, all of those websites and each of those features use <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>.</p>
+<p>All the familiar features like text, images, colors, input boxes, forms, and videos are made out of these technologies. There’s some features like chat or purchases that require learning more than what we’ll cover, but everything you see on the web is based on these foundational languages.</p>
+<p>In this course, you’ll learn the basics of building websites with HTML, CSS, and JavaScript.</p>
+<h2 id="html-css-and-javascript"><a class="header" href="#html-css-and-javascript">HTML, CSS, and JavaScript</a></h2>
+<p>Web pages are built using different technologies. The most basic and fundamental ones are HTML, JavaScript, and CSS.</p>
+<p>Roughly speaking,</p>
+<ul>
+<li><strong>HTML</strong> is for content</li>
+<li><strong>CSS</strong> is for styles</li>
+<li><strong>JavaScript</strong> is for interactions</li>
+</ul>
+<p>These three languages come together to make up a website. Today, we’re just going to focus on HTML and CSS.</p>
+<h1 id="html"><a class="header" href="#html">HTML</a></h1>
+<p>HTML makes up the content and structure of the webpage. It’s what a page is made of.</p>
+<p>Here’s an example. On the left is a snippet of HTML. On the right is that same snippet, as a webpage.</p>
+<pre><code class="language-html">&lt;p&gt;
+	This is a paragraph. It has an 
+	&lt;a href=&quot;https://example.com&quot;&gt;
+		Example Link
+	&lt;/a&gt; 
+	inside the paragraph.
+&lt;/p&gt;
+&lt;img src=&quot;valley-waterfall.png&quot; alt=&quot;this is an example image&quot; /&gt;
+</code></pre>
+<p>This is a paragraph. It has an <a href="http://example.com">Example Link</a> inside the paragraph.</p>
+<p><img src="/web-foundations-april-2022/publishing-and-sharing/domains-and-hosting/untitled.png" alt="Untitled" /></p>
+<h2 id="html-elements"><a class="header" href="#html-elements">HTML Elements</a></h2>
+<p>HTML is made of text you can type on your keyboard. In addition to normal words, there are special words in angle brackets, like <code>&lt;p&gt;</code>, <code>&lt;a&gt;</code>,  and <code>&lt;img&gt;</code> that add structure to the content.</p>
+<p>The building blocks of HTML are called <strong>elements.</strong> A webpage is made up of elements.</p>
+<ul>
+<li>Elements have different <strong>types</strong></li>
+<li>Elements can <strong>nest</strong> inside each other</li>
+<li>Elements can have <strong>attributes</strong></li>
+</ul>
+<h2 id="types-and-tags"><a class="header" href="#types-and-tags"><strong>Types and Tags</strong></a></h2>
+<p>There are lots of types of elements. In the snippet above, the elements are:</p>
+<ul>
+<li><code>&lt;p&gt;</code> for paragraph</li>
+<li><code>&lt;a&gt;</code> which stands for ‘anchor’, but means link</li>
+<li><code>&lt;img&gt;</code> for images</li>
+</ul>
+<p>The syntax that looks like  <code>&lt;some name&gt;</code> is called a <strong>tag</strong>*.* It says what kind of element it is. </p>
+<p>Elements usually have two tags: an opening tag, and a closing tag. They say where the element starts and where it stops.</p>
+<pre><code class="language-html">&lt;p&gt;Opening first, then closing&lt;/p&gt;
+</code></pre>
+<ul>
+<li>The opening tag is <code>&lt;p&gt;</code></li>
+<li>The closing tag is <code>&lt;/p&gt;</code>, with a forward slash <code>/</code> before the <code>p</code>.</li>
+</ul>
+<p>There are <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">many many elements</a> in addition to these three. You’ll learn about 20 to 30 elements in the course, and you don’t need to memorize any of them today. You can always look them up if you forget.</p>
+<h2 id="nesting"><a class="header" href="#nesting"><strong>Nesting</strong></a></h2>
+<p>HTML elements can go inside of each other. Everything that’s in between the opening tag and the closing tag is ‘inside’ an element. It can be text, like the paragraph above, or other HTML elements, or both!</p>
+<pre><code class="language-html">&lt;div&gt;  &lt;!-- Outer Element --&gt;
+	&lt;p&gt;  &lt;!-- Inner Element --&gt;
+		some text
+	&lt;/p&gt;  
+&lt;/div&gt;
+</code></pre>
+<aside>
+<p>💬 <strong>HTML Comments</strong> won’t show up on the page.</p>
+<pre><code class="language-html">&lt;!-- This is a comment, so it's ignored --&gt;
+</code></pre>
+<p>We use comments to inform you about the code, like in the example above.</p>
+</aside>
+<h2 id="attributes"><a class="header" href="#attributes"><strong>Attributes</strong></a></h2>
+<p>HTML elements can also tell the browser more information about themselves. For instance, an <code>&lt;img&gt;</code> tag can tell the browser where to find the actual image, and an <code>&lt;a&gt;</code> tag can tell where to link to.</p>
+<p>This kind of information goes in an element’s <strong>attributes.</strong> So attributes provide more information about how an element should work.</p>
+<p>Here’s some examples:</p>
+<ul>
+<li>the <code>src</code> (source) of an <code>&lt;img&gt;</code> (image) element tells the browser where to go to find the actual image to put there:</li>
+</ul>
+<pre><code class="language-html">&lt;img src=&quot;valley-waterfall.png&quot; /&gt;
+</code></pre>
+<ul>
+<li>the <code>href</code> (hypertext reference) of an anchor tag (<code>&lt;a&gt;</code>) tells the browser where the link should go when you click it.</li>
+</ul>
+<pre><code class="language-html">&lt;a href=&quot;https://example.com&quot;&gt;The text that shows up&lt;/a&gt;
+</code></pre>
+<ul>
+<li>the <code>class</code> attribute of any element helps identify it as part of a group. It’s really useful for styling and adding interactivity.</li>
+</ul>
+<pre><code class="language-html">&lt;p class=&quot;nice&quot;&gt;Hello world!&lt;/p&gt;
+</code></pre>
+<p>Here’s an image summarizing the parts of an HTML element:</p>
+<p><img src="/web-foundations-april-2022/publishing-and-sharing/domains-and-hosting/untitled-1.png" alt="Untitled" /></p>
+<h1 id="css"><a class="header" href="#css">CSS</a></h1>
+<p>CSS controls the appearance of HTML elements.</p>
+<p>CSS is made of <strong>rules</strong> that look like this:</p>
+<pre><code class="language-css">p {
+	color: red;
+}
+</code></pre>
+<p>This CSS sets the color of the text within paragraphs to red.</p>
+<p>Here’s the result:</p>
+<p><img src="/web-foundations-april-2022/learning-with-kibo/intro-to-web-development/bcdf355c-419c-4670-a99d-d70d1d5c78ab-655-0000eda4fbd29f61.png" alt="BCDF355C-419C-4670-A99D-D70D1D5C78AB-655-0000EDA4FBD29F61.png" /></p>
+<p>(Here’s the HTML)</p>
+<pre><code class="language-html">&lt;p&gt;This is a paragraph. It has an &lt;a href=&quot;https://example.com&quot;&gt;Example Link&lt;/a&gt; inside the paragraph. &lt;/p&gt;
+</code></pre>
+<h2 id="try-it-change-the-color"><a class="header" href="#try-it-change-the-color">Try It: Change the Color</a></h2>
+<aside>
+<p>👉🏿 Your turn! In this Replit, you can practice changing what shows up on the page by editing the CSS file. </p>
+<p>Set a timer for <strong>10 minutes</strong> to experiment with HTML and CSS in Replit.</p>
+<ul>
+<li>Try changing the text in the paragraph.</li>
+<li>Try changing the CSS so that the color is blue.</li>
+</ul>
+</aside>
+<p><em>If the embed below doesn’t load, use this link to open the page directly: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/Try-It-Change-the-Color" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div></em></p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/Try-It-Change-the-Color" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<h2 id="css-syntax"><a class="header" href="#css-syntax">CSS Syntax</a></h2>
+<p>Each rule has a <strong>selector</strong> and a list of <strong>declarations.</strong> The selector says which elements should get these styles.</p>
+<blockquote>
+<p>In the example, the selector is <code>p</code>, so all the <code>&lt;p&gt;</code> elements should get the styles.</p>
+</blockquote>
+<p>A declaration is a <strong>property</strong> and a <strong>value.</strong></p>
+<blockquote>
+<p>In the example, the property is <code>color</code> and the value is <code>red</code></p>
+</blockquote>
+<p><img src="/web-foundations-april-2022/publishing-and-sharing/domains-and-hosting/untitled-2.png" alt="Untitled" /></p>
+<p>There’s a ton more to learn about how the selectors work, what properties are available, and what values are available. We’ll cover some in the course, but not everything!</p>
+<h2 id="browser-developer-tools"><a class="header" href="#browser-developer-tools">Browser Developer Tools</a></h2>
+<p>The other tools we’ll use frequently in the course are the Browser Developer Tools (also called the “DevTools”, the “Inspector”, or the “Console”).</p>
+<aside>
+<p>🎥 Here’s a quick video of how to open and use the DevTools</p>
+</aside>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/0e80e8d156ae4cb6a417d7591f88e04b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<aside>
+<p>👍🏿 The DevTools are awesome for seeing how a webpage is working, and testing out code.</p>
+<blockquote>
+<p><strong>It’s impossible to do any permanent damage to a website from the DevTools.</strong></p>
+</blockquote>
+<p>None of the changes you make in the DevTools are permanent. It’s a safe space to experiment. If something goes wrong, you can refresh 🔁 the page and get back to the original.</p>
+</aside>
+<p>You can read more on MDN about <a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools">What the DevTools are</a> and how to use them to <a href="https://developer.chrome.com/docs/devtools/dom/">View and change the HTML Elements</a> and <a href="https://developer.chrome.com/docs/devtools/css/">CSS Properties and Values</a>.</p>
+<h2 id="in-summary"><a class="header" href="#in-summary">In summary</a></h2>
+<ul>
+<li>
+<p>Websites are made of HTML, CSS, and JavaScript</p>
+</li>
+<li>
+<p>HTML has elements that look like</p>
+<pre><code class="language-css">&lt;a href=&quot;https://example.com&quot;&gt;A Link Example&lt;/a&gt;
+</code></pre>
+</li>
+<li>
+<p>CSS has rules that control the appearance of selected elements, like</p>
+<pre><code class="language-css">p {
+  color: red;
+}
+</code></pre>
+</li>
+<li>
+<p>You’ll use Replit and the DevTools as your toolbox in the course</p>
+</li>
+</ul>
+<p>Next, you’ll use the DevTools to find hidden messages in the Scavenger Hunt.</p>
+<hr />
+<aside>
+<p><img src="/web-foundations-april-2022/learning-with-kibo/man-in-hike.png" alt="man-in-hike.png" width="40px" /> Next up: <a href="/web-foundations-april-2022/learning-with-kibo/assignment-scavenger-hunt.html">Assignment - Scavenger Hunt</a></p>
+</aside>
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../web-foundations-april-2022/learning-with-kibo/assignment-scavenger-hunt.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="../../web-foundations-april-2022/learning-with-kibo/learning-together.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../web-foundations-april-2022/learning-with-kibo/assignment-scavenger-hunt.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="../../web-foundations-april-2022/learning-with-kibo/learning-together.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

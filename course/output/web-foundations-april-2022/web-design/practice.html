@@ -1,0 +1,230 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Practice - Web Foundation - TK6</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../../web-foundations-april-2022.html">Web foundations april 2022</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction.html"><strong aria-hidden="true">1.</strong> Action and interaction</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/final-project-preparation.html"><strong aria-hidden="true">1.1.</strong> Final project preparation</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/introduction-to-javascript.html"><strong aria-hidden="true">1.2.</strong> Introduction to javascript</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/multimedia-html-elements.html"><strong aria-hidden="true">1.3.</strong> Multimedia html elements</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/practice.html"><strong aria-hidden="true">1.4.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/project.html"><strong aria-hidden="true">1.5.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/responding-to-events-in-javascript.html"><strong aria-hidden="true">1.6.</strong> Responding to events in javascript</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/wrap-up.html"><strong aria-hidden="true">1.7.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/community-orientation-april-25th-2022.html"><strong aria-hidden="true">2.</strong> Community orientation april 25th 2022</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/final-project-instructions.html"><strong aria-hidden="true">3.</strong> Final project instructions</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations.html"><strong aria-hidden="true">4.</strong> Foundations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/a-taste-of-javascript.html"><strong aria-hidden="true">4.1.</strong> A taste of javascript</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/bonus-more-html-elements.html"><strong aria-hidden="true">4.2.</strong> Bonus more html elements</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/css-selectors-and-properties.html"><strong aria-hidden="true">4.3.</strong> Css selectors and properties</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/html-elements-and-attributes.html"><strong aria-hidden="true">4.4.</strong> Html elements and attributes</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/practice.html"><strong aria-hidden="true">4.5.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/program-overview.html"><strong aria-hidden="true">4.6.</strong> Program overview</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/project.html"><strong aria-hidden="true">4.7.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/websites-and-the-internet.html"><strong aria-hidden="true">4.8.</strong> Websites and the internet</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/wrap-up.html"><strong aria-hidden="true">4.9.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo.html"><strong aria-hidden="true">5.</strong> Learning with kibo</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/assignment-scavenger-hunt.html"><strong aria-hidden="true">5.1.</strong> Assignment scavenger hunt</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/intro-to-web-development.html"><strong aria-hidden="true">5.2.</strong> Intro to web development</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/learning-together.html"><strong aria-hidden="true">5.3.</strong> Learning together</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/lesson-topics-and-navigation.html"><strong aria-hidden="true">5.4.</strong> Topics and navigation</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/sign-up-for-replit.html"><strong aria-hidden="true">5.5.</strong> Sign up for replit</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/the-debugging-mindset.html"><strong aria-hidden="true">5.6.</strong> The debugging mindset</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/wrap-up.html"><strong aria-hidden="true">5.7.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing.html"><strong aria-hidden="true">6.</strong> Publishing and sharing</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/domains-and-hosting.html"><strong aria-hidden="true">6.1.</strong> Domains and hosting</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/how-the-internet-works-again.html"><strong aria-hidden="true">6.2.</strong> How the internet works again</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/practice.html"><strong aria-hidden="true">6.3.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/project.html"><strong aria-hidden="true">6.4.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/publishing-your-site.html"><strong aria-hidden="true">6.5.</strong> Publishing your site</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/sharing-your-work.html"><strong aria-hidden="true">6.6.</strong> Sharing your work</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/wrap-up.html"><strong aria-hidden="true">6.7.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/try-kibo-onboarding.html"><strong aria-hidden="true">7.</strong> Try kibo onboarding</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design.html"><strong aria-hidden="true">8.</strong> Web design</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/colors.html"><strong aria-hidden="true">8.1.</strong> Colors</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/layout.html"><strong aria-hidden="true">8.2.</strong> Layout</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/positioning.html"><strong aria-hidden="true">8.3.</strong> Positioning</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/practice.html" class="active"><strong aria-hidden="true">8.4.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/project.html"><strong aria-hidden="true">8.5.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/styling-text.html"><strong aria-hidden="true">8.6.</strong> Styling text</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/the-box-model.html"><strong aria-hidden="true">8.7.</strong> The box model</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/what-is-web-design.html"><strong aria-hidden="true">8.8.</strong> What is web design</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/wrap-up.html"><strong aria-hidden="true">8.9.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/wrapping-up-final-steps-for-web-foundations.html"><strong aria-hidden="true">9.</strong> Wrapping up final steps for web foundations</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Web Foundation - TK6</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="practice"><a class="header" href="#practice">Practice</a></h1>
+<p><em>Estimated Time: 1 hour</em></p>
+<hr />
+<aside>
+<p>💡 This is your chance to put what you’ve learned into action. Try solving these practice challenges to check that you understand the concepts.</p>
+<p>The solutions to each challenge are available in Replit, and you can view a video of the solution below each challenge. Try to go through the whole challenge without using the solution. </p>
+<p><em>If you can’t do the challenge without looking the solution, it means you don’t understand the material well enough yet. Try the next practice challenge without looking at the solution. If you need more practice challenges, reach out on Discord.</em></p>
+<ul>
+<li><strong>If you get stuck</strong>
+<ol>
+<li>Read the instructions again.</li>
+<li>Remember <strong>G</strong>o <strong>C</strong>limb <strong>K</strong>ibo - first Google, then ask the Community on Discord, then reach out to Kibo instructional team.</li>
+<li>You can click ‘<strong>Submit</strong>’ in Replit to view a solution. Don’t forget to try the solution out in your own code, and submit the project again.</li>
+</ol>
+</li>
+</ul>
+</aside>
+<h2 id="wanted-poster"><a class="header" href="#wanted-poster">Wanted Poster</a></h2>
+<aside>
+<p>🤖 There’s a wanted robot! Use your Web Design skills to help make the poster look awesome.</p>
+<p><strong>Access and submit on Replit here</strong>: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/27-Wanted-Poster" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div></p>
+</aside>
+<h2 id="lay-out-the-recipe-cards"><a class="header" href="#lay-out-the-recipe-cards">Lay out the Recipe Cards</a></h2>
+<aside>
+<p>🍽️ Help fix the layout of the recipe cards on the screen. Practice using flexbox.</p>
+<p><strong>Access and submit on Replit here:</strong> <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/25-Lay-out-the-Recipe-Cards" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div></p>
+</aside>
+<h2 id="style-the-recipe-site"><a class="header" href="#style-the-recipe-site">Style the Recipe Site</a></h2>
+<aside>
+<p>🍲 This week is very food-focused. In this exercise, you’ll bring together different parts of the web design skills you’ve learned together to style a recipe page. Make it beautiful!</p>
+<p><strong>Access and submit on Replit here:</strong> <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/28-Style-the-Recipe-Site" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div></p>
+</aside>
+<hr />
+<aside>
+<p><img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: <a href="/web-foundations-april-2022/web-design/project.html">Project</a></p>
+</aside>
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../web-foundations-april-2022/web-design/positioning.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="../../web-foundations-april-2022/web-design/project.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../web-foundations-april-2022/web-design/positioning.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="../../web-foundations-april-2022/web-design/project.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

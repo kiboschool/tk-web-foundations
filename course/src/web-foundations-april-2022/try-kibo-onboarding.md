@@ -1,4 +1,4 @@
-# Try Kibo Onboarding
+# Try kibo onboarding
 
 ---
 
@@ -7,11 +7,15 @@
 You must attend live class once a week on Zoom. This is one of the most loved parts of the program! You get a chance to solve problems live, and learn with amazing instructors. **Please select the time that works for you below then click the link to register.** 
 
 <aside>
+
+
 📢 You should **only sign up for one class!** If you select a class and it says that “event is sold out”, that class has filled up and you should pick another one.
 
 </aside>
 
 <aside>
+
+
 🗓️ Each class takes place on Thursday, and is 1 hour and 30 minutes long. The class dates are **Thursday April 28th**, **Thursday May 5th**, **Thursday May 12th**, and **Thursday May 19th**.
 
 </aside>

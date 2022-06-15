@@ -1,22 +1,28 @@
-# Community Orientation (April 25th, 2022)
+# Community orientation april 25th 2022
 
 **Spend the next hour completing the challenges with your squad.**
 
 ## Before you start!
 
 <aside>
+
+
 ⚠️ **Make sure you have signed into Orientation**
 If not, fill out this form so that we can confirm that you attended: [**https://bit.ly/3JMVajH**](https://bit.ly/3JMVajH)
 
 </aside>
 
 <aside>
+
+
 ⚠️ **Make sure you have signed up for Discord.** 
 If not, click this link and follow the instructions to join the Kibo School Discord server: [**https://discord.gg/9Vqam4Ub**](https://discord.gg/9Vqam4Ub)
 
 </aside>
 
 <aside>
+
+
 ⚠️ **Make sure you have updated your profile name in Discord.** 
 If not, update your profile name to your first name and last name initial (e.g. Emmy O, Ope B)
 
@@ -73,12 +79,12 @@ To see the list of your squad members, go to your squad text channel and look at
 - Select one person to [**fork this repl**](https://replit.com/@kibocurriculum/Orientation-Squad-About-Page#index.html)
     - **Video: How to fork a Repl** *(click arrow to open toggle)*
         
-        [https://www.loom.com/share/c92d654566ca4e0292e452f1f946d34a](https://www.loom.com/share/c92d654566ca4e0292e452f1f946d34a)
+        <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/c92d654566ca4e0292e452f1f946d34a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
         
 - Share link to collaborate on the Repl with your squad
     - **Video:  Create an invite link to collaborate in Replit**
         
-        [https://www.loom.com/share/596b765c916c4c779e0c4aa66dfea047](https://www.loom.com/share/596b765c916c4c779e0c4aa66dfea047)
+        <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/596b765c916c4c779e0c4aa66dfea047" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
         
 - Work together as a squad to add all the information into the Repl
     - Follow the instructions in `instructions.md`
@@ -108,16 +114,20 @@ To see the list of your squad members, go to your squad text channel and look at
 **Instructions:** Use the #help-web channel in Discord to start a question thread
 
 <aside>
-<img src="instruction.png" alt="instruction.png" width="40px" /> **Watch the clip below to learn how to create a thread in Discord.**
+
+
+<img src="/web-foundations-april-2022/instruction.png" alt="instruction.png" width="40px" /> **Watch the clip below to learn how to create a thread in Discord.**
 
 </aside>
 
-[https://youtu.be/0nCUVGvqeEg](https://youtu.be/0nCUVGvqeEg)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/0nCUVGvqeEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 1. Open the [#help-web](https://discord.com/channels/866676763450933258/965767198197043220) channel in Discord
 2. Post one question you have about web development **OR** respond to someone else’s question **in their thread**.
 
 <aside>
+
+
 ⚠️ Be sure to post your responses **in the thread.** Do not post responses as messages in the channel. It would get too confusing!
 
 </aside>
@@ -132,7 +142,7 @@ To see the list of your squad members, go to your squad text channel and look at
 
 - Open the toggle to submit your feedback of the Orientation.
     
-    [https://forms.gle/u7zKXMLQJ8qKiXLQ6](https://forms.gle/u7zKXMLQJ8qKiXLQ6)
+    <div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc8cdEWu7U7bkfWgtJb6nJthj3mSrZ_lstbzDqSyPGU-znSCw/viewform?usp=send_form&embed=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
     
 
 **Completion criteria:** All squad members have submitted their feedback of Orientation. ****
@@ -140,6 +150,8 @@ To see the list of your squad members, go to your squad text channel and look at
 ---
 
 <aside>
+
+
 🥳 **You Did It!** You’re officially done with orientation and all set to begin class. If you want to keep exploring Discord and hanging out, check out the Music Lounge, the [#random](https://discord.com/channels/866676763450933258/936572023319195658) channel, or the [#games](https://discord.com/channels/866676763450933258/963454071828774963) channel. Or get started on the Week 1 lessons.
 
 </aside>
@@ -155,8 +167,10 @@ To see the list of your squad members, go to your squad text channel and look at
 **Instructions:** Go to the Music Lounge voice channel in Discord, and use the [#music-request](https://discord.com/channels/866676763450933258/888503375233171487) channel to queue up a song to play. Feel free to hang out and hear what else is playing in the Music Lounge.
 
 <aside>
-<img src="instruction.png" alt="instruction.png" width="40px" /> **Watch the clip below to learn how to request music for the Music Lounge. Details of the process are also posted as a pinned message in the** [#music-request](https://discord.com/channels/866676763450933258/888503375233171487) **channel.**
+
+
+<img src="/web-foundations-april-2022/instruction.png" alt="instruction.png" width="40px" /> **Watch the clip below to learn how to request music for the Music Lounge. Details of the process are also posted as a pinned message in the** [#music-request](https://discord.com/channels/866676763450933258/888503375233171487) **channel.**
 
 </aside>
 
-[https://youtu.be/po5F1udSA6w](https://youtu.be/po5F1udSA6w)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/po5F1udSA6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

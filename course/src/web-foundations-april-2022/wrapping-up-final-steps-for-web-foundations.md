@@ -1,4 +1,4 @@
-# Wrapping Up - Final Steps for Web Foundations
+# Wrapping up final steps for web foundations
 
 ---
 
@@ -13,6 +13,8 @@ You have worked really hard and we want to recognize that work with a certificat
 - Complete the **[Web Foundation Program Feedback Survey](https://forms.gle/m9HBvgi2q44QH4kH9)**
 
 <aside>
+
+
 ⚠️ We updated the final requirements:
 
 - The week 4 project is no longer required - it’s optional to publish one of your sites.
@@ -24,12 +26,16 @@ You have worked really hard and we want to recognize that work with a certificat
 ## Share your experience
 
 <aside>
+
+
 🎥 **Record a video testimonial**
 [Record a video about your experience.](https://vocalvideo.com/c/kibo-school-azsvoe5e?utm_medium=email&_hsmi=203945747&_hsenc=p2ANqtz-8Zc39DBpei1KIp0G2nM2aDUmoIQuicqXtaPFTkQA-j4MQB70LTWZ0kA8Cew5uJkt_D3Gv7Pwwupqya4x92021Q2-NY0uH-R4RId2QoWISste4PLMk)  We would love to highlight your story to other young Africans just like you✨
 
 </aside>
 
 <aside>
+
+
 🖋️ **Give us permission**
 We love sharing alumni stories on social media, and need your permission to do so. Grant us permission by filling out **[this release form](https://kibo-school.typeform.com/to/LJ9tE4LK)**
 
@@ -51,7 +57,7 @@ We love sharing alumni stories on social media, and need your permission to do s
 
 This experience has been better by the efforts of so many people, including your peers. Take a minute to write and read notes of gratitude: 
 
-[https://padlet.com/curriculumpad/l6qf2kmf3xb3rs3k](https://padlet.com/curriculumpad/l6qf2kmf3xb3rs3k)
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/l6qf2kmf3xb3rs3k" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
 

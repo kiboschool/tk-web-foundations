@@ -1,0 +1,313 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Colors - Web Foundation - TK6</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../../web-foundations-april-2022.html">Web foundations april 2022</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction.html"><strong aria-hidden="true">1.</strong> Action and interaction</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/final-project-preparation.html"><strong aria-hidden="true">1.1.</strong> Final project preparation</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/introduction-to-javascript.html"><strong aria-hidden="true">1.2.</strong> Introduction to javascript</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/multimedia-html-elements.html"><strong aria-hidden="true">1.3.</strong> Multimedia html elements</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/practice.html"><strong aria-hidden="true">1.4.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/project.html"><strong aria-hidden="true">1.5.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/responding-to-events-in-javascript.html"><strong aria-hidden="true">1.6.</strong> Responding to events in javascript</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/action-and-interaction/wrap-up.html"><strong aria-hidden="true">1.7.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/community-orientation-april-25th-2022.html"><strong aria-hidden="true">2.</strong> Community orientation april 25th 2022</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/final-project-instructions.html"><strong aria-hidden="true">3.</strong> Final project instructions</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations.html"><strong aria-hidden="true">4.</strong> Foundations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/a-taste-of-javascript.html"><strong aria-hidden="true">4.1.</strong> A taste of javascript</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/bonus-more-html-elements.html"><strong aria-hidden="true">4.2.</strong> Bonus more html elements</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/css-selectors-and-properties.html"><strong aria-hidden="true">4.3.</strong> Css selectors and properties</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/html-elements-and-attributes.html"><strong aria-hidden="true">4.4.</strong> Html elements and attributes</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/practice.html"><strong aria-hidden="true">4.5.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/program-overview.html"><strong aria-hidden="true">4.6.</strong> Program overview</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/project.html"><strong aria-hidden="true">4.7.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/websites-and-the-internet.html"><strong aria-hidden="true">4.8.</strong> Websites and the internet</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/foundations/wrap-up.html"><strong aria-hidden="true">4.9.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo.html"><strong aria-hidden="true">5.</strong> Learning with kibo</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/assignment-scavenger-hunt.html"><strong aria-hidden="true">5.1.</strong> Assignment scavenger hunt</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/intro-to-web-development.html"><strong aria-hidden="true">5.2.</strong> Intro to web development</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/learning-together.html"><strong aria-hidden="true">5.3.</strong> Learning together</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/lesson-topics-and-navigation.html"><strong aria-hidden="true">5.4.</strong> Topics and navigation</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/sign-up-for-replit.html"><strong aria-hidden="true">5.5.</strong> Sign up for replit</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/the-debugging-mindset.html"><strong aria-hidden="true">5.6.</strong> The debugging mindset</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/learning-with-kibo/wrap-up.html"><strong aria-hidden="true">5.7.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing.html"><strong aria-hidden="true">6.</strong> Publishing and sharing</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/domains-and-hosting.html"><strong aria-hidden="true">6.1.</strong> Domains and hosting</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/how-the-internet-works-again.html"><strong aria-hidden="true">6.2.</strong> How the internet works again</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/practice.html"><strong aria-hidden="true">6.3.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/project.html"><strong aria-hidden="true">6.4.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/publishing-your-site.html"><strong aria-hidden="true">6.5.</strong> Publishing your site</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/sharing-your-work.html"><strong aria-hidden="true">6.6.</strong> Sharing your work</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/publishing-and-sharing/wrap-up.html"><strong aria-hidden="true">6.7.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/try-kibo-onboarding.html"><strong aria-hidden="true">7.</strong> Try kibo onboarding</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design.html"><strong aria-hidden="true">8.</strong> Web design</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/colors.html" class="active"><strong aria-hidden="true">8.1.</strong> Colors</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/layout.html"><strong aria-hidden="true">8.2.</strong> Layout</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/positioning.html"><strong aria-hidden="true">8.3.</strong> Positioning</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/practice.html"><strong aria-hidden="true">8.4.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/project.html"><strong aria-hidden="true">8.5.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/styling-text.html"><strong aria-hidden="true">8.6.</strong> Styling text</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/the-box-model.html"><strong aria-hidden="true">8.7.</strong> The box model</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/what-is-web-design.html"><strong aria-hidden="true">8.8.</strong> What is web design</a></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/web-design/wrap-up.html"><strong aria-hidden="true">8.9.</strong> Wrap up</a></li></ol></li><li class="chapter-item expanded "><a href="../../web-foundations-april-2022/wrapping-up-final-steps-for-web-foundations.html"><strong aria-hidden="true">9.</strong> Wrapping up final steps for web foundations</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Web Foundation - TK6</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="colors"><a class="header" href="#colors">Colors</a></h1>
+<p><em>Estimated Time: 30 minutes</em></p>
+<hr />
+<h1 id="colors-in-css"><a class="header" href="#colors-in-css">Colors in CSS</a></h1>
+<p>CSS has lots of properties that deal with color. The primary ones you’ll deal with are </p>
+<ul>
+<li>
+<p><code>color</code> for text color.</p>
+</li>
+<li>
+<p><code>background-color</code> for the background color of any element.</p>
+</li>
+<li>
+<p><code>border-color</code> for the color of a border.</p>
+</li>
+<li>
+<p><strong>Further Exploration</strong>: More color properties</p>
+<p>There are tons more CSS properties that use colors. Try searching MDN for any of these that interest you:</p>
+<ul>
+<li><code>box-shadow</code></li>
+<li><code>outline-color</code></li>
+<li><code>text-decoration-color</code></li>
+<li><code>text-emphasis-color</code></li>
+<li><code>text-shadow</code></li>
+<li><code>caret-color</code></li>
+<li><code>column-rule-color</code></li>
+</ul>
+</li>
+</ul>
+<h2 id="css-color-values"><a class="header" href="#css-color-values">CSS Color Values</a></h2>
+<p>In our examples, we’ve mostly used named color values, like <code>mediumorchid</code> and <code>darkslateblue</code> and <code>hotpink</code>. You may have also seen hex color values, like <code>#483d8b</code>, which specify the red, green, and blue color values for a color.</p>
+<p>There are more ways to specify colors than named values and hex values!</p>
+<p>As usual, MDN has your guide. The page on <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/color_value">color values</a> explains lots of other ways of specifying color values. </p>
+<h1 id="choosing-good-colors"><a class="header" href="#choosing-good-colors">Choosing Good Colors</a></h1>
+<p>Choosing bad colors makes a site look amateurish. If you don’t have enough <strong>contrast</strong>, the text won’t be readable.</p>
+<p>In the lesson on Styling Text, we said</p>
+<blockquote>
+<p>Your primary goal should be to create <em>contrast</em> between the background color and the text color. Dark text on a dark background is hard to read. So is light text on a light background.</p>
+</blockquote>
+<p>Usually, the best choice is black or dark gray text, on a white or near-white background.</p>
+<blockquote>
+</blockquote>
+<p>This is still true.</p>
+<h3 id="what-colors-do-good-sites-have"><a class="header" href="#what-colors-do-good-sites-have">What colors do good sites have?</a></h3>
+<p>When designers create a color palette, they usually pick:</p>
+<ul>
+<li>a <strong>background</strong> color (usually an off-white, like <code>#eeeeee</code>).</li>
+<li>a <strong>body font color</strong> (usually a dark gray, like <code>#222222</code>).</li>
+<li>an <strong>Accent</strong> color, for links and highlights.</li>
+<li>a <strong>Theme</strong> color, or several related <strong>theme colors,</strong> for background colors for the header and footer.</li>
+</ul>
+<aside>
+<p>🎨 <strong>Colors for <a href="https://kibo.school">kibo.school</a></strong></p>
+<p>Kibo has a colorful homepage! But, if you actually count up the colors on the page, there aren’t that many. </p>
+<ol>
+<li>Try to count up all the colors on the page. How many are there?</li>
+<li>What roles do the colors play? 
+<ul>
+<li>What color is the body text?</li>
+<li>What color is the background?</li>
+<li>What’s the theme color?</li>
+<li>What’s the accent color?</li>
+</ul>
+</li>
+</ol>
+</aside>
+<h1 id="a-color-palette"><a class="header" href="#a-color-palette">A color palette</a></h1>
+<p>Even on a site that looks very colorful, there’s only a handful of colors.</p>
+<p>Building a <strong>color palette</strong> means choosing just a few colors to use on your site.</p>
+<aside>
+<p>🎨 <strong>Explore</strong>: Build a palette on Coolors</p>
+<p><a href="https://coolors.co/generate">Coolors</a> is a palette building tool. Try choosing some colors that work nicely together.</p>
+<ul>
+<li>Pressing the space bar shuffles the colors</li>
+<li>You can ‘lock’ a color you like by clicking the lock icon</li>
+</ul>
+</aside>
+<h2 id="css-variables"><a class="header" href="#css-variables"><strong>CSS Variables</strong></a></h2>
+<p>If you’re going to use the same value in lots of places in your CSS code, there’s a really useful tool: <strong>CSS variables</strong>. Here’s how they work.</p>
+<pre><code class="language-css">html {
+  --theme: #D231A0;
+}
+
+a:hover {
+  color: var(--theme);
+  text-decoration-color: var(--theme);
+}
+</code></pre>
+<p>This snippet creates a CSS variable called <code>--theme</code>, then uses it as the color for the text and the underline when a link is hovered. When the browser sees <code>var(--theme)</code>, it looks up the variable <code>--theme</code> and uses that value, <code>#D231A0</code>.</p>
+<p>You can use CSS variables for any values — colors, sizes, numbers, percentages, or any other property values. CSS variables are really useful for color palettes, since it’s common to use the same colors again and again.</p>
+<h2 id="related-colors"><a class="header" href="#related-colors">Related colors</a></h2>
+<p>If you choose colors that look “related”, the site will look more natural.</p>
+<p>How can colors be related? In this course, we won’t get too deep into color theory. Instead, here’s a couple activities that might help you think about choosing a family of related colors.</p>
+<aside>
+<p>📈 <strong>Explore</strong>: Trending Palettes</p>
+<p>The Coolors site also lists <a href="https://coolors.co/palettes/trending">Trending Palettes</a>. Browse those collections.</p>
+<ul>
+<li>What connects those colors?</li>
+<li>Why are those palettes popular?</li>
+<li>What would happen if you changed one of the colors in a palette? How would the palette be different?</li>
+</ul>
+</aside>
+<h2 id="practice-color-method-game"><a class="header" href="#practice-color-method-game">Practice: Color Method Game</a></h2>
+<aside>
+<p>👀 Just like you practiced “seeing” visual design issues in the Can’t Unsee game, you can stand to learn more about colors.</p>
+<p><a href="https://color.method.ac/">Color Method</a> is a color recognition game that helps you practice matching colors.</p>
+<p>Try to match the color in the smaller circle by picking the same color on the wheel. The levels get harder and more interesting as you go!</p>
+</aside>
+<h2 id="practice-apply-a-palette"><a class="header" href="#practice-apply-a-palette">Practice: Apply a palette</a></h2>
+<aside>
+<p>🍲 Practice choosing a palette and applying it to a real page.</p>
+<p>This recipe page has most of the styling done already, but it needs color.</p>
+<p><strong>Access the repl here</strong>: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/26-Apply-a-Palette" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> or below</p>
+</aside>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/26-Apply-a-Palette" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<hr />
+<aside>
+<p><img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: <a href="/web-foundations-april-2022/web-design/practice.html">Practice</a></p>
+</aside>
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../web-foundations-april-2022/web-design.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="../../web-foundations-april-2022/web-design/layout.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../web-foundations-april-2022/web-design.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="../../web-foundations-april-2022/web-design/layout.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>
