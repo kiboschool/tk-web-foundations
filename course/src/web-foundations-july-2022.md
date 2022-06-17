@@ -16,7 +16,7 @@
 
 ## Lessons
 
-[Community Orientation (July 12th, 2022)](/web-foundations-july-2022/community-orientation-july-2022.md)
+[Community Orientation (July 12th, 2022)](web-foundations-july-2022/community-orientation-july-2022.md)
 
 ## Program Schedule
 
