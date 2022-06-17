@@ -1,4 +1,4 @@
-# Community Orientation (12th July, 2022)
+# Community orientation
 
 **Spend the next hour completing the challenges with your squad.**
 
@@ -8,7 +8,7 @@
 
 
 ⚠️ **Make sure you have signed into Orientation**
-If not, fill out this form so that we can confirm that you attended: [**https://bit.ly/3JMVajH**](https://docs.google.com/forms/d/e/1FAIpQLSdliZALJN5y1Mytid9Dp-CA0Piqf5W4GaVlkyVZIiCJGLkjJA/viewform)
+If not, fill out this form so that we can confirm that you attended: [**https://bit.ly/3JMVajH**](https://bit.ly/3JMVajH)
 
 </aside>
 
@@ -16,7 +16,7 @@ If not, fill out this form so that we can confirm that you attended: [**https://
 
 
 ⚠️ **Make sure you have signed up for Discord.** 
-If not, click this link and follow the instructions to join the Kibo School Discord server: [**Discord signup**](https://discord.gg/duWtCykQ)
+If not, click this link and follow the instructions to join the Kibo School Discord server: [**https://discord.gg/9Vqam4Ub**](https://discord.gg/9Vqam4Ub)
 
 </aside>
 
@@ -39,7 +39,8 @@ If not, update your profile name to your first name and last name initial (e.g. 
 **Let’s see which squad can finish all the challenges the quickest! 🏁**
 
 ## Ready?
-<img src="https://media.giphy.com/media/p6qWfRJ4RxltUEmrl9/giphy.gif" alt="Ready gif" width="100%" height="500"/>
+
+![https://media.giphy.com/media/p6qWfRJ4RxltUEmrl9/giphy.gif](https://media.giphy.com/media/p6qWfRJ4RxltUEmrl9/giphy.gif)
 
 ---
 
@@ -49,12 +50,12 @@ The instructors will update this as you complete challenges. Whenever your squad
 
 |  | Challenge 0: All Onboard | Challenge 1:  About Squad Page | Challenge 2: Thread It | Challenge 3: Feedback is a Gift |
 | --- | --- | --- | --- | --- |
-|    Squad 12    |  |  |  |  |
-| Squad 13 |  |  |  |  |
-| Squad 14 |  |  |  |  |
-| Squad 15 |  |  |  |  |
-| Squad 16 |  |  |  |  |
-| Squad 17 |  |  |  |  |
+| Squad 12 | ✅ | ✅ | ✅ | ✅ |
+| Squad 13 | ✅ | ✅ | ✅ | ✅ |
+| Squad 14 | ✅ | ✅ | ✅ | ✅ |
+| Squad 15 | ✅ | ✅ | ✅ | ✅ |
+| Squad 16 | ✅ | ✅ |  |  |
+| Squad 17 | ✅ | ✅ | ✅ | ✅ |
 
 ---
 
@@ -66,7 +67,7 @@ The instructors will update this as you complete challenges. Whenever your squad
 
 To see the list of your squad members, go to your squad text channel and look at the Member List panel on the right of the screen. You will see who is online in your squad. **All squad members will have their names in the colour grey.** 
 
-![Discord squad image](./community-orientation-july-2022/discord_squad.png)
+![Screen Shot 2022-04-23 at 5.03.56 PM.png](/web-foundations-april-2022/community-orientation-april-25th-2022/screen-shot-2022-04-23-at-5.03.56-pm.png)
 
 ---
 
@@ -115,7 +116,7 @@ To see the list of your squad members, go to your squad text channel and look at
 <aside>
 
 
-<img src="instruction.png" alt="instruction.png" width="40px"/> **Watch the clip below to learn how to create a thread in Discord.**
+<img src="/web-foundations-april-2022/instruction.png" alt="instruction.png" width="40px" /> **Watch the clip below to learn how to create a thread in Discord.**
 
 </aside>
 
@@ -137,11 +138,11 @@ To see the list of your squad members, go to your squad text channel and look at
 
 ## Challenge 3: Feedback Is a Gift 🎁
 
-**Instructions:** Once you have completed all the other challenges, submit your feedback of the Orientation session by completing the form below.
+**Instructions:** Once you have completed all the other challenges, submit your feedback of the Orientation session by opening the toggle below, and completing the Google form.
 
-- submit your feedback of the Orientation below.
+- Open the toggle to submit your feedback of the Orientation.
     
-    <div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf5CQ264d_siEnsf0x03TdfeSELCC-Wkg925QoqP-K5vbhKZA/viewform" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+    <div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc8cdEWu7U7bkfWgtJb6nJthj3mSrZ_lstbzDqSyPGU-znSCw/viewform?usp=send_form&embed=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
     
 
 **Completion criteria:** All squad members have submitted their feedback of Orientation. ****
@@ -157,7 +158,7 @@ To see the list of your squad members, go to your squad text channel and look at
 
 ## Who You Are (Word Cloud)
 
-![image of who you are](./community-orientation-july-2022/who_you_are.png)
+![Screenshot 2022-04-25 at 11.31.33 AM.png](/web-foundations-april-2022/community-orientation-april-25th-2022/screenshot-2022-04-25-at-11.31.33-am.png)
 
 ---
 
@@ -168,7 +169,7 @@ To see the list of your squad members, go to your squad text channel and look at
 <aside>
 
 
-<img src="instruction.png" alt="instruction.png" width="40px" /> **Watch the clip below to learn how to request music for the Music Lounge. Details of the process are also posted as a pinned message in the** [#music-request](https://discord.com/channels/866676763450933258/888503375233171487) **channel.**
+<img src="/web-foundations-april-2022/instruction.png" alt="instruction.png" width="40px" /> **Watch the clip below to learn how to request music for the Music Lounge. Details of the process are also posted as a pinned message in the** [#music-request](https://discord.com/channels/866676763450933258/888503375233171487) **channel.**
 
 </aside>
 
