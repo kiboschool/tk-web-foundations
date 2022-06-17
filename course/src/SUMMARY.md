@@ -1,8 +1,8 @@
 # Web Foundations
 
-[Web foundations april 2022](web-foundations-april-2022.md)
+[Web Foundations](web-foundations-july-2022.md)
 
-- [Community orientation april 25th 2022](web-foundations-april-2022/community-orientation-april-25th-2022.md)
+- [Community orientation (July 12th 2022)](web-foundations-july-2022/community-orientation-july-2022.md)
 
 ## Lessons
 
