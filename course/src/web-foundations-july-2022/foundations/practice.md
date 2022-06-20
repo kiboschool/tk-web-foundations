@@ -19,12 +19,14 @@ The solutions to each challenge are available in Replit Try to go through the wh
     3. You can click ‘**Submit**’ in Replit to view a solution. Don’t forget to try the solution out in your own code, and submit the project again.
 </aside>
 
+# 
+
 <aside>
 
 
 🕵🏾 These practice exercises are a good chance to use the **DevTools**.
 
-![9388E0D6-E9A8-4268-9E20-6ADB9D989710-655-0001876578B08A7B.png](/web-foundations-april-2022/foundations/practice/e0d6-e9a8-4268-9e20-6adb9d989710-655-0001876578b08a7b.png)
+![9388E0D6-E9A8-4268-9E20-6ADB9D989710-655-0001876578B08A7B.png](practice/e0d6-e9a8-4268-9e20-6adb9d989710-655-0001876578b08a7b.png)
 
 **Tip**: In Replit, click the icon at the top right of the preview to open the page in a new tab. That way, when you inspect the page, you’ll see only your HTML.
 
@@ -83,6 +85,6 @@ The solutions to each challenge are available in Replit Try to go through the wh
 <aside>
 
 
-<img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: [Project](/web-foundations-april-2022/foundations/project.md)
+<img src="../learning-with-kibo/man-in-hike.png" width="40px" /> Next up: [Project](project.md)
 
 </aside>

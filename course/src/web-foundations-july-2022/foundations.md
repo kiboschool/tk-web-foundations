@@ -20,7 +20,7 @@ After this week, you will be able to:
 <aside>
 
 
-<img src="/web-foundations-april-2022/instruction.png" alt="instruction.png" width="40px" /> Web Foundations instructor Wasiu welcomes you to the course.
+<img src="./instruction.png" alt="instruction.png" width="40px" /> Web Foundations instructor Wasiu welcomes you to the course.
 
 </aside>
 
@@ -31,33 +31,33 @@ After this week, you will be able to:
 <aside>
 
 
-<img src="/web-foundations-april-2022/instruction.png" alt="instruction.png" width="40px" /> Complete this lesson by exploring each section
+<img src="./instruction.png" alt="instruction.png" width="40px" /> Complete this lesson by exploring each section
 
 </aside>
 
-[1.1 Program Overview](/web-foundations-april-2022/foundations/program-overview.md)
+[1.1 Program Overview](./foundations/program-overview.md)
 
-[1.2 Websites and the Internet](/web-foundations-april-2022/foundations/websites-and-the-internet.md)
+[1.2 Websites and the Internet](./foundations/websites-and-the-internet.md)
 
-[1.3 HTML Elements and Attributes](/web-foundations-april-2022/foundations/html-elements-and-attributes.md)
+[1.3 HTML Elements and Attributes](./foundations/html-elements-and-attributes.md)
 
-[1.4 CSS Selectors and Properties](/web-foundations-april-2022/foundations/css-selectors-and-properties.md)
+[1.4 CSS Selectors and Properties](./foundations/css-selectors-and-properties.md)
 
-[1.5 A Taste Of JavaScript](/web-foundations-april-2022/foundations/a-taste-of-javascript.md)
+[1.5 A Taste Of JavaScript](./foundations/a-taste-of-javascript.md)
 
-[Practice](/web-foundations-april-2022/foundations/practice.md)
+[Practice](./foundations/practice.md)
 
-[Project](/web-foundations-april-2022/foundations/project.md)
+[Project](./foundations/project.md)
 
-[Wrap Up](/web-foundations-april-2022/foundations/wrap-up.md)
+[Wrap Up](./foundations/wrap-up.md)
 
-[Bonus: More HTML Elements](/web-foundations-april-2022/foundations/bonus-more-html-elements.md)
+[Bonus: More HTML Elements](./foundations/bonus-more-html-elements.md)
 
 ---
 
 <aside>
 
 
-<img src="/web-foundations-april-2022/learning-with-kibo/man-in-hike.png" alt="Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: [Program Overview](/web-foundations-april-2022/foundations/program-overview.md)
+<img src="learning-with-kibo/man-in-hike.png" alt="Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: [Program Overview](./foundations/program-overview.md)
 
 </aside>

@@ -21,7 +21,7 @@ We write our JavaScript in separate files, which in this course we’ll name `sc
 - We usually place the script tag at the end of the `<body>` tag, so that the rest of the page has loaded before the script is run.
 - The `<script>` tag is not self-closing, it needs the closing tag `</script>`.
 
-## Practice: Link the JavaScript using the <script> tag
+## Practice: Link the JavaScript using the `<script>` tag
 
 <aside>
 
@@ -31,6 +31,7 @@ We write our JavaScript in separate files, which in this course we’ll name `sc
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/Practice-Link-the-Script" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 ## Deeper Connections: CSS Selectors in JS
 
@@ -58,6 +59,6 @@ The same CSS selectors that you use for styles will also let you pick HTML eleme
 <aside>
 
 
-<img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: [Practice](/web-foundations-april-2022/foundations/practice.md)
+<img src="../learning-with-kibo/man-in-hike.png" alt="../learning-with-kibo/man-in-hike.png" width="40px" /> Next up: [Practice](practice.md)
 
 </aside>

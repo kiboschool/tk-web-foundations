@@ -68,9 +68,7 @@ There are lots of kinds of “things” that go on webpages. For many of them, t
     - `<section>`
     - `<nav>`
     - `<footer>`
-    - `<aside>
-
-`
+    - `<aside>`
     - `<details>`
     - `<summary>`
 - **Further Exploration: Semantic Elements**
