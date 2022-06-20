@@ -43,6 +43,6 @@ Remember...
 <aside>
 
 
-<img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: [Wrap Up](/web-foundations-april-2022/foundations/wrap-up.md)
+<img src="../learning-with-kibo/man-in-hike.png" alt="../learning-with-kibo/man-in-hike.png" width="40px" /> Next up: [Wrap Up](wrap-up.md)
 
 </aside>

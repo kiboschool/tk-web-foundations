@@ -1,4 +1,4 @@
-# Html elements and attributes
+# HTML Elements and Attributes
 
 *Estimated Time: 30 minutes*
 
@@ -40,7 +40,7 @@ Result:
 
 This is a paragraph. It has an [Example Link](http://example.com) inside the paragraph.
 
-![Untitled](/web-foundations-april-2022/publishing-and-sharing/domains-and-hosting/untitled.png)
+![Untitled](../learning-with-kibo/intro-to-web-development/untitled.png)
 
 ## HTML Elements
 
@@ -139,8 +139,13 @@ Here’s some examples:
 ```
 
 Here’s an image summarizing the parts of an HTML element:
+<div style="margin-bottom: 50px; border: 1px solid #000;">
 
-![Untitled](/web-foundations-april-2022/publishing-and-sharing/domains-and-hosting/untitled-1.png)
+![Untitled](../learning-with-kibo/intro-to-web-development/untitled-1.png)
+
+
+</div>
+
 
 # Elements to know
 
@@ -203,10 +208,10 @@ Images make the web visually appealing. The `<img>` tag tells which image to add
 Example:
 
 ```html
-<img	src="valley-waterfall.png" alt="a waterfall running through a valley"/>
+<img src="waterfall.png" alt="a waterfall running through a valley"/>
 ```
 
-![Untitled](/web-foundations-april-2022/publishing-and-sharing/domains-and-hosting/untitled.png)
+![Untitled](../learning-with-kibo/intro-to-web-development/untitled.png)
 
 - The **src** attribute says where to find the image
 - The **alt** attribute should contain a text description of the image, for accessibility
@@ -349,7 +354,6 @@ Starting at the [MDN overview page on HTML](https://developer.mozilla.org/en-US/
 
 <aside>
 
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: [CSS Selectors and Properties](/web-foundations-april-2022/foundations/css-selectors-and-properties.md)
+<img src="../learning-with-kibo/man-in-hike.png" alt="../learning-with-kibo/man-in-hike.png" alt="../learning-with-kibo/man-in-hike.png" width="40px" /> Next up: [CSS Selectors and Properties](css-selectors-and-properties.md)
 
 </aside>

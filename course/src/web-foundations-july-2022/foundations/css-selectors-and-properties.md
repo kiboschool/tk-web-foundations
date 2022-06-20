@@ -1,4 +1,4 @@
-# Css selectors and properties
+# CSS Selectors and Properties
 
 *Estimated Time: 30 minutes*
 
@@ -29,11 +29,11 @@ p {
 
 Here’s the result:
 
-![BCDF355C-419C-4670-A99D-D70D1D5C78AB-655-0000EDA4FBD29F61.png](/web-foundations-april-2022/learning-with-kibo/intro-to-web-development/bcdf355c-419c-4670-a99d-d70d1d5c78ab-655-0000eda4fbd29f61.png)
+![BCDF355C-419C-4670-A99D-D70D1D5C78AB-655-0000EDA4FBD29F61.png](../learning-with-kibo/intro-to-web-development/bcdf355c-419c-4670-a99d-d70d1d5c78ab-655-0000eda4fbd29f61.png)
 
 This CSS sets the color of the text within paragraphs to red.
 
-- (**Here’s the HTML - click to open)**
+- **Here’s the HTML - click to open**
     
     ```html
     <p>This is a paragraph. It has an <a href="https://example.com">Example Link</a> inside the paragraph. </p>
@@ -77,7 +77,7 @@ A declaration is a **property** and a **value.**
 > In the example, the property is `color` and the value is `red`
 > 
 
-![Untitled](/web-foundations-april-2022/publishing-and-sharing/domains-and-hosting/untitled-2.png)
+![Untitled](../learning-with-kibo/intro-to-web-development/untitled-2.png)
 
 # CSS selectors
 
@@ -245,6 +245,6 @@ There are 30 short exercises to practice selecting the plates, the food, or the 
 <aside>
 
 
-<img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: [A Taste of Javascript](/web-foundations-april-2022/foundations/a-taste-of-javascript.md)
+<img src="../learning-with-kibo/man-in-hike.png" alt="../learning-with-kibo/man-in-hike.png" width="40px" /> Next up: [A Taste of Javascript](a-taste-of-javascript.md)
 
 </aside>

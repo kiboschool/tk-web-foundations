@@ -40,7 +40,7 @@ Feedback is a gift! We use your feedback to improve our lessons for future stude
 <aside>
 
 
-<img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> The next lesson will be about Web Design.
+<img src="../learning-with-kibo/man-in-hike.png" alt="../learning-with-kibo/man-in-hike.png" width="40px" /> The next lesson will be about Web Design.
 
 </aside>
 
@@ -48,4 +48,4 @@ Feedback is a gift! We use your feedback to improve our lessons for future stude
     
     Or check out the bonus section with More HTML Elements
     
-    [Bonus: More HTML Elements](/web-foundations-april-2022/foundations/bonus-more-html-elements.md)
+    [Bonus: More HTML Elements](bonus-more-html-elements.md)

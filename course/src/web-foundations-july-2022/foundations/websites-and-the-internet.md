@@ -51,13 +51,13 @@ Here’s the **main things to focus on**:
 
 - As a user, you use your browser to navigate to a url:
 
-![Screenshot 2022-04-11 at 18.25.20.png](/web-foundations-april-2022/foundations/websites-and-the-internet/screenshot-2022-04-11-at-18.25.20.png)
+![Screenshot 2022-04-11 at 18.25.20.png](websites-and-the-internet/screenshot-2022-04-11-at-18.25.20.png)
 
 - Your browser requests files from a server
 - The server sends files - HTML, CSS, JavaScript, images, and some others as needed (like audio, fonts, and attachments)
 - Your browser turns those files into the page that you see.
 
-![Screenshot 2022-04-11 at 18.26.02.png](/web-foundations-april-2022/foundations/websites-and-the-internet/screenshot-2022-04-11-at-18.26.02.png)
+![Screenshot 2022-04-11 at 18.26.02.png](websites-and-the-internet/screenshot-2022-04-11-at-18.26.02.png)
 
 </aside>
 
@@ -89,7 +89,7 @@ A website is made up of many different files. These files come in two main types
 - **Assets**: This is a collective name for all the other stuff that makes up a website, such as **images**, **music**, **video**, or **PDFs**.
 - 🔍 **Further Exploration**: How does the browser put the files together?
     
-    When browsers send requests to servers for HTML files, those HTML files often contain `[<link>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link)` elements referencing external [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS) stylesheets and `[<script>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script)` elements referencing external [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) scripts. 
+    When browsers send requests to servers for HTML files, those HTML files often contain [`<link>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link) elements referencing external [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS) stylesheets and [`<script>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script) elements referencing external [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) scripts. 
     
     - The browser reads the HTML file first.
     - The browser looks for any `<link>`elements to external CSS stylesheets and any `<script>`elements that reference JavaScript files.
@@ -123,6 +123,6 @@ Some ideas to include in your image: browser, server, files (HTML, CSS, JS)
 <aside>
 
 
-<img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: [HTML Elements and Attributes](/web-foundations-april-2022/foundations/html-elements-and-attributes.md)
+<img src="../learning-with-kibo/man-in-hike.png" alt="../learning-with-kibo/man-in-hike.png" width="40px" /> Next up: [HTML Elements and Attributes](html-elements-and-attributes.md)
 
 </aside>

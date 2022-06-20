@@ -1,0 +1,291 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Bonus: More HTML elements - Web Foundations - Try Kibo 6</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../../web-foundations-july-2022.html">Web Foundations</a></li><li class="chapter-item expanded affix "><a href="../../web-foundations-july-2022/community-orientation-july-2022.html">Community orientation (July 12th 2022)</a></li><li class="chapter-item expanded "><a href="../../web-foundations-july-2022/foundations.html"><strong aria-hidden="true">1.</strong> Foundations</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../web-foundations-july-2022/foundations/program-overview.html"><strong aria-hidden="true">1.1.</strong> Program Overview</a></li><li class="chapter-item expanded "><a href="../../web-foundations-july-2022/foundations/websites-and-the-internet.html"><strong aria-hidden="true">1.2.</strong> Websites and the Internet</a></li><li class="chapter-item expanded "><a href="../../web-foundations-july-2022/foundations/html-elements-and-attributes.html"><strong aria-hidden="true">1.3.</strong> HTML Elements and Attributes</a></li><li class="chapter-item expanded "><a href="../../web-foundations-july-2022/foundations/css-selectors-and-properties.html"><strong aria-hidden="true">1.4.</strong> CSS Selectors and Properties</a></li><li class="chapter-item expanded "><a href="../../web-foundations-july-2022/foundations/a-taste-of-javascript.html"><strong aria-hidden="true">1.5.</strong> A Aaste of Javascript</a></li><li class="chapter-item expanded "><a href="../../web-foundations-july-2022/foundations/practice.html"><strong aria-hidden="true">1.6.</strong> Practice</a></li><li class="chapter-item expanded "><a href="../../web-foundations-july-2022/foundations/project.html"><strong aria-hidden="true">1.7.</strong> Project</a></li><li class="chapter-item expanded "><a href="../../web-foundations-july-2022/foundations/wrap-up.html"><strong aria-hidden="true">1.8.</strong> Wrap up</a></li><li class="chapter-item expanded "><a href="../../web-foundations-july-2022/foundations/bonus-more-html-elements.html" class="active"><strong aria-hidden="true">1.9.</strong> Bonus: More HTML elements</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Web Foundations - Try Kibo 6</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="bonus-more-html-elements"><a class="header" href="#bonus-more-html-elements">Bonus more html elements</a></h1>
+<p><em>Estimated Time: 20 minutes</em></p>
+<hr />
+<aside>
+<p>😃 This is a bonus section on other HTML tags.</p>
+<p>You don’t need to know these, but they’re pretty cool if you have extra time!</p>
+</aside>
+<h1 id="other-elements-and-tags"><a class="header" href="#other-elements-and-tags">Other elements and tags</a></h1>
+<p>As you learn more web development, you’ll see tons of other tags.</p>
+<p>Here’s a preview of some of the tags you’ll encounter. Again - you don’t need to know these ones. Remember that you can look them up later!</p>
+<h3 id="stylized-text-elements"><a class="header" href="#stylized-text-elements">Stylized text elements</a></h3>
+<p>There are lots of elements for particular kinds of styled text.</p>
+<p>Here’s some of the tags, but without examples. Don’t try to memorize them. Instead, skim them, and then remember that you can always go back and look up the right element to use for a particular situation.</p>
+<ul>
+<li>
+<p><strong>List: stylized text elements</strong></p>
+<p><code>&lt;code&gt;</code>: used to style blocks of code.</p>
+<p><code>&lt;pre&gt;</code>: used for text that has been pre-formatted, like a poem, where the spaces are already there. Otherwise, spaces, tabs, and newlines all get collapsed by the browser.</p>
+<p><code>&lt;small&gt;</code>: Small text</p>
+<p><code>&lt;u&gt;</code>: Underlined text</p>
+<p><code>&lt;i&gt;</code>: Italicized text</p>
+<p><code>&lt;s&gt;</code>: Text with a strikethrough, like <del>this</del></p>
+<p><code>&lt;q&gt;</code>: “quoted text that fits within a line”</p>
+<p><code>&lt;blockquote&gt;</code>: A block quote, usually multiple lines</p>
+<p><code>&lt;mark&gt;</code>: Highlighted text</p>
+<p><code>&lt;del&gt;</code>, <code>&lt;ins&gt;</code>: Text that’s been deleted or inserted</p>
+<p><code>&lt;sub&gt;</code>, <code>&lt;sup&gt;</code>: Subscript ($_{subscript}$) and Superscript ($^{superscript}$)</p>
+</li>
+</ul>
+<h3 id="semantic-elements"><a class="header" href="#semantic-elements">S<strong>emantic elements</strong></a></h3>
+<p><strong>Semantics</strong> refers to the <em>meaning</em> of a piece of code. It’s about &quot;<em>what purpose or role does that HTML element have</em>&quot;, rather than &quot;<em>what does it look like?&quot;</em>.</p>
+<blockquote>
+<p>When approaching which markup to use, ask yourself, &quot;What element(s) best describe/represent the data that I'm going to populate?”</p>
+</blockquote>
+<p><em>MDN</em></p>
+<blockquote>
+</blockquote>
+<p>HTML elements mean something*.* A <code>&lt;p&gt;</code> isn’t just styled like a paragraph, it tells other programs that the text inside <em>really is</em> a paragraph.</p>
+<p>There are lots of kinds of “things” that go on webpages. For many of them, there’s a matching HTML element. Here’s some examples (there’s more than 100!)</p>
+<ul>
+<li>
+<p><strong>List of Semantic Elements</strong></p>
+<ul>
+<li><code>&lt;article&gt;</code></li>
+<li><code>&lt;section&gt;</code></li>
+<li><code>&lt;nav&gt;</code></li>
+<li><code>&lt;footer&gt;</code></li>
+<li><code>&lt;aside&gt;</code></li>
+<li><code>&lt;details&gt;</code></li>
+<li><code>&lt;summary&gt;</code></li>
+</ul>
+</li>
+<li>
+<p><strong>Further Exploration: Semantic Elements</strong></p>
+<p><a href="https://developer.mozilla.org/en-US/docs/Glossary/semantics">https://developer.mozilla.org/en-US/docs/Glossary/semantics</a></p>
+<p>Questions to explore:</p>
+<ul>
+<li>Why use Semantic HTML?</li>
+<li>What are the benefits of Semantic Elements?</li>
+<li>When would you use these?</li>
+</ul>
+</li>
+</ul>
+<h3 id="div-span-generic-elements"><a class="header" href="#div-span-generic-elements"><code>&lt;div&gt;</code>, <code>&lt;span&gt;</code>: Generic Elements</a></h3>
+<p>Sometimes, you don’t know which semantic element to use. <code>&lt;div&gt;</code> stands for “division” and it’s a generic block of HTML. <code>&lt;span&gt;</code> is a generic “span” of text characters, inline with some other text. If you don’t know another element that’s more appropriate, you can use one of these instead.</p>
+<p>Example:</p>
+<pre><code class="language-html">&lt;div&gt;This div has its own line.&lt;/div&gt;
+&lt;div&gt;
+	This shows on a second line, 
+	&lt;span&gt;with the span inline with the text&lt;/span&gt;.
+&lt;/div&gt;
+</code></pre>
+<p>This div has its own line.
+This shows on a second line, with the span inline with the text.</p>
+<h3 id="structure-and-page-information"><a class="header" href="#structure-and-page-information">Structure and Page Information</a></h3>
+<p>When you create an HTML project in Replit, there is a bunch of HTML in <code>index.html</code>. You will not need to write these tags yourself, but here’s what they mean in case you were curious.</p>
+<ul>
+<li>
+<p><strong>List: Structure and Page Information tags</strong></p>
+<p><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML">Read more on MDN about page metadata</a></p>
+<ul>
+<li><code>&lt;!DOCTYPE html&gt;</code> isn’t actually an element. It goes at the top of a file to say that it’s HTML.</li>
+<li><code>&lt;html&gt;</code> is the ‘root element’ of an HTML document. All of the other elements should be inside it.</li>
+<li><code>&lt;body&gt;</code> is where all the page content should go - everything you see on the page.</li>
+<li><code>&lt;head&gt;</code> is hidden metadata. It’s data about the webpage that doesn’t show up on the screen.</li>
+<li><code>&lt;title&gt;</code> is the title of the page. It’s what shows in search results and in the browser tab.</li>
+<li><code>&lt;meta&gt;</code> is for various other metadata about the page. There’s lots of types, which you can <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta">read about on MDN</a>.</li>
+</ul>
+</li>
+</ul>
+<h3 id="multimedia-and-embedding"><a class="header" href="#multimedia-and-embedding">Multim<strong>edia and Embedding</strong></a></h3>
+<p>There are lots of tags for including media on a webpage.</p>
+<ul>
+<li>
+<p><strong>List: Media tags</strong>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding">Read more on MDN about multimedia and embedding</a></p>
+<p><code>&lt;iframe&gt;</code> is for embedding external site content onto a page</p>
+<p><code>&lt;audio&gt;</code> for an audio recording</p>
+<p><code>&lt;video&gt;</code> for a video recording</p>
+<p><code>&lt;canvas&gt;</code> is an element where you can draw shapes programmatically. Used for animations and games!</p>
+<p><code>&lt;object&gt;</code> is an element for embedded content, like a pdf or a video.</p>
+</li>
+</ul>
+<h3 id="forms"><a class="header" href="#forms">Forms</a></h3>
+<p>There is a whole set of HTML tags that are all about forms. We’ll focus on them in Week 3, but here’s the list as a preview:</p>
+<ul>
+<li>
+<p>List: Form tags
+MDN has <a href="https://developer.mozilla.org/en-US/docs/Learn/Forms">several pages on Forms</a>. We’ll learn more in Week 3.</p>
+<p><code>&lt;form&gt;</code> is for creating a form and grouping all the elements inside as part of the form</p>
+<p><code>&lt;input&gt;</code> represents an input. There are <a href="https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types">lots of different types of inputs</a>!</p>
+<p><code>&lt;button&gt;</code> is a button, like a Next or Submit button.</p>
+<p><code>&lt;select&gt;</code> shows a dropdown</p>
+<p><code>&lt;option&gt;</code> is for the items in a select dropdown, like <code>&lt;li&gt;</code> is for items in a list</p>
+</li>
+</ul>
+<h2 id="mdn-element-reference"><a class="header" href="#mdn-element-reference">MDN Element Reference</a></h2>
+<p>Those are the core elements you’ll encounter.</p>
+<p>For the full listing of HTML Elements, check out the <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">MDN Elements Reference</a>.</p>
+<hr />
+<p><em>Happy Elementing!</em></p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../web-foundations-july-2022/foundations/wrap-up.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../web-foundations-july-2022/foundations/wrap-up.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>
