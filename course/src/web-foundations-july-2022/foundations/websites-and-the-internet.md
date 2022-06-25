@@ -97,9 +97,9 @@ A website is made up of many different files. These files come in two main types
     - The browser builds the page from the HTML, applies the styles from the CSS, and executes the JavaScript. It shows the resulting page on the screen.
     - Then you see the page content, and can interact with it!
     
-    In this class, we won’t worry too much about how the other computer decides which files to send, or how to write other kinds of programs. If you continue to learn more about programming and web development, you’ll learn more about how that part of the system works.
-    
-     If you’re curious about this topic, you can read more on [MDN’s page on How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works).
+In this class, we won’t worry too much about how the other computer decides which files to send, or how to write other kinds of programs. If you continue to learn more about programming and web development, you’ll learn more about how that part of the system works.
+
+If you’re curious about this topic, you can read more on [MDN’s page on How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works).
     
 
 ## Practice: Draw the Web
