@@ -137,7 +137,7 @@
                         <h1 id="html-elements-and-attributes"><a class="header" href="#html-elements-and-attributes">HTML Elements and Attributes</a></h1>
 <p><em>Estimated Time: 30 minutes</em></p>
 <hr />
-<p>In Week 0, you learned about the roles HTML, CSS, and JavaScript play, and you learned what HTML and CSS look like.</p>
+<p>In the web challenge, you learned about the roles HTML, CSS, and JavaScript play, and you learned what HTML and CSS look like.</p>
 <p>In this lesson, you’ll revisit HTML in more detail, and learn more elements.</p>
 <aside>
 <p>📺 Check out this video on the basics of HTML</p>
@@ -174,8 +174,8 @@
 <li><code>&lt;p&gt;</code> for paragraph</li>
 <li><code>&lt;img&gt;</code> for images</li>
 </ul>
-<p>The syntax that looks like  <code>&lt;some name&gt;</code> is called a <strong>tag</strong>*.* It says what kind of element it is. </p>
-<p>Elements usually have two tags: an opening tag, and a closing tag. They say where the element starts and where it stops.</p>
+<p>The syntax that looks like  <code>&lt;some name&gt;</code> is called a <strong>tag</strong>. It says what kind of element it is. </p>
+<p>Elements usually have two tags: an opening tag, and a closing tag. They show where the element starts and where it stops.</p>
 <pre><code class="language-html">&lt;p&gt;Opening first, then closing&lt;/p&gt;
 </code></pre>
 <ul>
@@ -184,27 +184,20 @@
 </ul>
 <p>There are <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">many many elements</a> in addition to these three. You’ll learn about 20 to 30 elements in the course. You can always look them up if you forget.</p>
 <h3 id="self-closing-tags"><a class="header" href="#self-closing-tags">Self-closing tags</a></h3>
-<p>Elements <em>usually</em> have two tags, but sometimes they only have one.</p>
-<p>If the element doesn’t need to have any content inside it, it can use a <strong>self-closing tag.</strong></p>
+<p>Elements <em>usually</em> have two tags, but some elements only have one.</p>
+<p>If the element doesn’t need to have any content inside it, it can use a <strong>self-closing tag.</strong> For example:</p>
 <pre><code class="language-html">&lt;img src=&quot;waterfall.png&quot; /&gt;
 </code></pre>
 <p>Instead of having a closing tag like <code>&lt;/img&gt;</code>, this tag ends with <code>/&gt;</code>. It closes itself — it doesn’t need the closing tag too.</p>
 <p>Not every element can be self-closing. Image elements never have any content inside, so they can self-close. <a href="https://developer.mozilla.org/en-US/docs/Glossary/empty_element">MDN lists the ‘empty’ elements that can be self-closing</a>.</p>
-<h2 id="nesting"><a class="header" href="#nesting"><strong>Nesting</strong></a></h2>
-<p>HTML elements can go inside of each other. Everything that’s in between the opening tag and the closing tag is ‘inside’ an element. It can be text, like the paragraph above, or other HTML elements, or both!</p>
-<pre><code class="language-html">&lt;div&gt;  &lt;!-- Outer Element --&gt;
-	&lt;p&gt;  &lt;!-- Inner Element --&gt;
-		some text
-	&lt;/p&gt;  
-&lt;/div&gt;
-</code></pre>
 <aside>
-<p>💬 <strong>HTML Comments</strong> won’t show up on the page.</p>
-<pre><code class="language-html">&lt;!-- This is a comment, so it's ignored --&gt;
-</code></pre>
-<p>We use comments to inform you about the code, like in the example above.</p>
+<p>📺 Here is a summary of HTML Tags</p>
 </aside>
-<h2 id="attributes"><a class="header" href="#attributes"><strong>Attributes</strong></a></h2>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/rOPKC49gTkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<h2 id="nesting-html-elements"><a class="header" href="#nesting-html-elements"><strong>Nesting HTML Elements</strong></a></h2>
+<p>HTML elements can go inside of each other. Everything that’s in between the opening tag and the closing tag is ‘inside’ an element. It can be text, like the paragraph above, or other HTML elements, or both. The element inside another element is called the <strong>child</strong> element while the one outside is the <strong>parent</strong>. Here's an example showing a <code>&lt;p&gt;</code> element inside an <code>&lt;a&gt;</code> element. </p>
+<p><img src="../learning-with-kibo/intro-to-web-development/nested_element.png" alt="nested element" /></p>
+<h2 id="html-attributes"><a class="header" href="#html-attributes"><strong>HTML Attributes</strong></a></h2>
 <p>HTML elements can also tell the browser more information about themselves. For instance, an <code>&lt;img&gt;</code> tag can tell the browser where to find the actual image, and an <code>&lt;a&gt;</code> tag can tell where to link to.</p>
 <p>This kind of information goes in an element’s <strong>attributes.</strong> So attributes provide more information about how an element should work.</p>
 <p>Here’s some examples:</p>
@@ -223,14 +216,26 @@
 </ul>
 <pre><code class="language-html">&lt;p class=&quot;nice&quot;&gt;Hello world!&lt;/p&gt;
 </code></pre>
-<p>Here’s an image summarizing the parts of an HTML element:</p>
+<aside>
+<p>📺 Check out this video on the summary of HTML Attributes</p>
+</aside>
+<div style="position: relative; padding-bottom: 60.25%; height: 0;">
+    <iframe width="100%" height="415" src="https://www.youtube.com/embed/29IbTXYRo5U" title="YouTube video player"      frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<p>Here’s also an image summarizing how attributes fit into an HTML element:</p>
 <div style="margin-bottom: 50px; border: 1px solid #000;">
 <p><img src="../learning-with-kibo/intro-to-web-development/untitled-1.png" alt="Untitled" /></p>
 </div>
 <h1 id="elements-to-know"><a class="header" href="#elements-to-know">Elements to know</a></h1>
-<p>There’s more than 200 HTML elements. (You can <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">see them all on MDN</a>). You don’t need to memorize all of them. There are tons of them you’ll never ever use! </p>
+<p>There’s more than 200 HTML elements, you can <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">see them all on MDN</a>. You don’t need to memorize all of them. There are tons of them you’ll never ever use! </p>
 <p>Here’s the ones that you actually ought to know, along with some examples:</p>
 <h2 id="a-hyperlink"><a class="header" href="#a-hyperlink"><code>&lt;a&gt;</code>: hyperlink</a></h2>
+<aside>
+<p>📺 Check out this video on Hyperlink</p>
+</aside>
+<div style="position: relative; padding-bottom: 60.25%; height: 0;">
+    <iframe width="100%" height="415" src="https://www.youtube.com/embed/D9I_dJDiIu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <p><code>&lt;a&gt;</code> stands for ‘anchor’, but means link. It’s the element that connects the whole web together.</p>
 <p>Example:</p>
 <pre><code class="language-html">&lt;a href=&quot;https://kibo.school&quot;&gt;Kibo Homepage&lt;/a&gt;
@@ -271,6 +276,12 @@
 </ul>
 <h2 id="image-img"><a class="header" href="#image-img">Image: <code>&lt;img&gt;</code></a></h2>
 <p>Images make the web visually appealing. The <code>&lt;img&gt;</code> tag tells which image to add, where.</p>
+<aside>
+<p>📺 Check out this video on Images</p>
+</aside>
+<div style="position: relative; padding-bottom: 60.25%; height: 0;">
+    <iframe width="100%" height="415" src="https://www.youtube.com/embed/Ba1RLs0TgCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <p>Example:</p>
 <pre><code class="language-html">&lt;img src=&quot;waterfall.png&quot; alt=&quot;a waterfall running through a valley&quot;/&gt;
 </code></pre>
@@ -314,14 +325,20 @@
 <li>Paragraphs show the text inside the tag. They don’t make the text show a special way.</li>
 <li>Each paragraph gets shown on a new line when the page is displayed.</li>
 </ul>
+<aside>
+<p>📺 Here's a recap of the Paragraph tag</p>
+</aside>
+<div style="position: relative; padding-bottom: 60.25%; height: 0;">
+    <iframe width="100%" height="415" src="https://www.youtube.com/embed/By-d827_0jo" title="HTML Paragraph" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <h3 id="h1-to-h6-heading"><a class="header" href="#h1-to-h6-heading"><code>&lt;h1&gt;</code> to <code>&lt;h6&gt;</code>: Heading</a></h3>
 <p>Example:</p>
 <pre><code class="language-html">&lt;h1&gt;My Website&lt;/h1&gt;
 &lt;h2&gt;About me&lt;/h2&gt;
 </code></pre>
 <p>Result:</p>
-<h1 id="my-website"><a class="header" href="#my-website">My Website</a></h1>
 <h2 id="about-me"><a class="header" href="#about-me">About me</a></h2>
+<h4 id="my-website"><a class="header" href="#my-website">My Website</a></h4>
 <ul>
 <li>There are six heading elements.</li>
 <li>The biggest one is <code>h1</code>, the smallest is <code>h6</code></li>
@@ -362,23 +379,25 @@
 <li><code>&lt;strong&gt;</code> is a strong emphasis, for <strong>really important information</strong></li>
 <li><code>&lt;em&gt;</code> is for information that’s <em>different from the norm, but not as strongly emphasized</em></li>
 </ul>
-<h2 id="practice-use-the-basic-elements"><a class="header" href="#practice-use-the-basic-elements">Practice: Use the basic elements</a></h2>
+<h2 id="practice-11-use-the-basic-elements"><a class="header" href="#practice-11-use-the-basic-elements">Practice 1.1: Use the basic elements</a></h2>
 <aside>
-<p>👉🏿 Your turn! Use these tags to mark up the page.</p>
+<p>👉🏿 Your turn! Use these tags to mark up the page. </p>
+<p>🔑 The link below takes you to Replit where you can attempt this exercise.</p>
 </aside>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/Practice-Use-the-basic-elements" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-<h2 id="practice-find-a-new-tag-on-mdn"><a class="header" href="#practice-find-a-new-tag-on-mdn">Practice: Find a new tag on MDN</a></h2>
+<p><strong><a href="https://replit.com/team/web-foundations-july-2022/11-Practice-Use-the-basic-elements">https://replit.com/team/web-foundations-july-2022/11-Practice-Use-the-basic-elements</a></strong></p>
+<h2 id="practice-12-find-a-new-tag-on-mdn"><a class="header" href="#practice-12-find-a-new-tag-on-mdn">Practice 1.2: Find a new tag on MDN</a></h2>
 <aside>
 <p>🔍 The <strong>Mozilla Developer Network (MDN)</strong> is a top source of tutorials and reference materials for Web Developers. </p>
-<p>Starting at the <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">MDN overview page on HTML</a>, find a description for an HTML element that’s new to you. In the Padlet below, share:</p>
+<p>Starting at the <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">MDN overview page on HTML</a>, find a description for an HTML element that’s new to you. Using the link below, share:</p>
 <ul>
 <li>the name of the element</li>
 <li>the link to the MDN page, and</li>
 <li>what you find interesting about it</li>
 </ul>
 </aside>
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/mxl15sdveaow1kk8" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+<p><strong><a href="https://padlet.com/embed/mxl15sdveaow1kk8">https://padlet.com/embed/mxl15sdveaow1kk8</a></strong></p>
 <hr />
+<h1 id=""><a class="header" href="#"><p></a></h1>
 <aside>
 <p><img src="../learning-with-kibo/man-in-hike.png" alt="../learning-with-kibo/man-in-hike.png" alt="../learning-with-kibo/man-in-hike.png" width="40px" /> Next up: <a href="css-selectors-and-properties.html">CSS Selectors and Properties</a></p>
 </aside>

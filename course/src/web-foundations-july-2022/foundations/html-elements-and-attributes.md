@@ -4,7 +4,7 @@
 
 ---
 
-In Week 0, you learned about the roles HTML, CSS, and JavaScript play, and you learned what HTML and CSS look like.
+In the web challenge, you learned about the roles HTML, CSS, and JavaScript play, and you learned what HTML and CSS look like.
 
 In this lesson, you’ll revisit HTML in more detail, and learn more elements.
 
@@ -60,9 +60,9 @@ There are lots of types of elements. In the snippet above, the elements are:
 - `<p>` for paragraph
 - `<img>` for images
 
-The syntax that looks like  `<some name>` is called a **tag***.* It says what kind of element it is. 
+The syntax that looks like  `<some name>` is called a **tag**. It says what kind of element it is. 
 
-Elements usually have two tags: an opening tag, and a closing tag. They say where the element starts and where it stops.
+Elements usually have two tags: an opening tag, and a closing tag. They show where the element starts and where it stops.
 
 ```html
 <p>Opening first, then closing</p>
@@ -75,9 +75,9 @@ There are [many many elements](https://developer.mozilla.org/en-US/docs/Web/HTML
 
 ### Self-closing tags
 
-Elements *usually* have two tags, but sometimes they only have one.
+Elements *usually* have two tags, but some elements only have one.
 
-If the element doesn’t need to have any content inside it, it can use a **self-closing tag.**
+If the element doesn’t need to have any content inside it, it can use a **self-closing tag.** For example:
 
 ```html
 <img src="waterfall.png" />
@@ -87,32 +87,24 @@ Instead of having a closing tag like `</img>`, this tag ends with `/>`. It close
 
 Not every element can be self-closing. Image elements never have any content inside, so they can self-close. [MDN lists the ‘empty’ elements that can be self-closing](https://developer.mozilla.org/en-US/docs/Glossary/empty_element).
 
-## **Nesting**
-
-HTML elements can go inside of each other. Everything that’s in between the opening tag and the closing tag is ‘inside’ an element. It can be text, like the paragraph above, or other HTML elements, or both!
-
-```html
-<div>  <!-- Outer Element -->
-	<p>  <!-- Inner Element -->
-		some text
-	</p>  
-</div>
-```
-
 <aside>
 
 
-💬 **HTML Comments** won’t show up on the page.
-
-```html
-<!-- This is a comment, so it's ignored -->
-```
-
-We use comments to inform you about the code, like in the example above.
+📺 Here is a summary of HTML Tags
 
 </aside>
 
-## **Attributes**
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/rOPKC49gTkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+## **Nesting HTML Elements**
+
+HTML elements can go inside of each other. Everything that’s in between the opening tag and the closing tag is ‘inside’ an element. It can be text, like the paragraph above, or other HTML elements, or both. The element inside another element is called the **child** element while the one outside is the **parent**. Here's an example showing a `<p>` element inside an `<a>` element. 
+
+![nested element](../learning-with-kibo/intro-to-web-development/nested_element.png)
+
+
+## **HTML Attributes**
+
 
 HTML elements can also tell the browser more information about themselves. For instance, an `<img>` tag can tell the browser where to find the actual image, and an `<a>` tag can tell where to link to.
 
@@ -138,7 +130,18 @@ Here’s some examples:
 <p class="nice">Hello world!</p>
 ```
 
-Here’s an image summarizing the parts of an HTML element:
+
+<aside>
+
+📺 Check out this video on the summary of HTML Attributes
+
+</aside>
+
+<div style="position: relative; padding-bottom: 60.25%; height: 0;">
+    <iframe width="100%" height="415" src="https://www.youtube.com/embed/29IbTXYRo5U" title="YouTube video player"      frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Here’s also an image summarizing how attributes fit into an HTML element:
 <div style="margin-bottom: 50px; border: 1px solid #000;">
 
 ![Untitled](../learning-with-kibo/intro-to-web-development/untitled-1.png)
@@ -149,11 +152,22 @@ Here’s an image summarizing the parts of an HTML element:
 
 # Elements to know
 
-There’s more than 200 HTML elements. (You can [see them all on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)). You don’t need to memorize all of them. There are tons of them you’ll never ever use! 
+There’s more than 200 HTML elements, you can [see them all on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element). You don’t need to memorize all of them. There are tons of them you’ll never ever use! 
 
 Here’s the ones that you actually ought to know, along with some examples:
 
 ## `<a>`: hyperlink
+
+
+<aside>
+
+📺 Check out this video on Hyperlink
+
+</aside>
+
+<div style="position: relative; padding-bottom: 60.25%; height: 0;">
+    <iframe width="100%" height="415" src="https://www.youtube.com/embed/D9I_dJDiIu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 `<a>` stands for ‘anchor’, but means link. It’s the element that connects the whole web together.
 
@@ -166,6 +180,7 @@ Example:
 Result:
 
 [Kibo Homepage](https://kibo.school)
+
 
 - The **href** attribute determines where the link will go when clicked
 - Whatever’s inside the tag is clickable as a link
@@ -204,6 +219,17 @@ Result:
 ## Image: `<img>`
 
 Images make the web visually appealing. The `<img>` tag tells which image to add, where.
+
+<aside>
+
+📺 Check out this video on Images
+
+</aside>
+
+
+<div style="position: relative; padding-bottom: 60.25%; height: 0;">
+    <iframe width="100%" height="415" src="https://www.youtube.com/embed/Ba1RLs0TgCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Example:
 
@@ -259,6 +285,17 @@ Hello world!
 - Paragraphs show the text inside the tag. They don’t make the text show a special way.
 - Each paragraph gets shown on a new line when the page is displayed.
 
+<aside>
+
+📺 Here's a recap of the Paragraph tag
+
+</aside>
+
+
+<div style="position: relative; padding-bottom: 60.25%; height: 0;">
+    <iframe width="100%" height="415" src="https://www.youtube.com/embed/By-d827_0jo" title="HTML Paragraph" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### `<h1>` to `<h6>`: Heading
 
 Example:
@@ -269,10 +306,8 @@ Example:
 ```
 
 Result:
-
-# My Website
-
-## About me
+<h2>About me</h2>
+<h4>My Website</h4>
 
 - There are six heading elements.
 - The biggest one is `h1`, the smallest is `h6`
@@ -323,34 +358,40 @@ Result:
 - `<strong>` is a strong emphasis, for **really important information**
 - `<em>` is for information that’s *different from the norm, but not as strongly emphasized*
 
-## Practice: Use the basic elements
+## Practice 1.1: Use the basic elements
 
 <aside>
 
 
-👉🏿 Your turn! Use these tags to mark up the page.
+👉🏿 Your turn! Use these tags to mark up the page. 
+
+🔑 The link below takes you to Replit where you can attempt this exercise.
+
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/Practice-Use-the-basic-elements" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+**[https://replit.com/team/web-foundations-july-2022/11-Practice-Use-the-basic-elements](https://replit.com/team/web-foundations-july-2022/11-Practice-Use-the-basic-elements)**
 
-## Practice: Find a new tag on MDN
+
+## Practice 1.2: Find a new tag on MDN
 
 <aside>
 
 
 🔍 The **Mozilla Developer Network (MDN)** is a top source of tutorials and reference materials for Web Developers. 
 
-Starting at the [MDN overview page on HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), find a description for an HTML element that’s new to you. In the Padlet below, share:
+Starting at the [MDN overview page on HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), find a description for an HTML element that’s new to you. Using the link below, share:
 
 - the name of the element
 - the link to the MDN page, and
 - what you find interesting about it
 </aside>
 
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/mxl15sdveaow1kk8" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+**[https://padlet.com/embed/mxl15sdveaow1kk8](https://padlet.com/embed/mxl15sdveaow1kk8)**
 
 ---
+
+# <p>
 
 <aside>
 
