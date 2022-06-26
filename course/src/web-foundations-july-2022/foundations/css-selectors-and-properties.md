@@ -31,13 +31,11 @@ Here’s the result:
 
 ![BCDF355C-419C-4670-A99D-D70D1D5C78AB-655-0000EDA4FBD29F61.png](../learning-with-kibo/intro-to-web-development/bcdf355c-419c-4670-a99d-d70d1d5c78ab-655-0000eda4fbd29f61.png)
 
-This CSS sets the color of the text within paragraphs to red.
-
-- **Here’s the HTML - click to open**
+This CSS sets the color of the text within paragraphs to red. Below is the HTML
     
-    ```html
-    <p>This is a paragraph. It has an <a href="https://example.com">Example Link</a> inside the paragraph. </p>
-    ```
+```html
+<p>This is a paragraph. It has an <a href="https://example.com">Example Link</a> inside the paragraph. </p>
+```
     
 
 ## Linking CSS
@@ -58,12 +56,15 @@ In the HTML file, we’ll link to `style.css` using the `<link>` tag:
 
 <aside>
 
-
 👉🏿 Try adding the `<link>` tag to this HTML page so that the styles are connected.
+
+👉🏿 Use the link below to attempt the practice exercise
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/Practice-Link-the-Stylesheet" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+**[https://replit.com/team/kibo-web/Practice-Link-the-Stylesheet](https://replit.com/team/kibo-web/Practice-Link-the-Stylesheet)**
+
+
 
 ## CSS Syntax
 
@@ -223,11 +224,15 @@ If you want to see them and browse more examples, check out the [MDN page on CSS
 <aside>
 
 
-👉🏿 Practice the selectors! In `style.css`, fill in the selectors for each of the rules so that the styles work.
+👉🏿 Practice the selectors using the Replit link below
+
+👉🏿 In `style.css`, fill in the selectors for each of the rules so that the styles work.
+
+
+[https://replit.com/team/kibo-web/Practice-Select-the-Elements](https://replit.com/team/kibo-web/Practice-Select-the-Elements)
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/Practice-Select-the-Elements" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Practice: CSS Diner
 
