@@ -368,10 +368,9 @@ Result:
 🔑 The link below takes you to Replit where you can attempt this exercise.
 
 
+**[https://replit.com/team/kibo-web/Practice-Use-the-basic-elements](https://replit.com/team/kibo-web/Practice-Use-the-basic-elements)**
+
 </aside>
-
-**[https://replit.com/team/web-foundations-july-2022/11-Practice-Use-the-basic-elements](https://replit.com/team/web-foundations-july-2022/11-Practice-Use-the-basic-elements)**
-
 
 ## Practice 1.2: Find a new tag on MDN
 
@@ -385,9 +384,10 @@ Starting at the [MDN overview page on HTML](https://developer.mozilla.org/en-US/
 - the name of the element
 - the link to the MDN page, and
 - what you find interesting about it
-</aside>
 
 **[https://padlet.com/embed/mxl15sdveaow1kk8](https://padlet.com/embed/mxl15sdveaow1kk8)**
+
+</aside>
 
 ---
 

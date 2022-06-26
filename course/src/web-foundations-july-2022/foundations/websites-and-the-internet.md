@@ -14,6 +14,17 @@ In this course, we’re focused on a specific kind of program: **Web Pages**.
 
 ## Apps, Web Apps, and Web Pages
 
+<aside>
+
+📺 Welcome to the world of Apps!
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/qt6gSW-uYKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
 **Apps** (Applications) are the programs that users interact with. There are a few different kinds:
 
 - **Native Applications** run on a specific operating system, like iOS, Android, OS X, or Windows.
@@ -22,16 +33,30 @@ In this course, we’re focused on a specific kind of program: **Web Pages**.
 
 ### **Web Pages**
 
-The line between a “Web App” and a “Web Page” is pretty fuzzy. 
+A web page is basically a document written using HTML and other web technologies which can be accessed using a web browser. Web pages contains text, images, links, and other files. Combination of multiple web pages makes up a **website**. Content of a web page can either be **static** or **dynamic**.
 
-- Usually, we say something is a **Web Page** if it’s *static.* Static **means it doesn’t change — it shows the same way for different users at different times. Wikipedia is a good example of a web page, or lots of web pages.
-- We call something a **Web App** if it’s *dynamic.* Dynamic means the site changes — it shows up differently for different users at different times, like Facebook or Gmail. It usually means it saves data that users enter.
+<aside>
 
-In this course, you’ll learn to make Web Pages. Your final project will be more like Wikipedia, and less like Facebook. 
+📺 Static vs Dynamic websites
+
+</aside>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/0QT06AFAbdc" title="Static vs Dynamic Websites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+Here's a recap on ststic and dynamic web pages. 
+
+- **Static** means it doesn’t change — it shows the same way for different users at different times. Wikipedia is a good example of a web page, or lots of web pages.
+- **Dynamic** means the site changes — it shows up differently for different users at different times, like Facebook or Gmail. It usually means it saves data that users enter.
+
+In this course, you’ll learn to make web pages. Your final project will be more like Wikipedia, and less like Facebook. 
 
 Web Apps use the same building blocks as Web Pages. The tools in this course will help when you move on to building Web Apps in the future.
 
-## Video: How does the web work?
+## 📺 How does the web work?
 
 <aside>
 
@@ -42,9 +67,7 @@ Web Apps use the same building blocks as Web Pages. The tools in this course wil
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/kBXQZMmiA4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-<aside>
-
-
+# <p>
 🤯 That was a lot information!
 
 Here’s the **main things to focus on**:
@@ -59,7 +82,7 @@ Here’s the **main things to focus on**:
 
 ![Screenshot 2022-04-11 at 18.26.02.png](websites-and-the-internet/screenshot-2022-04-11-at-18.26.02.png)
 
-</aside>
+
 
 ## How Web Apps work: Clients and Servers
 
