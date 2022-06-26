@@ -368,7 +368,7 @@ Result:
 🔑 The link below takes you to Replit where you can attempt this exercise.
 
 
-**[https://replit.com/team/kibo-web/Practice-Use-the-basic-elements](https://replit.com/team/kibo-web/Practice-Use-the-basic-elements)**
+> [https://replit.com/team/kibo-web/Practice-Use-the-basic-elements](https://replit.com/team/kibo-web/Practice-Use-the-basic-elements)
 
 </aside>
 
@@ -385,7 +385,7 @@ Starting at the [MDN overview page on HTML](https://developer.mozilla.org/en-US/
 - the link to the MDN page, and
 - what you find interesting about it
 
-**[https://padlet.com/embed/mxl15sdveaow1kk8](https://padlet.com/embed/mxl15sdveaow1kk8)**
+> [https://padlet.com/embed/mxl15sdveaow1kk8](https://padlet.com/embed/mxl15sdveaow1kk8)
 
 </aside>
 

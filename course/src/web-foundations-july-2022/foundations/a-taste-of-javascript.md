@@ -17,7 +17,8 @@ We write our JavaScript in separate files, which in this course we’ll name `sc
 ```
 
 - We use the `src` attribute to say where to find the JavaScript file.
-    - **Note:** It’s called `src` for `<script>` tags. It’s called `href` attribute for `link` and `a` tags.
+    - **Note:** It’s called `src` for `<script>` tags and `href` attribute for `link` and `a` tags.
+
 - We usually place the script tag at the end of the `<body>` tag, so that the rest of the page has loaded before the script is run.
 - The `<script>` tag is not self-closing, it needs the closing tag `</script>`.
 
@@ -28,9 +29,13 @@ We write our JavaScript in separate files, which in this course we’ll name `sc
 
 👉🏿 Add the `<script>` tag to connect the JavaScript file to the HTML page.
 
+👉🏿 Use the link below to attempt the practice exercise
+
+> [https://replit.com/team/kibo-web/Practice-Link-the-Script](https://replit.com/team/kibo-web/Practice-Link-the-Script)
+
+
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/Practice-Link-the-Script" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 ## Deeper Connections: CSS Selectors in JS

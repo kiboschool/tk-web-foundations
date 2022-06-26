@@ -9,7 +9,7 @@
     - [Websites and the Internet](web-foundations-july-2022/foundations/websites-and-the-internet.md)
 	- [HTML Elements and Attributes](web-foundations-july-2022/foundations/html-elements-and-attributes.md)
 	- [CSS Selectors and Properties](web-foundations-july-2022/foundations/css-selectors-and-properties.md)
-    - [A Aaste of Javascript](web-foundations-july-2022/foundations/a-taste-of-javascript.md)
+    - [A Taste of Javascript](web-foundations-july-2022/foundations/a-taste-of-javascript.md)
 	- [Practice](web-foundations-july-2022/foundations/practice.md)
 	- [Project](web-foundations-july-2022/foundations/project.md)
 	- [Wrap up](web-foundations-july-2022/foundations/wrap-up.md)
