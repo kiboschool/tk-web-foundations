@@ -40,9 +40,20 @@ This CSS sets the color of the text within paragraphs to red. Below is the HTML
 
 ## Linking CSS
 
-We’ll put our styles in a CSS file, usually called `style.css`. 
+<aside>
 
-In the HTML file, we’ll link to `style.css` using the `<link>` tag:
+
+📺 Check out this [Code.org](http://Code.org) video on how to link your CSS
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.youtube.com/embed/VgBVKlpLqsE" title="Linking your CSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Here's a recap on how to link CSS to your webpage.
+
+- We’ll put our styles in a CSS file, usually called `style.css`. 
+
+- In the HTML file, we’ll link to `style.css` using the `<link>` tag:
 
 ```html
 <link href="style.css" rel="stylesheet" type="text/css" />
@@ -58,11 +69,13 @@ In the HTML file, we’ll link to `style.css` using the `<link>` tag:
 
 👉🏿 Try adding the `<link>` tag to this HTML page so that the styles are connected.
 
-👉🏿 Use the link below to attempt the practice exercise
+👉🏿 Usee the link below to attempt the practice exercise
+
+> [https://replit.com/team/kibo-web/Practice-Link-the-Stylesheet](https://replit.com/team/kibo-web/Practice-Link-the-Stylesheet)
+
 
 </aside>
 
-**[https://replit.com/team/kibo-web/Practice-Link-the-Stylesheet](https://replit.com/team/kibo-web/Practice-Link-the-Stylesheet)**
 
 
 
@@ -204,7 +217,7 @@ All paragraphs, links, and elements with the `cool-text` class will be selected.
 
 ### Combining Selectors
 
-If you put two selectors together, you select elements that match both selectors*.* You can select “the paragraphs that also have the class `cool-paragraph`” by combining the `p` and `.cool-paragraph` selectors like `p.cool-paragraph`.
+If you put two selectors together, you select elements that match both selectors. You can select “the paragraphs that also have the class `cool-paragraph`” by combining the `p` and `.cool-paragraph` selectors like `p.cool-paragraph`.
 
 There are other **CSS** **combinators** that let you pick elements that have relations like “all the links inside of list items” or “paragraphs right after second-level headings”. 
 
@@ -219,6 +232,18 @@ You don’t need to memorize all the combinators.
 
 If you want to see them and browse more examples, check out the [MDN page on CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors).
 
+<aside>
+
+
+📺 A recap of CSS and Selectors
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.youtube.com/embed/XPv4EeB0PJ8?start=38" title="CSS and Selectors" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+
+
 ## Practice: Select the Elements
 
 <aside>
@@ -229,7 +254,7 @@ If you want to see them and browse more examples, check out the [MDN page on CSS
 👉🏿 In `style.css`, fill in the selectors for each of the rules so that the styles work.
 
 
-[https://replit.com/team/kibo-web/Practice-Select-the-Elements](https://replit.com/team/kibo-web/Practice-Select-the-Elements)
+> [https://replit.com/team/kibo-web/Practice-Select-the-Elements](https://replit.com/team/kibo-web/Practice-Select-the-Elements)
 
 </aside>
 
