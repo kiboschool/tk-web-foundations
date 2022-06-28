@@ -368,7 +368,7 @@ Result:
 🔑 The link below takes you to Replit where you can attempt this exercise.
 
 
-> [https://replit.com/team/kibo-web/Practice-Use-the-basic-elements](https://replit.com/team/kibo-web/Practice-Use-the-basic-elements)
+> [https://replit.com/team/web-foundations-july-2022/Practice-Use-the-basic-elements](https://replit.com/team/web-foundations-july-2022/Practice-Use-the-basic-elements)
 
 </aside>
 

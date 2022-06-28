@@ -1,4 +1,4 @@
-# Bonus more html elements
+# More HTML Elements
 
 *Estimated Time: 20 minutes*
 

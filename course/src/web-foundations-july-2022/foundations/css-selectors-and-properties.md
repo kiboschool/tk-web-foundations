@@ -71,7 +71,7 @@ Here's a recap on how to link CSS to your webpage.
 
 👉🏿 Usee the link below to attempt the practice exercise
 
-> [https://replit.com/team/kibo-web/Practice-Link-the-Stylesheet](https://replit.com/team/kibo-web/Practice-Link-the-Stylesheet)
+> [https://replit.com/team/web-foundations-july-2022/Practice-Link-the-Stylesheet](https://replit.com/team/web-foundations-july-2022/Practice-Link-the-Stylesheet)
 
 
 </aside>
@@ -254,7 +254,7 @@ If you want to see them and browse more examples, check out the [MDN page on CSS
 👉🏿 In `style.css`, fill in the selectors for each of the rules so that the styles work.
 
 
-> [https://replit.com/team/kibo-web/Practice-Select-the-Elements](https://replit.com/team/kibo-web/Practice-Select-the-Elements)
+> [https://replit.com/team/web-foundations-july-2022/Practice-Select-the-Elements](https://replit.com/team/web-foundations-july-2022/Practice-Select-the-Elements)
 
 </aside>
 

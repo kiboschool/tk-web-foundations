@@ -40,14 +40,12 @@ The solutions to each challenge are available in Replit Try to go through the wh
 
 🍲 Starting with a plain text version of a recipe, write the HTML markup to turn it into a webpage.
 
-**Access** and **submit** the assignment in Replit here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/15-Chicken-Peanut-Stew-Recipe-Page" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> or below:
+👉🏿 Access and submit the practice exercise in Replit using the link below 
+
+> [https://replit.com/team/web-foundations-july-2022/Chicken-Peanut-Stew-Recipe-Page](https://replit.com/team/web-foundations-july-2022/Chicken-Peanut-Stew-Recipe-Page)
 
 </aside>
 
-- **Chicken Peanut Stew Recipe Page Replit**
-    
-    <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/Chicken-Peanut-Stew-Recipe-Page" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-    
 
 ## Shirt City Landing Page: Debug
 
@@ -56,14 +54,13 @@ The solutions to each challenge are available in Replit Try to go through the wh
 
 👕 Help the new clothing brand Shirt City debug their landing page.
 
-**Access** and **submit** the assignment in Replit here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/16-Shirt-City-Landing-Page-Debug" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> or below: 
+👉🏿 Access and submit the practice exercise in Replit using the link below 
+
+> [https://replit.com/team/web-foundations-july-2022/Shirt-City-Landing-Page-Debug](https://replit.com/team/web-foundations-july-2022/Shirt-City-Landing-Page-Debug)
+
 
 </aside>
 
-- **Shirt City Landing Page: Debug Replit**
-    
-    <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/Shirt-City-Landing-Page-Debug" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-    
 
 ## Make a Greeting Card
 
@@ -72,14 +69,13 @@ The solutions to each challenge are available in Replit Try to go through the wh
 
 🎉 Starting with the working version of a Birthday Card web page, edit the HTML and CSS to make it your own.
 
-**Access** and **submit** the assignment in Replit here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/17-Make-a-Greeting-Card" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> or below: 
+👉🏿 Access and submit the practice exercise in Replit using the link below 
+
+> [https://replit.com/team/web-foundations-july-2022/Make-a-Greeting-Card](https://replit.com/team/web-foundations-july-2022/Make-a-Greeting-Card)
+
 
 </aside>
 
-- **Make a Greeting Card: Replit**
-    
-    <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/Make-a-Greeting-Card" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-    
 
 ---
 
