@@ -26,7 +26,10 @@ You can work together by sharing your screen, or by creating a new replit and sh
 
 This project is a chance to show off your creativity! You'll create a “CS Professor” web page using fundamental HTML elements.
 
-**Access** and **submit** the project in Replit here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/CS-Professor-Home-Page" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+👉🏿 Access and submit the practice exercise in Replit using the link below 
+
+> [https://replit.com/team/web-foundations-july-2022/CS-Professor-Home-Page](https://replit.com/team/web-foundations-july-2022/CS-Professor-Home-Page)
+
 
 </aside>
 

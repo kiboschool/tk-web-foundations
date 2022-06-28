@@ -8,10 +8,10 @@
 
 In this lesson you learned:
 
-- Explain the role of HTML, CSS, and JavaScript
-- Use core HTML elements to structure a webpage
-- Select and apply styles using CSS
-- Use a script tag to include a JavaScript file on a webpage
+- The role of HTML, CSS, and JavaScript
+- How to use core HTML elements to structure a webpage
+- Selecting and applying styles using CSS
+- Using a script tag to include a JavaScript file on a webpage
 
 ## Do you want to be a Squad Rep?
 
@@ -26,26 +26,38 @@ The responsibilities of a squad rep include things like checking in with squad m
 
 </aside>
 
-- **Fill out this form to apply! The application deadline is Sunday, May 1st.** (open toggle to see the form)
-    
-    <div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfejrh8gBx7QG-10GyN9-dFtazDDWxRhNwGpJvf3Fs8bO_7MQ/viewform?usp=send_form&embed=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
-    
-
-## How was this lesson?
-
-Feedback is a gift! We use your feedback to improve our lessons for future students. Thank you!
-
-<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe8MPmEgbVz9gL3Z8pxRHU9n0CZJKbGZV_j3YGLkuCkb9Zj2w/viewform?usp=send_form&embed=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+#### Fill out this form to apply! 
 
 <aside>
 
 
-<img src="../learning-with-kibo/man-in-hike.png" alt="../learning-with-kibo/man-in-hike.png" width="40px" /> The next lesson will be about Web Design.
+👉🏿 Fill out the form below or use [this link](https://docs.google.com/forms/d/e/1FAIpQLSctRZQiQL5SckF0CLcTKl9aT_d0j7Sqqa0Mm4ptsGPDFOMBhw/viewform) to apply.
+
+👉🏿 The application deadline is Sunday, July 24th.
+    
+<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSctRZQiQL5SckF0CLcTKl9aT_d0j7Sqqa0Mm4ptsGPDFOMBhw/viewform?usp=send_form&embed=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
 
 </aside>
 
-- If you still have time now, you can go back and explore the green **Explore More** sections.
+## How was this lesson?
+
+<aside>
+
+Feedback is a gift! We use your feedback to improve our lessons for future students. Thank you!
+
+👉🏿 Submit your feedback  below or use [this link](https://docs.google.com/forms/d/e/1FAIpQLSe5TtDfkuzDwTo4aH0cPZ_O2HOaYJF46BF1jkBvmjBJ9dyo-Q/viewform).
+
+
+<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe5TtDfkuzDwTo4aH0cPZ_O2HOaYJF46BF1jkBvmjBJ9dyo-Q/viewform?usp=send_form&embed=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+
+#
+
+<aside>
+
+> 👉🏿 If you still have time now, check out this bonus section: [More HTML Elements](bonus-more-html-elements.md)
+
+<img src="../learning-with-kibo/man-in-hike.png" alt="../learning-with-kibo/man-in-hike.png" width="40px" /> The next lesson will be about Web Design.
+
+</aside>
     
-    Or check out the bonus section with More HTML Elements
     
-    [Bonus: More HTML Elements](bonus-more-html-elements.md)

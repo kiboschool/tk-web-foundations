@@ -31,7 +31,7 @@ We write our JavaScript in separate files, which in this course we’ll name `sc
 
 👉🏿 Use the link below to attempt the practice exercise
 
-> [https://replit.com/team/kibo-web/Practice-Link-the-Script](https://replit.com/team/kibo-web/Practice-Link-the-Script)
+> [https://replit.com/team/web-foundations-july-2022/Practice-Link-the-Script](https://replit.com/team/web-foundations-july-2022/Practice-Link-the-Script)
 
 
 </aside>
