@@ -5,6 +5,8 @@
 [Admission Challenges](web-foundations-july-2022/admissions-challenge.md)
 
 [Set up for class](web-foundations-july-2022/try-kibo-onboarding.md)
+
+<!---
 	
 [Community Orientation (July 12th 2022)](web-foundations-july-2022/community-orientation-july-2022.md)
 
@@ -19,6 +21,7 @@
 	- [Wrap up](web-foundations-july-2022/foundations/wrap-up.md)
     - [Bonus: More HTML elements](web-foundations-july-2022/foundations/bonus-more-html-elements.md)
     
+-->
     
    
     
