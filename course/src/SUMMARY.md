@@ -1,6 +1,6 @@
 # Web Foundations
 
-[Welcome](web-foundations-july-2022.md)
+[Welcome!](web-foundations-july-2022.md)
 
 [Admission Challenge](web-foundations-july-2022/admissions-challenge.md)
 
