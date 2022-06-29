@@ -1,19 +1,19 @@
 # Admissions challenge: Learning web development with Kibo
 
-*Estimated Time: **2 hours and 30 minutes***
-
-[*https://bit.ly/tk6-wf2-challenge*](https://bit.ly/tk6-wf2-challenge)
+*Estimated Time: 2 hours and 30 minutes*
 
 ---
 
 ## Welcome to the Challenge!
 
 <aside>
-<img src="Admissions%20challenge%20Learning%20web%20development%20with%20bf292d19e53548e393e3733e7c8948a0/instruction.png" alt="Admissions%20challenge%20Learning%20web%20development%20with%20bf292d19e53548e393e3733e7c8948a0/instruction.png" width="40px" /> Watch the video to learn more about how notion works and how to access your challenges
+
+📺 Watch the video to learn more about how mdbook works and how to access your challenges
 
 </aside>
 
-[https://youtu.be/LaVGM4CcHgc](https://youtu.be/LaVGM4CcHgc)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/LaVGM4CcHgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 ## In this lesson, you’ll get:
 
@@ -22,20 +22,18 @@
 - A brief intro to web development
 - There’s also a Scavenger Hunt Exercise to introduce you to the DevTools.
 
-<aside>
-⚠️ **You must complete the DevTools Scavenger Hunt Assignment** to gain admission to the program!
 
-</aside>
+> ⚠️ **You must complete the DevTools Scavenger Hunt Assignment** to gain admission to the program!
+
 
 ## Before you start...
 
 At Kibo, we love learning together!
 
-[As a tradition, we take a “peakture” together on zoom!](https://lh3.googleusercontent.com/pw/AM-JKLV8Ai7156wBfMB0f3AXB91QuaBcqiC6QlBL4EfLCPhtb-K02tTmoITNihlfmhF7h2ycRLc-ts-Cqf05A4qJ_LXiIzg8kDBqRZ6yjf3UYM_3WxHWLFqhuvX5vvElXWKFttROKTFjwn3dREsefDXyECFh=w2548-h1592-no?authuser=0)
+> As a tradition, we take a “peakture” together on zoom!
 
-As a tradition, we take a “peakture” together on zoom!
+![As a tradition, we take a “peakture” together on zoom!](https://lh3.googleusercontent.com/pw/AM-JKLV8Ai7156wBfMB0f3AXB91QuaBcqiC6QlBL4EfLCPhtb-K02tTmoITNihlfmhF7h2ycRLc-ts-Cqf05A4qJ_LXiIzg8kDBqRZ6yjf3UYM_3WxHWLFqhuvX5vvElXWKFttROKTFjwn3dREsefDXyECFh=w2548-h1592-no?authuser=0)
 
-[https://lh3.googleusercontent.com/pw/AM-JKLXRMHYf9tMzB4KNJQssyUMBCFY0R4j1xiuTtYCAGZ4FU33B8nE9VFVLY4tpmBVVTxJd0G_TKDsufjzYGYNXVcguDNxzTSuL1VpewecT3jxIBQYJhyTawhubiSteGNj3h33T_J730wD9O21EyKc_WBt-=w2548-h1592-no?authuser=0](https://lh3.googleusercontent.com/pw/AM-JKLXRMHYf9tMzB4KNJQssyUMBCFY0R4j1xiuTtYCAGZ4FU33B8nE9VFVLY4tpmBVVTxJd0G_TKDsufjzYGYNXVcguDNxzTSuL1VpewecT3jxIBQYJhyTawhubiSteGNj3h33T_J730wD9O21EyKc_WBt-=w2548-h1592-no?authuser=0)
 
 ## Learning with Kibo
 
@@ -48,19 +46,8 @@ Kibo is different from other classes you have been a part of.
 
 We want everyone who enrolls in Kibo to be successful. Therefore, before you can fully enroll in the program, we want to check that Kibo-style learning works for you. That’s why we want you to read these pages, set up your tools, and complete the assignment.
 
-## Navigating in Notion
 
-You can use the top navigation bar (highlighted in red in the below image) and the links at the bottom of each page, to navigate through the lessons.
-
-![Screenshot 2022-06-07 at 01.49.15.png](Admissions%20challenge%20Learning%20web%20development%20with%20bf292d19e53548e393e3733e7c8948a0/Screenshot_2022-06-07_at_01.49.15.png)
-
-The overview page (i.e. the page you are currently on) has links to each of the other pages.
-
-At the end of each page is a link to the next page, like this:
-
-![Untitled](Admissions%20challenge%20Learning%20web%20development%20with%20bf292d19e53548e393e3733e7c8948a0/Untitled.png)
-
-## Challeng Outline
+## Challenge Outline
 
 <aside>
 
@@ -87,7 +74,7 @@ How do you actually make code show up as a website?
 
 In this course, we’ll use **Replit** to edit and run our code. Replit is also where you’ll complete practice exercises and projects.
 
-## Sign up for Replit
+### Sign up for Replit
 
 <aside>
 
@@ -181,9 +168,10 @@ Here’s an example. On the left is a snippet of HTML. On the right is that same
 
 This is a paragraph. It has an [Example Link](http://example.com) inside the paragraph.
 
-![Untitled](0%202%20Intro%20to%20Web%20Development%20d9f5bee2b28d4c61a0dc8307b7191f57/Untitled.png)
+![Untitled](./admissions-challenge/Untitled.png)
 
-## HTML Elements
+
+### HTML Elements
 
 HTML is made of text you can type on your keyboard. In addition to normal words, there are special words in angle brackets, like `<p>`, `<a>`,  and `<img>` that add structure to the content.
 
@@ -265,7 +253,7 @@ Here’s some examples:
 
 Here’s an image summarizing the parts of an HTML element:
 
-![Untitled](0%202%20Intro%20to%20Web%20Development%20d9f5bee2b28d4c61a0dc8307b7191f57/Untitled%201.png)
+![Untitled](./admissions-challenge/intro-to-web-development/Untitled-2.png)
 
 # CSS
 
@@ -283,7 +271,7 @@ This CSS sets the color of the text within paragraphs to red.
 
 Here’s the result:
 
-![BCDF355C-419C-4670-A99D-D70D1D5C78AB-655-0000EDA4FBD29F61.png](0%202%20Intro%20to%20Web%20Development%20d9f5bee2b28d4c61a0dc8307b7191f57/BCDF355C-419C-4670-A99D-D70D1D5C78AB-655-0000EDA4FBD29F61.png)
+![BCDF355C-419C-4670-A99D-D70D1D5C78AB-655-0000EDA4FBD29F61.png](./admissions-challenge/intro-to-web-development/BCDF355C-419C-4670-A99D-D70D1D5C78AB-655-0000EDA4FBD29F61.png)
 
 (Here’s the HTML)
 
@@ -300,11 +288,11 @@ Set a timer for **10 minutes** to experiment with HTML and CSS in Replit.
 
 - Try changing the text in the paragraph.
 - Try changing the CSS so that the color is blue.
+- Use the link below to access and attempt the exercise
+
+> [https://replit.com/@kibocurriculum/Try-it-Change-The-Colour](https://replit.com/@kibocurriculum/Try-it-Change-The-Colour)
+
 </aside>
-
-*If the embed below doesn’t load, use this link to open the page directly:* [https://replit.com/@kibocurriculum/Try-it-Change-The-Colour](https://replit.com/@kibocurriculum/Try-it-Change-The-Colour)
-
-[https://replit.com/@kibocurriculum/Try-it-Change-The-Colour](https://replit.com/@kibocurriculum/Try-it-Change-The-Colour)
 
 ## CSS Syntax
 
@@ -318,7 +306,7 @@ A declaration is a **property** and a **value.**
 > In the example, the property is `color` and the value is `red`
 > 
 
-![Untitled](0%202%20Intro%20to%20Web%20Development%20d9f5bee2b28d4c61a0dc8307b7191f57/Untitled%202.png)
+![Untitled](./admissions-challenge/intro-to-web-development/Untitled-2.png)
 
 There’s a ton more to learn about how the selectors work, what properties are available, and what values are available. We’ll cover some in the course, but not everything!
 
@@ -327,14 +315,18 @@ There’s a ton more to learn about how the selectors work, what properties are 
 The other tools we’ll use frequently in the course are the Browser Developer Tools (also called the “DevTools”, the “Inspector”, or the “Console”).
 
 <aside>
+
 🎥 Here’s a quick video of how to open and use the DevTools
 
 </aside>
 
-[https://www.loom.com/share/0e80e8d156ae4cb6a417d7591f88e04b](https://www.loom.com/share/0e80e8d156ae4cb6a417d7591f88e04b)
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/0e80e8d156ae4cb6a417d7591f88e04b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<br>
+
+👍🏿 The DevTools are awesome for seeing how a webpage is working, and testing out code.
 
 <aside>
-👍🏿 The DevTools are awesome for seeing how a webpage is working, and testing out code.
 
 > **It’s impossible to do any permanent damage to a website from the DevTools.**
 > 
@@ -367,9 +359,88 @@ You can read more on MDN about [What the DevTools are](https://developer.mozilla
 Next, you’ll use the DevTools to find hidden messages in the Scavenger Hunt.
 
 ---
+# <br>
+# Assignment - Scavenger Hunt
 
+For this Scavenger Hunt, you’ll use the DevTools to view and edit properties of a webpage. You’ll get to explore for yourself what a webpage is made of, and practice using the tools that real web developers use to debug websites.
 
 <aside>
-<img src="Admissions%20challenge%20Learning%20web%20development%20with%20bf292d19e53548e393e3733e7c8948a0/man-in-hike.png" alt="Admissions%20challenge%20Learning%20web%20development%20with%20bf292d19e53548e393e3733e7c8948a0/man-in-hike.png" width="40px" /> Next up: [Sign Up for Replit](Admissions%20challenge%20Learning%20web%20development%20with%20bf292d19e53548e393e3733e7c8948a0/0%201%20Sign%20Up%20for%20Replit%20e69421c058ec4e0188afc5fe631ffde6.md)
+
+⚠️ You must submit the assignment** to be admitted to the program.
+
+📵 This challenge is not designed for mobile phones. If you do not have access to a laptop, you will not be able to enroll in the program.
 
 </aside>
+
+
+## Instructions
+
+- On your laptop, go to [https://devtools.programming.africa/](https://devtools.programming.africa)
+- Use the DevTools to find the **secret messages** on the page
+- When you are finished, **enter the full secret message** into the form below
+
+<aside>
+🚨 We need to know who you are! When you fill out the form
+
+1. **Use your preferred first and last name**
+2. **Use the email you used to apply for Kibo**
+</aside>
+
+<aside>
+⚠️ If you get stuck on this assignment, watch the video below to see how to solve each clue.
+
+⚠️ **Solution Video** (Only watch if you are totally stuck!)
+    
+This video shows a slightly different version of the challenge. You should be able to follow the same steps, but **the answer shown in this video is not the correct answer**!
+
+> [https://www.loom.com/share/6c15b25937af4431b5a5c7ed85ec26ff](https://www.loom.com/share/6c15b25937af4431b5a5c7ed85ec26ff)
+    
+</aside>
+
+<aside>
+
+Enter the full message into the form below
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfi-TtHqlX3hIfG4K6qfHZiujg6l0viyQpe-gQUgm3csoR5lQ/viewform" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+---
+
+<br>
+
+# Wrap Up
+
+<aside>
+
+⚠️ Have you submitted the answer to the Scavenger Hunt?
+
+</aside>
+
+**If so, congratulations! You have now completed the admissions challenge! 🎉**
+
+<aside>
+
+Here’s what you learned:
+
+- How to use **Replit** and **Notion** to learn with Kibo
+- The **basics of HTML, CSS, and JavaScript**
+- How to **use DevTools** to view and edit properties of a webpage
+
+</aside>
+
+## What’s next?
+
+- **Receive your admission decision:** we will review your submission and send you an email within one week if you have been admitted to the program.
+- **Complete onboarding:** During the week of July 4, you will select your live class time, and join our Discord learning community. Once you complete these steps, you will be sent an invite to Orientation which is mandatory and takes place on **[July 12 at 3 pm GMT](https://www.timeanddate.com/worldclock/converter.html?iso=20220712T150000&p1=tz_gmt)** on Zoom. **Save the date!**
+
+## Congrats!
+
+We’re so excited for you to join Kibo! We hope this brief taste of Web Development gets you excited for what’s to come.
+
+![peakture](./admissions-challenge/peakture.jpeg)
+
+---
+
+## See you soon! ✨
