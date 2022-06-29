@@ -12,7 +12,7 @@ In week 2, you’ll learn about **Web Design**, and how to use CSS with text, co
 
 In week 3, you’ll learn about **Multimedia**, and page layout using CSS.
 
-In week 4, you’ll understand **basics of Javascript** and event listeners.
+In week 4, you’ll understand the **basics of Javascript** and event listeners.
 
 In week 5, you’ll build your **final project**. 
 
