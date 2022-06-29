@@ -133,7 +133,7 @@ Here’s some examples:
 
 <aside>
 
-📺 Check out this video on the summary of HTML Attributes
+📺 Here'a recap on HTML Attributes
 
 </aside>
 
@@ -358,7 +358,7 @@ Result:
 - `<strong>` is a strong emphasis, for **really important information**
 - `<em>` is for information that’s *different from the norm, but not as strongly emphasized*
 
-## Practice 1.1: Use the basic elements
+## Practice: Use the basic elements
 
 <aside>
 
@@ -372,7 +372,7 @@ Result:
 
 </aside>
 
-## Practice 1.2: Find a new tag on MDN
+## Practice: Find a new tag on MDN
 
 <aside>
 

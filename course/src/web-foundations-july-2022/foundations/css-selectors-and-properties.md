@@ -4,7 +4,7 @@
 
 ---
 
-You saw some CSS in Lesson 0. Let’s revisit what you learned, and dive deeper into CSS Selectors.
+You were previously introduced to CSS. Let’s revisit what you learned, and dive deeper into CSS Selectors.
 
 <aside>
 
