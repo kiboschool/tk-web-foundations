@@ -4,15 +4,15 @@
 
 ---
 
-## Welcome to the Challenge!
+## Congratulations on completing the challenge!
 
 <aside>
 
-📺 Watch the video to learn more about how mdbook works and how to access your challenges
+Well done on completing the challenge and gaining admission to the program. This page includes all the lessons you did as part of the challenge for reference. If you made it this far, you have already completed the challenge so head to the next section. 
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/LaVGM4CcHgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 
 ## In this lesson, you’ll get:
