@@ -14,11 +14,14 @@
     <iframe width="100%" height="600" src="https://www.youtube.com/embed/j4ilyAbvsF4" title="Welcome to the web foundation course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Lessons
+## Completing Your Lessons
 
-[Community Orientation (July 12th, 2022)](web-foundations-july-2022/community-orientation-july-2022.md)
+This page will include all of your lessons for the class. Each week, Wasiu will add new lessons and assignments for your to work on. 
+Be sure to bookmark this page to find all of your lessons. You can get to this page using: [https://bit.ly/tk6-wf](https://bit.ly/tk6-wf)
 
-[Foundations](web-foundations-july-2022/foundations.md)
+To find your lessons, use the Table of Contents in the top left of the page. Click on the menu icon (three horizontal lines) to see your lessons. You can also click the arrows to navigate to the next lesson. Watch the video below from Emmy, your community manager, for more information on navigating the website. 
+
+TODO: ADD A VIDEO WALKTHROUGH
 
 ## Program Schedule
 
