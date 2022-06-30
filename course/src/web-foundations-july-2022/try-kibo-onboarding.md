@@ -22,8 +22,8 @@ You must attend live class once a week on Zoom. This is one of the most loved pa
 
 | Instructor | Time (in GMT, translate to your local time) | Sign-up Link | Status |
 | --- | --- | --- | --- |
-| Wasiu | 1:30pm GMT | https://lu.ma/{update} | open |
-| Wasiu | 3:30pm GMT | https://lu.ma/{update} | open|
+| Wasiu | 1:30pm GMT | https://lu.ma/wf-wasiu-A | open |
+| Wasiu | 3:30pm GMT | https://lu.ma/wf-wasiu-B | open|
 
 
 ---
