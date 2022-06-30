@@ -1,4 +1,4 @@
-# Try kibo onboarding
+# Set up for class
 
 ---
 
@@ -16,7 +16,7 @@ You must attend live class once a week on Zoom. This is one of the most loved pa
 <aside>
 
 
-🗓️ Each class takes place on Thursday, and is 1 hour and 30 minutes long. The class dates are **Thursday April 28th**, **Thursday May 5th**, **Thursday May 12th**, and **Thursday May 19th**.
+🗓️ Each class takes place on Thursday, and is 1 hour and 30 minutes long. The class dates are **Thursday July 14th**, **Thursday July 21st**, **Thursday July 28th**, and **Thursday August 4th**.
 
 </aside>
 
