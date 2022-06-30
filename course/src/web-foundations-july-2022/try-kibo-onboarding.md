@@ -43,7 +43,6 @@ You have already a Replit account during the admissions challenge.
 - Select "Sign in" at the top right corner and enter your details
 - [Click this link](https://replit.com/teams/join/paxrvpstiwxhfotukkmarthkpaiapjmk-web-foundations-july-2022) to join the Replit team for the class. 
 
-
 # Join Discord and Introduce Yourself!
 
 Discord is our community platform. It's where you will get daily announcements, get help from instructors, attend office hours, and learn together with your classmates. Once the program starts, all communication from the Kibo team will be through Discord, so joining is mandatory. 
