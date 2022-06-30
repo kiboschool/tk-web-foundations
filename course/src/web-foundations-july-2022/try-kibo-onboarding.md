@@ -22,17 +22,26 @@ You must attend live class once a week on Zoom. This is one of the most loved pa
 
 | Instructor | Time (in GMT, translate to your local time) | Sign-up Link | Status |
 | --- | --- | --- | --- |
-| Charles | 12:00pm GMT | https://lu.ma/wf1-charles | FULL - no more sign ups |
-| Trevor | 12:00pm GMT | https://lu.ma/wf1-trevor | FULL - no more sign ups |
-| Wasiu | 3:00pm GMT | https://lu.ma/wf1-wasiu | FULL - no more sign ups |
-| Jesse | 5:00pm GMT | https://lu.ma/wf1-jesse | FULL - no more sign ups |
-| Oyebola | 5:00pm GMT | https://lu.ma/wf1-oyebola |  |
-| Zainab | 5:30pm GMT | https://lu.ma/wf1-zainab |  |
+| Wasiu | 1:30pm GMT | https://lu.ma/{update} | open |
+| Wasiu | 3:30pm GMT | https://lu.ma/{update} | open|
+
 
 ---
 
 # Join Replit for class
-We will be using Replit to complete assignments in the class. [Click this link](https://replit.com/teams/join/paxrvpstiwxhfotukkmarthkpaiapjmk-web-foundations-july-2022) to join the Replit team for the class. 
+<aside>
+
+🛠️ As you know, during Try Kibo, you will write code in Replit. It has everything you need to build and run computer programs in HTML, CSS, and JavaScript.
+
+You will use Replit to **practice coding** and to **submit your assignments**.
+
+</aside>
+
+You have already a Replit account during the admissions challenge. 
+
+- Go to [replit.com](https://replit.com)
+- Select "Sign in" at the top right corner and enter your details
+- [Click this link](https://replit.com/teams/join/paxrvpstiwxhfotukkmarthkpaiapjmk-web-foundations-july-2022) to join the Replit team for the class. 
 
 
 # Join Discord and Introduce Yourself!
