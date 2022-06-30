@@ -80,7 +80,7 @@ Introduce yourself in the #general channel by posting a message with:
 
 # Onboarding Checklist
 
-We’re excited to see you at Orientation on Monday April 25th from 3pm - 5pm GMT. You should already have an invitation with a zoom link. Before you go, make sure that you have:
+We’re excited to see you at Orientation on Tuesday July 12th from 3pm - 5pm GMT. You should already have an invitation with a zoom link. Before you go, make sure that you have:
 
 - [ ]  **Selected a live class time (and received a confirmation email)**
 - [ ]  **Joined Discord and updated your profile name, photo, and description**
