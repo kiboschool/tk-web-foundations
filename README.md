@@ -133,3 +133,12 @@ If all that's been done...
 * All pushes will automatically deploy to vercel
 * Vercel will notify the #tech-status channel on Slack with the deploy preview
 * If you pushed to `main`, it will also deploy to the live site. Watch out!
+
+## Previews and Drafts
+
+If you'd like to preview changes, push to a branch (like the `draft` branch that
+will hang around). Check the #tech-status channel in Slack for a link to the
+preview when you make a change.
+
+Remember - commits to main get built and deployed to the production site; others
+just get previews.
