@@ -12,7 +12,6 @@ $ tree .
 ├── README.md
 ├── convert.rb
 └── course
-    ├── output
     ├── book.toml
     └── src
         ├── SUMMARY.md
@@ -52,8 +51,9 @@ And it fixes (by matching and replacing on regexes) notion export issues with:
 
 ### course/
 
-Holds all the course files (in `src/`), the mdbook config (`book.toml`) and the
-static site output (`course/output`). 
+Holds all the course files (in `src/`), the mdbook config (`book.toml`) 
+
+The static site is built to `course/output` but that gets ignored by git.
 
 ### course/output
 
@@ -66,12 +66,9 @@ mdbook build
 
 Output lives here, in `course/output`.
 
-*Note*: In a bit of an unusual move, we commit all the build artifacts. This kinda sucks
-for the git commit history, but it makes the build process really dumb, and dumb
-is simple and easy to debug. What should be served on the production site?
-Whatever is in `course/output`.
+You can usually ignore the files in `output`, git will.
 
-You can usually ignore the files in `output`.
+Note: we used to commit the build artifacts, but don't anymore.
 
 ### course/book.toml
 
@@ -131,22 +128,8 @@ vercel, assign a production domain, and set up auto-deploys.
 
 If all that's been done...
 
-* Pushes to the `main` branch will automatically deploy to vercel. 
-* Vercel serves the static content from the `course/output` directory. Run `mdbook
-build` to update the build output.
 
-### Manual deployment
-
-You'll need vercel permissions.
-
-Create a preview deploy:
-
-```
-vercel
-```
-
-Deploy to production:
-
-```
-vercel --prod
-```
+* Github actions will run `mdbook build` on pushed changes
+* All pushes will automatically deploy to vercel
+* Vercel will notify the #tech-status channel on Slack with the deploy preview
+* If you pushed to `main`, it will also deploy to the live site. Watch out!
