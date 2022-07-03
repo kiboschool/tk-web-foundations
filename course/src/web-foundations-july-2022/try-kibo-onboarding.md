@@ -21,8 +21,6 @@ You must attend live class once a week on Zoom. This is one of the most loved pa
 | Wasiu | 3:30pm GMT | <a href="https://lu.ma/wf-wasiu-B" target="_blank"> lu.ma/wf-wasiu-B</a> | open|
 
 
----
-
 ## Join Replit team
 <aside>
 
@@ -30,17 +28,17 @@ You must attend live class once a week on Zoom. This is one of the most loved pa
 
 </aside>
 
-You have already created a Replit account during the admissions challenge. 
+You have already created a Replit account during the admissions challenge. To prepare to use Replit in class:
 
-- Go to [replit.com](https://replit.com)
-- Select "Log in" at the top right corner to login to your account
-- [Click this link](https://replit.com/teams/join/paxrvpstiwxhfotukkmarthkpaiapjmk-web-foundations-july-2022) to join the Replit team for the class. 
+1. Go to [replit.com](https://replit.com)
+2. Select "Log in" at the top right corner to login to your account
+3. [Click this link](https://replit.com/teams/join/paxrvpstiwxhfotukkmarthkpaiapjmk-web-foundations-july-2022) to join the Replit team for the class. 
 
 ## Join Discord and introduce yourself
 
 Discord is our community platform. It's where you will get daily announcements, get help from instructors, attend office hours, and learn together with your classmates. Once the program starts, all communication from the Kibo team will be through Discord, so joining is mandatory. 
 
-### Join Kibo School on Discord
+### Join Kibo School server
 1. If you already have a Discord account, [login in to Discord](https://discord.com/login). Otherwise, [create a Discord account](https://discord.com/register?redirect_to=%2Flogin) then check your email to verify your account. Be sure to check your spam folder if you don't see the email
 2. **Click here to join the Kibo School Discord server: [https://discord.gg/ghmxYFQmPp](https://discord.gg/ghmxYFQmPp).** 
 
@@ -86,5 +84,3 @@ Before you go, make sure that you have:
 - [ ]  Marked your calendar for Orientation on Tuesday July 12 at 3pm GMT
 
  See you soon! 🎉🎉
-
----
