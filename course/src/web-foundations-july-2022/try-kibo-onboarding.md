@@ -2,7 +2,7 @@
 
 ---
 
-# Sign up for a live class
+## Sign up for a live class
 
 You must attend live class once a week on Zoom. This is one of the most loved parts of the program! You get a chance to solve problems and learn with amazing instructors. **Please select the time that works for you below then click the link to register.** 
 
@@ -21,28 +21,26 @@ You must attend live class once a week on Zoom. This is one of the most loved pa
 | Wasiu | 3:30pm GMT | <a href="https://lu.ma/wf-wasiu-B" target="_blank"> lu.ma/wf-wasiu-B</a> | open|
 
 
----
-
-# Join Replit team
+## Join Replit team
 <aside>
 
 🛠️ As you know, during Try Kibo, you will write code in Replit. It has everything you need to build and run computer programs in HTML, CSS, and JavaScript. You will use Replit to **practice coding** and to **submit your assignments**.
 
 </aside>
 
-You have already created a Replit account during the admissions challenge. 
+You have already created a Replit account during the admissions challenge. To prepare to use Replit in class:
 
-- Go to [replit.com](https://replit.com)
-- Select "Log in" at the top right corner to login to your account
-- [Click this link](https://replit.com/teams/join/paxrvpstiwxhfotukkmarthkpaiapjmk-web-foundations-july-2022) to join the Replit team for the class. 
+1. Go to [replit.com](https://replit.com)
+2. Select "Log in" at the top right corner to login to your account
+3. [Click this link](https://replit.com/teams/join/paxrvpstiwxhfotukkmarthkpaiapjmk-web-foundations-july-2022) to join the Replit team for the class. 
 
-# Join Discord and introduce yourself
+## Join Discord and introduce yourself
 
 Discord is our community platform. It's where you will get daily announcements, get help from instructors, attend office hours, and learn together with your classmates. Once the program starts, all communication from the Kibo team will be through Discord, so joining is mandatory. 
 
-### Join Kibo School on Discord
+### Join Kibo School server
 1. If you already have a Discord account, [login in to Discord](https://discord.com/login). Otherwise, [create a Discord account](https://discord.com/register?redirect_to=%2Flogin) then check your email to verify your account. Be sure to check your spam folder if you don't see the email
-2. **Click here to join the Kibo School Discord server: [https://discord.gg/9Vqam4Ub](https://discord.gg/9Vqam4Ub).** 
+2. **Click here to join the Kibo School Discord server: [https://discord.gg/ghmxYFQmPp](https://discord.gg/ghmxYFQmPp).** 
 
 If you have trouble signing up for Discord, wait a few hours then try again. 
 
@@ -74,7 +72,7 @@ Introduce yourself in the #general channel by posting a message with:
 
 ---
 
-# Onboarding Checklist
+## Onboarding Checklist
 
 We’re excited to see you at Orientation on **Tuesday July 12th from 3pm - 5pm GMT.** If you complete all the steps on this page, you will get a calendar invitation for orientation on Saturday. Remember that attending orientation is mandatory to take the class.
 
@@ -86,5 +84,3 @@ Before you go, make sure that you have:
 - [ ]  Marked your calendar for Orientation on Tuesday July 12 at 3pm GMT
 
  See you soon! 🎉🎉
-
----
