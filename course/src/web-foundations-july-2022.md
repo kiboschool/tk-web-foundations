@@ -6,7 +6,7 @@
 <aside>
 
 
-<img src="./web-foundations-july-2022/instruction.png" alt="Web foundation" width="40px" /> Watch this welcome video from your instructor, Wasiu.
+📺 Watch this welcome video from your instructor, Wasiu.
 
 </aside>
 
@@ -19,7 +19,14 @@
 This page will include all of your lessons for the class. Each week, Wasiu will add new lessons and assignments for your to work on. 
 Be sure to bookmark this page to find all of your lessons. You can get to this page using: [https://bit.ly/tk6-wf](https://bit.ly/tk6-wf)
 
-To find your lessons, use the Table of Contents in the top left of the page. Click on the menu icon (three horizontal lines) to see your lessons. You can also click the arrows to navigate to the next lesson. Watch the video below from Emmy, your community manager, for more information on navigating the website. 
+To find your lessons, use the Table of Contents in the top left of the page. Click on the menu icon (three horizontal lines) to see your lessons. You can also click the arrows to navigate to the next lesson. 
+
+<aside>
+
+
+📺 Watch this lesson navigation walkthrough video from Emmy, your community manager
+
+</aside>
 
 TODO: ADD A VIDEO WALKTHROUGH
 
