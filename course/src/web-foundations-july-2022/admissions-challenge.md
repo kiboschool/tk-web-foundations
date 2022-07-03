@@ -1,14 +1,9 @@
 # Admissions challenge: Learning web development with Kibo
-
-*Estimated Time: 2 hours and 30 minutes*
-
 ---
-
-## Congratulations on completing the challenge!
 
 <aside>
 
-Well done on completing the challenge and gaining admission to the program. This page includes all the lessons you did as part of the challenge for reference. If you made it this far, you have already completed the challenge so head to the next section. 
+Well done on completing the challenge and gaining admission to the program. This page includes all the lessons you did as part of the challenge for reference. You've finished the challenge, so there is nothing for you to do on this page! Feel free to come back and read through these materials for reference.
 
 </aside>
 
