@@ -23,7 +23,7 @@ You must attend live class once a week on Zoom. This is one of the most loved pa
 
 ---
 
-# Join Replit for class
+# Join Replit team
 <aside>
 
 🛠️ As you know, during Try Kibo, you will write code in Replit. It has everything you need to build and run computer programs in HTML, CSS, and JavaScript. You will use Replit to **practice coding** and to **submit your assignments**.
@@ -36,7 +36,7 @@ You have already created a Replit account during the admissions challenge.
 - Select "Log in" at the top right corner to login to your account
 - [Click this link](https://replit.com/teams/join/paxrvpstiwxhfotukkmarthkpaiapjmk-web-foundations-july-2022) to join the Replit team for the class. 
 
-# Join Discord and Introduce Yourself!
+# Join Discord and introduce yourself
 
 Discord is our community platform. It's where you will get daily announcements, get help from instructors, attend office hours, and learn together with your classmates. Once the program starts, all communication from the Kibo team will be through Discord, so joining is mandatory. 
 
@@ -46,7 +46,7 @@ Discord is our community platform. It's where you will get daily announcements, 
 
 If you have trouble signing up for Discord, wait a few hours then try again. 
 
-### Update your Discord Profile
+### Update your Discord profile
 
 You can customize your profile by finding yourself in the member list, then selecting “Edit Server Profile.” For instructions, see the gif below.
 
@@ -56,7 +56,7 @@ You can customize your profile by finding yourself in the member list, then sele
 
 ![Server-Avatar-Right-Click-demo.gif](/web-foundations-july-2022/try-kibo-onboarding/server-avatar-right-click-demo.gif)
 
-### Introduce Yourself
+### Introduce yourself
 
 Introduce yourself in the #general channel by posting a message with:
 
@@ -70,19 +70,21 @@ Introduce yourself in the #general channel by posting a message with:
 
 *Example:*
 
-![Screenshot 2022-04-08 at 10.13.11 AM.png](/web-foundations-april-2022/try-kibo-onboarding/screenshot-2022-04-08-at-10.13.11-am.png)
+![Screenshot 2022-04-08 at 10.13.11 AM.png](/web-foundations-july-2022/try-kibo-onboarding/screenshot-2022-04-08-at-10.13.11-am.png)
 
 ---
 
 # Onboarding Checklist
 
-We’re excited to see you at Orientation on Tuesday July 12th from 3pm - 5pm GMT. You should already have an invitation with a zoom link. Before you go, make sure that you have:
+We’re excited to see you at Orientation on **Tuesday July 12th from 3pm - 5pm GMT.** If you complete all the steps on this page, you will get a calendar invitation for orientation on Saturday. Remember that attending orientation is mandatory to take the class.
+
+Before you go, make sure that you have:
 
 - [ ]  Selected a live class time (and received a confirmation email)
 - [ ]  Joined Discord and updated your profile name, photo, and description
 - [ ]  Introduced yourself in the #general channel on Discord
 - [ ]  Marked your calendar for Orientation on Tuesday July 12 at 3pm GMT
 
-If you complete all the steps above, you will get a calendar invitation for orientation on Saturday. Remember that attending orientation is mandatory to take the class. See you soon! 🎉🎉
+ See you soon! 🎉🎉
 
 ---
