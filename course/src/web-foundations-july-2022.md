@@ -1,7 +1,8 @@
 # Web Foundations
 [https://bit.ly/tk6-wf](https://bit.ly/tk6-wf)
 
-**Welcome to Web Foundations!** You are joining a global learning community dedicated to helping you learn and thrive in computer science. This page contains the lessons for the course. 
+**Welcome to Web Foundations!** You are joining a global learning community dedicated to helping you learn and thrive in computer science. This page includes links to the lessons for the course.  New lessons will be added each week.
+
 <aside>
 
 
