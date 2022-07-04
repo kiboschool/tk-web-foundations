@@ -46,13 +46,19 @@ If you have trouble signing up for Discord, wait a few hours then try again.
 
 ### Update your Discord profile
 
-You can customize your profile by finding yourself in the member list, then selecting “Edit Server Profile.” For instructions, see the gif below.
+First, update your nickname. To do this:
+1. Click the arrow next to Kibo School in the top left
+2. Select “Edit Server Profile" 
+3. Update your **nickname** to your first name and last name initial (e.g. Emmy O, Ope B). This will change your nickname in the Kibo School server only. 
 
-1. Update your **name** to your first name and last name initial (e.g. Emmy O, Ope B)
-2. Upload a profile photo.
+![image](https://user-images.githubusercontent.com/1774663/177208516-a1a24791-5c9d-47df-bc1b-52498fc23ba8.png)
+
+
+To customize the rest of your profile
+1. From the Server Profile page, click "User Profile" on the left
+2. Upload a profile photo as your **avatar**
 3. In the About Me section, add a **description** with a sentence or two about who you are, or include a quote you like.
 
-![Server-Avatar-Right-Click-demo.gif](/web-foundations-july-2022/try-kibo-onboarding/server-avatar-right-click-demo.gif)
 
 ### Introduce yourself
 
@@ -74,13 +80,13 @@ Introduce yourself in the #general channel by posting a message with:
 
 ## Onboarding Checklist
 
-We’re excited to see you at Orientation on **Tuesday July 12th from 3pm - 5pm GMT.** If you complete all the steps on this page, you will get a calendar invitation for orientation on Saturday. Remember that attending orientation is mandatory to take the class.
+We’re excited to see you at Orientation on **Tuesday July 12th from 3pm - 5pm GMT (convert to your local timezone <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20220712T150000&p1=tz_gmt" target="_blank">here</a>).** If you complete all the steps on this page, on Saturday you will get a calendar invitation for orientation. Remember that attending orientation is mandatory to take the class.
 
 Before you go, make sure that you have:
 
-- [ ]  Selected a live class time (and received a confirmation email)
-- [ ]  Joined Discord and updated your profile name, photo, and description
-- [ ]  Introduced yourself in the #general channel on Discord
-- [ ]  Marked your calendar for Orientation on Tuesday July 12 at 3pm GMT
+- Registered for a live class time (and received a confirmation email)
+- Joined Discord and updated your profile name, photo, and description
+- Introduced yourself in the #general channel on Discord
+- Marked your calendar for Orientation on Tuesday July 12 at 3pm GMT
 
  See you soon! 🎉🎉
