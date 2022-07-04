@@ -46,13 +46,18 @@ If you have trouble signing up for Discord, wait a few hours then try again.
 
 ### Update your Discord profile
 
-You can customize your profile by finding yourself in the member list, then selecting “Edit Server Profile.” For instructions, see the gif below.
+To customize your profile:
+1. Click the arrow next to Kibo School in the top left
+2. Select “Edit Server Profile" 
+3. Update your **nickname** to your first name and last name initial (e.g. Emmy O, Ope B). This will change you nickname in the Kibo School server only. See image below:
+![image](https://user-images.githubusercontent.com/1774663/177208516-a1a24791-5c9d-47df-bc1b-52498fc23ba8.png)
 
-1. Update your **name** to your first name and last name initial (e.g. Emmy O, Ope B)
-2. Upload a profile photo.
+
+To customize the rest of your profile
+1. From the Server Profile page, click "User Profile" on the left
+2. Upload a profile photo as your **avatar**
 3. In the About Me section, add a **description** with a sentence or two about who you are, or include a quote you like.
 
-![Server-Avatar-Right-Click-demo.gif](/web-foundations-july-2022/try-kibo-onboarding/server-avatar-right-click-demo.gif)
 
 ### Introduce yourself
 
