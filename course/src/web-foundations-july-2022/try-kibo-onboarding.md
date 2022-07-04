@@ -49,7 +49,8 @@ If you have trouble signing up for Discord, wait a few hours then try again.
 First, update your nickname. To do this:
 1. Click the arrow next to Kibo School in the top left
 2. Select “Edit Server Profile" 
-3. Update your **nickname** to your first name and last name initial (e.g. Emmy O, Ope B). This will change your nickname in the Kibo School server only. See image below:
+3. Update your **nickname** to your first name and last name initial (e.g. Emmy O, Ope B). This will change your nickname in the Kibo School server only. 
+
 ![image](https://user-images.githubusercontent.com/1774663/177208516-a1a24791-5c9d-47df-bc1b-52498fc23ba8.png)
 
 
@@ -79,7 +80,7 @@ Introduce yourself in the #general channel by posting a message with:
 
 ## Onboarding Checklist
 
-We’re excited to see you at Orientation on **Tuesday July 12th from 3pm - 5pm GMT.** If you complete all the steps on this page, on Saturday you will get a calendar invitation for orientation. Remember that attending orientation is mandatory to take the class.
+We’re excited to see you at Orientation on **Tuesday July 12th from 3pm - 5pm GMT (convert to your local timezone <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20220712T150000&p1=tz_gmt" target="_blank">here</a>).** If you complete all the steps on this page, on Saturday you will get a calendar invitation for orientation. Remember that attending orientation is mandatory to take the class.
 
 Before you go, make sure that you have:
 
