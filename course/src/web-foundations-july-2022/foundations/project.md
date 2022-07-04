@@ -1,17 +1,17 @@
-# Project
-
+# Project: Your “CS Professor” Home Page
 *Estimated Time: 2 hours*
+
+*Due date: Sunday, July 17*
 
 ---
 
-# Project: Your “CS Professor” Home Page
 
-**Due date: Sunday, May 1st**
 
 <aside>
 
+**👥 This is a team project.**
 
-👥 This is a team project. Find a teammate (or two teammates, for a maximum of three students per team) from your squad, and schedule time to work on the project together.
+Find a teammate (or two teammates, for a maximum of three students per team) from your squad, and schedule time to work on the project together.
 
 If you have trouble finding a partner, or have trouble with the project, use the **#help-web** channel in Discord. You can work with anyone, you are not restricted to your squad. You are also allowed to work on your own, but it’s good practice to work together.
 
@@ -19,19 +19,13 @@ You can work together by sharing your screen, or by creating a new replit and sh
 
 </aside>
 
-<aside>
-
-
-👩🏾‍🏫 **CS Professor Home Page**
+## 👩🏾‍🏫 **CS Professor Home Page**
 
 This project is a chance to show off your creativity! You'll create a “CS Professor” web page using fundamental HTML elements.
 
-👉🏿 Access and submit the practice exercise in Replit using the link below 
-
+> 👉🏿 Access and submit the project in Replit using this link
+>
 > [https://replit.com/team/web-foundations-july-2022/CS-Professor-Home-Page](https://replit.com/team/web-foundations-july-2022/CS-Professor-Home-Page)
-
-
-</aside>
 
 Remember...
 

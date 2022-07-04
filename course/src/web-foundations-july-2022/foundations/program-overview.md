@@ -25,9 +25,9 @@ Along the way, your mindset will change.
 - You’ll learn how to **break problems down** into smaller pieces and solve them piece by piece 🧩
 - You’ll make friends and **collaborate with teammates** 👥
 
-## Navigating the lessons in mdbook
+## Navigating the lessons 
 
-Lessons are here in mdbook. They will be released once a week on Friday evening.
+Lessons are here on this website. They will be released once a week on Friday evening.
 
 Each lesson includes:
 
@@ -56,12 +56,13 @@ Each week, there is a page of **Practice** problems. Practice problems are your 
 
 Some practice problems have **Model Solutions**. If you click 'Submit' on the assignment, you can view the model solution from the assignments page. See the video below to see how to view the model solutions.
 
-- How to view Solutions in Replit
+<details><summary>How to view Solutions in Replit</summary>
     
-    <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/81f6c4a19a3a470c96b21b76253625bc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-    
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/81f6c4a19a3a470c96b21b76253625bc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Some practice problems also have **video solutions.** The video solution will be next to the Practice assignment in mdbook.
+</details>
+
+Some practice problems also have **video solutions.** The video solution will be next to the Practice assignment in the lesson.
 
 ## Projects
 
@@ -94,14 +95,8 @@ Working with peers, getting feedback on your code, and asking questions are all 
 
 Office Hours are an optional chance to get help from a Teaching Assistant (TA) or an Instructor on your questions, exercises, or projects. They are scheduled for multiple time slots during the week, so that you have a chance to get help if you're stuck, confused, or just get extra feedback on your code.
 
-<aside>
-
-
 After each Try Kibo, students say:
 
 > *I wish I had attended office hours sooner!*
-> 
-
+ 
 Come to office hours as soon as they are available. They are really helpful!
-
-</aside>

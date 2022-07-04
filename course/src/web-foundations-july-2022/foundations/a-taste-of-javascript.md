@@ -1,4 +1,4 @@
-# A taste of javascript
+# A Taste of JavaScript
 
 *Estimated Time: 15 minutes*
 
@@ -17,31 +17,25 @@ We write our JavaScript in separate files, which in this course we’ll name `sc
 ```
 
 - We use the `src` attribute to say where to find the JavaScript file.
-    - **Note:** It’s called `src` for `<script>` tags and `href` attribute for `link` and `a` tags.
+    - **Note:** It’s called `src` for `<script>` tags. `link` and `a` tags have `href`, which is similar. If you mix them up, try switching to the other one.
 
 - We usually place the script tag at the end of the `<body>` tag, so that the rest of the page has loaded before the script is run.
-- The `<script>` tag is not self-closing, it needs the closing tag `</script>`.
 
 ## Practice: Link the JavaScript using the `<script>` tag
 
 <aside>
 
-
 👉🏿 Add the `<script>` tag to connect the JavaScript file to the HTML page.
 
 👉🏿 Use the link below to attempt the practice exercise
 
-> [https://replit.com/team/web-foundations-july-2022/Practice-Link-the-Script](https://replit.com/team/web-foundations-july-2022/Practice-Link-the-Script)
-
+[https://replit.com/team/web-foundations-july-2022/Practice-Link-the-Script](https://replit.com/team/web-foundations-july-2022/Practice-Link-the-Script)
 
 </aside>
-
-
 
 ## Deeper Connections: CSS Selectors in JS
 
 <aside>
-
 
 👀 Take a look at the JavaScript file `script.js` in the Practice. In week 3, we’ll talk more about how the code works.
 

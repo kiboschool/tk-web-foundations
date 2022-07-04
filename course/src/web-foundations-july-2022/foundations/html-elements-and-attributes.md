@@ -10,37 +10,28 @@ In this lesson, you’ll revisit HTML in more detail, and learn more elements.
 
 <aside>
 
-
 📺 Check out this video on the basics of HTML
 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Hjl6gbg9kmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-# What’s HTML again?
+## What’s HTML again?
 
 HTML makes up the content and structure of the webpage. It’s what a page is made of.
 
-Here’s an example. On the left is a snippet of HTML. On the right is that same snippet, as a webpage.
+Here’s an example. First is a snippet of HTML. Next is the same snippet, rendered as a webpage.
 
-Example:
-
-```html
-<p>
-	This is a paragraph. It has an 
-	<a href="https://example.com">
-		Example Link
-	</a> 
-	inside the paragraph.
-</p>
-<img src="valley-waterfall.png" alt="this is an example image" />
-```
-
-Result:
-
-This is a paragraph. It has an [Example Link](http://example.com) inside the paragraph.
-
-![Untitled](../learning-with-kibo/intro-to-web-development/untitled.png)
+<div class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="vYROqPw" data-user="rrcobb"  data-prefill='{"title":"First Snippet of HTML","description":"Small demo of several different basic HTML tags","tags":[],"scripts":[],"stylesheets":[]}'>
+  <pre data-lang="html">&lt;p>
+    This is a paragraph. It has an 
+    &lt;a href="https://example.com">
+        Example Link
+    &lt;/a> 
+    inside the paragraph.
+&lt;/p>
+&lt;img src="https://wf-2.vercel.app/web-foundations-july-2022/learning-with-kibo/intro-to-web-development/untitled.png" alt="this is an example image" /></pre></div>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 ## HTML Elements
 
@@ -54,11 +45,15 @@ The building blocks of HTML are called **elements.** A webpage is made up of ele
 
 ## **Types and Tags**
 
-There are lots of types of elements. In the snippet above, the elements are:
+There are lots of **types** of elements. In the snippet above, the elements are:
 
 - `<a>` stands for ‘anchor’, but means link
 - `<p>` for paragraph
 - `<img>` for images
+
+There are [many many elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) in addition to these three. You’ll learn about 20 to 30 elements in the course. You can always look them up if you forget.
+
+### Tags
 
 The syntax that looks like  `<some name>` is called a **tag**. It says what kind of element it is. 
 
@@ -70,22 +65,6 @@ Elements usually have two tags: an opening tag, and a closing tag. They show whe
 
 - The opening tag is `<p>`
 - The closing tag is `</p>`, with a forward slash `/` before the `p`.
-
-There are [many many elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) in addition to these three. You’ll learn about 20 to 30 elements in the course. You can always look them up if you forget.
-
-### Self-closing tags
-
-Elements *usually* have two tags, but some elements only have one.
-
-If the element doesn’t need to have any content inside it, it can use a **self-closing tag.** For example:
-
-```html
-<img src="waterfall.png" />
-```
-
-Instead of having a closing tag like `</img>`, this tag ends with `/>`. It closes itself — it doesn’t need the closing tag too.
-
-Not every element can be self-closing. Image elements never have any content inside, so they can self-close. [MDN lists the ‘empty’ elements that can be self-closing](https://developer.mozilla.org/en-US/docs/Glossary/empty_element).
 
 <aside>
 
@@ -102,38 +81,42 @@ HTML elements can go inside of each other. Everything that’s in between the op
 
 ![nested element](../learning-with-kibo/intro-to-web-development/nested_element.png)
 
+## HTML Attributes
 
-## **HTML Attributes**
+HTML elements often have more information. 
 
+This kind of information goes in an element’s **attributes.** Attributes provide more information about how an element should work.
 
-HTML elements can also tell the browser more information about themselves. For instance, an `<img>` tag can tell the browser where to find the actual image, and an `<a>` tag can tell where to link to.
-
-This kind of information goes in an element’s **attributes.** So attributes provide more information about how an element should work.
-
+For instance, an `<img>` tag can say where to find the actual image. An `<a>` tag can tell where to link to.
 Here’s some examples:
 
 - the `src` (source) of an `<img>` (image) element tells the browser where to go to find the actual image to put there:
 
-```html
-<img src="valley-waterfall.png" />
-```
+    ```html
+    <img src="valley-waterfall.png" />
+    ```
 
 - the `href` (hypertext reference) of an anchor tag (`<a>`) tells the browser where the link should go when you click it.
 
-```html
-<a href="https://example.com">The text that shows up</a>
-```
+    ```html
+    <a href="https://example.com">The text that shows up</a>
+    ```
 
 - the `class` attribute of any element helps identify it as part of a group. It’s really useful for styling and adding interactivity.
 
-```html
-<p class="nice">Hello world!</p>
-```
+    ```html
+    <p class="nice">Hello world!</p>
+    ```
 
+<div style="margin-bottom: 50px; border: 1px solid #000;">
+
+![Untitled](../learning-with-kibo/intro-to-web-development/untitled-1.png)
+
+</div>
 
 <aside>
 
-📺 Here'a recap on HTML Attributes
+📺 Here's a video recap on HTML Attributes
 
 </aside>
 
@@ -141,23 +124,15 @@ Here’s some examples:
     <iframe width="100%" height="415" src="https://www.youtube.com/embed/29IbTXYRo5U" title="YouTube video player"      frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Here’s also an image summarizing how attributes fit into an HTML element:
-<div style="margin-bottom: 50px; border: 1px solid #000;">
-
-![Untitled](../learning-with-kibo/intro-to-web-development/untitled-1.png)
-
-
-</div>
 
 
 # Elements to know
 
 There’s more than 200 HTML elements, you can [see them all on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element). You don’t need to memorize all of them. There are tons of them you’ll never ever use! 
 
-Here’s the ones that you actually ought to know, along with some examples:
+Here’s the ones that you'll use this week.
 
 ## `<a>`: hyperlink
-
 
 <aside>
 
@@ -171,30 +146,23 @@ Here’s the ones that you actually ought to know, along with some examples:
 
 `<a>` stands for ‘anchor’, but means link. It’s the element that connects the whole web together.
 
-Example:
-
-```html
-<a href="https://kibo.school">Kibo Homepage</a>
-```
-
-Result:
-
-[Kibo Homepage](https://kibo.school)
-
-
 - The **href** attribute determines where the link will go when clicked
 - Whatever’s inside the tag is clickable as a link
 
-<aside>
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="MWVwNvG" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/rrcobb/pen/MWVwNvG">
+  a tag demo</a> by Rob Cobb (<a href="https://codepen.io/rrcobb">@rrcobb</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-
-🤔 How would you make an **image** that linked to another page?
+<details><summary><strong>Challenge:</strong> 🤔 How would you make an **image** that linked to another page? </summary>
 
 - **Answer**
     
     You put the image inside the link, like this:
     
-    ```jsx
+    ```html
     <a href="https://kibo.school">
     	<img src="valley-waterfall.jpeg" />
     </a>
@@ -202,7 +170,7 @@ Result:
     
     When someone clicks on the image, it will navigate to the URL, just like a text link.
     
-</aside>
+</details>
 
 - **Further Exploration: Hyperlinks**
     
@@ -220,42 +188,42 @@ Result:
 
 Images make the web visually appealing. The `<img>` tag tells which image to add, where.
 
+- The **src** attribute says where to find the image
+- The **alt** attribute has a text description of the image, for accessibility
+
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="JjLdgje" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/rrcobb/pen/JjLdgje">
+  Untitled</a> by Rob Cobb (<a href="https://codepen.io/rrcobb">@rrcobb</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 <aside>
 
 📺 Check out this video on Images
 
 </aside>
 
-
 <div style="position: relative; padding-bottom: 60.25%; height: 0;">
     <iframe width="100%" height="415" src="https://www.youtube.com/embed/Ba1RLs0TgCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Example:
+<details><summary><strong>Further Exploration: Images</strong></summary>
 
-```html
-<img src="waterfall.png" alt="a waterfall running through a valley"/>
-```
+[Read more about `<img>` and Images in HTML on MDN.](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
 
-![Untitled](../learning-with-kibo/intro-to-web-development/untitled.png)
+Topics to explore:
 
-- The **src** attribute says where to find the image
-- The **alt** attribute should contain a text description of the image, for accessibility
-- **Further Exploration: Images**
-    
-    [Read more about `<img>` and Images in HTML on MDN.](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
-    
-    Topics to explore:
-    
-    - URLs and paths for images
-    - types of image files
-    - alt text and screen readers
-    - setting image width and height
-    - figures and captions
-    - background images
-    
-    Also check out this [video about images and Pixels from Code.org](https://www.youtube.com/watch?v=15aqFQQVBWU)
-    
+- URLs and paths for images
+- types of image files
+- alt text and screen readers
+- setting image width and height
+- figures and captions
+- background images
+
+Also check out this [video about images and Pixels from Code.org](https://www.youtube.com/watch?v=15aqFQQVBWU)
+
+</details>
 
 ## Text
 
@@ -269,28 +237,22 @@ Inside a `<p>`, an `<a>`, or lots of other tags, you’ll see regular text. Text
 
 `<p>` is for paragraph. It’s for the body text that makes up the bulk of text-heavy pages. 
 
-Example:
-
-```html
-<p>It's a paragraph of text.</p>
-<p>Hello world!</p>
-```
-
-Result:
-
-It's a paragraph of text.
-
-Hello world!
-
 - Paragraphs show the text inside the tag. They don’t make the text show a special way.
 - Each paragraph gets shown on a new line when the page is displayed.
 
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="XWEbvMP" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/rrcobb/pen/XWEbvMP">
+  p tag demo</a> by Rob Cobb (<a href="https://codepen.io/rrcobb">@rrcobb</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
 <aside>
 
-📺 Here's a recap of the Paragraph tag
+📺 Here's a video recap of the Paragraph tag
 
 </aside>
-
 
 <div style="position: relative; padding-bottom: 60.25%; height: 0;">
     <iframe width="100%" height="415" src="https://www.youtube.com/embed/By-d827_0jo" title="HTML Paragraph" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -298,77 +260,50 @@ Hello world!
 
 ### `<h1>` to `<h6>`: Heading
 
-Example:
-
-```html
-<h1>My Website</h1>
-<h2>About me</h2>
-```
-
-Result:
-<h2>About me</h2>
-<h4>My Website</h4>
-
 - There are six heading elements.
 - The biggest one is `h1`, the smallest is `h6`
 - They are used for the title of the page, section and subsection titles
 
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="oNqXKGK" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/rrcobb/pen/oNqXKGK">
+  heading demos</a> by Rob Cobb (<a href="https://codepen.io/rrcobb">@rrcobb</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 ### `<ul>`, `<ol>`,  `<li>`: Lists
-
-Example:
-
-```html
-<ul>
-	<li>Onions</li>
-	<li>Chicken</li>
-</ul>
-
-<ol>
-	<li>Preheat the oven</li>
-	<li>Prepare the ingredients</li>
-</ol>
-```
-
-Result:
-
-- Onions
-- Chicken
-
-1. Preheat the oven
-2. Prepare the ingredients
 
 There are two kinds of lists. Unordered Lists `<ul>` have dots before each item. Ordered Lists `<ol>` have increasing numbers before each item. Both lists use `<li>` for list items.
 
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="QWmbeOq" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/rrcobb/pen/QWmbeOq">
+  List Demos</a> by Rob Cobb (<a href="https://codepen.io/rrcobb">@rrcobb</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 ### `<strong>`, `<em>`: emphasized text
-
-Example:
-
-```html
-<strong>Important Note</strong>
-<em>By the way, this text is distinct</em>
-```
-
-Result:
-
-**Important Note**
-
-*By the way, this text is distinct*
 
 - Both of these tags indicate that text is emphasized in some way
 - `<strong>` is a strong emphasis, for **really important information**
 - `<em>` is for information that’s *different from the norm, but not as strongly emphasized*
 
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="PoRqMEb" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/rrcobb/pen/PoRqMEb">
+  strong and em demos</a> by Rob Cobb (<a href="https://codepen.io/rrcobb">@rrcobb</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 ## Practice: Use the basic elements
 
 <aside>
 
-
 👉🏿 Your turn! Use these tags to mark up the page. 
 
-🔑 The link below takes you to Replit where you can attempt this exercise.
+🔑 Click the link below to complete the exercise on Replit
 
-
-> [https://replit.com/team/web-foundations-july-2022/Practice-Use-the-basic-elements](https://replit.com/team/web-foundations-july-2022/Practice-Use-the-basic-elements)
+[https://replit.com/team/web-foundations-july-2022/Practice-Use-the-basic-elements](https://replit.com/team/web-foundations-july-2022/Practice-Use-the-basic-elements)
 
 </aside>
 
@@ -385,6 +320,6 @@ Starting at the [MDN overview page on HTML](https://developer.mozilla.org/en-US/
 - the link to the MDN page, and
 - what you find interesting about it
 
-> [https://padlet.com/embed/mxl15sdveaow1kk8](https://padlet.com/embed/mxl15sdveaow1kk8)
+[https://padlet.com/embed/mxl15sdveaow1kk8](https://padlet.com/embed/mxl15sdveaow1kk8)
 
 </aside>
