@@ -25,9 +25,9 @@ We write our JavaScript in separate files, which in this course we’ll name `sc
 
 <aside>
 
-👉🏿 Add the `<script>` tag to connect the JavaScript file to the HTML page.
-
 👉🏿 Use the link below to attempt the practice exercise
+
+Add the `<script>` tag to connect the JavaScript file to the HTML page.
 
 [https://replit.com/team/web-foundations-july-2022/Practice-Link-the-Script](https://replit.com/team/web-foundations-july-2022/Practice-Link-the-Script)
 
@@ -37,11 +37,11 @@ We write our JavaScript in separate files, which in this course we’ll name `sc
 
 <aside>
 
-👀 Take a look at the JavaScript file `script.js` in the Practice. In week 3, we’ll talk more about how the code works.
+👀 Take a look at the JavaScript file `script.js` in the Practice.
 
 </aside>
 
-In particular, look at all the places it uses CSS Selectors:
+Look at all the places it uses CSS Selectors:
 
 ```jsx
 document.querySelector('#gross')
@@ -52,3 +52,5 @@ document.querySelector('#yum')
 `#gross`, `.reaction`, and `#yum` are all CSS Selectors! When you learn to use JavaScript to create interactions, you’ll still use concepts from HTML and CSS. 
 
 The same CSS selectors that you use for styles will also let you pick HTML elements in your JS code.
+
+In week 3, we’ll talk more about how the rest of the code works.

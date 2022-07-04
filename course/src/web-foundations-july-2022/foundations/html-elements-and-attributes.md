@@ -8,6 +8,8 @@ In the web challenge, you learned about the roles HTML, CSS, and JavaScript play
 
 In this lesson, you’ll revisit HTML in more detail, and learn more elements.
 
+## What’s HTML again?
+
 <aside>
 
 📺 Check out this video on the basics of HTML
@@ -16,11 +18,11 @@ In this lesson, you’ll revisit HTML in more detail, and learn more elements.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Hjl6gbg9kmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-## What’s HTML again?
+## HTML
 
 HTML makes up the content and structure of the webpage. It’s what a page is made of.
 
-Here’s an example. First is a snippet of HTML. Next is the same snippet, rendered as a webpage.
+Here’s an example. On the left is HTML. On the right is the same code, rendered as a webpage.
 
 <div class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="vYROqPw" data-user="rrcobb"  data-prefill='{"title":"First Snippet of HTML","description":"Small demo of several different basic HTML tags","tags":[],"scripts":[],"stylesheets":[]}'>
   <pre data-lang="html">&lt;p>
@@ -116,11 +118,11 @@ Here’s some examples:
 
 <aside>
 
-📺 Here's a video recap on HTML Attributes
+📺 Here's a **video recap** on HTML Attributes
 
 </aside>
 
-<div style="position: relative; padding-bottom: 60.25%; height: 0;">
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
     <iframe width="100%" height="415" src="https://www.youtube.com/embed/29IbTXYRo5U" title="YouTube video player"      frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
@@ -140,7 +142,7 @@ Here’s the ones that you'll use this week.
 
 </aside>
 
-<div style="position: relative; padding-bottom: 60.25%; height: 0;">
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
     <iframe width="100%" height="415" src="https://www.youtube.com/embed/D9I_dJDiIu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
@@ -172,17 +174,21 @@ Here’s the ones that you'll use this week.
     
 </details>
 
-- **Further Exploration: Hyperlinks**
+<details>
+<summary>
+<strong>Further Exploration: Hyperlinks</strong>
     
-    [Read more about the `<a>` tag and hyperlinks on MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks). 
-    
-    Topics to explore:
-    
-    - URLs, paths, absolute and relative paths
-    - email (`mailto`) and phone (`tel`) links
-    - urls, absolute and relative paths, and files
-    - download links
-    - linking directly to a part of a page
+[Read more about the `<a>` tag and hyperlinks on MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks). 
+
+Topics to explore:
+
+- URLs, paths, absolute and relative paths
+- email (`mailto`) and phone (`tel`) links
+- urls, absolute and relative paths, and files
+- download links
+- linking directly to a part of a page
+
+</details>
 
 ## Image: `<img>`
 
@@ -204,7 +210,7 @@ Images make the web visually appealing. The `<img>` tag tells which image to add
 
 </aside>
 
-<div style="position: relative; padding-bottom: 60.25%; height: 0;">
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
     <iframe width="100%" height="415" src="https://www.youtube.com/embed/Ba1RLs0TgCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
@@ -250,11 +256,11 @@ Inside a `<p>`, an `<a>`, or lots of other tags, you’ll see regular text. Text
 
 <aside>
 
-📺 Here's a video recap of the Paragraph tag
+📺 Here's a **video recap** of the Paragraph tag
 
 </aside>
 
-<div style="position: relative; padding-bottom: 60.25%; height: 0;">
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
     <iframe width="100%" height="415" src="https://www.youtube.com/embed/By-d827_0jo" title="HTML Paragraph" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
@@ -310,7 +316,6 @@ There are two kinds of lists. Unordered Lists `<ul>` have dots before each item.
 ## Practice: Find a new tag on MDN
 
 <aside>
-
 
 🔍 The **Mozilla Developer Network (MDN)** is a top source of tutorials and reference materials for Web Developers. 
 

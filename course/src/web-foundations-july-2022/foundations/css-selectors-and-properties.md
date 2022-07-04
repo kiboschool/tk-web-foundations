@@ -17,26 +17,18 @@ You were previously introduced to CSS. Let’s revisit what you learned, and div
 
 # CSS
 
-CSS controls the appearance of HTML elements.
-
-CSS is made of **rules** that look like this:
+CSS controls the appearance of HTML elements. CSS is made of **rules** that look like this:
 
 ```css
 p {
-	color: red;
+    color: red;
 }
 ```
 
-Here’s the result:
+This CSS sets the color of the text within paragraphs to red. Here’s the result:
 
 ![BCDF355C-419C-4670-A99D-D70D1D5C78AB-655-0000EDA4FBD29F61.png](../learning-with-kibo/intro-to-web-development/bcdf355c-419c-4670-a99d-d70d1d5c78ab-655-0000eda4fbd29f61.png)
 
-This CSS sets the color of the text within paragraphs to red. Below is the HTML
-    
-```html
-<p>This is a paragraph. It has an <a href="https://example.com">Example Link</a> inside the paragraph. </p>
-```
-    
 
 ## Linking CSS
 
@@ -215,9 +207,9 @@ If you want to see them and browse more examples, check out the [MDN page on CSS
 
 <aside>
 
-👉🏿 Practice the selectors using the Replit link below
+👉🏿 Practice selectors using the Replit link below
 
-👉🏿 In `style.css`, fill in the selectors for each of the rules so that the styles work
+In `style.css`, fill in the selectors for each of the rules so that the styles work
 
 [https://replit.com/team/web-foundations-july-2022/Practice-Select-the-Elements](https://replit.com/team/web-foundations-july-2022/Practice-Select-the-Elements)
 

@@ -19,8 +19,7 @@ After this week, you will be able to:
 
 <aside>
 
-
-<img src="./instruction.png" alt="instruction.png" width="40px" /> Web Foundations instructor Wasiu welcomes you to the course.
+👋🏿 Web Foundations instructor Wasiu welcomes you to the course.
 
 </aside>
 
