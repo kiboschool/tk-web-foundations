@@ -33,21 +33,7 @@ Each week, there will be:
 4. A **Live Session** with an instructor or TA
 5. **Office Hours** with an instructor or TA
 
-## Navigating in Notion
+## Navigating the Lessons
 
-You can use the top navigation bar (highlighted in the below image) and the links at the bottom of each page, to navigate through the lessons.
-
-![0%201%20Lesson%20Topics%20and%20Navigation%20075e0d20cda0448fa3f7df9b32aadaea/Screen_Shot_2021-07-30_at_1.50.42_PM.png](/web-foundations-april-2022/learning-with-kibo/lesson-topics-and-navigation/screen-shot-2021-07-30-at-1.50.42-pm.png)
-
-The [overview page](/web-foundations-april-2022/learning-with-kibo.md) has links to each of the other pages.
-
----
-
-At the end of each page is a link to the next page, like this:
-
-<aside>
-
-
-<img src="/web-foundations-april-2022/learning-with-kibo/man-in-hike.png" alt="man-in-hike.png" width="40px" /> Next up: [Sign Up for Replit](/web-foundations-april-2022/learning-with-kibo/sign-up-for-replit.md)
-
-</aside>
+You can use the navigation menu on the left sidebar, or click the arrows on the
+right or left of the page to go forward or back.

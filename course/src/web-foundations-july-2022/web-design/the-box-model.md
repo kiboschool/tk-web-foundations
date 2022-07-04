@@ -255,15 +255,5 @@ Pixels are not the only units! CSS actually has more than 10 units you can use. 
 You can also specify values in terms of percentages. An element with `width: 50%` will try to take up 50% of the width of its parent element.
 
 - **Further Exploration**: CSS Units
-    
+
     The [MDN page on CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units) goes into depth about the different units available for different values.
-    
-
----
-
-<aside>
-
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: [Layout and Positioning](/web-foundations-april-2022/web-design/layout.md)
-
-</aside>

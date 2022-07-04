@@ -204,12 +204,3 @@ Video Recap:
 4. Be patient
     1. Wait for a while, since it might take a few minutes.
     2. It’s easy to mess things up, so take your time and be patient with yourself.
-
----
-
-<aside>
-
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: [Sharing your work](/web-foundations-april-2022/publishing-and-sharing/sharing-your-work.md)
-
-</aside>

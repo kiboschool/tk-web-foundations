@@ -269,12 +269,3 @@ If you want to see them and browse more examples, check out the [MDN page on CSS
 There are 30 short exercises to practice selecting the plates, the food, or the table. **Try to get to at least Level 10!**
 
 </aside>
-
----
-
-<aside>
-
-
-<img src="../learning-with-kibo/man-in-hike.png" alt="../learning-with-kibo/man-in-hike.png" width="40px" /> Next up: [A Taste of Javascript](a-taste-of-javascript.md)
-
-</aside>

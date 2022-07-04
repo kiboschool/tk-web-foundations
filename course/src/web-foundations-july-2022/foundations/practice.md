@@ -75,13 +75,3 @@ The solutions to each challenge are available in Replit Try to go through the wh
 
 
 </aside>
-
-
----
-
-<aside>
-
-
-<img src="../learning-with-kibo/man-in-hike.png" width="40px" /> Next up: [Project](project.md)
-
-</aside>

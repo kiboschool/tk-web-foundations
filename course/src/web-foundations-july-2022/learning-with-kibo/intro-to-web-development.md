@@ -246,12 +246,3 @@ You can read more on MDN about [What the DevTools are](https://developer.mozilla
 - You’ll use Replit and the DevTools as your toolbox in the course
 
 Next, you’ll use the DevTools to find hidden messages in the Scavenger Hunt.
-
----
-
-<aside>
-
-
-<img src="/web-foundations-april-2022/learning-with-kibo/man-in-hike.png" alt="man-in-hike.png" width="40px" /> Next up: [Assignment - Scavenger Hunt](/web-foundations-april-2022/learning-with-kibo/assignment-scavenger-hunt.md)
-
-</aside>

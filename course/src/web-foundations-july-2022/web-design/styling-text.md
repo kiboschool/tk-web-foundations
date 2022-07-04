@@ -12,7 +12,7 @@ Choosing the right values for each property is complicated. Each change you make
 
 # CSS Text Properties
 
-### K**ey rules for Typography**
+### Key rules for Typography
 
 The body text is the most important text to style. These rules help make text look good:
 
@@ -279,13 +279,3 @@ Access the Repl here: <div style="position: relative; padding-bottom: 56.25%; he
     For each of the terms you don’t understand, try doing a quick google search to learn more about that term. You might not totally understand everything at first, but it’s a good habit to try to do a search when you encounter a term you don’t know.
     
     </aside>
-    
-
----
-
-<aside>
-
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: [The Box Model](/web-foundations-april-2022/web-design/the-box-model.md)
-
-</aside>

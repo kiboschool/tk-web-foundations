@@ -63,12 +63,3 @@ You will use Replit to **practice coding** and to **submit your assignments**.
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/dbdc2dc7d7d2481a81f71263373c0695" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
----
-
-<aside>
-
-
-<img src="/web-foundations-april-2022/learning-with-kibo/man-in-hike.png" alt="man-in-hike.png" width="40px" /> Next up: [Intro to Web Development](/web-foundations-april-2022/learning-with-kibo/intro-to-web-development.md)
-
-</aside>

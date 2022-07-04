@@ -105,12 +105,3 @@ After each Try Kibo, students say:
 Come to office hours as soon as they are available. They are really helpful!
 
 </aside>
-
----
-
-<aside>
-
-
-<img src="../learning-with-kibo/man-in-hike.png" alt="./man-in-hike.png" width="40px" /> Next up: [Websites and the Internet](websites-and-the-internet.md)
-
-</aside>

@@ -71,8 +71,17 @@ Remember that programming is a long journey and what matters is to learn well, n
     - [Interneting Is Hard](https://www.internetingishard.com/)
     - [Shay Howe’s Learn HTML and CSS](https://learn.shayhowe.com/html-css/)
     - [FreeCodeCamp’s Responsive Web Design Course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
-- Apply to Kibo degree program later this year!
 - Study computer science in university!
+
+### Apply to Kibo's degree program
+
+Kibo offers a three-year BSc in Computer Science. If you liked this class, but
+want to learn much more, consider applying to join the Bachelor's Degree
+program.
+
+Learn more about Kibo's degree program here: [https://kibo.school/degree/](https://kibo.school/degree/)
+
+Fill out [this form to begin your application](https://kibo-school.typeform.com/kibo-interest?typeform-source=kibo.school).
 
 ---
 

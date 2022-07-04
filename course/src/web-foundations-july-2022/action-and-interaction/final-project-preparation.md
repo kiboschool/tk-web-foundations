@@ -83,12 +83,3 @@ You’ll should figure out what works best for your team. The best teams communi
 It may be helpful to create a **design doc**. Using Google docs or a text file in Repl.it, write down your ideas. You might include links, images, drawings, and text that helps to explain what you are planning to build.
 
 A design doc can also help you track what work you’ve done, and what work is left to do.
-
----
-
-<aside>
-
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: [Wrap Up](/web-foundations-april-2022/action-and-interaction/wrap-up.md)
-
-</aside>
