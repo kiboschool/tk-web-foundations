@@ -1,4 +1,4 @@
-# Admissions challenge: Learning web development with Kibo
+# Admissions challenge - for reference only
 ---
 
 <aside>
@@ -16,9 +16,6 @@
 - Instructions to set up the tools you need
 - A brief intro to web development
 - There’s also a Scavenger Hunt Exercise to introduce you to the DevTools.
-
-
-> ⚠️ **You must complete the DevTools Scavenger Hunt Assignment** to gain admission to the program!
 
 
 ## Before you start...
