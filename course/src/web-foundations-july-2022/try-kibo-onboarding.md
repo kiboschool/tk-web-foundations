@@ -83,7 +83,7 @@ We’re excited to see you at Orientation on **Tuesday July 12th from 3pm - 5pm 
 
 Before you go, make sure that you have:
 
-- Registered a live class time (and received a confirmation email)
+- Registered for a live class time (and received a confirmation email)
 - Joined Discord and updated your profile name, photo, and description
 - Introduced yourself in the #general channel on Discord
 - Marked your calendar for Orientation on Tuesday July 12 at 3pm GMT
