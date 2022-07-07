@@ -398,6 +398,6 @@ Starting at the [MDN overview page on HTML](https://developer.mozilla.org/en-US/
 
 <aside>
 
-<img src="../learning-with-kibo/man-in-hike.png" alt="../learning-with-kibo/man-in-hike.png" alt="../learning-with-kibo/man-in-hike.png" width="40px" /> Next up: [CSS Selectors and Properties](css-selectors-and-properties.md)
+<img src="../learning-with-kibo/man-in-hike.png" alt="../learning-with-kibo/man-in-hike.png" width="40px" /> Next up: [CSS Selectors and Properties](css-selectors-and-properties.md)
 
 </aside>
