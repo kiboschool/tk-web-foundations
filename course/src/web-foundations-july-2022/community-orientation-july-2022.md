@@ -48,7 +48,7 @@ If not, update your profile name to your first name and last name initial (e.g. 
 
 The instructors will update this as you complete challenges. Whenever your squad finishes a challenge, one member should post a message in the “Web Community Orientation Leaderboard” thread in the [#general](https://discord.com/channels/866676763450933258/965672754768674866) channel with your squad number and the challenge that you have completed. We will update the leaderboard based on the information that is posted in the thread.
 
-|  | Challenge 0: All Onboard | Challenge 1:  About Squad Page | Challenge 2: Thread It | Challenge 3: Feedback is a Gift |
+| Squad Number | Challenge 0: All Onboard | Challenge 1:  About Squad Page | Challenge 2: Thread It | Challenge 3: Feedback is a Gift |
 | --- | --- | --- | --- | --- |
 | Squad 12 |  |  |  |  |
 | Squad 13 |  |  |  |  |

@@ -15,11 +15,14 @@ You must attend live class once a week on Zoom. This is one of the most loved pa
 
 </aside>
 
+>
+
 | Instructor | Time (in GMT) | Sign-up Link | Status |
 | --- | --- | --- | --- |
 | Wasiu | 1:30pm GMT | <a href="https://lu.ma/wf-wasiu-A" target="_blank"> lu.ma/wf-wasiu-A</a> | open |
 | Wasiu | 3:30pm GMT | <a href="https://lu.ma/wf-wasiu-B" target="_blank"> lu.ma/wf-wasiu-B</a> | open|
 
+>
 
 ## Join Replit team
 <aside>
