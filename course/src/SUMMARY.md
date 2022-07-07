@@ -19,5 +19,16 @@
 	- [Wrap up](web-foundations-july-2022/foundations/wrap-up.md)
     - [Bonus: More HTML elements](web-foundations-july-2022/foundations/bonus-more-html-elements.md)
 
+- [Web Design](web-foundations-july-2022/web-design.md)
+    - [What is Web Design](web-foundations-july-2022/web-design/what-is-web-design.md)
+	- [Styling Text](web-foundations-july-2022/web-design/styling-text.md)
+    - [Colors](web-foundations-july-2022/web-design/colors.md)
+    - [The Box Model](web-foundations-july-2022/web-design/the-box-model.md)
+    - [HTML and CCSS Projects](web-foundations-july-2022/web-design/the-box-model.md)
+    - [Practice](web-foundations-july-2022/web-design/practice.md)
+    - [Project](web-foundations-july-2022/web-design/project.md)
+    - [Wrap up](web-foundations-july-2022/web-design/wrap-up.md)
+
+
 ## Lessons
 
