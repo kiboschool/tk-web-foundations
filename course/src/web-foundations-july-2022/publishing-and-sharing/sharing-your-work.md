@@ -114,12 +114,3 @@ We encourage you to share your work early. Here’s (just some) of the reasons w
 - Sharing your project helps others to learn
 
 Sometimes sharing is uncomfortable! It’s okay to tell people when you share “I’m just a beginner, and this was my student project”, if that helps you feel more comfortable sharing your work.
-
----
-
-<aside>
-
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: [Practice](/web-foundations-april-2022/publishing-and-sharing/practice.md)
-
-</aside>

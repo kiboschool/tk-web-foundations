@@ -99,17 +99,7 @@ Here’s a more detailed preview of what you’ll learn this week:
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/t3lxwjfk8n6vdli6" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 - **Further Exploration**: A Guide to Visual Design
-    
+
     If you want to read more about visual design, see [Clean Up Your Mess: A Guide to Visual Design For Everyone](https://www.visualmess.com/) (10 min). 
     
     It discusses what makes a design “clean” and how to communicate what’s important. In particular, it focuses on how to use spacing, size, proximity, and alignment to create contrast and a visual hierarchy.
-    
-
----
-
-<aside>
-
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: [Styling Text](/web-foundations-april-2022/web-design/styling-text.md)
-
-</aside>

@@ -196,12 +196,3 @@ Access the exercise here:  <div style="position: relative; padding-bottom: 56.25
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/Practice-The-Cat-that-Disappeared" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
----
-
-<aside>
-
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: [Responding to Events in Javascript](/web-foundations-april-2022/action-and-interaction/responding-to-events-in-javascript.md)
-
-</aside>

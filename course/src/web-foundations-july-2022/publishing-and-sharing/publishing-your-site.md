@@ -105,12 +105,3 @@ There are lots of other services available to act as the server for your webpage
 - There are also tons of tools for writing custom servers, so your code decides what to send to the client.
 
 Next, you’ll learn how to set your site up on its own custom domain.
-
----
-
-<aside>
-
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: [Domains and Hosting](/web-foundations-april-2022/publishing-and-sharing/domains-and-hosting.md)
-
-</aside>

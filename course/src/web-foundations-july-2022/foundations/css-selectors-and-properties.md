@@ -17,26 +17,18 @@ You were previously introduced to CSS. Let’s revisit what you learned, and div
 
 # CSS
 
-CSS controls the appearance of HTML elements.
-
-CSS is made of **rules** that look like this:
+CSS controls the appearance of HTML elements. CSS is made of **rules** that look like this:
 
 ```css
 p {
-	color: red;
+    color: red;
 }
 ```
 
-Here’s the result:
+This CSS sets the color of the text within paragraphs to red. Here’s the result:
 
 ![BCDF355C-419C-4670-A99D-D70D1D5C78AB-655-0000EDA4FBD29F61.png](../learning-with-kibo/intro-to-web-development/bcdf355c-419c-4670-a99d-d70d1d5c78ab-655-0000eda4fbd29f61.png)
 
-This CSS sets the color of the text within paragraphs to red. Below is the HTML
-    
-```html
-<p>This is a paragraph. It has an <a href="https://example.com">Example Link</a> inside the paragraph. </p>
-```
-    
 
 ## Linking CSS
 
@@ -52,13 +44,10 @@ This CSS sets the color of the text within paragraphs to red. Below is the HTML
 Here's a recap on how to link CSS to your webpage.
 
 - We’ll put our styles in a CSS file, usually called `style.css`. 
-
 - In the HTML file, we’ll link to `style.css` using the `<link>` tag:
-
-```html
-<link href="style.css" rel="stylesheet" type="text/css" />
-```
-
+	```html
+	<link href="style.css" rel="stylesheet" type="text/css" />
+	```
 - The `href` attribute of the `link` says where to find the CSS file
 - The `rel` attribute of the `link` says what the relationship is to the page — for us, always `stylesheet`.
 - The `type` attribute of the `link` says that the kind of file it is — always `text/css` for us.
@@ -69,29 +58,23 @@ Here's a recap on how to link CSS to your webpage.
 
 👉🏿 Try adding the `<link>` tag to this HTML page so that the styles are connected.
 
-👉🏿 Usee the link below to attempt the practice exercise
+👉🏿 Use the link below to attempt the practice exercise
 
-> [https://replit.com/team/web-foundations-july-2022/Practice-Link-the-Stylesheet](https://replit.com/team/web-foundations-july-2022/Practice-Link-the-Stylesheet)
-
+[https://replit.com/team/web-foundations-july-2022/Practice-Link-the-Stylesheet](https://replit.com/team/web-foundations-july-2022/Practice-Link-the-Stylesheet)
 
 </aside>
 
-
-
-
 ## CSS Syntax
+
+![Untitled](../learning-with-kibo/intro-to-web-development/untitled-2.png)
 
 Each rule has a **selector** and a list of **declarations.** The selector says which elements should get these styles.
 
-> In the example, the selector is `p`, so all the `<p>` elements should get the styles.
-> 
+> The selector is `p`, so all the `<p>` elements get the styles.
 
 A declaration is a **property** and a **value.**
 
-> In the example, the property is `color` and the value is `red`
-> 
-
-![Untitled](../learning-with-kibo/intro-to-web-development/untitled-2.png)
+> The property is `color` and the value is `red`
 
 # CSS selectors
 
@@ -101,36 +84,32 @@ When you write CSS, the steps often go:
 2. Pick what elements to style
 3. Write the style rules
 
-Step 2 in the steps to writing CSS is “Pick what elements to style”. Selectors say **which elements** will get **which styles**. 
+Step 2 is “Pick what elements to style”. Selectors say **which elements** will get **which styles**. 
 
-```html
-<p>
-	This is a paragraph. It has an 
-	<a href="https://example.com">Example Link</a> 
-	inside the paragraph.
+<p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="mdxJNxP" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/rrcobb/pen/mdxJNxP">
+  css selectors intro</a> by Rob Cobb (<a href="https://codepen.io/rrcobb">@rrcobb</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<p>Here's a second paragraph</p>
-```
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-```css
+The selectors in this example are `p` and `a`.
 
-p {
- color: red;
-}
+<details>
+<summary>
+<strong>Question:</strong> Which elements get <code>color: red;</code>?
+</summary>
 
-a {
-  color: green;
-}
-```
+**Answer:** The paragraphs, because of the `p` selector.
+</details>
 
-This is a paragraph. It has an [Example Link](http://example.com) inside the paragraph.
+<details>
+<summary>
+<strong>Question:</strong> Which elements get <code>color: green;</code>?
+</summary>
 
-Here’s a second paragraph.
-
-The selectors here are `p` and `a`.
-
-- Which elements get `color: red;`? The paragraphs, because of the `p` selector.
-- Which elements get `color: green;`? The link, because of the `a` selector.
+**Answer:** The link, because of the `a` selector.
+</details>
 
 ### How selectors work
 
@@ -142,41 +121,33 @@ There are lots of kinds of selectors. We’ll focus on the three most common sel
 
 From the example above, `p` and `a` are **Element Selectors.** They select all the elements that are that type.
 
-- **Question:** How would you select all the images on a webpage, and make them all `height: 100px`?
-    
-    **Answer**: The selector would be `img`, and the full CSS rule would be
-    
-    ```css
-    img {
-      height: 100px;
-    }
-    ```
-    
+<details>
+<summary>
+<strong>Question:</strong> How would you select all the images on a page and give them <code>height: 100px</code>?
+</summary>
+
+**Answer**: The selector would be `img`, and the full CSS rule would be
+
+```css
+img {
+	height: 100px;
+}
+```
+
+</details>
 
 ### class selectors
 
 When an element has a class attribute, there’s special syntax to select them.
 
-```html
-<p>This is a paragraph.</p>
-<p class="cool-paragraph">Here's a second paragraph</p>
-```
+<p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="yLKNmEE" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/rrcobb/pen/yLKNmEE">
+  class selectors demo</a> by Rob Cobb (<a href="https://codepen.io/rrcobb">@rrcobb</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-```css
-p {
-  color: red;
-}
-
-.cool-paragraph {
-	color: green;
-}
-```
-
-This is a paragraph. 
-
-Here’s a second paragraph
-
-The selector `.cool-paragraph` selected the second paragraph, because it had a matching `class` attribute. The general syntax is `.` plus the name of the class (`cool-paragraph`).
+The selector `.cool-paragraph` selected the second paragraph, because it had a matching `class` attribute. The syntax is `.` plus the name of the class, in this case `cool-paragraph`.
 
 You can have lots of elements with the same class. There can be lots of `cool-paragraph`s.
 
@@ -184,20 +155,12 @@ You can have lots of elements with the same class. There can be lots of `cool-pa
 
 An id selector selects elements that have a matching `id`. It’s similar to a class selector, just a slightly different syntax.
 
-```html
-<p>Another paragraph.</p>
-<p id="paragraph-6">Here's the sixth paragraph</p>
-```
-
-```css
-#paragraph-6 {
-	color: green;
-}
-```
-
-Another paragraph.
-
-Here’s the sixth paragraph
+<p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="vYROoaL" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/rrcobb/pen/vYROoaL">
+  id selector demo</a> by Rob Cobb (<a href="https://codepen.io/rrcobb">@rrcobb</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 `#paragraph-6` picks the paragraph with the id `paragraph-6`. The syntax is a `#` plus the id (like `paragraph-6`). There’s only supposed to be one element with any particular id.
 
@@ -226,7 +189,7 @@ Combinator is a fancy word for “thing that combines things”.
 Here’s some examples:
 
 - `.cool-paragraph strong` selects all the `<strong>`elements inside elements with the `cool-paragraph` class.
-- `h2 + p` selects the paragraphs that immediately follow a second level 2
+- `h2 + p` selects the paragraphs that immediately follow a level 2 header
 
 You don’t need to memorize all the combinators.
 
@@ -234,47 +197,32 @@ If you want to see them and browse more examples, check out the [MDN page on CSS
 
 <aside>
 
-
-📺 A recap of CSS and Selectors
+📺 A video recap of CSS and Selectors
 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.youtube.com/embed/XPv4EeB0PJ8?start=38" title="CSS and Selectors" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-
-
-
 ## Practice: Select the Elements
 
 <aside>
 
+👉🏿 Practice selectors using the Replit link below
 
-👉🏿 Practice the selectors using the Replit link below
+In `style.css`, fill in the selectors for each of the rules so that the styles work
 
-👉🏿 In `style.css`, fill in the selectors for each of the rules so that the styles work.
-
-
-> [https://replit.com/team/web-foundations-july-2022/Practice-Select-the-Elements](https://replit.com/team/web-foundations-july-2022/Practice-Select-the-Elements)
+[https://replit.com/team/web-foundations-july-2022/Practice-Select-the-Elements](https://replit.com/team/web-foundations-july-2022/Practice-Select-the-Elements)
 
 </aside>
-
 
 ## Practice: CSS Diner
 
 <aside>
 
+🍽️  For more practice with CSS selectors, try out [CSS Diner](https://flukeout.github.io/).
 
-🍽️ For more practice with CSS selectors, try out [CSS Diner](https://flukeout.github.io/).
+There are 30 short exercises to practice selecting the plates, the food, or the table.
 
-There are 30 short exercises to practice selecting the plates, the food, or the table. **Try to get to at least Level 10!**
-
-</aside>
-
----
-
-<aside>
-
-
-<img src="../learning-with-kibo/man-in-hike.png" alt="../learning-with-kibo/man-in-hike.png" width="40px" /> Next up: [A Taste of Javascript](a-taste-of-javascript.md)
+**Try to get to at least Level 10!**
 
 </aside>

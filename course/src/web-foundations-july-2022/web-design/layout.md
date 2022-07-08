@@ -156,12 +156,3 @@ You can change:
 It lets you learn the different flex properties by moving frogs onto lily pads. Very cute. 🐸
 
 </aside>
-
----
-
-<aside>
-
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: [Positioning](/web-foundations-april-2022/web-design/positioning.md)
-
-</aside>

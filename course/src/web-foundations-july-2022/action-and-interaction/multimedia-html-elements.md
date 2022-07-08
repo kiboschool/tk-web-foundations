@@ -160,13 +160,3 @@ For more, check out the [MDN page on Video and Audio content](https://developer.
     The [MDN guide on Multimedia and Embedding](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding) covers many ideas related to this lesson in more detail. 
     
     Also note that [the HTML Canvas element](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) is used for programmatically drawn content.
-    
-
----
-
-<aside>
-
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: [Introduction to Javascript](/web-foundations-april-2022/action-and-interaction/introduction-to-javascript.md)
-
-</aside>

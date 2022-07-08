@@ -2,7 +2,7 @@
 /* Modifications to base styles at the bottom */
 /* Base styles and content styles */
 
-@import 'variables.css';
+/* @import 'variables.css'; */
 
 :root {
     /* Browser default font-size is 16px, this way 1 rem = 10px */
@@ -39,8 +39,10 @@ h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 .hide-boring .boring { display: none; }
 .hidden { display: none !important; }
 
-h2, h3 { margin-top: 2.5em; }
-h4, h5 { margin-top: 2em; }
+h2, h3 { margin-top: 1.5em; margin-bottom: .25em; }
+h4, h5 { margin-top: 1.5em; margin-bottom: .25em; }
+p { margin: 1em 0; }
+h2 + p, h3 + p, h4 + p, h5 + p { margin: 0; }
 
 .header + .header h3,
 .header + .header h4,
@@ -185,12 +187,51 @@ blockquote {
 
 /* ---- Custom CSS  ----- */
 
+/* Override the dark grey color of the light theme's inline code
+ * need higher specificity to override variables.css; not totally clear why,
+ * since it's linked before general.css
+ * Light is the default, so worth a fix. The other themes seem fine.
+ */
+.light body {
+    --inline-code-color: #e27e12;
+}
+
+/* shadow palette 
+ * Generated with: https://www.joshwcomeau.com/shadow-palette/
+ *
+ */
+:root {
+  --shadow-color: 0deg 0% 0%;
+  --med-shadow:
+    0px 0.3px 0.3px hsl(var(--shadow-color) / 0.07),
+    0.1px 1px 1.2px -0.8px hsl(var(--shadow-color) / 0.07),
+    0.3px 2.5px 2.9px -1.5px hsl(var(--shadow-color) / 0.07),
+    0.8px 5.9px 6.9px -2.3px hsl(var(--shadow-color) / 0.08);
+}
+
 aside {
     padding: 8px 8px;
     background-color: var(--quote-bg);
-    margin-bottom: 1em;
+    margin: 1em 0;
+    border-left: 8px solid var(--quote-border);
 }
 
 blockquote {
     border-left: 8px solid var(--quote-border);
+}
+
+details {
+    padding: 8px 8px;
+    background-color: var(--quote-bg);
+    margin: 1em 0;
+    border-left: 8px solid var(--quote-border);
+}
+
+summary + * {
+    margin-top: 1em;
+    padding: 8px 8px;
+}
+
+img {
+    box-shadow: var(--med-shadow);
 }
