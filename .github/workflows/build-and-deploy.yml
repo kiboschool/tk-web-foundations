@@ -22,7 +22,7 @@ jobs:
         uses: actions/setup-node@v3
 
       - name: Install Vercel CLI
-        run: npm install --global vercel
+        run: npm install --location=global vercel@26.0.0
 
       - name: Deploy static content to Vercel
         run: |
