@@ -263,7 +263,8 @@ You’re done with orientation and all set to begin class. If you want to keep e
 
 ## Who You Are (Word Cloud)
 
-![who_you_are.png](./community-orientation-july-2022/who_you_are.png)
+Check back later for a copy of the word cloud from the frist part of orientation. 
+
 
 ## Bonus: DJ 🎧
 
