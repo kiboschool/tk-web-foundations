@@ -39,7 +39,18 @@ If not, update your profile name to your first name and last name initial (e.g. 
 
 ## Leaderboard
 
-The instructors will update this as you complete challenges. Whenever your squad finishes a challenge, one member should post a message in the “Web Community Orientation Leaderboard” thread in the [#general](https://discord.com/channels/866676763450933258/965672754768674866) channel with your squad number and the challenge that you have completed. We will update the leaderboard based on the information that is posted in the thread.
+The instructors will update this as you complete challenges together. 
+
+Whenever your squad finishes a challenge, one member should post a message in the “FPWP Community Orientation Leaderboard” thread in the [#general](https://discord.com/channels/866676763450933258/965672754768674866) channel with: 
+
+- your squad number
+- the challenge that you completed
+
+Like this:
+
+> Hi, Squad 42 has completed challenge 1. Here's the link to our project: [link]
+
+We will update the leaderboard based on the information that is posted in the thread.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMqY-gAKYCeaTbCCRqemM0onX2eiu_JAnLx4D7caB-rV9C-tvuI4WEsAf57YuNhq1EsAsWbCSZbPLA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
