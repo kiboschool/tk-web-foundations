@@ -244,7 +244,7 @@ Decrypt Me challenge in the squad text channel.
 
 Submit your feedback of the Orientation below.
     
-<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf5CQ264d_siEnsf0x03TdfeSELCC-Wkg925QoqP-K5vbhKZA/viewform" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+    <div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeON8qG2ExegW5bxosHnMYW9gy6awcWJ-CwMwh1tGA0-xoXcg/viewform?usp=send_form&embed=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
     
 
 **Completion criteria:** All squad members have submitted their feedback of Orientation.
