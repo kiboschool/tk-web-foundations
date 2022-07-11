@@ -56,17 +56,18 @@ We will update the leaderboard based on the information that is posted in the th
 
 ## Challenge 0: All Onboard 🚀
 
-> **Instructions:** Ensure that all squad members make that transition to Discord.
+> **Instructions:** Greet your teammates in Discord. 
 
-Introduce yourself in your squad channel. Include your name, where you're based, and what interests you about the course.
+- Introduce yourself in your squad channel.
+- Include your name, where you're based, and what interests you about the course.
 
 **Completion criteria:** 
 
 - All squad members have posted a greeting (e.g. “Hi, I’m [name] from [country]”) in the squad text channel in Discord.
 
-To see the list of your squad members, go to your squad text channel and look at the Member List panel on the right of the screen. You will see who is online in your squad. 
+To see the list of your squad members, go to your squad text channel, and look at the Member List panel on the right of the screen. You will see who is online in your squad. 
 
-- **All squad members will have their names in the colour grey.**
+- **All squad members will have their names in the color grey.**
 - Community managers, Instructors, and Kibo Staff will show in other colors.
 
 ![discord_squad.png](./community-orientation-july-2022/discord_squad.png)
