@@ -183,7 +183,7 @@ Here’s how to take a screenshot on Windows, Mac, and Chromebook:
 
 Press the Windows key + Print Screen (PrtScn) key.
 
-![how to take a screenshot on windows](./community-orientation/windows-screenshot.jpeg)
+![image](https://user-images.githubusercontent.com/1774663/178354863-64eed8e8-8787-471d-b023-794a283c3c72.png)
 
 The screenshot will be saved to the Pictures > Screenshots folder. You can drag
 and drop the picture to Discord, or click the (+) button and click "Upload a File".
