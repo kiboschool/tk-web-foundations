@@ -52,7 +52,7 @@ Like this:
 
 We will update the leaderboard based on the information that is posted in the thread.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMqY-gAKYCeaTbCCRqemM0onX2eiu_JAnLx4D7caB-rV9C-tvuI4WEsAf57YuNhq1EsAsWbCSZbPLA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMqY-gAKYCeaTbCCRqemM0onX2eiu_JAnLx4D7caB-rV9C-tvuI4WEsAf57YuNhq1EsAsWbCSZbPLA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Challenge 0: All Onboard 🚀
 
