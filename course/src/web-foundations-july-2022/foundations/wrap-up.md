@@ -35,11 +35,12 @@ The responsibilities of a squad rep include things like checking in with squad m
 
 <aside>
 
-👉🏿 Fill out the form below or use [this link](https://docs.google.com/forms/d/e/1FAIpQLSctRZQiQL5SckF0CLcTKl9aT_d0j7Sqqa0Mm4ptsGPDFOMBhw/viewform) to apply.
+👉🏿 Fill out the form below or use [this link](https://forms.gle/LKs72kHwghLc6yYo7) to apply.
 
-The application deadline is Sunday, July 24th.
+The application deadline is Monday, July 18
     
-<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSctRZQiQL5SckF0CLcTKl9aT_d0j7Sqqa0Mm4ptsGPDFOMBhw/viewform?usp=send_form&embed=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScuy8JmPB7LXX-7zOGc2Rw36LftCg3ScKHUjlkOJe-_RbJAwA/viewform?usp=send_form&embed=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+   
 
 </aside>
 
