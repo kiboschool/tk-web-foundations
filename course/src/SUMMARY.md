@@ -6,11 +6,9 @@
 
 [Admission Challenges](web-foundations-july-2022/admissions-challenge.md)
 
-
+[Community Orientation (July 12th 2022)](web-foundations-july-2022/community-orientation-july-2022.md)
 
 <!--
-
-[Community Orientation (July 12th 2022)](web-foundations-july-2022/community-orientation-july-2022.md)
 
 - [Foundations](web-foundations-july-2022/foundations.md)
     - [Program Overview](web-foundations-july-2022/foundations/program-overview.md)
@@ -24,4 +22,5 @@
     - [Bonus: More HTML elements](web-foundations-july-2022/foundations/bonus-more-html-elements.md)
 
 ## Lessons
+
 -->
