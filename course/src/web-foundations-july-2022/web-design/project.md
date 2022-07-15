@@ -26,7 +26,7 @@ You can work together by sharing your screen, or by creating a new replit and sh
 
 This project will stretch your Web Design skills. You’ll work to recreate the awesome landing page from [restofworld.org](https://web.archive.org/web/20220428094707/http://restofworld.org/).
 
-**Access** and **submit** the project in Replit here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/210-Recreate-the-Rest-Of-World-Homepage" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[**Access** and **submit** the project in Replit here](https://replit.com/team/web-foundations-july-2022/Recreate-the-Rest-Of-World-Homepage)
 
 </aside>
 

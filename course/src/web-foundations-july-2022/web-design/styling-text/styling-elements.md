@@ -96,8 +96,8 @@ You can control the appearance of lists using the text styling and spacing CSS p
 
 🏫 Practice applying what you’ve learned about styling text by styling the homepage for a school.
 
-Access the Repl here: 
+[Access the Repl here](https://replit.com/team/web-foundations-july-2022/Typesetting-a-community-college-homepage)
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/22-Typesetting-a-community-college-homepage" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/web-foundations-july-2022/Typesetting-a-community-college-homepage" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

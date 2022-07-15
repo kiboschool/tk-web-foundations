@@ -101,8 +101,8 @@ Scroll the example to see the effect.
 
 Practice using the `top`, `left`, and `width` CSS properties and `position: absolute` to create a zany and fun face on the robot.
 
-Access the repl here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/25-Absolute-Position-Make-a-Robot" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> or below
+[Access on replit here](https://replit.com/team/web-foundations-july-2022/Absolute-Position-Make-a-Robot)
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/25-Absolute-Position-Make-a-Robot" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/web-foundations-july-2022/Absolute-Position-Make-a-Robot" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

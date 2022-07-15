@@ -146,8 +146,8 @@ Try to match the color in the smaller circle by picking the same color on the wh
 
 This recipe page has most of the styling done already, but it needs color.
 
-**Access the repl here**: 
+[Access the repl here](https://replit.com/team/web-foundations-july-2022/Apply-a-Palette)
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/26-Apply-a-Palette" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/web-foundations-july-2022/Apply-a-Palette" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

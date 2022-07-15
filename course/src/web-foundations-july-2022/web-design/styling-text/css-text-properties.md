@@ -106,11 +106,11 @@ There's lots of wiggle room! You don't need to use _exactly_ these rules.
 
 🔤 Practice using the properties to style text. Follow the instructions in the Repl.
 
-Access the exercise here: 
+[Access the exercise here](https://replit.com/team/web-foundations-july-2022/Practice-CSS-Text-Properties)
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/21-Practice-CSS-Text-Properties" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/web-foundations-july-2022/Practice-CSS-Text-Properties" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Further Exploration
 
