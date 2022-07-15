@@ -1,5 +1,9 @@
 # Styling Elements
 
+_Estimated time: 20 minutes_
+
+---
+
 Most of the text on the page is body text, so most of the styling recommendations so far have been about body text. But, there’s other text on the page too!
 
 Let's see how to style different kinds of elements.

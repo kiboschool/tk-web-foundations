@@ -1,5 +1,9 @@
 # CSS Text Properties
 
+_Estimated time: 20 minutes_
+
+---
+
 ## Typography
 
 The style and appearance of text on the page is called **Typography.** 

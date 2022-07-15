@@ -5,11 +5,8 @@
 ---
 
 > Everything in CSS has a box around it.
-****
-> 
 > 
 > *[MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)*
-> 
 
 CSS thinks in rectangles.
 
@@ -28,7 +25,7 @@ From the inside, going outwards:
 
 These properties apply to the top, right, bottom, and left of the element.
 
-![The CSS Box Model. Nested rectangles labeled Margin, Border, Padding, and Content](/web-foundations-april-2022/web-design/the-box-model/box-model.png)
+![The CSS Box Model. Nested rectangles labeled Margin, Border, Padding, and Content](/web-foundations-july-2022/web-design/the-box-model/box-model.png)
 
 The CSS Box Model. Nested rectangles labeled Margin, Border, Padding, and Content
 
@@ -45,7 +42,7 @@ Before you dive deeper into the box model, here’s a quick tutorial on how to v
 
 </aside>
 
-# The Box Model
+## The Box Model
 
 <aside>
 
@@ -65,7 +62,7 @@ It doesn’t have a single CSS property that sets how big it is. Instead, it’s
 
 For some elements, you can set the `width` and `height` properties to control the dimensions, but this doesn’t always work.
 
-![content-box.png](/web-foundations-april-2022/web-design/the-box-model/content-box.png)
+![content-box.png](/web-foundations-july-2022/web-design/the-box-model/content-box.png)
 
 ## Padding
 
@@ -82,9 +79,9 @@ You can set any of the properties on their own, or set them all at once with `pa
 
 Check out the [MDN docs on padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding) for an interactive example and more information.
 
-![padding-box.png](/web-foundations-april-2022/web-design/the-box-model/padding-box.png)
+![padding-box.png](/web-foundations-july-2022/web-design/the-box-model/padding-box.png)
 
-### **`padding` example**
+### `padding` example
 
 The `padding` shorthand sets the top, right, bottom, and left in one line.
 
@@ -93,29 +90,31 @@ The `padding` shorthand sets the top, right, bottom, and left in one line.
 padding: 30px 12px 30px 12px;
 ```
 
-![11C0BCA8-A34F-4DC4-BD90-ACD739E1AC06-2762-000087D271E01487.png](/web-foundations-april-2022/web-design/the-box-model/c0bca8-a34f-4dc4-bd90-acd739e1ac06-2762-000087d271e01487.png)
+![11C0BCA8-A34F-4DC4-BD90-ACD739E1AC06-2762-000087D271E01487.png](/web-foundations-july-2022/web-design/the-box-model/c0bca8-a34f-4dc4-bd90-acd739e1ac06-2762-000087d271e01487.png)
 
-- **Further Exploration**: CSS direction shorthands
-    
-    These are all equivalent:
-    
-    ```css
-    /* top | right | bottom | left */
-    padding: 30px 12px 30px 12px;
-    
-    /* top | right and left | bottom  */
-    padding: 30px 12px 30px;
-    
-    /* top and bottom | right and left  */
-    padding: 30px 12px;
-    ```
-    
-    If you leave out some of the 4 values, they get ‘filled in’ by the earlier value along the same axis.
-    
-    If you use just 1 value, it applies to all 4 sides, so `padding: 1px` is the same as `padding: 1px 1px 1px 1px`.
-    
-    The same shorthand works for the `border` and `margin` properties too.
-    
+<details>
+<summary><strong>Further Exploration: CSS direction shorthands</strong></summary>
+
+These are all equivalent:
+
+```css
+/* top | right | bottom | left */
+padding: 30px 12px 30px 12px;
+
+/* top | right and left | bottom  */
+padding: 30px 12px 30px;
+
+/* top and bottom | right and left  */
+padding: 30px 12px;
+```
+
+If you leave out some of the 4 values, they get ‘filled in’ by the earlier value along the same axis.
+
+If you use just 1 value, it applies to all 4 sides, so `padding: 1px` is the same as `padding: 1px 1px 1px 1px`.
+
+The same shorthand works for the `border` and `margin` properties too.
+
+</details> 
 
 ## Border
 
@@ -127,9 +126,9 @@ Border is a line around an element, with a width, color, and style. It’s contr
 
 These can each be set for the whole element, or for the top, right, bottom, or left, like `border-top-color` or `border-bottom-style`.
 
-![border-box-model.png](/web-foundations-april-2022/web-design/the-box-model/border-box-model.png)
+![border-box-model.png](/web-foundations-july-2022/web-design/the-box-model/border-box-model.png)
 
-### **`border` example**
+### `border` example
 
 The `border` shorthand sets the width, style, and color for all 4 sides.
 
@@ -138,7 +137,7 @@ The `border` shorthand sets the width, style, and color for all 4 sides.
 border: 4px dashed green;
 ```
 
-![F571BD73-CE94-4BEA-989B-B07E1BBFA094-2762-000087732A9B2CA7.png](/web-foundations-april-2022/web-design/the-box-model/f571bd73-ce94-4bea-989b-b07e1bbfa094-2762-000087732a9b2ca7.png)
+![F571BD73-CE94-4BEA-989B-B07E1BBFA094-2762-000087732A9B2CA7.png](/web-foundations-july-2022/web-design/the-box-model/f571bd73-ce94-4bea-989b-b07e1bbfa094-2762-000087732a9b2ca7.png)
 
 See the [MDN docs on border](https://developer.mozilla.org/en-US/docs/Web/CSS/border) for more information.
 
@@ -153,7 +152,7 @@ Margin is the space between one element’s border and another element. It’s c
 
 Like the other box model properties, `margin` is a shorthand for setting all of the properties at once.
 
-![margin-box.png](/web-foundations-april-2022/web-design/the-box-model/margin-box.png)
+![margin-box.png](/web-foundations-july-2022/web-design/the-box-model/margin-box.png)
 
 ### `margin` e**xample**
 
@@ -165,7 +164,7 @@ margin: 20px;
 
 20 pixels of margin on all sides.
 
-![81AB221B-99EF-4482-BB12-FD5C2F73ED40-2762-000088712844B9FB.png](/web-foundations-april-2022/web-design/the-box-model/ab221b-99ef-4482-bb12-fd5c2f73ed40-2762-000088712844b9fb.png)
+![81AB221B-99EF-4482-BB12-FD5C2F73ED40-2762-000088712844B9FB.png](/web-foundations-july-2022/web-design/the-box-model/ab221b-99ef-4482-bb12-fd5c2f73ed40-2762-000088712844b9fb.png)
 
 ```css
 margin: 20px 0;
@@ -173,7 +172,7 @@ margin: 20px 0;
 
 20 pixels of top and bottom margin, 0 left and right margin.
 
-![05992734-2715-4985-AFCD-A0CFE7F277DF-2762-0000886DE89F5B32.png](/web-foundations-april-2022/web-design/the-box-model/afcd-a0cfe7f277df-2762-0000886de89f5b32.png)
+![05992734-2715-4985-AFCD-A0CFE7F277DF-2762-0000886DE89F5B32.png](/web-foundations-july-2022/web-design/the-box-model/afcd-a0cfe7f277df-2762-0000886de89f5b32.png)
 
 ```css
 margin: 0;
@@ -181,79 +180,33 @@ margin: 0;
 
 0 margin on the top, bottom, left, and right.
 
-![CBFF83DD-EDE8-47FA-9ED2-0F6F61D702F1-2762-0000886C154F42D2.png](/web-foundations-april-2022/web-design/the-box-model/cbff83dd-ede8-47fa-9ed2-0f6f61d702f1-2762-0000886c154f42d2.png)
+![CBFF83DD-EDE8-47FA-9ED2-0F6F61D702F1-2762-0000886C154F42D2.png](/web-foundations-july-2022/web-design/the-box-model/cbff83dd-ede8-47fa-9ed2-0f6f61d702f1-2762-0000886c154f42d2.png)
 
 ## Practice: Box Model
 
 <aside>
 
-
 ↔️ Practice applying the box model properties. Follow the instructions in the Repl.
 
-Access the repl here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/23-Practice-Box-Model" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> or below
+Access the repl here: 
 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/23-Practice-Box-Model" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-- **Further Reading**: The Box Model
-    - MDN’s [page on the box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) explains the components of the box model in more detail.
-    - [Shay Howe’s tutorial on HTML and CSS](https://learn.shayhowe.com/html-css/opening-the-box-model/) is another useful explanation of how the Box Model works.
-    - [Colt Steele’s video on the Box Model](https://www.youtube.com/watch?v=M1xEi_BBW1I) is great if you enjoy video content
-    
-    They explain some of the topics we’ve skipped over here, like
-    
-    - box-sizing
-    - margin collapse
-    - `display: inline-block`
-    - ‘inner’ and ‘outer’ display
+<details>
+<summary><strong>Further Reading: The Box Model</strong></summary>
 
-## The `**margin: auto` trick**
+- MDN’s [page on the box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) explains the components of the box model in more detail.
+- [Shay Howe’s tutorial on HTML and CSS](https://learn.shayhowe.com/html-css/opening-the-box-model/) is another useful explanation of how the Box Model works.
+- [Colt Steele’s video on the Box Model](https://www.youtube.com/watch?v=M1xEi_BBW1I) is great if you enjoy video content
 
-Setting `margin: auto` is a one way to center an element horizontally. It sets the left and right margins to whatever is needed to center the element. It doesn’t work for vertical alignment.
+They explain some of the topics we’ve skipped over here, like:
 
-## Block and inline boxes
+- box-sizing
+- margin collapse
+- `display: inline-block`
+- ‘inner’ and ‘outer’ display
 
-So, one thing that can be pretty confusing. All this box model stuff is true for most elements, but... some elements don’t actually work that way!
+</details>
 
-Elements like `<a>`, `<span>`, `<strong>`, and `<em>` are **inline elements**. They don’t go onto a whole new line like a `<p>` or a `<div>`. Inline elements get a slightly different version of the box model than **block** elements.
-
-Here are the differences for **inline boxes** (from [MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)):
-
-- The box will not break onto a new line.
-- The `width` and `height` properties will not apply.
-- Vertical padding, margins, and borders will apply but *will not cause other inline boxes to move away from the box*.
-
-Horizontal padding, margins, and borders will apply and will cause other inline boxes to move away from the box.
-
-- **Further Exploration**: Block and Inline
-    
-    MDN’s [page on the Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) explains more about block and inline boxes.
-    
-    In the next lesson, you’ll also learn about the `display` property, which can control which kind of box an element has.
-    
-
-## Practice: Block and Inline
-
-<aside>
-
-
-🟦 Practice using the `display` property and your new understanding of inline and block elements.
-
-Access the repl here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/24-Practice-Block-and-Inline" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> or below
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/24-Practice-Block-and-Inline" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-## CSS Units
-
-So far, we’ve used pixels (`px`) as the units in our examples. CSS has lots of different kinds of units that are useful in different situations.
-
-Pixels are not the only units! CSS actually has more than 10 units you can use. For now, the only one we’ll mention is `em`. `1em` is the same as saying “the current font size”. So, to make text three quarters the size of the surrounding text, you could use `font-size: 0.75em`.
-
-You can also specify values in terms of percentages. An element with `width: 50%` will try to take up 50% of the width of its parent element.
-
-- **Further Exploration**: CSS Units
-
-    The [MDN page on CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units) goes into depth about the different units available for different values.

@@ -1,6 +1,6 @@
 # Styling text
 
-*Estimated Time: 30 minutes*
+*Estimated Time: 20 minutes*
 
 ---
 

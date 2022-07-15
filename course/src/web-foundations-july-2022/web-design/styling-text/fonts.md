@@ -1,5 +1,9 @@
 # Fonts
 
+_Estimated time: 15 minutes_
+
+---
+
 > The easiest and most visible improvement you can make to your typography is to use a professional font
 >
 > *[Butterick’s Practical Typography, Summary of key rules](https://practicaltypography.com/summary-of-key-rules.html)* 

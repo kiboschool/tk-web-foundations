@@ -6,7 +6,7 @@
 
 # Project: Rest of World Landing Page
 
-**Due date: Sunday, May 8th (Note: due date extended to May 15th)**
+**Due date: Sunday, July 24**
 
 <aside>
 

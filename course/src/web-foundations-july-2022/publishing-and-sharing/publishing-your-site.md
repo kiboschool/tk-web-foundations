@@ -12,11 +12,11 @@ Every Replit web project has a built-in published version. You don’t need to d
 
 When you run your code, the preview window has a **public URL** and an “open in new tab” button that links to your site. So cool!
 
-![7E4CDCB3-021D-4F38-A16E-2CD1FC797801-1442-00008542F1D9E729.png](/web-foundations-april-2022/publishing-and-sharing/publishing-your-site/e4cdcb3-021d-4f38-a16e-2cd1fc797801-1442-00008542f1d9e729.png)
+![7E4CDCB3-021D-4F38-A16E-2CD1FC797801-1442-00008542F1D9E729.png](/web-foundations-july-2022/publishing-and-sharing/publishing-your-site/e4cdcb3-021d-4f38-a16e-2cd1fc797801-1442-00008542f1d9e729.png)
 
 Replit acts as the server for your files.
 
-![Untitled](/web-foundations-april-2022/publishing-and-sharing/domains-and-hosting/untitled.png)
+![Untitled](/web-foundations-july-2022/publishing-and-sharing/domains-and-hosting/untitled.png)
 
 This is great! You can share the link with anyone you want, and they can see your site.
 
@@ -91,7 +91,7 @@ Here’s a recap of the video:
 
 Your site should be available on Github Pages with a [github.io](http://github.io) domain name in a few minutes.
 
-![Untitled](/web-foundations-april-2022/publishing-and-sharing/domains-and-hosting/untitled-1.png)
+![Untitled](/web-foundations-july-2022/publishing-and-sharing/domains-and-hosting/untitled-1.png)
 
 You can see the Github repo here: [https://github.com/kiboschool/demo-recipe-site](https://github.com/kiboschool/demo-recipe-site)
 

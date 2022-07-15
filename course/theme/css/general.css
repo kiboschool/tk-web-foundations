@@ -235,3 +235,10 @@ summary + * {
 img {
     box-shadow: var(--med-shadow);
 }
+
+.content img {
+    max-height: 400px;
+    max-width: calc(max(65%, 400px));
+    display: block;
+    margin: auto;
+}

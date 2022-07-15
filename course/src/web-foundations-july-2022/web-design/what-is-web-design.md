@@ -1,6 +1,6 @@
 # What is web design
 
-*Estimated time: 30 minutes*
+*Estimated time: 20 minutes*
 
 ---
 
