@@ -1,45 +1,51 @@
-# Bonus: More Styling
+# Bonus: More Styling and CSS
 
-This section has some further, optional information that might be useful.
+We skipped over tons of topics in the lessons. This section has some further, 
+optional information that might be useful.
+
+## Responsive Design
+
+Designing for different screen sizes is hard! MDN has a few guides on strategies for responsive design that you can read.
+
+- [Responsive Design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design) gives an overview.
+- [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) details how to include images that work well across screen sizes
+- [Media Queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries) are a core tool you can use to adapt to different screen sizes.
+
+## z-index
+
+When CSS boxes overlap, which one shows up on top? 
+
+The `z-index` property decides.
+
+The name "z-index" comes from thinking about the screen's x and y dimensions. If 
+x and y are left/right and up/down directions on the screen, then the ‘z’ 
+dimension is "popping out of" and "going into" the screen.
+
+</details>
+
+`z-index` is tricky to use, in part because it’s hard to see and think about. To learn more about it, check out the [MDN reference on z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/z-index), and the MDN series on [Understanding CSS z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index).
+
+## Overflow and Scrolling
+
+Content doesn’t always fit within the width and height of the containing element.
+
+What happens to that overflowing content? It might scroll horizontally or vertically, it might spill out of the containing box, or it might get hidden.
+
+Read more on [MDN about handling overflowing content](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Overflowing_content).
+
+## CSS Grid
+
+Grid is a popular way of laying out content. 
+
+`grid` is an inside display value that changes the flow of elements inside a container, similar to `flex`.
+
+You can read more about `display: grid` and the [grid layout system on MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids).
+
+To practice laying out elements in a grid, try [https://cssgridgarden.com/](https://cssgridgarden.com/)
 
 ## The `margin: auto` trick
 
 Setting `margin: auto` is a one way to center an element horizontally. It sets the left and right margins to whatever is needed to center the element. It doesn’t work for vertical alignment.
-
-## Block and inline boxes
-
-So, one thing that can be pretty confusing. All this box model stuff is true for most elements, but... some elements don’t actually work that way!
-
-Elements like `<a>`, `<span>`, `<strong>`, and `<em>` are **inline elements**. They don’t go onto a whole new line like a `<p>` or a `<div>`. Inline elements get a slightly different version of the box model than **block** elements.
-
-Here are the differences for **inline boxes** (from [MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)):
-
-- The box will not break onto a new line.
-- The `width` and `height` properties will not apply.
-- Vertical padding, margins, and borders will apply but *will not cause other inline boxes to move away from the box*.
-
-Horizontal padding, margins, and borders will apply and will cause other inline boxes to move away from the box.
-
-<details>
-<summary><strong>Further Exploration: Block and Inline</strong>
-
-MDN’s [page on the Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) explains more about block and inline boxes.
-
-In the next lesson, you’ll also learn about the `display` property, which can control which kind of box an element has.
-
-</details> 
-
-## Practice: Block and Inline
-
-<aside>
-
-🟦 Practice using the `display` property and your new understanding of inline and block elements.
-
-Access the repl here: 
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/24-Practice-Block-and-Inline" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## CSS Units
 
@@ -49,6 +55,10 @@ Pixels are not the only units! CSS actually has more than 10 units you can use. 
 
 You can also specify values in terms of percentages. An element with `width: 50%` will try to take up 50% of the width of its parent element.
 
-### Further Exploration: CSS Units
-
 The [MDN page on CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units) goes into depth about the different units available for different values.
+
+## Learn CSS
+
+If you’ve finished these resources, and still want to learn more about CSS, 
+check out [Learn CSS](https://web.dev/learn/css/) from web.dev. It’s a free 
+resource from Google and others that covers CSS topics in even more detail.

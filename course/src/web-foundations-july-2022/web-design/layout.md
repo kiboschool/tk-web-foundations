@@ -93,13 +93,13 @@ element show up inline, but take up space like a block.
 
 <aside>
 
-Try setting the display property to different values, and seeing the result.
+🟦 Practice using the `display` property and your new understanding of inline and block elements.
 
-Eventually, you should make the site look like the picture in the instructions.
+Access the repl here: 
 
 </aside>
 
-[Replit - practice block and inline]
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/24-Practice-Block-and-Inline" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### `display: none;`
 
