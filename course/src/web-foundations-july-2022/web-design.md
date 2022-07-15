@@ -32,8 +32,7 @@ As you practice in the future, come back to these lessons and review the materia
 
 <aside>
 
-
-<img src="/web-foundations-april-2022/instruction.png" alt="instruction.png" width="40px" /> Web Foundations instructor Wasiu gives a short introduction to week 2 of the course.
+Web Foundations instructor Wasiu gives a short introduction to week 2 of the course.
 
 </aside>
 
