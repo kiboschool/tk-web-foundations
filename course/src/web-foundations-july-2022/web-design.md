@@ -45,11 +45,11 @@ After this week, you will be able to:
 
 [2.5 HTML and CSS Projects](./web-design/the-box-model.md)
 
-[Practice ](/web-foundations-july-2022/web-design/practice.md)
+[Practice ](./web-design/practice.md)
 
-[Project ](/web-foundations-july-2022/web-design/project.md)
+[Project ](./web-design/project.md)
 
-[Wrap Up ](/web-foundations-july-2022/web-design/wrap-up.md)
+[Wrap Up ](./web-design/wrap-up.md)
 
 ---
 

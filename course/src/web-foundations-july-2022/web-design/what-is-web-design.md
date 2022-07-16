@@ -47,14 +47,14 @@ Everyone has different taste, so there’s no universal “best” style. All th
 - Layout
 - Colors
 
-CSS has tools for styling each of these. That’s where we’ll focus this week.
+CSS has tools for styling each of these. We’ll focus on some of these in the next lessons.
 
 ### Web Design in 4 Minutes
 
 <aside>
 
 
-⏩ [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/) by Jeremy Thomas walks you through the basics of styles to add to a site to make it look good. 
+⏩ **[Web Design in 4 minutes]** (https://jgthms.com/web-design-in-4-minutes/) by Jeremy Thomas walks you through the basics of styles to add to a site to make it look good. 
 
 Open that page, then click the link in the last sentence of each explanation to see, step by step, how to style a page.
 
@@ -70,22 +70,17 @@ Here’s a more detailed preview of what you’ll learn this week:
 - Font families, weights, and how to use web fonts
 - Styling lists, links, and emphasized text
 
-### Spacing
-
-- The CSS Box Model
-- Margin, padding, and borders
-
-### Layout and positioning
-
-- The `display` and `position` properties
-- Overflow and Scrolling
-- Flexbox
-
 ### Colors
 
 - Contrast and readability
 - Choosing a palette
 - CSS Color values
+
+### Box Model
+
+- The CSS Box Model
+- Margin, padding, and borders
+
 
 ## Padlet: Sites with Good Design
 
