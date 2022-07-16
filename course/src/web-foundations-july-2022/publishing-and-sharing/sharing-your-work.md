@@ -47,7 +47,7 @@ If you are putting your work on Github, other developers might find it! The best
 
 What shows up in the tab bar for this page is the *title* and *favicon.*
 
-![055B91B2-9763-4AC5-A97F-DB22CC11D7FE-1442-00008A4C3814B04E.png](/web-foundations-april-2022/publishing-and-sharing/sharing-your-work/b91b2-9763-4ac5-a97f-db22cc11d7fe-1442-00008a4c3814b04e.png)
+![055B91B2-9763-4AC5-A97F-DB22CC11D7FE-1442-00008A4C3814B04E.png](/web-foundations-july-2022/publishing-and-sharing/sharing-your-work/b91b2-9763-4ac5-a97f-db22cc11d7fe-1442-00008a4c3814b04e.png)
 
 You can control these! 
 
@@ -97,7 +97,7 @@ This recipe for Chicken Peanut Stew has everything going on. It's sweet yet fier
 <meta property="twitter:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
 ```
 
-![849D513D-B8FF-4DA7-9369-05F56C4F1E69-1442-00008AFB9FF85244.png](/web-foundations-april-2022/publishing-and-sharing/sharing-your-work/d513d-b8ff-4da7-9369-05f56c4f1e69-1442-00008afb9ff85244.png)
+![849D513D-B8FF-4DA7-9369-05F56C4F1E69-1442-00008AFB9FF85244.png](/web-foundations-july-2022/publishing-and-sharing/sharing-your-work/d513d-b8ff-4da7-9369-05f56c4f1e69-1442-00008afb9ff85244.png)
 
 Try going to [Metatags.io](https://metatags.io/) and generating the meta tags for a site of your own.
 
@@ -114,12 +114,3 @@ We encourage you to share your work early. Here’s (just some) of the reasons w
 - Sharing your project helps others to learn
 
 Sometimes sharing is uncomfortable! It’s okay to tell people when you share “I’m just a beginner, and this was my student project”, if that helps you feel more comfortable sharing your work.
-
----
-
-<aside>
-
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: [Practice](/web-foundations-april-2022/publishing-and-sharing/practice.md)
-
-</aside>

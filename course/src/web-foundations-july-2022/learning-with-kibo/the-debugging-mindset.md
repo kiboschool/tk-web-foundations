@@ -12,8 +12,7 @@ On this page, we’ve collected skills, tips, and mindsets that helped students 
 
 <aside>
 
-
-<img src="../instruction.png" alt="../instruction.png" width="40px" /> Watch the following video on the most powerful mindset for success
+Watch the following video on the most powerful mindset for success
 
 </aside>
 
@@ -41,7 +40,7 @@ However, errors don’t mean your program is *bad.* They *definitely* don’t me
 
 Our version of the Growth Mindset is the **Debugging Mindset**. 
 
-- You will ****run into lots of errors.
+- You will run into lots of errors.
 - When you do, treat each one as a chance to learn.
 - **Bugs and errors are normal**. Everyone learning to program creates lots of buggy programs — then debugs them. You will too.
 
@@ -55,12 +54,3 @@ Here’s a clip from Alexis, a Try Kibo alumni, on how to succeed in the program
 > 
 
 You can also check out the [**YouTube Playlist**](https://youtube.com/playlist?list=PLEApm5XV23vWGm4uwl7jGSNST2Wj9S6Rx) with more student stories and advice from alumni.
-
----
-
-<aside>
-
-
-<img src="/web-foundations-april-2022/learning-with-kibo/man-in-hike.png" alt="man-in-hike.png" width="40px" /> Next up: [Learning Together](/web-foundations-april-2022/learning-with-kibo/learning-together.md)
-
-</aside>

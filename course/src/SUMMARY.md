@@ -6,8 +6,11 @@
 
 [Admission Challenges](web-foundations-july-2022/admissions-challenge.md)
 
-[Community Orientation (July 12th 2022)](web-foundations-july-2022/community-orientation-july-2022.md)
+[Community Orientation](web-foundations-july-2022/community-orientation-july-2022.md)
 
+## Lessons
+
+### Week 1
 - [Foundations](web-foundations-july-2022/foundations.md)
     - [Program Overview](web-foundations-july-2022/foundations/program-overview.md)
     - [Websites and the Internet](web-foundations-july-2022/foundations/websites-and-the-internet.md)
@@ -19,16 +22,48 @@
 	- [Wrap up](web-foundations-july-2022/foundations/wrap-up.md)
     - [Bonus: More HTML elements](web-foundations-july-2022/foundations/bonus-more-html-elements.md)
 
+### Week 2
+
 - [Web Design](web-foundations-july-2022/web-design.md)
-    - [What is Web Design](web-foundations-july-2022/web-design/what-is-web-design.md)
-	- [Styling Text](web-foundations-july-2022/web-design/styling-text.md)
+    - [What is Web Design?](web-foundations-july-2022/web-design/what-is-web-design.md)
+    - [Styling Text](web-foundations-july-2022/web-design/styling-text.md)
+        - [CSS Text Properties](web-foundations-july-2022/web-design/styling-text/css-text-properties.md)
+        - [Fonts](web-foundations-july-2022/web-design/styling-text/fonts.md)
+        - [Styling Elements](web-foundations-july-2022/web-design/styling-text/styling-elements.md)
     - [Colors](web-foundations-july-2022/web-design/colors.md)
     - [The Box Model](web-foundations-july-2022/web-design/the-box-model.md)
-    - [HTML and CCSS Projects](web-foundations-july-2022/web-design/the-box-model.md)
+    - [Layout](web-foundations-july-2022/web-design/layout.md)
+    - [Flexbox](web-foundations-july-2022/web-design/flexbox.md)
     - [Practice](web-foundations-july-2022/web-design/practice.md)
     - [Project](web-foundations-july-2022/web-design/project.md)
-    - [Wrap up](web-foundations-july-2022/web-design/wrap-up.md)
+    - [Wrap Up](web-foundations-july-2022/web-design/wrap-up.md)
+    - [Bonus: More styling](web-foundations-july-2022/web-design/bonus-more-styling.md)
+    - [Bonus: Positioning](web-foundations-july-2022/web-design/positioning.md)
 
+### Week 3
 
-## Lessons
+- [Action and Interaction](web-foundations-july-2022/action-and-interaction.md)
+    - [Multimedia HTML Elements](web-foundations-july-2022/action-and-interaction/multimedia-html-elements.md)
+    - [Introduction to JavaScript](web-foundations-july-2022/action-and-interaction/introduction-to-javascript.md)
+    - [Responding to Events in JavaScript](web-foundations-july-2022/action-and-interaction/responding-to-events-in-javascript.md)
+    - [Practice](web-foundations-july-2022/action-and-interaction/practice.md)
+    - [Project ](web-foundations-july-2022/action-and-interaction/project.md)
+    - [Final Project Preparation](web-foundations-july-2022/action-and-interaction/final-project-preparation.md)
+    - [Wrap Up](web-foundations-july-2022/action-and-interaction/wrap-up.md)
 
+### Week 4
+
+- [Publishing and Sharing](web-foundations-july-2022/publishing-and-sharing.md)
+    - [How the Internet Works (again)](web-foundations-july-2022/publishing-and-sharing/how-the-internet-works-again.md)
+    - [Publishing your site](web-foundations-july-2022/publishing-and-sharing/publishing-your-site.md)
+    - [Domains and Hosting](web-foundations-july-2022/publishing-and-sharing/domains-and-hosting.md)
+    - [Sharing your work](web-foundations-july-2022/publishing-and-sharing/sharing-your-work.md)
+    - [Practice](web-foundations-july-2022/publishing-and-sharing/practice.md)
+    - [Project](web-foundations-july-2022/publishing-and-sharing/project.md)
+    - [Wrap Up](web-foundations-july-2022/publishing-and-sharing/wrap-up.md)
+
+### Week 5
+
+- [Final Project Instructions](web-foundations-july-2022/final-project-instructions.md)
+
+[Wrapping Up](web-foundations-july-2022/wrapping-up-final-steps-for-web-foundations.md)

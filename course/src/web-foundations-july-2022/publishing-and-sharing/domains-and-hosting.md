@@ -41,7 +41,7 @@ Making [kibo.school](http://kibo.school) involves these steps:
 - Publish the site on a server
 - Use DNS to make the [kibo.school](http://kibo.school) point to the server’s IP address
 
-![Untitled](/web-foundations-april-2022/publishing-and-sharing/domains-and-hosting/untitled.png)
+![Untitled](/web-foundations-july-2022/publishing-and-sharing/domains-and-hosting/untitled.png)
 
 ### How does your browser load kibo.school?
 
@@ -51,13 +51,13 @@ When you type [kibo.school](http://kibo.school) into your browser:
 2. Your browser asks **162.159.135.42** for the actual webpage
 3. The server at that address sends back the files that make up the site you see (HTML, CSS, and JS, plus images and videos)
 
-![Untitled](/web-foundations-april-2022/publishing-and-sharing/domains-and-hosting/untitled-1.png)
+![Untitled](/web-foundations-july-2022/publishing-and-sharing/domains-and-hosting/untitled-1.png)
 
 ### DNS Records
 
 Now that we know what DNS is for, let’s talk a tiny bit about what it actually looks like. The graphic above showed the record like this:
 
-![Untitled](/web-foundations-april-2022/publishing-and-sharing/domains-and-hosting/untitled-2.png)
+![Untitled](/web-foundations-july-2022/publishing-and-sharing/domains-and-hosting/untitled-2.png)
 
 At its heart, DNS is really simple: it matches a name and a value. In this case, the name `kibo.school` is matched with the value `162.159.135.42`
 
@@ -127,7 +127,7 @@ Visit [https://questions.wizardzines.com/dns.html](https://questions.wizardzines
     
     Julia makes tons of awesome comics, like this one on [How to be a Wizard Programmer](https://wizardzines.com/zines/wizard/).
     
-    ![wizard-programmer.png](/web-foundations-april-2022/publishing-and-sharing/domains-and-hosting/wizard-programmer.png)
+    ![wizard-programmer.png](/web-foundations-july-2022/publishing-and-sharing/domains-and-hosting/wizard-programmer.png)
     
     You can find more of her work online at [https://wizardzines.com/](https://wizardzines.com/). 
     
@@ -204,12 +204,3 @@ Video Recap:
 4. Be patient
     1. Wait for a while, since it might take a few minutes.
     2. It’s easy to mess things up, so take your time and be patient with yourself.
-
----
-
-<aside>
-
-
-<img src="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" alt="../Lesson%200%20Learning%20With%20Kibo%206427d2f5f1ae4576a3b083dd8476d915/man-in-hike.png" width="40px" /> Next up: [Sharing your work](/web-foundations-april-2022/publishing-and-sharing/sharing-your-work.md)
-
-</aside>

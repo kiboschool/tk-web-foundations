@@ -9,7 +9,7 @@ Congratulations on ***almost*** finishing your Web Foundations journey. Below is
 You have worked really hard and we want to recognize that work with a certificate you can share digitally. To earn your certificate, **you need to complete the following by end Friday June 3rd.**
 
 - Complete all the projects from Weeks 1 - 3, and submit in Replit. (Note: these are the assignments on the “Project” pages of each lesson)
-- Complete the [**Final Project](/web-foundations-april-2022/final-project-instructions.md)** and **submit the form**
+- Complete the [**Final Project](/web-foundations-july-2022/final-project-instructions.md)** and **submit the form**
 - Complete the **[Web Foundation Program Feedback Survey](https://forms.gle/m9HBvgi2q44QH4kH9)**
 
 <aside>
@@ -71,8 +71,17 @@ Remember that programming is a long journey and what matters is to learn well, n
     - [Interneting Is Hard](https://www.internetingishard.com/)
     - [Shay Howe’s Learn HTML and CSS](https://learn.shayhowe.com/html-css/)
     - [FreeCodeCamp’s Responsive Web Design Course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
-- Apply to Kibo degree program later this year!
 - Study computer science in university!
+
+### Apply to Kibo's degree program
+
+Kibo offers a three-year BSc in Computer Science. If you liked this class, but
+want to learn much more, consider applying to join the Bachelor's Degree
+program.
+
+Learn more about Kibo's degree program here: [https://kibo.school/degree/](https://kibo.school/degree/)
+
+Fill out [this form to begin your application](https://kibo-school.typeform.com/kibo-interest?typeform-source=kibo.school).
 
 ---
 
@@ -80,8 +89,8 @@ Remember that programming is a long journey and what matters is to learn well, n
 
 Kibo would not be the same without your participation. We are so grateful that you joined us!
 
-![Peak2.png](/web-foundations-april-2022/wrapping-up-final-steps-for-web-foundations/peak2.png)
+![Peak2.png](/web-foundations-july-2022/wrapping-up-final-steps-for-web-foundations/peak2.png)
 
-![Peak3.png](/web-foundations-april-2022/wrapping-up-final-steps-for-web-foundations/peak3.png)
+![Peak3.png](/web-foundations-july-2022/wrapping-up-final-steps-for-web-foundations/peak3.png)
 
-![Peak1.png](/web-foundations-april-2022/wrapping-up-final-steps-for-web-foundations/peak1.png)
+![Peak1.png](/web-foundations-july-2022/wrapping-up-final-steps-for-web-foundations/peak1.png)

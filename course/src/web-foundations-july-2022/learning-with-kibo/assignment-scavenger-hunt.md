@@ -47,12 +47,3 @@ For this Scavenger Hunt, you’ll use the DevTools to view and edit properties o
 </aside>
 
 <div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc8ERyFq4Qnx7DzpjEF9awUW0Dq2e5AgYJBP5NvrU1gxRal_Q/viewform?usp=sf_link" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
-
----
-
-<aside>
-
-
-<img src="/web-foundations-april-2022/learning-with-kibo/man-in-hike.png" alt="man-in-hike.png" width="40px" /> Next up: [The Debugging Mindset](/web-foundations-april-2022/learning-with-kibo/the-debugging-mindset.md)
-
-</aside>

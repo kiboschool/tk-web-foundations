@@ -54,7 +54,7 @@ Here’s an example. On the left is a snippet of HTML. On the right is that same
 
 This is a paragraph. It has an [Example Link](http://example.com) inside the paragraph.
 
-![Untitled](/web-foundations-april-2022/publishing-and-sharing/domains-and-hosting/untitled.png)
+![Untitled](/web-foundations-july-2022/learning-with-kibo/intro-to-web-development/untitled.png)
 
 ## HTML Elements
 
@@ -140,7 +140,7 @@ Here’s some examples:
 
 Here’s an image summarizing the parts of an HTML element:
 
-![Untitled](/web-foundations-april-2022/publishing-and-sharing/domains-and-hosting/untitled-1.png)
+![Untitled](/web-foundations-july-2022/learning-with-kibo/intro-to-web-development/untitled-1.png)
 
 # CSS
 
@@ -158,7 +158,7 @@ This CSS sets the color of the text within paragraphs to red.
 
 Here’s the result:
 
-![BCDF355C-419C-4670-A99D-D70D1D5C78AB-655-0000EDA4FBD29F61.png](/web-foundations-april-2022/learning-with-kibo/intro-to-web-development/bcdf355c-419c-4670-a99d-d70d1d5c78ab-655-0000eda4fbd29f61.png)
+![BCDF355C-419C-4670-A99D-D70D1D5C78AB-655-0000EDA4FBD29F61.png](/web-foundations-july-2022/learning-with-kibo/intro-to-web-development/bcdf355c-419c-4670-a99d-d70d1d5c78ab-655-0000eda4fbd29f61.png)
 
 (Here’s the HTML)
 
@@ -195,7 +195,7 @@ A declaration is a **property** and a **value.**
 > In the example, the property is `color` and the value is `red`
 > 
 
-![Untitled](/web-foundations-april-2022/publishing-and-sharing/domains-and-hosting/untitled-2.png)
+![Untitled](/web-foundations-july-2022/publishing-and-sharing/domains-and-hosting/untitled-2.png)
 
 There’s a ton more to learn about how the selectors work, what properties are available, and what values are available. We’ll cover some in the course, but not everything!
 
@@ -230,28 +230,19 @@ You can read more on MDN about [What the DevTools are](https://developer.mozilla
 
 - Websites are made of HTML, CSS, and JavaScript
 - HTML has elements that look like
-    
-    ```css
-    <a href="https://example.com">A Link Example</a>
-    ```
-    
+
+```html
+<a href="https://example.com">A Link Example</a>
+```
+
 - CSS has rules that control the appearance of selected elements, like
-    
-    ```css
-    p {
-      color: red;
-    }
-    ```
-    
+
+```css
+p {
+	color: red;
+}
+```
+
 - You’ll use Replit and the DevTools as your toolbox in the course
 
 Next, you’ll use the DevTools to find hidden messages in the Scavenger Hunt.
-
----
-
-<aside>
-
-
-<img src="/web-foundations-april-2022/learning-with-kibo/man-in-hike.png" alt="man-in-hike.png" width="40px" /> Next up: [Assignment - Scavenger Hunt](/web-foundations-april-2022/learning-with-kibo/assignment-scavenger-hunt.md)
-
-</aside>
