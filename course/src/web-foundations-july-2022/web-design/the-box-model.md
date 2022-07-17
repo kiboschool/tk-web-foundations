@@ -25,7 +25,7 @@ From the inside, going outwards:
 
 These properties apply to the top, right, bottom, and left of the element.
 
-![The CSS Box Model. Nested rectangles labeled Margin, Border, Padding, and Content](/web-foundations-july-2022/web-design/the-box-model/box-model.png)
+![The CSS Box Model. Nested rectangles labeled Margin, Border, Padding, and Content](./the-box-model/box-model.png)
 
 The CSS Box Model. Nested rectangles labeled Margin, Border, Padding, and Content
 
@@ -79,7 +79,7 @@ You can set any of the properties on their own, or set them all at once with `pa
 
 Check out the [MDN docs on padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding) for an interactive example and more information.
 
-![padding-box.png](/web-foundations-july-2022/web-design/the-box-model/padding-box.png)
+![padding-box.png](./the-box-model/padding-box.png)
 
 ### `padding` example
 
@@ -90,7 +90,7 @@ The `padding` shorthand sets the top, right, bottom, and left in one line.
 padding: 30px 12px 30px 12px;
 ```
 
-![11C0BCA8-A34F-4DC4-BD90-ACD739E1AC06-2762-000087D271E01487.png](/web-foundations-july-2022/web-design/the-box-model/c0bca8-a34f-4dc4-bd90-acd739e1ac06-2762-000087d271e01487.png)
+![11C0BCA8-A34F-4DC4-BD90-ACD739E1AC06-2762-000087D271E01487.png](./the-box-model/c0bca8-a34f-4dc4-bd90-acd739e1ac06-2762-000087d271e01487.png)
 
 <details>
 <summary><strong>Further Exploration: CSS direction shorthands</strong></summary>
@@ -126,7 +126,7 @@ Border is a line around an element, with a width, color, and style. It’s contr
 
 These can each be set for the whole element, or for the top, right, bottom, or left, like `border-top-color` or `border-bottom-style`.
 
-![border-box-model.png](/web-foundations-july-2022/web-design/the-box-model/border-box-model.png)
+![border-box-model.png](./the-box-model/border-box-model.png)
 
 ### `border` example
 
@@ -137,7 +137,7 @@ The `border` shorthand sets the width, style, and color for all 4 sides.
 border: 4px dashed green;
 ```
 
-![F571BD73-CE94-4BEA-989B-B07E1BBFA094-2762-000087732A9B2CA7.png](/web-foundations-july-2022/web-design/the-box-model/f571bd73-ce94-4bea-989b-b07e1bbfa094-2762-000087732a9b2ca7.png)
+![F571BD73-CE94-4BEA-989B-B07E1BBFA094-2762-000087732A9B2CA7.png](./the-box-model/f571bd73-ce94-4bea-989b-b07e1bbfa094-2762-000087732a9b2ca7.png)
 
 See the [MDN docs on border](https://developer.mozilla.org/en-US/docs/Web/CSS/border) for more information.
 
@@ -152,7 +152,7 @@ Margin is the space between one element’s border and another element. It’s c
 
 Like the other box model properties, `margin` is a shorthand for setting all of the properties at once.
 
-![margin-box.png](/web-foundations-july-2022/web-design/the-box-model/margin-box.png)
+![margin-box.png](./the-box-model/margin-box.png)
 
 ### `margin` e**xample**
 
@@ -164,7 +164,7 @@ margin: 20px;
 
 20 pixels of margin on all sides.
 
-![81AB221B-99EF-4482-BB12-FD5C2F73ED40-2762-000088712844B9FB.png](/web-foundations-july-2022/web-design/the-box-model/ab221b-99ef-4482-bb12-fd5c2f73ed40-2762-000088712844b9fb.png)
+![81AB221B-99EF-4482-BB12-FD5C2F73ED40-2762-000088712844B9FB.png](./the-box-model/ab221b-99ef-4482-bb12-fd5c2f73ed40-2762-000088712844b9fb.png)
 
 ```css
 margin: 20px 0;
@@ -172,7 +172,7 @@ margin: 20px 0;
 
 20 pixels of top and bottom margin, 0 left and right margin.
 
-![05992734-2715-4985-AFCD-A0CFE7F277DF-2762-0000886DE89F5B32.png](/web-foundations-july-2022/web-design/the-box-model/afcd-a0cfe7f277df-2762-0000886de89f5b32.png)
+![05992734-2715-4985-AFCD-A0CFE7F277DF-2762-0000886DE89F5B32.png](./the-box-model/afcd-a0cfe7f277df-2762-0000886de89f5b32.png)
 
 ```css
 margin: 0;
@@ -180,7 +180,7 @@ margin: 0;
 
 0 margin on the top, bottom, left, and right.
 
-![CBFF83DD-EDE8-47FA-9ED2-0F6F61D702F1-2762-0000886C154F42D2.png](/web-foundations-july-2022/web-design/the-box-model/cbff83dd-ede8-47fa-9ed2-0f6f61d702f1-2762-0000886c154f42d2.png)
+![CBFF83DD-EDE8-47FA-9ED2-0F6F61D702F1-2762-0000886C154F42D2.png](./the-box-model/cbff83dd-ede8-47fa-9ed2-0f6f61d702f1-2762-0000886c154f42d2.png)
 
 ## Practice: Box Model
 
@@ -228,8 +228,6 @@ Horizontal padding, margins, and borders will apply and will cause other inline 
 <summary><strong>Further Exploration: Block and Inline</strong>
 
 MDN’s [page on the Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) explains more about block and inline boxes.
-
-In the next lesson, you’ll also learn about the `display` property, which can control which kind of box an element has.
 
 </details> 
 

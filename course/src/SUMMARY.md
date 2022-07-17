@@ -32,13 +32,11 @@
         - [Styling Elements](web-foundations-july-2022/web-design/styling-text/styling-elements.md)
     - [Colors](web-foundations-july-2022/web-design/colors.md)
     - [The Box Model](web-foundations-july-2022/web-design/the-box-model.md)
-    - [Layout](web-foundations-july-2022/web-design/layout.md)
-    - [Flexbox](web-foundations-july-2022/web-design/flexbox.md)
+    - [Cool HTML and CSS Projects](web-foundations-july-2022/web-design/the-box-model.md)
     - [Practice](web-foundations-july-2022/web-design/practice.md)
     - [Project](web-foundations-july-2022/web-design/project.md)
     - [Wrap Up](web-foundations-july-2022/web-design/wrap-up.md)
     - [Bonus: More styling](web-foundations-july-2022/web-design/bonus-more-styling.md)
-    - [Bonus: Positioning](web-foundations-july-2022/web-design/positioning.md)
 
 ### Week 3
 

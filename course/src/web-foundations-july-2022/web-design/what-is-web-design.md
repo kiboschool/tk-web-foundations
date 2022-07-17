@@ -45,17 +45,19 @@ Everyone has different taste, so there’s no universal “best” style. All th
 
 - Text Styling
 - Spacing
-- Layout
 - Colors
+- Box model
+- Layout
 
-CSS has tools for styling each of these. We’ll focus on some of these in the next lessons.
+
+CSS has tools for styling each of these. We’ll focus on some of these in this next lesson.
 
 ### Web Design in 4 Minutes
 
 <aside>
 
 
-⏩ **[Web Design in 4 minutes]** (https://jgthms.com/web-design-in-4-minutes/) by Jeremy Thomas walks you through the basics of styles to add to a site to make it look good. 
+⏩ **[Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes)** by Jeremy Thomas walks you through the basics of styles to add to a site to make it look good. 
 
 Open that page, then click the link in the last sentence of each explanation to see, step by step, how to style a page.
 
@@ -90,7 +92,7 @@ Open that page, then click the link in the last sentence of each explanation to 
 
 </aside>
 
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/t3lxwjfk8n6vdli6" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/d2dflxj3sbkz9fli" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ## Further Exploration
 

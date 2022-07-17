@@ -19,6 +19,19 @@ The solutions to each challenge are available in Replit, and you can view a vide
     3. You can click ‘**Submit**’ in Replit to view a solution. Don’t forget to try the solution out in your own code, and submit the project again.
 </aside>
 
+
+## Biography page
+
+<aside>
+
+
+🤖  Help fix the style of Jane Doe's biography page. Use your text styling, color, and box model skills.
+
+[**Access and submit on Replit here**](https://replit.com/team/web-foundations-july-2022/Biography-page)
+
+</aside>
+
+
 ## Wanted Poster
 
 <aside>
@@ -27,16 +40,6 @@ The solutions to each challenge are available in Replit, and you can view a vide
 🤖 There’s a wanted robot! Use your Web Design skills to help make the poster look awesome.
 
 [**Access and submit on Replit here**](https://replit.com/team/web-foundations-july-2022/Wanted-Poster)
-
-</aside>
-
-## Lay out the Recipe Cards
-
-<aside>
-
-🍽️ Help fix the layout of the recipe cards on the screen. Practice using flexbox.
-
-[**Access and submit on Replit here:**](https://replit.com/team/web-foundations-july-2022/Lay-out-the-Recipe-Cards)
 
 </aside>
 
