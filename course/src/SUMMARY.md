@@ -36,7 +36,7 @@
     - [Practice](web-foundations-july-2022/web-design/practice.md)
     - [Project](web-foundations-july-2022/web-design/project.md)
     - [Wrap Up](web-foundations-july-2022/web-design/wrap-up.md)
-    - [Bonus: More styling](web-foundations-july-2022/web-design/bonus-more-styling.md)
+    
 
 ### Week 3
 
@@ -48,6 +48,7 @@
     - [Project ](web-foundations-july-2022/action-and-interaction/project.md)
     - [Final Project Preparation](web-foundations-july-2022/action-and-interaction/final-project-preparation.md)
     - [Wrap Up](web-foundations-july-2022/action-and-interaction/wrap-up.md)
+    - [Bonus: More styling](web-foundations-july-2022/web-design/bonus-more-styling.md)
 
 ### Week 4
 

@@ -4,6 +4,16 @@
 
 ---
 
+<aside>
+
+📺 Check out this video on CSS Colors from ColorCode.
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/HxztHgRN8I4" title="CSS Colors" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<br>
+
 # Colors in CSS
 
 CSS has lots of properties that deal with color. The primary ones you’ll deal with are 

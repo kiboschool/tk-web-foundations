@@ -4,9 +4,21 @@
 
 ---
 
+## The Box Model
+
+<aside>
+
+
+🎥 **Video:** Learn the CSS Box Model
+This video from Web Dev Simplified explores the different parts of the Box Model covered in this lesson.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/rIO5326FgPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+</aside>
+
 > Everything in CSS has a box around it.
 > 
-> *[MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)*
+> *[MDN Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)*
 
 CSS thinks in rectangles.
 
@@ -42,17 +54,7 @@ Before you dive deeper into the box model, here’s a quick tutorial on how to v
 
 </aside>
 
-## The Box Model
 
-<aside>
-
-
-🎥 **Video:** Learn the CSS Box Model
-This video from Web Dev Simplified explores the different parts of the Box Model covered in this lesson.
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/rIO5326FgPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-</aside>
 
 ## Content
 
