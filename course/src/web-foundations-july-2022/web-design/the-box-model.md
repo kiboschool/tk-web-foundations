@@ -212,9 +212,13 @@ They explain some of the topics we’ve skipped over here, like:
 
 </details>
 
+
 ## Box model for inline elements
 
-So, one thing that can be pretty confusing. All this box model stuff is true for most elements, but... some elements don’t actually work that way!
+<details>
+<summary>The box model is different for inline elements</summary>
+
+One thing that can be pretty confusing: the box model is true for most elements, but... some elements don’t actually work that way!
 
 Elements like `<a>`, `<span>`, `<strong>`, and `<em>` are **inline elements**. They don’t go onto a whole new line like a `<p>` or a `<div>`. Inline elements get a slightly different version of the box model than **block** elements.
 
@@ -226,11 +230,6 @@ Here are the differences for **inline boxes** (from [MDN](https://developer.mozi
 
 Horizontal padding, margins, and borders will apply and will cause other inline boxes to move away from the box.
 
-<details>
-<summary><strong>Further Exploration: Block and Inline</strong>
-
 MDN’s [page on the Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) explains more about block and inline boxes.
 
-</details> 
-
-
+</details>

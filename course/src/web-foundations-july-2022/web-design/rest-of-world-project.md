@@ -1,10 +1,10 @@
 # Project
 
-_Estimated Time: 1 hour_
+*Estimated Time: 1 hour*
 
 ---
 
-## Project: Article Page
+# Project: Rest of World Landing Page
 
 **Due date: Sunday, July 24**
 
@@ -19,11 +19,11 @@ If you have trouble finding a partner, or have trouble with the project, use the
 You can work together by sharing your screen, or by creating a new replit and sharing the join link with your teammate. You should each submit a copy of the project, but it can be copied from your teammate’s version (**which you all created together**!).
 
 
-## 📰 Article Styling
+## Landing Page Styling
 
-In this project, you'll use what you've learned about web design to style an article page based on an image.
+This project will stretch your Web Design skills. You’ll work to recreate the awesome landing page from [restofworld.org](https://web.archive.org/web/20220428094707/http://restofworld.org/).
 
-> [**Access** and **submit** the project in Replit here](https://replit.com/team/web-foundations-july-2022/Recreate-the-Rest-Of-World-Homepage)
+[**Access** and **submit** the project in Replit here](https://replit.com/team/web-foundations-july-2022/Recreate-the-Rest-Of-World-Homepage)
 
 Remember...
 
