@@ -4,7 +4,7 @@
 
 ---
 
-HTML and CSS can be used to build awesome projects. In this section, you'll how you can build a Music App interface using just HTML and CSS.
+HTML and CSS can be used to build awesome projects. In this section, you'll see how you can build a Music App interface using just HTML and CSS.
 
 > Don't be overwhelmed if you come across concepts you've not seen before in this section. 
 
