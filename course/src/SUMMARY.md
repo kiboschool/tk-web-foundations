@@ -11,6 +11,7 @@
 ## Lessons
 
 ### Week 1
+
 - [Foundations](web-foundations-july-2022/foundations.md)
   - [Program Overview](web-foundations-july-2022/foundations/program-overview.md)
   - [Websites and the Internet](web-foundations-july-2022/foundations/websites-and-the-internet.md)
@@ -21,6 +22,8 @@
   - [Project](web-foundations-july-2022/foundations/project.md)
   - [Wrap up](web-foundations-july-2022/foundations/wrap-up.md)
   - [Bonus: More HTML elements](web-foundations-july-2022/foundations/bonus-more-html-elements.md)
+
+<!--
 
 ### Week 2
 
@@ -67,3 +70,5 @@
 - [Final Project Instructions](web-foundations-july-2022/final-project-instructions.md)
 
 [Wrapping Up](web-foundations-july-2022/wrapping-up-final-steps-for-web-foundations.md)
+
+-->

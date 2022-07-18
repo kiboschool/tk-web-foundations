@@ -265,8 +265,9 @@ You’re done with orientation and all set to begin class. If you want to keep e
 
 ## Who You Are (Word Cloud)
 
-Check back later for a copy of the word cloud from the frist part of orientation. 
+These were the words you used to describe yourselves. What an awesome group!
 
+![Word Cloud](https://user-images.githubusercontent.com/3818920/178545313-a017e7bb-0c2b-4580-ac6f-b35c2eff111a.png)
 
 ## Bonus: DJ 🎧
 
