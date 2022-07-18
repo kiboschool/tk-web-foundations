@@ -37,9 +37,11 @@
   - [Wrap Up](web-foundations-july-2022/web-design/wrap-up.md)
   - [Bonus: Music Project](web-foundations-july-2022/web-design/bonus-music-project.md)
 
+<!-- >
+
 ### Week 3
 
-- [Action and Interaction](web-foundations-july-2022/action-and-interaction.md)
+- [Actions and Interaction](web-foundations-july-2022/action-and-interaction.md)
   - [Multimedia HTML Elements](web-foundations-july-2022/action-and-interaction/multimedia-html-elements.md)
   - [Introduction to JavaScript](web-foundations-july-2022/action-and-interaction/introduction-to-javascript.md)
   - [Responding to Events in JavaScript](web-foundations-july-2022/action-and-interaction/responding-to-events-in-javascript.md)
