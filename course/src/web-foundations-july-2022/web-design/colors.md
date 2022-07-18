@@ -4,6 +4,16 @@
 
 ---
 
+<aside>
+
+📺 Check out this video on CSS Colors from ColorCode.
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/HxztHgRN8I4" title="CSS Colors" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<br>
+
 # Colors in CSS
 
 CSS has lots of properties that deal with color. The primary ones you’ll deal with are 
@@ -11,17 +21,21 @@ CSS has lots of properties that deal with color. The primary ones you’ll deal 
 - `color` for text color.
 - `background-color` for the background color of any element.
 - `border-color` for the color of a border.
-- **Further Exploration**: More color properties
-    
-    There are tons more CSS properties that use colors. Try searching MDN for any of these that interest you:
-    
-    - `box-shadow`
-    - `outline-color`
-    - `text-decoration-color`
-    - `text-emphasis-color`
-    - `text-shadow`
-    - `caret-color`
-    - `column-rule-color`
+
+<details>
+<summary><strong>Further Exploration: More color properties</strong></summary>
+
+There are tons more CSS properties that use colors. Try searching MDN for any of these that interest you:
+
+- `box-shadow`
+- `outline-color`
+- `text-decoration-color`
+- `text-emphasis-color`
+- `text-shadow`
+- `caret-color`
+- `column-rule-color`
+
+</details>
 
 ## CSS Color Values
 
@@ -55,7 +69,6 @@ When designers create a color palette, they usually pick:
 
 <aside>
 
-
 🎨 **Colors for [kibo.school](https://kibo.school)**
 
 Kibo has a colorful homepage! But, if you actually count up the colors on the page, there aren’t that many. 
@@ -66,16 +79,16 @@ Kibo has a colorful homepage! But, if you actually count up the colors on the pa
     - What color is the background?
     - What’s the theme color?
     - What’s the accent color?
+
 </aside>
 
-# A color palette
+## A color palette
 
 Even on a site that looks very colorful, there’s only a handful of colors.
 
 Building a **color palette** means choosing just a few colors to use on your site.
 
 <aside>
-
 
 🎨 **Explore**: Build a palette on Coolors
 
@@ -85,7 +98,7 @@ Building a **color palette** means choosing just a few colors to use on your sit
 - You can ‘lock’ a color you like by clicking the lock icon
 </aside>
 
-## **CSS Variables**
+## CSS Variables
 
 If you’re going to use the same value in lots of places in your CSS code, there’s a really useful tool: **CSS variables**. Here’s how they work.
 
@@ -139,13 +152,12 @@ Try to match the color in the smaller circle by picking the same color on the wh
 
 <aside>
 
-
 🍲 Practice choosing a palette and applying it to a real page.
 
 This recipe page has most of the styling done already, but it needs color.
 
-**Access the repl here**: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/26-Apply-a-Palette" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> or below
+[Access the repl here](https://replit.com/team/web-foundations-july-2022/Apply-a-Palette)
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/26-Apply-a-Palette" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/web-foundations-july-2022/Apply-a-Palette" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

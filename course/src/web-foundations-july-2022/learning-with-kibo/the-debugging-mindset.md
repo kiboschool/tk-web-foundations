@@ -12,8 +12,7 @@ On this page, we’ve collected skills, tips, and mindsets that helped students 
 
 <aside>
 
-
-<img src="../instruction.png" alt="../instruction.png" width="40px" /> Watch the following video on the most powerful mindset for success
+Watch the following video on the most powerful mindset for success
 
 </aside>
 

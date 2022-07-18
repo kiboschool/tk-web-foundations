@@ -1,12 +1,13 @@
 # Project
 
-*Estimated Time: 2 hours*
+*Estimated Time: 1 hour*
 
 ---
 
-# Assignment: Content Gallery
+# Project: Rest of World Landing Page
 
-**Due date: Sunday, May 15**
+**Due date: Sunday, July 24**
+
 <aside>
 
 👥 This is a team project. Find a teammate (or two teammates, for a maximum of three students per team) from your squad, and schedule time to work on the project together.
@@ -18,13 +19,11 @@ If you have trouble finding a partner, or have trouble with the project, use the
 You can work together by sharing your screen, or by creating a new replit and sharing the join link with your teammate. You should each submit a copy of the project, but it can be copied from your teammate’s version (**which you all created together**!).
 
 
-## 🖼️ Content Gallery
+## Landing Page Styling
 
-In this project, you’ll get a chance to combine interactive elements with CSS and JavaScript to build an interactive gallery of content.
+This project will stretch your Web Design skills. You’ll work to recreate the awesome landing page from [restofworld.org](https://web.archive.org/web/20220428094707/http://restofworld.org/).
 
-**Access** and **submit** the project in Replit here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/Content-Gallery" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-</aside>
+[**Access** and **submit** the project in Replit here](https://replit.com/team/web-foundations-july-2022/Recreate-the-Rest-Of-World-Homepage)
 
 Remember...
 

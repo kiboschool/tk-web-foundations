@@ -1,34 +1,27 @@
 # Project
 
-*Estimated Time: 1 hour*
+_Estimated Time: 1 hour_
 
 ---
 
-# Project: Rest of World Landing Page
+## Project: Article Page
 
-**Due date: Sunday, May 8th (Note: due date extended to May 15th)**
-
-<aside>
-
-
-👥 This is a team project. Find a teammate (or two teammates, for a maximum of three students per team) from your squad, and schedule time to work on the project together.
-
-If you have trouble finding a partner, or have trouble with the project, use the **#help-web** channel in Discord. You can work with anyone, you are not restricted to your squad. You are also allowed to work on your own, but it’s good practice to work together.
-
-You can work together by sharing your screen, or by creating a new replit and sharing the join link with your teammate. You should each submit a copy of the project, but it can be copied from your teammate’s version (**which you all created together**!).
-
-</aside>
+**Due date: Sunday, July 24**
 
 <aside>
 
 
-📰 **Landing Page Styling**
+💡 This is an individual project. You are expected to work independently.
 
-This project will stretch your Web Design skills. You’ll work to recreate the awesome landing page from [restofworld.org](https://web.archive.org/web/20220428094707/http://restofworld.org/).
-
-**Access** and **submit** the project in Replit here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/210-Recreate-the-Rest-Of-World-Homepage" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+If you get stuck, confused, or have trouble with the project, you should use the **#help-web** channel in Discord or message an instructor. Try not to spoil the project for others - use Discord spoiler tags if you are going to include a screenshot or code sample.
 
 </aside>
+
+## 📰 Article Styling
+
+In this project, you'll use what you've learned about web design to style an article page based on an image.
+
+> [**Access** and **submit** the project in Replit here](https://replit.com/team/web-foundations-july-2022/Project-Style-the-Blog-Article)
 
 Remember...
 

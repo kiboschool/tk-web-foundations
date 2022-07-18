@@ -57,8 +57,7 @@ You will use Replit to **practice coding** and to **submit your assignments**.
 
 <aside>
 
-
-<img src="../instruction.png" alt="../instruction.png" width="40px" /> Watch this video for a brief introduction on how to use Replit.
+Watch this video for a brief introduction on how to use Replit.
 
 </aside>
 

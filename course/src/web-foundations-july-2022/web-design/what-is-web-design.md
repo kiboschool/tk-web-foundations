@@ -1,14 +1,14 @@
 # What is web design
 
-*Estimated time: 30 minutes*
+*Estimated time: 20 minutes*
 
 ---
 
 In week 1, you learned the basics of CSS. So you already know:
 
 - CSS describes how HTML elements should be displayed on the page
-- To use `link` to connect CSS to an HTML page, like `<link href="style.css" rel="stylesheet" />`
-- CSS selectors like `p`, `.details`, or `#title` select the elements to apply a style
+- Use `link` to connect CSS to an HTML page: `<link href="style.css" rel="stylesheet" />`
+- CSS selectors like `p`, `.details`, or `#title`
 - Basic CSS properties like `color`
 
 **But the sites you made in Week 1 were not pretty!** 
@@ -26,7 +26,7 @@ You’ve visited tons of websites in your life, and you’ve noticed that some s
 <aside>
 
 
-👀 [Can’t Unsee](https://cantunsee.space/) is a game to help you practice **noticing** designs that are right and wrong.
+👀 **[Can’t Unsee](https://cantunsee.space/)** is a game to help you practice **noticing** designs that are right and wrong.
 
 1. Go to [Can’t Unsee](https://cantunsee.space/)
 2. For each level, click on the better design
@@ -36,6 +36,7 @@ You’ve visited tons of websites in your life, and you’ve noticed that some s
 
 - Were some design mistakes easier or harder to notice?
 - Do you think you could spot the mistakes without the comparison image?
+
 </aside>
 
 ## What makes a site look good?
@@ -44,17 +45,19 @@ Everyone has different taste, so there’s no universal “best” style. All th
 
 - Text Styling
 - Spacing
-- Layout
 - Colors
+- Box model
+- Layout
 
-CSS has tools for styling each of these. That’s where we’ll focus this week.
+
+CSS has tools for styling each of these. We’ll focus on some of these in this next lesson.
 
 ### Web Design in 4 Minutes
 
 <aside>
 
 
-⏩ [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/) by Jeremy Thomas walks you through the basics of styles to add to a site to make it look good. 
+⏩ **[Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes)** by Jeremy Thomas walks you through the basics of styles to add to a site to make it look good. 
 
 Open that page, then click the link in the last sentence of each explanation to see, step by step, how to style a page.
 
@@ -62,30 +65,23 @@ Open that page, then click the link in the last sentence of each explanation to 
 
 ## What you’ll learn this week
 
-Here’s a more detailed preview of what you’ll learn this week:
-
 ### Text Styling
 
 - Font size, line spacing, line length
-- Font families, weights, and how to use web fonts
+- Font families, font weights, and how to use web fonts
 - Styling lists, links, and emphasized text
-
-### Spacing
-
-- The CSS Box Model
-- Margin, padding, and borders
-
-### Layout and positioning
-
-- The `display` and `position` properties
-- Overflow and Scrolling
-- Flexbox
 
 ### Colors
 
 - Contrast and readability
 - Choosing a palette
 - CSS Color values
+
+### Box Model
+
+- The CSS Box Model
+- Margin, padding, and borders
+
 
 ## Padlet: Sites with Good Design
 
@@ -96,10 +92,10 @@ Here’s a more detailed preview of what you’ll learn this week:
 
 </aside>
 
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/t3lxwjfk8n6vdli6" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/d2dflxj3sbkz9fli" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
-- **Further Exploration**: A Guide to Visual Design
+## Further Exploration
 
-    If you want to read more about visual design, see [Clean Up Your Mess: A Guide to Visual Design For Everyone](https://www.visualmess.com/) (10 min). 
-    
-    It discusses what makes a design “clean” and how to communicate what’s important. In particular, it focuses on how to use spacing, size, proximity, and alignment to create contrast and a visual hierarchy.
+If you want to read more about visual design, see [Clean Up Your Mess: A Guide to Visual Design For Everyone](https://www.visualmess.com/) (10 min). 
+
+It discusses what makes a design “clean” and how to communicate what’s important. In particular, it focuses on how to use spacing, size, proximity, and alignment to create contrast and a visual hierarchy.

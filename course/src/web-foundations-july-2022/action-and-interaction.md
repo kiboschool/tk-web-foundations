@@ -17,8 +17,7 @@ After this week, you will be able to:
 
 <aside>
 
-
-<img src="/web-foundations-april-2022/instruction.png" alt="instruction.png" width="40px" /> Web Foundations instructor Wasiu gives an overview of week 3.
+Web Foundations instructor Wasiu gives an overview of week 3.
 
 </aside>
 
