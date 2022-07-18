@@ -23,7 +23,6 @@
   - [Wrap up](web-foundations-july-2022/foundations/wrap-up.md)
   - [Bonus: More HTML elements](web-foundations-july-2022/foundations/bonus-more-html-elements.md)
 
-<!--
 
 ### Week 2
 
