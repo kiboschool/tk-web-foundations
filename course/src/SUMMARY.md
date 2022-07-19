@@ -39,22 +39,24 @@
   - [Wrap Up](web-foundations-july-2022/web-design/wrap-up.md)
   - [Bonus: Music Project](web-foundations-july-2022/web-design/bonus-music-project.md)
 
-<!-- >
 
 ### Week 3
 
-- [Actions and Interaction](web-foundations-july-2022/action-and-interaction.md)
-  - [Multimedia HTML Elements](web-foundations-july-2022/action-and-interaction/multimedia-html-elements.md)
-  - [Introduction to JavaScript](web-foundations-july-2022/action-and-interaction/introduction-to-javascript.md)
-  - [Responding to Events in JavaScript](web-foundations-july-2022/action-and-interaction/responding-to-events-in-javascript.md)
-  - [Practice](web-foundations-july-2022/action-and-interaction/practice.md)
-  - [Project ](web-foundations-july-2022/action-and-interaction/project.md)
-  - [Final Project Preparation](web-foundations-july-2022/action-and-interaction/final-project-preparation.md)
-  - [Wrap Up](web-foundations-july-2022/action-and-interaction/wrap-up.md)
-  - [Bonus: More styling](web-foundations-july-2022/web-design/bonus-more-styling.md)
+- [Multimedia and Layout](web-foundations-july-2022/multimedia-and-layout.md)
+  - [Multimedia HTML Elements](web-foundations-july-2022/multimedia-and-layout/multimedia-html-elements.md)
+  - [Layout](web-foundations-july-2022/multimedia-and-layout/layout.md)
+  - [Positioning](web-foundations-july-2022/multimedia-and-layout/positioning.md)
+  - [Practice](web-foundations-july-2022/multimedia-and-layout/practice.md)
+  - [Project ](web-foundations-july-2022/multimedia-and-layout/project.md)
+  - [Wrap Up](web-foundations-july-2022/multimedia-and-layout/wrap-up.md)
+  - [Bonus: More styling](web-foundations-july-2022/multimedia-and-layout/bonus-more-styling.md)
+  - [Bonus: Project](web-foundations-july-2022/multimedia-and-layout/bonus-project.md)
 
 ### Week 4
 
+- [Actions and Interaction](web-foundations-july-2022/action-and-interaction.md)
+  - [Introduction to JavaScript](web-foundations-july-2022/action-and-interaction/introduction-to-javascript.md)
+  - [Responding to Events in JavaScript](web-foundations-july-2022/action-and-interaction/responding-to-events-in-javascript.md)
 - [Publishing and Sharing](web-foundations-july-2022/publishing-and-sharing.md)
   - [How the Internet Works (again)](web-foundations-july-2022/publishing-and-sharing/how-the-internet-works-again.md)
   - [Publishing your site](web-foundations-july-2022/publishing-and-sharing/publishing-your-site.md)
