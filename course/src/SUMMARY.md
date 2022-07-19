@@ -52,6 +52,8 @@
   - [Bonus: More styling](web-foundations-july-2022/multimedia-and-layout/bonus-more-styling.md)
   - [Bonus: Project](web-foundations-july-2022/multimedia-and-layout/bonus-project.md)
 
+<!--
+
 ### Week 4
 
 - [Actions and Interaction](web-foundations-july-2022/action-and-interaction.md)
@@ -72,4 +74,4 @@
 
 [Wrapping Up](web-foundations-july-2022/wrapping-up-final-steps-for-web-foundations.md)
 
--->
+
