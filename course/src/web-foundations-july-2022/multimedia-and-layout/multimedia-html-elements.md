@@ -1,10 +1,10 @@
-# Multimedia html elements
+# Multimedia HTML Elements
 
 *Estimated time: 30 Minutes*
 
 ---
 
-These lessons will focus on creating interactions on your web pages. First, we’ll review the interactions you already know how to create. Then we’ll learn new HTML Elements that have built-in interactivity. Then, you’ll learn the basics of JavaScript.
+In this lesson, we'll focus on creating interactions on your web pages. First, we’ll review the interactions you already know how to create. Then we’ll learn new HTML Elements that have built-in interactivity. 
 
 ## Review: Link, Details, Hover, and Cursor
 
@@ -18,18 +18,30 @@ Perhaps the most fundamental interaction on the web is clicking a link.
 <a href="https://example.com">Clicking this navigates to example.com</a>
 ```
 
-### <details> and <summary>
+<a href="https://example.com">Clicking this navigates to example.com</a>
+<p>
 
-You may have also seen the `<details>` and `<summary>` elements:
+### `<details>` and `<summary>`
+
+You may have also seen the `<details>` and `<summary>` elements which creates a toggle element that shows the details when you click the summary.
+
 
 ```html
+
 <details>
-	<summary>Click to show more</summary>
+<summary> Click to show more </summary>
 	There is more underneath!
 </details>
+
 ```
 
-Which creates a toggle element that shows the details when you click the summary.
+<details>
+<summary> Click to show more </summary>
+
+	There is more underneath!
+
+</details>
+
 
 ### hover and cursor
 
@@ -86,7 +98,8 @@ A typical iframe might look something like this:
 
 Which results in an embedded video like this:
 
-[https://www.youtube.com/watch?v=-RmrHkTA0Jg&feature=emb_imp_woyt](https://www.youtube.com/watch?v=-RmrHkTA0Jg&feature=emb_imp_woyt)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/-RmrHkTA0Jg" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 The `src`, `width` and `height` attributes are probably familiar from the `<img>` element. 
 
@@ -106,16 +119,17 @@ The other attributes are new:
 
 📺 Practice using the `<iframe>` element by embedding a map and a video into a page.
 
-Access the exercise here <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/Add-Embedded-Videos-and-Maps" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> or below
+
+[Access the repl here](https://replit.com/team/web-foundations-july-2022/Add-Embedded-Videos-and-Maps)
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/Add-Embedded-Videos-and-Maps" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - **Further Reading**: iframe
     - See the [full documentation for iframe elements on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)
     - Check out the [page on embedding technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies).
     - You can also [read more about iframe’s allow attribute on MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Feature_Policy/Using_Feature_Policy#the_iframe_allow_attribute).
+
 
 ## Audio and Video
 
