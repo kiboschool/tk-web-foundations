@@ -6,7 +6,7 @@
 
 # Project: Rest of World Landing Page
 
-**Due date: Sunday, July 24**
+**Due date: Sunday, July 31**
 
 <aside>
 

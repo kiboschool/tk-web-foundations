@@ -8,7 +8,7 @@ With the Box Model, you can control the size and spacing in and around elements.
 
 In this lesson, you’ll learn about laying out the elements on the page.
 
-![Examples of page layouts, using colored boxes to suggest elements arranged around a web page.](/web-foundations-july-2022/web-design/layout/layout.png)
+![Examples of page layouts, using colored boxes to suggest elements arranged around a web page.](/web-foundations-july-2022/multimedia-and-layout/layout/layout.png)
 
 <aside>
 
@@ -22,7 +22,7 @@ Layout means controlling the arrangement of the elements on the page.
 
 It’s challenging because it involves the interactions between lots of different properties: the sizes of the elements (per the Box Model), their nesting relationships with each other, and lots of other CSS properties.
 
-We won’t cover every detail about layout in this lesson. We’ll focus on four key concepts:
+We won’t cover every detail about layout. We’ll focus on four key concepts:
 
 - Understanding Normal Flow
 - The `display` property
@@ -39,6 +39,7 @@ In this lesson, we’re leaving out things you might want to learn eventually. L
 - Table layout
 - Multi-column layout
 - Responsive design and media queries
+- Grid
 
 Check out [MDN’s Introduction to CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction) for an overview of layout topics.
 
@@ -48,7 +49,7 @@ Check out [MDN’s Introduction to CSS Layout](https://developer.mozilla.org/en-
 
 **Normal flow** is how elements are laid out on the page by default.
 
-![Normal flow. Elements are 100% width and stack on each other.](/web-foundations-july-2022/web-design/layout/normal-flow.png)
+![Normal flow. Elements are 100% width and stack on each other.](/web-foundations-july-2022/multimedia-and-layout/layout/normal-flow.png)
 
 In Normal Flow, block elements stack on top of each other, each on its own line.
 
@@ -76,7 +77,7 @@ You can set `display: block;` to make an element act as a block.
 
 Elements like `<p>`, `<div>`, `<h2>`, and `<section>` all have `display: block;` automatically, so you don’t need to set it.
 
-![block-elements.png](/web-foundations-july-2022/web-design/layout/block-elements.png)
+![block-elements.png](/web-foundations-july-2022/multimedia-and-layout/layout/block-elements.png)
 
 **Inline** elements don’t get line breaks, so show up inline with other elements.
 
@@ -84,7 +85,7 @@ You can set elements to `display: inline;` to force them to show inline with oth
 
 Elements like `<a>`, `<em>`, and `<strong>` automatically have `display: inline;`, so you don’t need to set it yourself.
 
-![inline-elements.png](/web-foundations-july-2022/web-design/layout/inline-elements.png)
+![inline-elements.png](/web-foundations-july-2022/multimedia-and-layout/layout/inline-elements.png)
 
 **Inline Block** elements are a mix of both. `display: inline-block` makes the
 element show up inline, but take up space like a block.
@@ -121,6 +122,9 @@ layout rules.
 The only other flow mode we’re going to explore in depth is `flex`. You might
 come across grid and table layouts.
 
-**Further Exploration**: Inside Display values
+<details>
+<summary>Further Exploration: Inside Display values</summary>
 
 The [MDN reference on the CSS display property](https://developer.mozilla.org/en-US/docs/Web/CSS/display) lists comprehensive information about what the possible display values are. You can get by without knowing most of them, but the possible inside display values are `flow`, `flow-root`, `table`, `flex`, `grid`, and `ruby`.
+
+</details>

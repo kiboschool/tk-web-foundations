@@ -8,11 +8,10 @@
 
 In this lesson you learned:
 
-- What Web Design is
-- How to style text
-- How to space elements using content, margin, padding, and border
-- How to choose a good color palette
-- Some cool project you can build with HTML and CSS
+- New HTML elements that create interactivity
+- Layout ideas like flow, block, and inline
+- To use CSS flexbox to control element layout
+- CSS Position and some of the effects you can control on a page with `fixed` and `sticky`
 
 ## How was this lesson?
 
