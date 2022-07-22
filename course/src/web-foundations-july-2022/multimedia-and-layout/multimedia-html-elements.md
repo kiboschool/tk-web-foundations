@@ -157,11 +157,8 @@ Both audio and video tags allow specifying sources using the `<source>` tag inst
 
 ```html
 <video controls width="250">
-    <source src="flower.webm"
-            type="video/webm">
-    <source src="flower.mp4"
-            type="video/mp4">
-    Sorry, your browser doesn't support embedded videos.
+    <source src="flower.webm" type="video/webm">
+    <source src="flower.mp4" type="video/mp4">
 </video>
 ```
 

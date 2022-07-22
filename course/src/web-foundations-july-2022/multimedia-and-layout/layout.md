@@ -4,11 +4,11 @@
 
 ---
 
-With the Box Model, you can control the size and spacing in and around elements. But, the box model doesn’t let you position elements anywhere you want.
+With the Box Modelllll, you can control the size and spacing in and around elements. But, the box model doesn’t let you position elements anywhere you want.
 
 In this lesson, you’ll learn about laying out the elements on the page.
 
-![Examples of page layouts, using colored boxes to suggest elements arranged around a web page.](/web-foundations-july-2022/web-design/layout/layout.png)
+![Examples of page layouts, using colored boxes to suggest elements arranged around a web page.](layout/layout.png)
 
 <aside>
 
@@ -22,7 +22,7 @@ Layout means controlling the arrangement of the elements on the page.
 
 It’s challenging because it involves the interactions between lots of different properties: the sizes of the elements (per the Box Model), their nesting relationships with each other, and lots of other CSS properties.
 
-We won’t cover every detail about layout in this lesson. We’ll focus on four key concepts:
+We won’t cover every detail about layout in this lesson. We’ll focus on three key concepts:
 
 - Understanding Normal Flow
 - The `display` property
@@ -48,7 +48,7 @@ Check out [MDN’s Introduction to CSS Layout](https://developer.mozilla.org/en-
 
 **Normal flow** is how elements are laid out on the page by default.
 
-![Normal flow. Elements are 100% width and stack on each other.](/web-foundations-july-2022/web-design/layout/normal-flow.png)
+![Normal flow. Elements are 100% width and stack on each other.](layout/normal-flow.png)
 
 In Normal Flow, block elements stack on top of each other, each on its own line.
 
