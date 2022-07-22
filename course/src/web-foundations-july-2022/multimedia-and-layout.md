@@ -6,12 +6,12 @@
 
 This is the reading material, practice challenges, and assignment for the third week. 
 
-## **Learning Outcomes**
+## Learning Outcomes
 
 After this week, you will be able to:
 
 - Use HTML elements that create interactivity automatically
-- Write JavaScript to make changes on the page in response to user actions
+- Use Flexbox and Position to control the layout of elements on the page
 
 ### Welcome Video
 

@@ -35,15 +35,14 @@ For this Scavenger Hunt, you’ll use the DevTools to view and edit properties o
 2. **Use the email you used to sign up for Kibo**
 </aside>
 
-<aside>
-
-
 ⚠️ If you get stuck on this assignment, watch the video below to see how to solve each clue.
 
-- **Solution Video** (Only watch if you are totally stuck!)
-    
-    <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/6c15b25937af4431b5a5c7ed85ec26ff" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-    
-</aside>
+<details>
+<summary><strong>Solution Video</strong> (Only watch if you are totally stuck!)</summary>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/6c15b25937af4431b5a5c7ed85ec26ff" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+</details>
+
 
 <div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc8ERyFq4Qnx7DzpjEF9awUW0Dq2e5AgYJBP5NvrU1gxRal_Q/viewform?usp=sf_link" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>

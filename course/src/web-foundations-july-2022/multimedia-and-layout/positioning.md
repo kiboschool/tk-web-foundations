@@ -28,7 +28,7 @@ position: sticky;
 position: static;
 ```
 
-![62D93D84-34B0-4C9E-B9B8-32F6F3C34C73-2762-00009B320F016B43.png](/web-foundations-july-2022/web-design/positioning/d93d84-34b0-4c9e-b9b8-32f6f3c34c73-2762-00009b320f016b43.png)
+![62D93D84-34B0-4C9E-B9B8-32F6F3C34C73-2762-00009B320F016B43.png](/web-foundations-july-2022/multimedia-and-layout/positioning/d93d84-34b0-4c9e-b9b8-32f6f3c34c73-2762-00009b320f016b43.png)
 
 ### Relative
 
@@ -43,7 +43,7 @@ top: 40px; left: 40px;
 
 The yellow box is shifted 40px from the top and 40px from the left of where it started.
 
-![F5257C41-514D-417E-9AEB-F1CAA9231515-2762-00009B3A32F44A06.png](/web-foundations-july-2022/web-design/positioning/f5257c41-514d-417e-9aeb-f1caa9231515-2762-00009b3a32f44a06.png)
+![F5257C41-514D-417E-9AEB-F1CAA9231515-2762-00009B3A32F44A06.png](/web-foundations-july-2022/multimedia-and-layout/positioning/f5257c41-514d-417e-9aeb-f1caa9231515-2762-00009b3a32f44a06.png)
 
 ### Absolute
 
@@ -58,7 +58,7 @@ The yellow box is out of the normal flow, so the blue boxes act as if it isn’t
 
 The `top` and `left` values are calculated from the parent element, instead of where the box started.
 
-![03F9764F-0B5B-483E-ACB9-84B186ED4805-2762-00009B5F3681986B.png](/web-foundations-july-2022/web-design/positioning/f9764f-0b5b-483e-acb9-84b186ed4805-2762-00009b5f3681986b.png)
+![03F9764F-0B5B-483E-ACB9-84B186ED4805-2762-00009B5F3681986B.png](/web-foundations-july-2022/multimedia-and-layout/positioning/f9764f-0b5b-483e-acb9-84b186ed4805-2762-00009b5f3681986b.png)
 
 ### Fixed
 
@@ -73,7 +73,7 @@ top: 80px; left: 10px;
 
 Scroll the example to see how the block stays in place while the rest of the page scrolls by.
 
-[https://yari-demos.prod.mdn.mozit.cloud/en-US/docs/Web/CSS/position/_sample_.fixed_positioning.html](https://yari-demos.prod.mdn.mozit.cloud/en-US/docs/Web/CSS/position/_sample_.fixed_positioning.html)
+<div style="position: relative; height: 300px; width: 500px;"><iframe src="https://yari-demos.prod.mdn.mozit.cloud/en-US/docs/Web/CSS/position/_sample_.fixed_positioning.html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;border: 2px solid grey;"></iframe></div>
 
 ### Sticky
 
@@ -87,7 +87,7 @@ position: sticky;
 
 Scroll the example to see the effect.
 
-[https://yari-demos.prod.mdn.mozit.cloud/en-US/docs/Learn/CSS/CSS_layout/Positioning/_sample_.basic_example.html](https://yari-demos.prod.mdn.mozit.cloud/en-US/docs/Learn/CSS/CSS_layout/Positioning/_sample_.basic_example.html)
+<div style="position: relative; height: 300px; width: 500px;"><iframe src="https://yari-demos.prod.mdn.mozit.cloud/en-US/docs/Learn/CSS/CSS_layout/Positioning/_sample_.basic_example.html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;border: 2px solid grey;"></iframe></div>
 
 ### Further Exploration: Position
 

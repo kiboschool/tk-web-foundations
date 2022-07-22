@@ -45,12 +45,12 @@
 - [Multimedia and Layout](web-foundations-july-2022/multimedia-and-layout.md)
   - [Multimedia HTML Elements](web-foundations-july-2022/multimedia-and-layout/multimedia-html-elements.md)
   - [Layout](web-foundations-july-2022/multimedia-and-layout/layout.md)
+  - [Flexbox](web-foundations-july-2022/multimedia-and-layout/flexbox.md)
   - [Positioning](web-foundations-july-2022/multimedia-and-layout/positioning.md)
   - [Practice](web-foundations-july-2022/multimedia-and-layout/practice.md)
-  - [Project ](web-foundations-july-2022/multimedia-and-layout/project.md)
+  - [Project ](web-foundations-july-2022/multimedia-and-layout/rest-of-world-project.md)
   - [Wrap Up](web-foundations-july-2022/multimedia-and-layout/wrap-up.md)
   - [Bonus: More styling](web-foundations-july-2022/multimedia-and-layout/bonus-more-styling.md)
-  - [Bonus: Project](web-foundations-july-2022/multimedia-and-layout/bonus-project.md)
 
 <!--
 

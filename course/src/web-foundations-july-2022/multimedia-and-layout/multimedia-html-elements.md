@@ -6,7 +6,7 @@
 
 In this lesson, we'll focus on creating interactions on your web pages. First, we’ll review the interactions you already know how to create. Then we’ll learn new HTML Elements that have built-in interactivity. 
 
-## Review: Link, Details, Hover, and Cursor
+## Review: Link, Details, Hover, Cursor, and Images
 
 You have already seen elements and properties that help create interactivity.
 
@@ -14,31 +14,31 @@ You have already seen elements and properties that help create interactivity.
 
 Perhaps the most fundamental interaction on the web is clicking a link.
 
-```html
-<a href="https://example.com">Clicking this navigates to example.com</a>
-```
-
-<a href="https://example.com">Clicking this navigates to example.com</a>
-<p>
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="yLKXBdy" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/rrcobb/pen/yLKXBdy">
+  Link Demo</a>
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 ### `<details>` and `<summary>`
 
 You may have also seen the `<details>` and `<summary>` elements which creates a toggle element that shows the details when you click the summary.
 
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="MWVogNa" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/rrcobb/pen/MWVogNa">
+  Untitled</a> by Rob Cobb (<a href="https://codepen.io/rrcobb">@rrcobb</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-```html
-
-<details>
-<summary> Click to show more </summary>
-	There is more underneath!
-</details>
-
-```
 
 <details>
-<summary> Click to show more </summary>
+<summary>You've seen this combo in action!</summary>
 
-	There is more underneath!
+We use the details and summary components in the lessons to hide away some of the content under a toggle.
+
+There is always more underneath!
 
 </details>
 
@@ -50,15 +50,12 @@ You’ve also learned a couple of CSS tricks that create some interactive feelin
 - Using the `:hover` selector to style elements when they are hovered (hover on MDN)
 - Using the `cursor` property to style the cursor ([cursor on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor))
 
-```css
-.card:hover {
-	border: 2px solid magenta;
-}
-
-.card {
-  cursor: grab;
-}
-```
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="xxWrxKd" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/rrcobb/pen/xxWrxKd">
+  Untitled</a> by Rob Cobb (<a href="https://codepen.io/rrcobb">@rrcobb</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 These are basic kinds of interactivity, but don’t forget about them!
 
@@ -82,26 +79,16 @@ When styling the new interactive elements, you’ll have to think about the same
 
 Inline frames allow you to embed content from another site into your site. You can use them to embed tons of different kinds of content. In this curriculum, we use tons of embedded content — YouTube and Loom videos, forms, and interactive coding exercises.
 
-A typical iframe might look something like this:
+A typical iframe might look something like this, which embeds a video from youtube.
 
-```html
-<iframe 
-		src="https://www.youtube.com/embed/-RmrHkTA0Jg"
-		width="560"
-		height="315"
-		title="YouTube video player"
-		frameborder="0"
-		allow="autoplay; clipboard-write; encrypted-media; picture-in-picture"
-		allowfullscreen>
-</iframe>
-```
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="vYRZYYr" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/rrcobb/pen/vYRZYYr">
+  Iframe Demo</a> by Rob Cobb (<a href="https://codepen.io/rrcobb">@rrcobb</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-Which results in an embedded video like this:
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/-RmrHkTA0Jg" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-
-The `src`, `width` and `height` attributes are probably familiar from the `<img>` element. 
+The `src`, `width` and `height` attributes are familiar from the `<img>` element. 
 
 - `src` is the url where the browser should find the content
 - `width` and `height` control the width and height of the element
@@ -112,24 +99,21 @@ The other attributes are new:
 - `frameborder` controls the border of the iframe. It’s often good to set it to `0`
 - `allow` and `allowfullscreen` control the permissions that the iframe has. Since the content is coming from another website, you can decide what it is allowed to do.
 
+<details>
+<summary><strong>Further Reading: iframe</strong></summary>
+
+- See the [full documentation for iframe elements on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)
+- Check out the [page on embedding technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies).
+- You can also [read more about iframe’s allow attribute on MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Feature_Policy/Using_Feature_Policy#the_iframe_allow_attribute).
+
+</details>
+
+
 ## Practice: Maps and Videos
-
-<aside>
-
 
 📺 Practice using the `<iframe>` element by embedding a map and a video into a page.
 
-
-[Access the repl here](https://replit.com/team/web-foundations-july-2022/Add-Embedded-Videos-and-Maps)
-
-</aside>
-
-
-- **Further Reading**: iframe
-    - See the [full documentation for iframe elements on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)
-    - Check out the [page on embedding technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies).
-    - You can also [read more about iframe’s allow attribute on MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Feature_Policy/Using_Feature_Policy#the_iframe_allow_attribute).
-
+> [Access the repl here](https://replit.com/team/web-foundations-july-2022/Add-Embedded-Videos-and-Maps)
 
 ## Audio and Video
 
@@ -145,7 +129,7 @@ Similarly, the `<video>` element is a built-in video player.
 <video controls width="250" src="flower.webm"></video>
 ```
 
-`src` and `width` are familiar, and work similarly to how they work for `img` and `iframe`.
+`src` and `width` work the same way they do for `img` and `iframe`.
 
 The new attribute is `controls`. With `controls` added, the audio or video player will show the controls: play, pause, and volume. 
 
@@ -162,12 +146,16 @@ Both audio and video tags allow specifying sources using the `<source>` tag inst
 </video>
 ```
 
-Specifying multiple sources lets browser choose which kind of content they support. There’s fancy new formats like `.webm` that only some browsers support, so if you write your code like this, the users who have those browsers get the fancy formats, and other users still get a working page.
+Specifying multiple sources lets browser choose which kind of content to support. There’s fancy new formats like `.webm` that only some browsers can use, so if you write your code using `<source>`, users who have those browsers get the fancy new formats, and other users still get something that works for them.
 
 For more, check out the [MDN page on Video and Audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content). Also see the [the video tag page on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video) and the [page for the audio tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio).
 
-- **Further Exploration**: Multimedia and Embedding
-    
-    The [MDN guide on Multimedia and Embedding](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding) covers many ideas related to this lesson in more detail. 
-    
-    Also note that [the HTML Canvas element](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) is used for programmatically drawn content.
+<details>
+
+<summary><strong>Further Exploration: Multimedia and Embedding</strong></summary>
+
+The [MDN guide on Multimedia and Embedding](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding) covers many ideas related to this lesson in more detail. 
+
+Also note that [the HTML Canvas element](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) is used for programmatically drawn content.
+
+</details>

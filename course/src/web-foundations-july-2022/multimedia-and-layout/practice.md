@@ -20,34 +20,20 @@ The solutions to each challenge are available in Replit, and you can view a vide
 2. Remember **G**o **C**limb **K**ibo - first Google, then ask the Community on Discord, then reach out to Kibo instructional team.
 3. You can click ‘**Submit**’ in Replit to view a solution. Don’t forget to try the solution out in your own code, and submit the project again.
 
-## Biography page
+## Lay out the Recipe Cards
 
 <aside>
 
-🤖  Help fix the style of Jane Doe's biography page. Use your text styling, color, and box model skills.
+🍽️ Help fix the layout of the recipe cards on the screen. Practice using flexbox
 
-[**Access and submit on Replit here**](https://replit.com/team/web-foundations-july-2022/Biography-page)
-
-</aside>
-
-
-## Wanted Poster
-
-<aside>
-
-
-🤖 There’s a wanted robot! Use your Web Design skills to help make the poster look awesome.
-
-[**Access and submit on Replit here**](https://replit.com/team/web-foundations-july-2022/Wanted-Poster)
+[**Access and submit on Replit here**](https://replit.com/team/web-foundations-july-2022/Lay-out-the-Recipe-Cards)
 
 </aside>
 
-## Style the Recipe Site
+<!-- 
 
-<aside>
+- practice multimedia elements
+- practice flexbox
+- practice positioning
 
-🍲 In this exercise, you’ll bring together different parts of the web design skills you’ve learned together to style a recipe page. Make it beautiful!
-
-[**Access and submit on Replit here:**](https://replit.com/team/web-foundations-july-2022/Style-the-Recipe-Site)
-
-</aside>
+-->
