@@ -30,10 +30,13 @@ The solutions to each challenge are available in Replit, and you can view a vide
 
 </aside>
 
-<!-- 
 
-- practice multimedia elements
-- practice flexbox
-- practice positioning
+## Improve the Kibo mini website
 
--->
+<aside>
+
+🍽️ Help improve a mini version of the kibo website. Practice using flexbox and positioning
+
+> [**Access and submit on Replit here**](https://replit.com/team/web-foundations-july-2022/kibo-website)
+
+</aside>
