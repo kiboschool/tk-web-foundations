@@ -1,6 +1,6 @@
 # Layout
 
-*Estimated Time: 30 minutes*
+*Estimated Time: 35 minutes*
 
 ---
 
@@ -61,6 +61,16 @@ Read more about [Normal flow on MDN](https://developer.mozilla.org/en-US/docs/Le
 
 ## Display
 
+<aside>
+
+
+🎥 **Video: Watch this video from WDS on CSS `display`**
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Qf-wVa9y9V4?start=16" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
 The `display` property controls how each element gets treated in the flow.
 
 - Is it treated as _block_ or _inline_? (the **outside** display)
@@ -77,7 +87,7 @@ You can set `display: block;` to make an element act as a block.
 
 Elements like `<p>`, `<div>`, `<h2>`, and `<section>` all have `display: block;` automatically, so you don’t need to set it.
 
-![block-elements.png](/web-foundations-july-2022/multimedia-and-layout/layout/block-elements.png)
+![block-elements.png](./layout/block-elements.png)
 
 **Inline** elements don’t get line breaks, so show up inline with other elements.
 
@@ -85,7 +95,7 @@ You can set elements to `display: inline;` to force them to show inline with oth
 
 Elements like `<a>`, `<em>`, and `<strong>` automatically have `display: inline;`, so you don’t need to set it yourself.
 
-![inline-elements.png](/web-foundations-july-2022/multimedia-and-layout/layout/inline-elements.png)
+![inline-elements.png](./layout/inline-elements.png)
 
 **Inline Block** elements are a mix of both. `display: inline-block` makes the
 element show up inline, but take up space like a block.
@@ -94,13 +104,11 @@ element show up inline, but take up space like a block.
 
 <aside>
 
-🟦 Practice using the `display` property and your new understanding of inline and block elements.
+📺 Practice using the `display` property and your new understanding of inline and block elements.
 
-[Access the repl here](https://replit.com/team/web-foundations-july-2022/Practice-Block-and-Inline)
+> [Access and attempt the exercise here](https://replit.com/team/web-foundations-july-2022/Practice-Block-and-Inline)
 
 </aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/web-foundations-july-2022/Practice-Block-and-Inline" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### `display: none;`
 

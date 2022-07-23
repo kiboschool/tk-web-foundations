@@ -111,9 +111,13 @@ The other attributes are new:
 
 ## Practice: Maps and Videos
 
+<aside>
+
 📺 Practice using the `<iframe>` element by embedding a map and a video into a page.
 
-> [Access the repl here](https://replit.com/team/web-foundations-july-2022/Add-Embedded-Videos-and-Maps)
+> [Access and attempt the exercise here](https://replit.com/team/web-foundations-july-2022/Add-Embedded-Videos-and-Maps)
+
+</aside>
 
 ## Audio and Video
 
