@@ -6,6 +6,7 @@
 
 In this lesson, we'll focus on creating interactions on your web pages. First, we’ll review the interactions you already know how to create. Then we’ll learn new HTML Elements that have built-in interactivity. 
 
+
 ## Review: Link, Details, Hover, Cursor, and Images
 
 You have already seen elements and properties that help create interactivity.

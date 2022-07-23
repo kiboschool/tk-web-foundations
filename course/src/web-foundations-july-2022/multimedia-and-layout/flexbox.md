@@ -10,7 +10,7 @@ normal flow rules. Instead, they follow a whole different set of rules -- the
 
 <aside>
 
- Learn Flexbox**
+ 🎥 **Video: Learn Flexbox**
 
 This video from Web Dev Simplified shows the main ideas of Flexbox.
 
