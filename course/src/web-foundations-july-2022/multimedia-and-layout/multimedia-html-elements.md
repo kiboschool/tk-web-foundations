@@ -51,7 +51,7 @@ You’ve also learned a couple of CSS tricks that create some interactive feelin
 - Using the `:hover` selector to style elements when they are hovered (hover on MDN)
 - Using the `cursor` property to style the cursor ([cursor on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor))
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="xxWrxKd" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="xxWrxKd" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/rrcobb/pen/xxWrxKd">
   Untitled</a> by Rob Cobb (<a href="https://codepen.io/rrcobb">@rrcobb</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -112,13 +112,10 @@ The other attributes are new:
 
 ## Practice: Maps and Videos
 
-<aside>
-
 📺 Practice using the `<iframe>` element by embedding a map and a video into a page.
 
 > [Access and attempt the exercise here](https://replit.com/team/web-foundations-july-2022/Add-Embedded-Videos-and-Maps)
 
-</aside>
 
 ## Audio and Video
 
@@ -142,7 +139,7 @@ It’s usually good to show the controls, since otherwise the user won’t be ab
 
 ### src and source
 
-Both audio and video tags allow specifying sources using the `<source>` tag instead of the `src`.
+`<audio>` and `<video>` tags allow specifying sources using `<source>` tags instead of the `src` attribute.
 
 ```html
 <video controls width="250">

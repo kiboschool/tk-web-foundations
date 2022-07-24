@@ -21,11 +21,13 @@ You can work together by sharing your screen, or by creating a new replit and sh
 
 ## Landing Page Styling
 
-This project will stretch your Web Design skills. You’ll work to recreate the awesome landing page from [restofworld.org](https://web.archive.org/web/20220428094707/http://restofworld.org/).
-
 <aside>
 
-> [**Access** and **submit** the project in Replit here](https://replit.com/team/web-foundations-july-2022/Recreate-the-Rest-Of-World-Homepage)
+This project will stretch your Web Design skills. You’ll work to recreate the awesome landing page from [restofworld.org](https://web.archive.org/web/20220428094707/http://restofworld.org/).
+
+[**Access** and **submit** the project in Replit here](https://replit.com/team/web-foundations-july-2022/Recreate-the-Rest-Of-World-Homepage)
+
+</aside>
 
 Remember...
 
@@ -35,4 +37,3 @@ Remember...
 - **Attend** office hours if you need additional support
 - **Ask** for help in Discord
 
-</aside>

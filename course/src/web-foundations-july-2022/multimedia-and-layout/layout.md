@@ -4,7 +4,7 @@
 
 ---
 
-With the Box Modelllll, you can control the size and spacing in and around elements. But, the box model doesn’t let you position elements anywhere you want.
+With the Box Model, you can control the size and spacing in and around elements. But, the box model doesn’t let you position elements anywhere you want.
 
 In this lesson, you’ll learn about laying out the elements on the page.
 
@@ -81,9 +81,7 @@ about another kind of flow called _flexbox_.
 
 ### Block and Inline
 
-**Block** elements get line breaks before and after the element, so they show up on their own line.
-
-You can set `display: block;` to make an element act as a block.
+**Block** elements get line breaks before and after the element, so they show up on their own line. You can set `display: block;` to make an element act as a block.
 
 Elements like `<p>`, `<div>`, `<h2>`, and `<section>` all have `display: block;` automatically, so you don’t need to set it.
 
@@ -106,15 +104,17 @@ element show up inline, but take up space like a block.
 
 📺 Practice using the `display` property and your new understanding of inline and block elements.
 
-> [Access and attempt the exercise here](https://replit.com/team/web-foundations-july-2022/Practice-Block-and-Inline)
+[Access and attempt the exercise here](https://replit.com/team/web-foundations-july-2022/Practice-Block-and-Inline)
 
 </aside>
 
+## Other `display` values
+
 ### `display: none;`
 
-There’s a special display value that hides content.
+`none` is a special display value that hides content.
 
-This is particularly useful if you want something not to show up, like if it should only appear when a button is clicked.
+This is particularly useful if you want to hide something, like if it should only appear when a button is clicked.
 
 It doesn’t have inside or outside display values.
 
