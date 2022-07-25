@@ -5,7 +5,7 @@ _Estimated Time: 35 minutes_
 ---
 
 If an element has `display: flex`, the child elements inside won't follow the
-normal flow rules. Instead, they follow a whole different set of rules -- the
+normal flow rules. Instead, they follow a whole different set of rules: the
 **flex rules**.
 
 <aside>
