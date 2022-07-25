@@ -1,16 +1,16 @@
 # Flexbox
 
-_Estimated Time: 30 minutes_
+_Estimated Time: 35 minutes_
 
 ---
 
 If an element has `display: flex`, the child elements inside won't follow the
-normal flow rules. Instead, they follow a whole different set of rules -- the
+normal flow rules. Instead, they follow a whole different set of rules: the
 **flex rules**.
 
 <aside>
 
-🎥 **Video: Learn Flexbox**
+ 🎥 **Video: Learn Flexbox**
 
 This video from Web Dev Simplified shows the main ideas of Flexbox.
 
@@ -22,7 +22,7 @@ If you set an element to `display: flex;`, it acts on the outside like a regular
 
 The basic idea of Flexbox is that the items *flex* (expand) to fill additional space or shrink to fit into smaller spaces.
 
-![The dashed line shows a container element. In Normal flow, there’s space below the block elements inside the container. In a Flexbox, the elements grow to fill the whole space.](/web-foundations-july-2022/web-design/layout/untitled.png)
+![The dashed line shows a container element. In Normal flow, there’s space below the block elements inside the container. In a Flexbox, the elements grow to fill the whole space.](./layout/untitled.png)
 
 The dashed line shows a container element. In Normal flow, there’s space below the block elements inside the container. In a Flexbox, the elements grow to fill the whole space.
 
@@ -36,7 +36,7 @@ You can change:
 - Whether or not elements will wrap around if they get crowded
 - Which elements grow and shrink, by how much
 
-![Untitled](/web-foundations-july-2022/web-design/layout/untitled-1.png)
+![Untitled](./layout/untitled-1.png)
 
 **Further Reading**: Flexbox
 
