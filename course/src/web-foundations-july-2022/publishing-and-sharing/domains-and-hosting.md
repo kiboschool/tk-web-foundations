@@ -24,10 +24,10 @@ To recap:
 - The Domain Name System (DNS) is how your computer finds the address (like 162.159.135.42) like for a name (like kibo.school)
 - DNS uses a *distributed hierarchy* of DNS servers. When one DNS server doesn’t know the answer, it asks another “higher” DNS server.
 - 👑  “Root” DNS servers manage the *top level domains,* like .com and .org
-- **Further Reading**: MDN on Domain Names
-    
-    See the MDN page [What is a Domain Name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name) for more
-    
+
+### Further Reading: MDN on Domain Names
+
+See the MDN page [What is a Domain Name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name) for more
 
 ## What does it mean to own a domain name?
 
@@ -90,12 +90,12 @@ There are lots of different types of DNS records. Different types tell different
 
 As noted in the video, IP addresses like `162.159.135.42` are version 4 addresses. `AAAA` records are for IP version 6.
 
-- Further Reading: DNS
-    
-    Cloudflare is a popular service for DNS management, among other services and tools. 
-    
-    Their help center has great explanations on [What is DNS?](https://www.cloudflare.com/learning/dns/what-is-dns/) and [DNS records](https://www.cloudflare.com/learning/dns/dns-records/).
-    
+### Further Reading: DNS
+
+Cloudflare is a popular service for DNS management, among other services and tools. 
+
+Their help center has great explanations on [What is DNS?](https://www.cloudflare.com/learning/dns/what-is-dns/) and [DNS records](https://www.cloudflare.com/learning/dns/dns-records/).
+
 
 ### **Try it: Mess with DNS**
 
@@ -123,16 +123,15 @@ Visit [https://questions.wizardzines.com/dns.html](https://questions.wizardzines
 
 </aside>
 
-- **Further Reading**: Julia Evans, creator of Mess with DNS and DNS Questions
-    
-    Julia makes tons of awesome comics, like this one on [How to be a Wizard Programmer](https://wizardzines.com/zines/wizard/).
-    
-    ![wizard-programmer.png](/web-foundations-july-2022/publishing-and-sharing/domains-and-hosting/wizard-programmer.png)
-    
-    You can find more of her work online at [https://wizardzines.com/](https://wizardzines.com/). 
-    
-    Julia’s [blog post about the process of creating the Mess with DNS tool](https://jvns.ca/blog/2021/12/15/mess-with-dns/) is a really fun read!
-    
+### Further Reading: Julia Evans, creator of Mess with DNS and DNS Questions
+
+Julia makes tons of awesome comics, like this one on [How to be a Wizard Programmer](https://wizardzines.com/zines/wizard/).
+
+![wizard-programmer.png](/web-foundations-july-2022/publishing-and-sharing/domains-and-hosting/wizard-programmer.png)
+
+You can find more of her work online at [https://wizardzines.com/](https://wizardzines.com/). 
+
+Julia’s [blog post about the process of creating the Mess with DNS tool](https://jvns.ca/blog/2021/12/15/mess-with-dns/) is a really fun read!
 
 # Getting a Domain
 
@@ -148,15 +147,13 @@ That gives you the ability to configure the DNS records, usually through a *regi
 
 Domains usually start at **$5-$10 USD**. There are often discounts for the first year of owning a domain. Some domains are more expensive: popular sites, business addresses, and short or memorable domain names sometimes cost thousands or millions of dollars!
 
-- Further reading: Domain pricing
-    
-    The price often depends on the **top level domain (TLD).** TLDs are like `.com` or `.org` or `.gh`. Depending on the TLD, the price for a similar name might be very different.
-    
+### Further reading: Domain pricing
+
+The price often depends on the **top level domain (TLD).** TLDs are like `.com` or `.org` or `.gh`. Depending on the TLD, the price for a similar name might be very different.
 
 There are lots of tools for searching and buying domains. [Google Domains](https://domains.google/) is a relatively high-quality tool. In the past, folks from our team have also used [Hover](https://www.hover.com/domains), [NameCheap](https://www.namecheap.com/), [Vercel](https://vercel.com), and others. We recommend using [Google Domains](https://domains.google/) if you are searching for or buying a domain. You may find a better price elsewhere, though!
 
 <aside>
-
 
 ⚠️ **You do not have to buy a domain for this class.**
 
@@ -180,7 +177,6 @@ The free domains are typically not as nice as domains you pay for.
 ## Walkthrough: Configuring DNS for a real domain
 
 <aside>
-
 
 🎥 In this walkthrough, Rob configures DNS for a real site using Github Pages and Google Domains.
 

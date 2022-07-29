@@ -1,4 +1,4 @@
-# How the internet works again
+# How the internet works (again)
 
 *Estimated time: 20 minutes*
 
