@@ -1,4 +1,4 @@
-# Responding to events in javascript
+# Responding to Events in Javascript
 
 *Estimated Time: 1 hour*
 

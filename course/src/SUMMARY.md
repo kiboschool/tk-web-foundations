@@ -58,7 +58,7 @@
 - [Action and Interaction](web-foundations-july-2022/action-and-interaction.md)
   - [Introduction to JavaScript](web-foundations-july-2022/action-and-interaction/introduction-to-javascript.md)
   - [JavaScript and the page](web-foundations-july-2022/action-and-interaction/javascript-and-the-page.md)
-  - [Responding to Events in JavaScript](web-foundations-july-2022/action-and-interaction/responding-to-events-in-javascript.md)
+  - [Events in JavaScript](web-foundations-july-2022/action-and-interaction/responding-to-events-in-javascript.md)
   - [Practice](web-foundations-july-2022/action-and-interaction/practice.md)
   - [Project](web-foundations-july-2022/action-and-interaction/project.md)
   - [Wrap Up](web-foundations-july-2022/action-and-interaction/wrap-up.md)
