@@ -11,18 +11,18 @@
 
 The solutions to each challenge are available in Replit, and you can view a video of the solution below each challenge. Try to go through the whole challenge without using the solution. 
 
+</aside>
+
 *If you can’t do the challenge without looking the solution, it means you don’t understand the material well enough yet. Try the next practice challenge without looking at the solution. If you need more practice challenges, reach out on Discord.*
 
-- **If you get stuck**
-    1. Read the instructions again.
-    2. Remember **G**o **C**limb **K**ibo - first Google, then ask the Community on Discord, then reach out to Kibo instructional team.
-    3. You can click ‘**Submit**’ in Replit to view a solution. Don’t forget to try the solution out in your own code, and submit the project again.
-</aside>
+**If you get stuck**
+1. Read the instructions again.
+2. Remember **G**o **C**limb **K**ibo - first Google, then ask the Community on Discord, then reach out to Kibo instructional team.
+3. You can click ‘**Submit**’ in Replit to view a solution. Don’t forget to try the solution out in your own code, and submit the project again.
 
 ## HTML Slideshow Readme
 
 <aside>
-
 
 📽️ Practice writing a Readme for an HTML slide show project.
 

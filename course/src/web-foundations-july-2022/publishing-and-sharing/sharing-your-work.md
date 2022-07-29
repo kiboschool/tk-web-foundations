@@ -69,9 +69,6 @@ You can control how that preview looks!
 
 The `<title>` tag determines what title will show in the social preview. In addition, various `<meta>` tags control how other elements of the preview will show.
 
-<aside>
-
-
 🏷️ [Metatags.io](https://metatags.io/) lets you build and preview the `<meta>` tags for multiple sites at once. It also has a bunch of helpful tips about what the different tags mean, and how they are relevant to how a brand is perceived on social media, in search, and more.
 
 ```jsx
@@ -101,8 +98,6 @@ This recipe for Chicken Peanut Stew has everything going on. It's sweet yet fier
 ![849D513D-B8FF-4DA7-9369-05F56C4F1E69-1442-00008AFB9FF85244.png](./sharing-your-work/d513d-b8ff-4da7-9369-05f56c4f1e69-1442-00008afb9ff85244.png)
 
 Try going to [Metatags.io](https://metatags.io/) and generating the meta tags for a site of your own.
-
-</aside>
 
 ## When should you share your site?
 
