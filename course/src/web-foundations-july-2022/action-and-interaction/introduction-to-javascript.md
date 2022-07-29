@@ -49,7 +49,9 @@ Like you learned in the exercise above, you can open the console with a keyboard
 
 The browser can display information from JavaScript code to the console. You may see some **log messages** when you open the Console, from the JavaScript that’s already running on the page.
 
-You can log messages to yourself with JavaScript using `console.log("the message you want to say")`. Try it now!
+You can log messages to yourself with JavaScript using 
+
+`console.log("the message you want to say")`. Try it now!
 
 ### Error messages
 

@@ -6,6 +6,12 @@
 
 This is the reading material, practice challenges, and assignment for week 4. 
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; margin: 20px 0px;"><iframe src="" title="YouTube video player" frameborder="0"  allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url(./action-and-interaction/actions/javascript-logo.webp); background-size: cover;"></iframe></div>
+
+<img src="./action-and-interaction/actions/javascript-logo.webp" width="1000%">
+
+![javascript](./action-and-interaction/actions/javascript.png)
+
 ## Intro
 
 In previous classes, we’ve learnt how HTML and CSS can be combined to build cool websites. This week, we'll shift focus to JavaScript, and how to make your site interactive. 

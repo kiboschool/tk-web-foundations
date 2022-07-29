@@ -9,7 +9,7 @@
 **Due date: Sunday, May 15**
 <aside>
 
-👥 This is a team project. Find a teammate (or two teammates, for a maximum of three students per team) from your squad, and schedule time to work on the project together.
+👥 **This is a team project**. Find a teammate (or two teammates, for a maximum of three students per team) from your squad, and schedule time to work on the project together.
 
 </aside>
 
@@ -22,7 +22,7 @@ You can work together by sharing your screen, or by creating a new replit and sh
 
 In this project, you’ll get a chance to combine interactive elements with CSS and JavaScript to build an interactive gallery of content.
 
-**Access** and **submit** the project in Replit here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/Content-Gallery" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[**Access** and **submit** the project in Replit here](https://replit.com/team/web-foundations-july-2022/Content-Gallery)
 
 </aside>
 

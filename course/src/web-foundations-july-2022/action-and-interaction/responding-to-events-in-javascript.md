@@ -8,9 +8,9 @@ An interactive page changes when the user takes an action. In the last lesson, y
 
 ## Listening For Events
 
-Click this link to check out the demo. Run the program, and be sure to also look at the code.
+Click the link below to check out the demo. Run the program, and be sure to also look at the code.
 
-[https://replit.com/@kibocurriculum/Event-Listener-Demo#script.js](https://replit.com/@kibocurriculum/Event-Listener-Demo#script.js)
+> [Access the demo here](https://replit.com/@kibocurriculum/Event-Listener-Demo#script.js)
 
 ### `addEventListener`
 
@@ -32,7 +32,9 @@ The [MDN guide on Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScr
 
 🙈 The bunny is quite timid. It runs away when someone is near. Or, at least, it should! Help the bunny hide with an Event Listener
 
-[Access the exercise here](TODO: add replit link)
+<aside>
+
+[Access the exercise here](https://replit.com/team/web-foundations-july-2022/Hide-on-click)
 
 <details>
 <summary><strong>Solution: Hide on click</strong></summary>
@@ -42,6 +44,8 @@ If you get stuck, you can watch this video to see how to solve the exercise.
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/za3tQLEoWLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 </details>
+
+</aside>
 
 
 ### Further reading: Available events

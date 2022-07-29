@@ -26,7 +26,7 @@ The solutions to each challenge are available in Replit, and you can view a vide
 
 🔢 Practice JavaScript by making a button that tracks how many times it’s been clicked.
 
-[**Access and submit on Replit here**](TODO: add replit link)
+[**Access and submit on Replit here**](https://replit.com/team/web-foundations-july-2022/Click-Counter)
 
 </aside>
 
@@ -37,7 +37,7 @@ The solutions to each challenge are available in Replit, and you can view a vide
 
 📽️ You don’t need PowerPoint to make a slideshow. Write JavaScript that makes a website that acts like a slide show.
 
-[**Access and submit on Replit here**](TODO: add replit link)
+[**Access and submit on Replit here**](https://replit.com/team/web-foundations-july-2022/Slide-Show)
 
 </aside>
 
@@ -55,6 +55,6 @@ You can also click ‘submit’ in Replit and View the solution there afterwards
 
 👍🏿 Make the Like button work for a video website, similar to how YouTube’s or Facebook’s Like button.
 
-[**Access and submit on Replit here**](TODO: add replit link)
+[**Access and submit on Replit here**](https://replit.com/team/web-foundations-july-2022/Video-Like-Button)
 
 </aside>

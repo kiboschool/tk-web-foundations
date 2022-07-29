@@ -12,11 +12,18 @@ Every Replit web project has a built-in published version. You don’t need to d
 
 When you run your code, the preview window has a **public URL** and an “open in new tab” button that links to your site. So cool!
 
-![7E4CDCB3-021D-4F38-A16E-2CD1FC797801-1442-00008542F1D9E729.png](/web-foundations-july-2022/publishing-and-sharing/publishing-your-site/e4cdcb3-021d-4f38-a16e-2cd1fc797801-1442-00008542f1d9e729.png)
+<aside>
+
+![7E4CDCB3-021D-4F38-A16E-2CD1FC797801-1442-00008542F1D9E729.png](./publishing-your-site/e4cdcb3-021d-4f38-a16e-2cd1fc797801-1442-00008542f1d9e729.png)
+
+</aside>
 
 Replit acts as the server for your files.
+<aside>
 
-![Untitled](/web-foundations-july-2022/publishing-and-sharing/domains-and-hosting/untitled.png)
+![Untitled](./domains-and-hosting/untitled.png)
+
+</aside>
 
 This is great! You can share the link with anyone you want, and they can see your site.
 
@@ -42,9 +49,7 @@ We haven’t covered anything about Git, the version control tool at the heart o
 
 ## Create a Github Account
 
-(if you already have a Github account, just Sign in)
-
-Visit [https://github.com/](https://github.com/) and click *Sign Up*. From there, fill in your information and confirm your email address. 
+If you already have a Github account, just sign in. Otherwise, visit [https://github.com/](https://github.com/) and click *Sign Up*. From there, fill in your information and confirm your email address. 
 
 ## Connect your Replit project to Github
 
@@ -91,7 +96,7 @@ Here’s a recap of the video:
 
 Your site should be available on Github Pages with a [github.io](http://github.io) domain name in a few minutes.
 
-![Untitled](/web-foundations-july-2022/publishing-and-sharing/domains-and-hosting/untitled-1.png)
+![Untitled](./domains-and-hosting/untitled-1.png)
 
 You can see the Github repo here: [https://github.com/kiboschool/demo-recipe-site](https://github.com/kiboschool/demo-recipe-site)
 
@@ -104,4 +109,4 @@ There are lots of other services available to act as the server for your webpage
 - There are other tools like Replit and Github that serve your pages as you’ve designed them.
 - There are also tons of tools for writing custom servers, so your code decides what to send to the client.
 
-Next, you’ll learn how to set your site up on its own custom domain.
+Next, you’ll learn how to setup your website on its own custom domain.

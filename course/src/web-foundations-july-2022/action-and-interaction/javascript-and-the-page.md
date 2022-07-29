@@ -65,6 +65,8 @@ As you've seen, you change other properties using JavaScript. However, JavaScrip
 document.querySelector('h1.menu-title').style = "background-color: lavender; padding: 12px; font-family: monospace"
 ```
 
+![title.png](./actions/title.png)
+
 It works... but it’s not as nice as writing styles in CSS.
 
 Instead of changing CSS values with JavaScript directly, instead you can add and remove **classes**. You’ve seen the `class` attribute in HTML before, and used the `.class` selector in CSS to style the matching elements. With JavaScript, classes get a whole new power.
@@ -114,6 +116,6 @@ You won’t learn everything about JavaScript syntax in this course. Instead, we
 
 🐈 Practice hiding elements by making the cat disappear after a few seconds.
 
-[Access the exercise here](TODO link to repl)
+[Access the exercise here](https://replit.com/team/web-foundations-july-2022/Practice-The-Cat-that-Disappeared)
 
 </aside

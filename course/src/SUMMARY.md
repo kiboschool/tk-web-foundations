@@ -59,16 +59,21 @@
   - [Introduction to JavaScript](web-foundations-july-2022/action-and-interaction/introduction-to-javascript.md)
   - [JavaScript and the page](web-foundations-july-2022/action-and-interaction/javascript-and-the-page.md)
   - [Responding to Events in JavaScript](web-foundations-july-2022/action-and-interaction/responding-to-events-in-javascript.md)
-  - [Practice JavaScript](web-foundations-july-2022/action-and-interaction/practice.md)
-  - [JavaScript Project](web-foundations-july-2022/action-and-interaction/project.md)
+  - [Practice](web-foundations-july-2022/action-and-interaction/practice.md)
+  - [Project](web-foundations-july-2022/action-and-interaction/project.md)
   - [Wrap Up](web-foundations-july-2022/action-and-interaction/wrap-up.md)
-- [Bonus: Publishing and Sharing](web-foundations-july-2022/publishing-and-sharing.md)
-  - [How the Internet Works (again)](web-foundations-july-2022/publishing-and-sharing/how-the-internet-works-again.md)
-  - [Publishing your site](web-foundations-july-2022/publishing-and-sharing/publishing-your-site.md)
-  - [Domains and Hosting](web-foundations-july-2022/publishing-and-sharing/domains-and-hosting.md)
-  - [Sharing your work](web-foundations-july-2022/publishing-and-sharing/sharing-your-work.md)
-  - [Practice](web-foundations-july-2022/publishing-and-sharing/practice.md)
-  - [Project](web-foundations-july-2022/publishing-and-sharing/project.md)
+  - [Bonus: Publishing and Sharing](web-foundations-july-2022/publishing-and-sharing.md)
+    - [How the Internet Works](web-foundations-july-2022/publishing-and-sharing/how-the-internet-works-again.md)
+    - [Publishing your site](web-foundations-july-2022/publishing-and-sharing/publishing-your-site.md)
+    - [Domains and Hosting](web-foundations-july-2022/publishing-and-sharing/domains-and-hosting.md)
+    - [Sharing your work](web-foundations-july-2022/publishing-and-sharing/sharing-your-work.md)
+    - [Practice](web-foundations-july-2022/publishing-and-sharing/practice.md)
+    <!--
+
+   
+    - [Project](web-foundations-july-2022/publishing-and-sharing/project.md)
+
+    -->
 
 <!--
 
