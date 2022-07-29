@@ -4,52 +4,49 @@
 
 ---
 
-An interactive page needs to change when the user takes an action. In the last lesson, you learned how to change things using JavaScript. The missing piece is to be able to make those changes in response to what the user does.
+An interactive page changes when the user takes an action. In the last lesson, you learned how to change things using JavaScript. The missing piece is to be able to make those changes in response to what the user does.
 
 ## Listening For Events
 
-Check out the demo below. Run the program, and be sure to also look at the code.
+Click this link to check out the demo. Run the program, and be sure to also look at the code.
 
 [https://replit.com/@kibocurriculum/Event-Listener-Demo#script.js](https://replit.com/@kibocurriculum/Event-Listener-Demo#script.js)
 
 ### `addEventListener`
 
-```jsx
+```javascript
 button.addEventListener('click', () => {
 	console.log("clicked");
 })
 ```
 
-Events are how JavaScript knows when the user does something. `addEventListener` is how you set up code that will run when that event happens. JavaScript will run the code between the curly braces `{}` when the button is clicked.
+Events happen when the user does something. `addEventListener` is how you set up code to run when an event happens. JavaScript will run the code between the curly braces `{}` when the button is clicked.
 
-- **Further Reading**: Events
-    
-    The [MDN guide on Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events) gives more details and explanation of how events work.
-    
+<details><summary>Further Reading: Events</summary>
+
+The [MDN guide on Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events) gives more details and explanation of how events work.
+
+</details>
 
 ## Practice: Hide on click
 
-<aside>
-
-
 🙈 The bunny is quite timid. It runs away when someone is near. Or, at least, it should! Help the bunny hide with an Event Listener
 
-Access the exercise here: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/Hide-on-click" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> or below
+[Access the exercise here](TODO: add replit link)
 
-- **Solution: Hide on click**
-    
-    If you get stuck, you can watch this video to see how to solve the exercise.
-    
-    <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/za3tQLEoWLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-    
-</aside>
+<details>
+<summary><strong>Solution: Hide on click</strong></summary>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/Hide-on-click" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+If you get stuck, you can watch this video to see how to solve the exercise.
 
-- **Further reading**: Available events
-    
-    You can listen to more events than just `'click'`. MDN has [a reference page listing all of the available events](https://developer.mozilla.org/en-US/docs/Web/Events). There are a lot!
-    
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/za3tQLEoWLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+</details>
+
+
+### Further reading: Available events
+
+You can listen to more events than just `'click'`. MDN has [a reference page listing all of the available events](https://developer.mozilla.org/en-US/docs/Web/Events). There are a lot!
 
 ## Debugging
 
@@ -67,6 +64,6 @@ Now that you’re writing JavaScript, there are new kinds of bugs, and new tools
 
 It’s even more important that you build solutions piece by piece. The exercises and practice activities are intended to walk you through the pieces step by step. As you get more practice, try planning those steps yourself, then writing code to complete them.
 
-- **Further reading**: Debugging
-    
-    The [MDN guide on Debugging](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong) has more details about how to deal with syntax and logic errors.
+### Further reading: Debugging
+
+The [MDN guide on Debugging](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong) has more details about how to deal with syntax and logic errors.
