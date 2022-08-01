@@ -24,10 +24,10 @@ To recap:
 - The Domain Name System (DNS) is how your computer finds the address (like 162.159.135.42) like for a name (like kibo.school)
 - DNS uses a *distributed hierarchy* of DNS servers. When one DNS server doesn’t know the answer, it asks another “higher” DNS server.
 - 👑  “Root” DNS servers manage the *top level domains,* like .com and .org
-- **Further Reading**: MDN on Domain Names
-    
-    See the MDN page [What is a Domain Name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name) for more
-    
+
+### Further Reading: MDN on Domain Names
+
+See the MDN page [What is a Domain Name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name) for more
 
 ## What does it mean to own a domain name?
 
@@ -41,7 +41,7 @@ Making [kibo.school](http://kibo.school) involves these steps:
 - Publish the site on a server
 - Use DNS to make the [kibo.school](http://kibo.school) point to the server’s IP address
 
-![Untitled](/web-foundations-july-2022/publishing-and-sharing/domains-and-hosting/untitled.png)
+![Untitled](./domains-and-hosting/untitled.png)
 
 ### How does your browser load kibo.school?
 
@@ -51,16 +51,17 @@ When you type [kibo.school](http://kibo.school) into your browser:
 2. Your browser asks **162.159.135.42** for the actual webpage
 3. The server at that address sends back the files that make up the site you see (HTML, CSS, and JS, plus images and videos)
 
-![Untitled](/web-foundations-july-2022/publishing-and-sharing/domains-and-hosting/untitled-1.png)
+![Untitled](./domains-and-hosting/untitled-1.png)
 
 ### DNS Records
 
 Now that we know what DNS is for, let’s talk a tiny bit about what it actually looks like. The graphic above showed the record like this:
 
-![Untitled](/web-foundations-july-2022/publishing-and-sharing/domains-and-hosting/untitled-2.png)
+![Untitled](./domains-and-hosting/untitled-2.png)
 
 At its heart, DNS is really simple: it matches a name and a value. In this case, the name `kibo.school` is matched with the value `162.159.135.42`
 
+<!--
 The actual DNS record looks like this:
 
 ```jsx
@@ -79,6 +80,7 @@ The extra dot means that it’s an *absolute* domain name. You can basically ign
 
 **`A`** is the *type* of record.
 
+
 ### Types of DNS Records
 
 There are lots of different types of DNS records. Different types tell different kinds of information, like:
@@ -89,14 +91,16 @@ There are lots of different types of DNS records. Different types tell different
 `A` records match a domain name to an IP address. For matching the domain `[kibo.school](http://kibo.school)` to the address `162.159.135.42`, we use an `A` record.
 
 As noted in the video, IP addresses like `162.159.135.42` are version 4 addresses. `AAAA` records are for IP version 6.
+--> 
 
-- Further Reading: DNS
+**<details><summary>Further Reading: DNS </summary>**
     
-    Cloudflare is a popular service for DNS management, among other services and tools. 
+Cloudflare is a popular service for DNS management, among other services and tools. 
+Their help center has great explanations on [What is DNS?](https://www.cloudflare.com/learning/dns/what-is-dns/) and [DNS records](https://www.cloudflare.com/learning/dns/dns-records/).
     
-    Their help center has great explanations on [What is DNS?](https://www.cloudflare.com/learning/dns/what-is-dns/) and [DNS records](https://www.cloudflare.com/learning/dns/dns-records/).
-    
+</details>
 
+<!--
 ### **Try it: Mess with DNS**
 
 <aside>
@@ -109,6 +113,8 @@ As noted in the video, IP addresses like `162.159.135.42` are version 4 addresse
 3. Do as many other experiments as you like, to explore creating different kinds of DNS records. Don’t be afraid to use Google to learn more as you explore.
 4. Make sure you do the “**Set up a website**” experiment under the “**Useful experiments**” section
 </aside>
+
+-->
 
 ### Questions about DNS
 
@@ -127,7 +133,7 @@ Visit [https://questions.wizardzines.com/dns.html](https://questions.wizardzines
     
     Julia makes tons of awesome comics, like this one on [How to be a Wizard Programmer](https://wizardzines.com/zines/wizard/).
     
-    ![wizard-programmer.png](/web-foundations-july-2022/publishing-and-sharing/domains-and-hosting/wizard-programmer.png)
+    ![wizard-programmer.png](./domains-and-hosting/wizard-programmer.png)
     
     You can find more of her work online at [https://wizardzines.com/](https://wizardzines.com/). 
     
@@ -148,15 +154,13 @@ That gives you the ability to configure the DNS records, usually through a *regi
 
 Domains usually start at **$5-$10 USD**. There are often discounts for the first year of owning a domain. Some domains are more expensive: popular sites, business addresses, and short or memorable domain names sometimes cost thousands or millions of dollars!
 
-- Further reading: Domain pricing
-    
-    The price often depends on the **top level domain (TLD).** TLDs are like `.com` or `.org` or `.gh`. Depending on the TLD, the price for a similar name might be very different.
-    
+### Further reading: Domain pricing
+
+The price often depends on the **top level domain (TLD).** TLDs are like `.com` or `.org` or `.gh`. Depending on the TLD, the price for a similar name might be very different.
 
 There are lots of tools for searching and buying domains. [Google Domains](https://domains.google/) is a relatively high-quality tool. In the past, folks from our team have also used [Hover](https://www.hover.com/domains), [NameCheap](https://www.namecheap.com/), [Vercel](https://vercel.com), and others. We recommend using [Google Domains](https://domains.google/) if you are searching for or buying a domain. You may find a better price elsewhere, though!
 
 <aside>
-
 
 ⚠️ **You do not have to buy a domain for this class.**
 
@@ -180,7 +184,6 @@ The free domains are typically not as nice as domains you pay for.
 ## Walkthrough: Configuring DNS for a real domain
 
 <aside>
-
 
 🎥 In this walkthrough, Rob configures DNS for a real site using Github Pages and Google Domains.
 

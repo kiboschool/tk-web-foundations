@@ -242,3 +242,10 @@ img {
     display: block;
     margin: auto;
 }
+
+/* this is unused, it's for teaching. See javascript-and-the-page.md */
+.retro {
+	background-color: lavender;
+	padding: 12px;
+	font-family: monospace;
+}

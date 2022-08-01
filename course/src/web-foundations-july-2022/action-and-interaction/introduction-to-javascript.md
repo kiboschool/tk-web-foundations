@@ -1,8 +1,9 @@
 # Introduction to javascript
 
-*Estimated Time: 1 hour*
+*Estimated Time: 45 minutes*
 
 ---
+<div style="position: relative; padding-bottom: 56.25%; height: 0; margin: 20px 0px;"><iframe src="" title="YouTube video player" frameborder="0"  allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url(./actions/jav.png); background-size: cover;"></iframe></div>
 
 As you’ve heard lots of times by now, HTML is for the content and structure of the page, CSS is for styling how the elements should appear, and JavaScript is for adding interactivity. Now that you’ve learned lots of HTML and CSS, it’s time for some JavaScript.
 
@@ -49,7 +50,9 @@ Like you learned in the exercise above, you can open the console with a keyboard
 
 The browser can display information from JavaScript code to the console. You may see some **log messages** when you open the Console, from the JavaScript that’s already running on the page.
 
-You can log messages to yourself with JavaScript using `console.log("the message you want to say")`. Try it now!
+You can log messages to yourself with JavaScript using 
+
+`console.log("the message you want to say")`. Try it now!
 
 ### Error messages
 
@@ -71,7 +74,7 @@ In the activity above, you also learned `alert`, which shows a message on the pa
 
 Try entering the following lines of code into the Console one by one. Press the Enter key after each line, and see the result:
 
-```jsx
+```javascript
 11 * 45
 
 6000 - 440 - 31 - 195
@@ -83,116 +86,11 @@ Try entering the following lines of code into the Console one by one. Press the 
 
 We won’t do a whole lesson on numbers in JavaScript now, but you can start to use the Console as a calculator that comes with you to every webpage!
 
-## Selecting Elements
+## Practice
 
-As you’ve learned, webpages are made of HTML Elements. For JavaScript to do things with the page, it has to be able to interact with those elements.
-
-From your console, enter the following snippet:
-
-```jsx
-document.querySelector('div.notion-topbar')
-```
-
-That selects the HTML element with the top bar of content, showing the breadcrumb menu with links.
-
-### `querySelector`
-
-Take a closer look at the part in the parentheses: `'div.notion-page-block'`. That’s oddly familiar...
-
-It’s a CSS Selector! JavaScript uses CSS Selectors to select elements on the page.
-
-<aside>
-
-
-✍🏾 The function `querySelector` asks the page for the first element that matches the CSS selector you give it.
-
-</aside>
-
-You write `document.querySelector` to find elements inside the `document`. If you have any other HTML element in JavaScript, you can look for elements inside it instead.
-
-### Inspecting and changing properties
-
-What do you see when you run this snippet?
-
-```jsx
-document.querySelector('div.notion-topbar').innerText
-```
-
-- Result
-    
-    When I run that snippet, I see the text that’s in the top bar.
-    
-
-`.innerText` is a **property** of an element. With JavaScript, you can *inspect* properties to see what the current values are. 
-
-You can also *change* properties. Run this snippet:
-
-```jsx
-document.querySelector('div.notion-topbar').style = "background-color: lavender"
-```
-
-Look at the top bar. You changed the color, using JavaScript!
-
-## Adding and removing classes
-
-You could change other properties using JavaScript. However, JavaScript isn’t a great language for styling. CSS is much better. If you wanted to add some more styles using JavaScript, you would have to do something like:
-
-```jsx
-document.querySelector('div.notion-topbar').style = "background-color: lavender; padding: 12px; font-family: monospace"
-```
-
-It works... but it’s not as nice as writing styles in CSS.
-
-Instead of changing CSS values with JavaScript directly, instead you can add and remove **classes**. You’ve seen the `class` attribute in HTML before, and used the `.class` selector in CSS to style all the matching elements. With JavaScript, classes get a whole new power.
-
-In your CSS file, you could have something like:
-
-```jsx
-.retro {
-	background-color: lavender;
-	padding: 12px;
-	font-family: monospace;
-}
-```
-
-Which has the same styles as the snippet above.
-
-Then in your JS code, you could write:
-
-```jsx
-document.querySelector('div.notion-topbar').classList.add('retro')
-```
-
-To add the `retro` class and style the element. This won’t work right now, since you don’t control the CSS for the Notion page, but it will work for your own sites.
-
-You can also remove classes too:
-
-```jsx
-document.querySelector('div.notion-topbar').classList.remove('retro')
-```
-
-## Copy-Paste-Edit Development
-
-We haven’t talked much about JavaScript syntax. The JavaScript in 14 minutes activity introduced a ton of terms that we haven’t covered, and then we moved along to selecting elements and changing their appearance with JavaScript.
-
-It’s very normal at this point to be confused about the vocabulary, the terms, the syntax, and how all of it actually works. Our focus right now is on two things:
-
-- Showing you what cool things you can do with JavaScript
-- Getting you to the level of **copy-paste-edit development**
-
-You won’t learn everything about JavaScript syntax in this course. Instead, we want you to be able to find snippets of code online, copy them into your project, and adapt them to your website. That means you have to know a little bit about how the code works, but you don’t need to know every detail.
-
-**Don’t stop there!** After you build some cool sites by copying and pasting code, you should take the time to learn more about how the language works! There’s lots of great JavaScript learning materials that you can use to build deeper knowledge.
-
-## Practice: The Cat That Disappeared
-
-<aside>
-
-
-🐈 Practice hiding elements by making the cat disappear after a few seconds.
-
-Access the exercise here:  <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/Practice-The-Cat-that-Disappeared" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> or below
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/Practice-The-Cat-that-Disappeared" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+Open up the JavaScript console, and practice entering some expressions, such as:
+- calculations with numbers, like above
+- using `alert` to show a popup message
+- using `console.log` to show a message in the console
+- typing something that is not valid JavaScript, to see what an error message
+    looks like

@@ -17,10 +17,7 @@ If you get stuck, confused, or have trouble with the project, you should use the
 
 </aside>
 
-<aside>
-
-
-🖼️ **Publish and share a site**
+## 🖼️ **Publish and share a site**
 
 Instead of focusing on building from scratch, this project asks you to polish a previous project, publish it, and share it.
 
