@@ -32,6 +32,6 @@ Web Foundations instructor Wasiu gives an overview of week 4.
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; margin: 20px 0px;"><iframe src="https://www.youtube.com/embed/yhB_z7A3xdM" title="YouTube video player" frameborder="0"  allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url(./action-and-interaction/actions/js.gif); background-size: cover;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; margin: 20px 0px;"><iframe src="https://www.youtube.com/embed/yhB_z7A3xdM" title="YouTube video player" frameborder="0"  allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <!-- TODO: week 4 video -->
