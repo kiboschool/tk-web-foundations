@@ -4,7 +4,7 @@
 
 **In week 5 there are no new topics to learn.** So you’ll focus on your final project, and then work on finishing up the work from the previous weeks and wrapping up the course.
 
-As mentioned in week 3, your final project (**due on Friday, June 3rd**) will be a website you create with a team.
+Your final project (**due on Friday, Aug 12th**) will be a website you create with a team.
 
 <aside>
 
