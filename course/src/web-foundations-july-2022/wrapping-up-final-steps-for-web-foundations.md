@@ -9,19 +9,22 @@ Congratulations on ***almost*** finishing your Web Foundations journey. Below is
 You have worked really hard and we want to recognize that work with a certificate you can share digitally. To earn your certificate, **you need to complete the following by end Friday June 3rd.**
 
 - Complete all the projects from Weeks 1 - 3, and submit in Replit. (Note: these are the assignments on the “Project” pages of each lesson)
-- Complete the [**Final Project](/web-foundations-july-2022/final-project-instructions.md)** and **submit the form**
-- Complete the **[Web Foundation Program Feedback Survey](https://forms.gle/m9HBvgi2q44QH4kH9)**
+- Complete the **[Final Project](final-project-instructions.md)** and **submit the form**
+- Complete the **[Web Foundation Program Feedback Survey](https://forms.gle/4uUHS5qxoytCK9HM7)**
+
+<!-- >
 
 <aside>
 
 
 ⚠️ We updated the final requirements:
 
-- The week 4 project is no longer required - it’s optional to publish one of your sites.
+- The week 4 project is no longer required - it’s optional to complete the **Content Gallery** project.
 - The final due date for all of the work is extended by one week, to Friday, June 3.
 </aside>
 
 ---
+-->
 
 ## Share your experience
 
@@ -29,7 +32,7 @@ You have worked really hard and we want to recognize that work with a certificat
 
 
 🎥 **Record a video testimonial**
-[Record a video about your experience.](https://vocalvideo.com/c/kibo-school-azsvoe5e?utm_medium=email&_hsmi=203945747&_hsenc=p2ANqtz-8Zc39DBpei1KIp0G2nM2aDUmoIQuicqXtaPFTkQA-j4MQB70LTWZ0kA8Cew5uJkt_D3Gv7Pwwupqya4x92021Q2-NY0uH-R4RId2QoWISste4PLMk)  We would love to highlight your story to other young Africans just like you✨
+[Record a video about your experience.](https://bit.ly/3Q1GC3u)  We would love to highlight your story to other young Africans just like you✨
 
 </aside>
 
@@ -37,11 +40,11 @@ You have worked really hard and we want to recognize that work with a certificat
 
 
 🖋️ **Give us permission**
-We love sharing alumni stories on social media, and need your permission to do so. Grant us permission by filling out **[this release form](https://kibo-school.typeform.com/to/LJ9tE4LK)**
+We love sharing alumni stories on social media, and need your permission to do so. Grant us permission by filling out **[this release form](https://bit.ly/3JqSRUS)**
 
 </aside>
 
-[**Here is a playlist of testimonials](https://www.youtube.com/watch?v=QmQu1ynUBTY&list=PLEApm5XV23vWGm4uwl7jGSNST2Wj9S6Rx) from previous alumni 🎓**
+ > **[Here is a playlist of testimonials](https://www.youtube.com/watch?v=QmQu1ynUBTY&list=PLEApm5XV23vWGm4uwl7jGSNST2Wj9S6Rx) from previous alumni 🎓**
 
 ---
 
@@ -57,7 +60,7 @@ We love sharing alumni stories on social media, and need your permission to do s
 
 This experience has been better by the efforts of so many people, including your peers. Take a minute to write and read notes of gratitude: 
 
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/l6qf2kmf3xb3rs3k" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/scz0qfxkg46og8eg" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
 
@@ -89,8 +92,9 @@ Fill out [this form to begin your application](https://kibo-school.typeform.com/
 
 Kibo would not be the same without your participation. We are so grateful that you joined us!
 
-![Peak2.png](/web-foundations-july-2022/wrapping-up-final-steps-for-web-foundations/peak2.png)
 
-![Peak3.png](/web-foundations-july-2022/wrapping-up-final-steps-for-web-foundations/peak3.png)
+![Peak2.png](./wrapping-up-final-steps-for-web-foundations/peak2.png)
 
-![Peak1.png](/web-foundations-july-2022/wrapping-up-final-steps-for-web-foundations/peak1.png)
+![Peak3.png](./wrapping-up-final-steps-for-web-foundations/peak3.png)
+
+![Peak1.png](./wrapping-up-final-steps-for-web-foundations/peak1.png)

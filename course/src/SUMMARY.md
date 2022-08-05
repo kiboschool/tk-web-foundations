@@ -68,19 +68,16 @@
     - [Domains and Hosting](web-foundations-july-2022/publishing-and-sharing/domains-and-hosting.md)
     - [Sharing your work](web-foundations-july-2022/publishing-and-sharing/sharing-your-work.md)
     - [Practice](web-foundations-july-2022/publishing-and-sharing/practice.md)
+    
+    
     <!--
-
    
     - [Project](web-foundations-july-2022/publishing-and-sharing/project.md)
 
     -->
 
-<!--
-
 ### Week 5
 
 - [Final Project Instructions](web-foundations-july-2022/final-project-instructions.md)
 
-[Wrapping Up](web-foundations-july-2022/wrapping-up-final-steps-for-web-foundations.md)
-
--->
+[Wrapping Up - Final Steps](web-foundations-july-2022/wrapping-up-final-steps-for-web-foundations.md)
