@@ -80,9 +80,7 @@
 
 - [Final Project Instructions](web-foundations-july-2022/final-project-instructions.md)
 
-<!--
 [Wrapping Up - Final Steps](web-foundations-july-2022/wrapping-up-final-steps-for-web-foundations.md)
--->
 
 
 
