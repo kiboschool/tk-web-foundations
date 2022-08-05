@@ -4,7 +4,7 @@
 
 **In week 5 there are no new topics to learn.** So you’ll focus on your final project, and then work on finishing up the work from the previous weeks and wrapping up the course.
 
-As mentioned in week 3, your final project (**due on Friday, July 12th**) will be a website you create with a team.
+As mentioned in week 3, your final project (**due on Friday, August 12th**) will be a website you create with a team.
 
 <aside>
 
@@ -81,6 +81,8 @@ A design doc can also help you track what work you’ve done, and what work is l
 <div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdzMaTfx3c3FRVOrXVk7nh-lx3DSjYjAKkluZ2gkK5gpcJIsQ/viewform?usp=send_form&embed=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
 
 </aside>
+
+<img src="./wrapping-up-final-steps-for-web-foundations/peak1.png">
 
 ### ✨✨Have fun!✨✨
 
