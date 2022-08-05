@@ -82,7 +82,7 @@ A design doc can also help you track what work you’ve done, and what work is l
 
 </aside>
 
-<!-- <img src="./wrapping-up-final-steps-for-web-foundations/peak1.png"> -->
+ <img src="./wrapping-up-final-steps-for-web-foundations/peak1.png"> 
 
 ### ✨✨Have fun!✨✨
 
