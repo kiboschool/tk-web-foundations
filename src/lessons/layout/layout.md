@@ -75,7 +75,7 @@ element show up inline, but take up space like a block.
 
 📺 Practice using the `display` property and your new understanding of inline and block elements.
 
-[Access the exercise here](https://replit.com/team/web-foundations-july-2022/Practice-Block-and-Inline)
+[Access the exercise here](https://replit.com/team/tk8-web-foundations/Practice-Block-and-Inline)
 
 </aside>
 

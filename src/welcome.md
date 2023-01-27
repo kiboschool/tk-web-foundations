@@ -1,5 +1,5 @@
 # Web Foundations
-[https://bit.ly/tk6-wf](https://bit.ly/tk6-wf)
+[https://bit.ly/tk8-wf](https://bit.ly/tk8-wf)
 
 **Welcome to Web Foundations!** You are joining a global learning community dedicated to helping you learn and thrive in computer science.
 

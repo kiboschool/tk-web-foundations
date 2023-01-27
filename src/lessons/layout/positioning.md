@@ -103,4 +103,4 @@ Scroll the example to see the effect.
 >
 > Practice using the `top`, `left`, and `width` CSS properties and `position: absolute` to create a zany and fun face on the robot.
 >
-> [Complete the exercise on Replit](https://replit.com/team/web-foundations-july-2022/Absolute-Position-Make-a-Robot)
+> [Complete the exercise on Replit](https://replit.com/team/tk8-web-foundations/Absolute-Position-Make-a-Robot)

@@ -12,7 +12,7 @@
 
 🍽️ Help fix the layout of the recipe cards on the screen. Practice using flexbox.
 
-[**Access and submit on Replit here**](https://replit.com/team/web-foundations-july-2022/Lay-out-the-Recipe-Cards)
+[**Access and submit on Replit here**](https://replit.com/team/tk8-web-foundations/Lay-out-the-Recipe-Cards)
 
 </aside>
 
@@ -23,6 +23,6 @@
 🍽️ Help improve a mini version of the Kibo website. Practice using multimedia
 elements, flexbox and position.
 
-[**Access and submit on Replit here**](https://replit.com/team/web-foundations-july-2022/kibo-website)
+[**Access and submit on Replit here**](https://replit.com/team/tk8-web-foundations/kibo-website)
 
 </aside>

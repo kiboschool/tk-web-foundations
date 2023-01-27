@@ -15,7 +15,7 @@ If you get stuck, confused, or have trouble with the project, you should use the
 
 In this project, you'll use what you've learned about web design to style an article page based on an image.
 
-> [**Access** and **submit** the project in Replit here](https://replit.com/team/web-foundations-july-2022/Project-Style-the-Blog-Article)
+> [**Access** and **submit** the project in Replit here](https://replit.com/team/tk8-web-foundations/Project-Style-the-Blog-Article)
 
 Remember...
 

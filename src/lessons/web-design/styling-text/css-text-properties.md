@@ -36,7 +36,7 @@ Follow the instructions to style one paragraph of the text to look good and
 the other to look bad! You can refer to the Key Rules below for help on styling
 the good text.
 
-[Access the exercise here](https://replit.com/team/web-foundations-july-2022/Practice-CSS-Text-Properties)
+[Access the exercise here](https://replit.com/team/tk8-web-foundations/Practice-CSS-Text-Properties)
 
 </aside>
 

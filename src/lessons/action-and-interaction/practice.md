@@ -12,7 +12,7 @@
 
 🔢 Practice JavaScript by making a button that tracks how many times it’s been clicked.
 
-[**Access and submit on Replit here**](https://replit.com/team/web-foundations-july-2022/Click-Counter)
+[**Access and submit on Replit here**](https://replit.com/team/tk8-web-foundations/Click-Counter)
 
 </aside>
 
@@ -22,7 +22,7 @@
 
 📽️ You don’t need PowerPoint or Google Slides! You can use _JavaScript_ instead.
 
-[**Access and submit on Replit here**](https://replit.com/team/web-foundations-july-2022/Slide-Show)
+[**Access and submit on Replit here**](https://replit.com/team/tk8-web-foundations/Slide-Show)
 
 </aside>
 
@@ -37,6 +37,6 @@
 <aside>
 
 👍🏿 Make the Like button count up, similar to YouTube’s Like button.
-[**Access and submit on Replit here**](https://replit.com/team/web-foundations-july-2022/Video-Like-Button)
+[**Access and submit on Replit here**](https://replit.com/team/tk8-web-foundations/Video-Like-Button)
 
 </aside>

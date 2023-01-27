@@ -21,7 +21,7 @@ You can work together by sharing your screen, or by creating a new replit and sh
 > totally unstyled. In this project, you'll put together your own **CS Professor
 > website**.
 >
-> [https://replit.com/team/web-foundations-july-2022/CS-Professor-Home-Page](https://replit.com/team/web-foundations-july-2022/CS-Professor-Home-Page)
+> [https://replit.com/team/tk8-web-foundations/CS-Professor-Home-Page](https://replit.com/team/tk8-web-foundations/CS-Professor-Home-Page)
 
 
 Remember...

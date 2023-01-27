@@ -325,4 +325,4 @@ Re-read the lesson or look up the elements using Google if you get stuck.
 
 🔑 Click the link below to complete the exercise on Replit
 
-[https://replit.com/team/web-foundations-july-2022/Practice-Use-the-basic-elements](https://replit.com/team/web-foundations-july-2022/Practice-Use-the-basic-elements)
+[https://replit.com/team/tk8-web-foundations/Practice-Use-the-basic-elements](https://replit.com/team/tk8-web-foundations/Practice-Use-the-basic-elements)

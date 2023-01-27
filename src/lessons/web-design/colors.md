@@ -155,6 +155,6 @@ Try to match the color in the smaller circle by picking the same color on the wh
 
 This recipe page has most of the styling done already, but it needs color.
 
-[Access the repl here](https://replit.com/team/web-foundations-july-2022/Apply-a-Palette)
+[Access the repl here](https://replit.com/team/tk8-web-foundations/Apply-a-Palette)
 
 </aside>

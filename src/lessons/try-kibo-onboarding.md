@@ -37,7 +37,7 @@ You have already created a Replit account during the admissions challenge. To pr
 
 1. Go to [replit.com](https://replit.com)
 2. Select "Log in" at the top right corner to login to your account
-3. [Click this link](https://replit.com/teams/join/paxrvpstiwxhfotukkmarthkpaiapjmk-web-foundations-july-2022) to join the Replit team for the class.
+3. [Click this link](https://replit.com/teams/join/kkddhvukumdgjstnehixnajoodbcsimj-tk8-web-foundations) to join the Replit team for the class.
 
 ## Join Discord and introduce yourself
 
@@ -74,10 +74,6 @@ Introduce yourself in the #general channel by posting a message with:
 5. An image or gif that represents you!
 
 **TIP:** Post your text message first, then post your gif/image as a separate message afterwards.
-
-*Example:*
-
-![Screenshot 2022-04-08 at 10.13.11 AM.png](/web-foundations-july-2022/try-kibo-onboarding/screenshot-2022-04-08-at-10.13.11-am.png)
 
 ---
 

@@ -184,7 +184,7 @@ margin: 0;
 
 ↔️ Practice applying the box model properties.
 
-[Access the repl here](https://replit.com/team/web-foundations-july-2022/Practice-Box-Model)
+[Access the repl here](https://replit.com/team/tk8-web-foundations/Practice-Box-Model)
 
 </aside>
 
