@@ -32,9 +32,9 @@ If you are sharing your code with developers or with an employer, you should wri
 
 A `Readme` is a file that explains what the project is about. It explains things like what you were thinking, who the project is for, what tools you used, and how someone might contribute.
 
-<details><summary>Readme files on Github</summary>
+<details><summary>Readme files</summary>
 
-On Github, the Readme file serves as a landing page for a project. Since Github is a social site for developers, Readme pages are a really important way of communicating to other developers.
+On Github and Replit, the Readme file serves as a landing page for a project. Since Github is a social site for developers, Readme pages are a really important way of communicating to other developers.
 
 If you visit the [Github page for the DevTools Scavenger Hunt](https://github.com/kiboschool/devtools-scavenger-hunt/tree/main), you’ll see that the Readme explains what the site is for, and links to more information about Kibo. The expectation is that other developers might see this page, and read the Readme to learn about the site and about Kibo.
 

@@ -131,8 +131,6 @@ You won’t learn everything about JavaScript syntax in this course. Instead, yo
 
 🐈 Practice hiding elements by making the cat disappear after a few seconds.
 
-<!-- TODO: Replace with Replit -->
-
-[![the-cat-that-disappeared](https://img.shields.io/static/v1?label=Open%20Project&message=the%20cat%20that%20disappeared&color=blue)](https://classroom.github.com/a/Mdmqw6la)
+[Access the exercise here](https://replit.com/team/web-foundations-july-2022/Practice-The-Cat-that-Disappeared)
 
 </aside

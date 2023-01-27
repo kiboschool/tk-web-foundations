@@ -37,9 +37,7 @@ The [MDN guide on Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScr
 
 🙈 The bunny is quite timid. It runs away when someone is near. Or, at least, it should! Help the bunny hide with an Event Listener
 
-<!-- Replace with Replit -->
-
-[![hide-the-bunny](https://img.shields.io/static/v1?label=Open%20Project&message=hide%20the%20bunny&color=blue)](https://classroom.github.com/a/8keOAr4m)
+[Access the exercise here](https://replit.com/team/web-foundations-july-2022/Hide-on-click)
 
 </aside>
 

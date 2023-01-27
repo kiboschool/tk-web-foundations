@@ -81,9 +81,7 @@ It’s also nice to be able to make the cursor show differently when hovering so
 
 🏫 Practice applying what you’ve learned about styling text by styling the homepage for a school.
 
-<!-- Replace with Replit -->
-
-[![community-college](https://img.shields.io/static/v1?label=Open%20Project&message=community%20college&color=blue)](https://classroom.github.com/a/x93QLZ8v)
+[Access the Repl here](https://replit.com/team/web-foundations-july-2022/Typesetting-a-community-college-homepage)
 
 </aside>
 

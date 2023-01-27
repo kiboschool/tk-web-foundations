@@ -12,8 +12,7 @@
 
 🍽️ Help fix the layout of the recipe cards on the screen. Practice using flexbox.
 
-<!-- Replace with Replit -->
-[![laid-back-recipes-layout](https://img.shields.io/static/v1?label=Open%20Project&message=laid%20back%20recipes%20layout&color=blue)](https://classroom.github.com/a/C8T3JNTL)
+[**Access and submit on Replit here**](https://replit.com/team/web-foundations-july-2022/Lay-out-the-Recipe-Cards)
 
 </aside>
 
@@ -24,20 +23,6 @@
 🍽️ Help improve a mini version of the Kibo website. Practice using multimedia
 elements, flexbox and position.
 
-<!-- Replace with Replit -->
-
-[![mini-kibo-website](https://img.shields.io/static/v1?label=Open%20Project&message=mini%20kibo%20website&color=blue)](https://classroom.github.com/a/7XFYiSJ1)
-
-</aside>
-
-## Profile Page Layout
-
-<aside>
-
-Follow the instructions to create the layout for your profile page.
-
-<!-- Replace with Replit -->
-
-[![profile-page-layout](https://img.shields.io/static/v1?label=Open%20Project&message=profile%20page%20layout&color=blue)](https://classroom.github.com/a/DaKY3Z8y)
+[**Access and submit on Replit here**](https://replit.com/team/web-foundations-july-2022/kibo-website)
 
 </aside>

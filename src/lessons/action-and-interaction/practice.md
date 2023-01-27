@@ -12,9 +12,7 @@
 
 🔢 Practice JavaScript by making a button that tracks how many times it’s been clicked.
 
-<!-- TODO: Replace with Replit -->
-
-[![click-counter](https://img.shields.io/static/v1?label=Open%20Project&message=click%20counter&color=blue)](https://classroom.github.com/a/IlUgsNC9)
+[**Access and submit on Replit here**](https://replit.com/team/web-foundations-july-2022/Click-Counter)
 
 </aside>
 
@@ -24,9 +22,7 @@
 
 📽️ You don’t need PowerPoint or Google Slides! You can use _JavaScript_ instead.
 
-<!-- TODO: Replace with Replit -->
-
-[![kibo-slide-show](https://img.shields.io/static/v1?label=Open%20Project&message=kibo%20slide%20show&color=blue)](https://classroom.github.com/a/OTcC6rdQ)
+[**Access and submit on Replit here**](https://replit.com/team/web-foundations-july-2022/Slide-Show)
 
 </aside>
 
@@ -41,21 +37,6 @@
 <aside>
 
 👍🏿 Make the Like button count up, similar to YouTube’s Like button.
-
-<!-- TODO: Replace with Replit -->
-
-[![video-like-button](https://img.shields.io/static/v1?label=Open%20Project&message=video%20like%20button&color=blue)](https://classroom.github.com/a/JD7zzCmT)
-
-</aside>
-
-## Profile Page JavaScript
-
-<aside>
-
-Follow the steps to add interactivity to your Profile Page.
-
-<!-- TODO: Replace with Replit -->
-
-[![profile-page-js](https://img.shields.io/static/v1?label=Open%20Project&message=profile%20page%20js&color=blue)](https://classroom.github.com/a/XYnNkPL8)
+[**Access and submit on Replit here**](https://replit.com/team/web-foundations-july-2022/Video-Like-Button)
 
 </aside>

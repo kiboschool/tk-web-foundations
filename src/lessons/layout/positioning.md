@@ -99,10 +99,8 @@ Scroll the example to see the effect.
 
 ## Practice: Absolute Robot
 
-<!-- Replace with Replit -->
-
 > 🤖 **The face has fallen off the robot!**
 >
 > Practice using the `top`, `left`, and `width` CSS properties and `position: absolute` to create a zany and fun face on the robot.
 >
-> [![absolute-robot](https://img.shields.io/static/v1?label=Open%20Project&message=absolute%20robot&color=blue)](https://classroom.github.com/a/qWTGSVp6)
+> [Complete the exercise on Replit](https://replit.com/team/web-foundations-july-2022/Absolute-Position-Make-a-Robot)

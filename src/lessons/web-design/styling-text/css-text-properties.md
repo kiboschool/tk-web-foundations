@@ -36,11 +36,9 @@ Follow the instructions to style one paragraph of the text to look good and
 the other to look bad! You can refer to the Key Rules below for help on styling
 the good text.
 
-<!-- Replace with Replit -->
-[![good-text-bad-text](https://img.shields.io/static/v1?label=Open%20Project&message=good%20text%20bad%20text&color=blue)](https://classroom.github.com/a/Xg_qjeOQ)
+[Access the exercise here](https://replit.com/team/web-foundations-july-2022/Practice-CSS-Text-Properties)
 
 </aside>
-
 
 ## Key rules for Typography
 

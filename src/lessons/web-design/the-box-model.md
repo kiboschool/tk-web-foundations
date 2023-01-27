@@ -184,9 +184,7 @@ margin: 0;
 
 ↔️ Practice applying the box model properties.
 
-<!-- Replace with Replit -->
-jj
-[![box-model-practice](https://img.shields.io/static/v1?label=Open%20Project&message=box%20model%20practice&color=blue)](https://classroom.github.com/a/3-ZF_ans)
+[Access the repl here](https://replit.com/team/web-foundations-july-2022/Practice-Box-Model)
 
 </aside>
 

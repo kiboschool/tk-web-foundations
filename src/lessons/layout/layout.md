@@ -75,7 +75,7 @@ element show up inline, but take up space like a block.
 
 📺 Practice using the `display` property and your new understanding of inline and block elements.
 
-[![block-and-inline](https://img.shields.io/static/v1?label=Open%20Project&message=block%20and%20inline&color=blue)](https://classroom.github.com/a/XaanAUNP)
+[Access the exercise here](https://replit.com/team/web-foundations-july-2022/Practice-Block-and-Inline)
 
 </aside>
 

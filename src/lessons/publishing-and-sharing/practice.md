@@ -12,9 +12,7 @@
 
 📽️ Practice writing a Readme for an HTML slide show project.
 
-<!-- Replace with Replit -->
-
-[![write-a-readme](https://img.shields.io/static/v1?label=Open%20Project&message=write%20a%20readme&color=blue)](https://classroom.github.com/a/GpcMnSUe)
+[**Access** and **Submit** exercise here](https://replit.com/team/web-foundations-july-2022/Write-a-Readme)
 
 </aside>
 
@@ -26,9 +24,7 @@
 
 👀 Add tags to this site so that it has a cool preview when shared on social media or viewed in search results.
 
-<!-- Replace with Replit -->
-
-[![laid-back-recipes-link-preview](https://img.shields.io/static/v1?label=Open%20Project&message=laid%20back%20recipes%20link%20preview&color=blue)](https://classroom.github.com/a/ZsHHXM70)
+[**Access** and **Submit** exercise here](https://replit.com/team/web-foundations-july-2022/Add-Cool-Link-Previews)
 
 </aside>
 

@@ -1,9 +1,9 @@
 [book]
-authors = ["(Wasiu Yusuf)"]
+authors = ["Rob Cobb"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Web Foundations - Try Kibo 6"
+title = "Try Kibo: Web Foundations"
 
 [build]
 build-dir = "output"

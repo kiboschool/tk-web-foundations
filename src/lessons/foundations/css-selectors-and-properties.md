@@ -65,13 +65,11 @@ In the HTML file, we’ll link to `style.css` using the `<link>` tag:
 
 ## Practice: Link the stylesheet
 
-<!-- TODO: Replace with Replit -->
-
 > Add the `<link>` tag to this HTML page so that the styles are connected.
 >
 > 👉🏿 Use the link below to attempt the practice exercise
 >
-> [![opes-tea-shop](https://img.shields.io/static/v1?label=Open%20Project&message=opes%20tea%20shop&color=blue)](https://classroom.github.com/a/PuiZLhPw)
+> [https://replit.com/team/web-foundations-july-2022/Practice-Link-the-Stylesheet](https://replit.com/team/web-foundations-july-2022/Practice-Link-the-Stylesheet)
 
 ## CSS Syntax
 
@@ -220,13 +218,7 @@ If you want to see them and browse more examples, check out the [MDN page on CSS
 > 👉🏿 Practice using selectors
 >
 > In the CSS file, fill in the selectors for each of the rules so that the styles work.
-
-<p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="NWzpWYP" data-editable="true" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/rrcobb/pen/NWzpWYP">
-  Try it: Select the Elements</a> by Rob Cobb (<a href="https://codepen.io/rrcobb">@rrcobb</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+> [https://replit.com/team/web-foundations-july-2022/Practice-Select-the-Elements](https://replit.com/team/web-foundations-july-2022/Practice-Select-the-Elements)
 
 ## Practice: CSS Diner
 

@@ -309,8 +309,6 @@ There are two kinds of lists. Unordered Lists `<ul>` have dots before each item.
 ## Practice: Use the basic elements
 
 > 👉🏿 Your turn! Use these tags to mark up the page.
-- Use this space to practice writing the basic elements.
-- Don't worry about the content of the page, it can just say "This is a heading" for the headings, and "this is a link" for the links.
 
 To complete this, try to include:
 
@@ -321,12 +319,10 @@ To complete this, try to include:
 - an unordered list
 - an ordered list
 - some emphasized and strongly emphasized text
+- Don't worry about the content of the page, it can just say "This is a heading" for the headings, and "this is a link" for the links.
 
 Re-read the lesson or look up the elements using Google if you get stuck.
 
+🔑 Click the link below to complete the exercise on Replit
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="Untitled" src="https://codepen.io/yusuphwasiu/embed/MWXoagR?default-tab=html%2Cresult&editable=true&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/yusuphwasiu/pen/MWXoagR">
-  Untitled</a> by Wasiu Yusuf (<a href="https://codepen.io/yusuphwasiu">@yusuphwasiu</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
+[https://replit.com/team/web-foundations-july-2022/Practice-Use-the-basic-elements](https://replit.com/team/web-foundations-july-2022/Practice-Use-the-basic-elements)

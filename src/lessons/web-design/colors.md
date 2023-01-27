@@ -155,8 +155,6 @@ Try to match the color in the smaller circle by picking the same color on the wh
 
 This recipe page has most of the styling done already, but it needs color.
 
-<!-- Replace with Replit -->
-
-[![laid-back-recipes-palette](https://img.shields.io/static/v1?label=Open%20Project&message=laid%20back%20recipes%20palette&color=blue)](https://classroom.github.com/a/lejpR3ZB)
+[Access the repl here](https://replit.com/team/web-foundations-july-2022/Apply-a-Palette)
 
 </aside>

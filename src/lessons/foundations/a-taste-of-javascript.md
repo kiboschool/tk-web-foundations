@@ -24,9 +24,7 @@ We usually place the script tag at the end of the `<body>` tag, so that the rest
 
 Add the `<script>` tag to connect the JavaScript file to the HTML page.
 
-<!-- Replace with Replit -->
-
-[![taste-test](https://img.shields.io/static/v1?label=Open%20Project&message=taste%20test&color=blue)](https://classroom.github.com/a/sYQeYpo3)
+[https://replit.com/team/web-foundations-july-2022/Practice-Link-the-Script](https://replit.com/team/web-foundations-july-2022/Practice-Link-the-Script)
 
 ## Deeper Connections: CSS Selectors in JS
 

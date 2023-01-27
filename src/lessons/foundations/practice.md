@@ -15,19 +15,15 @@
 
 ## Chicken Peanut Stew Recipe Page
 
-<!-- Replace with Replit -->
-
 > 🍲 Starting with a plain text version of a recipe, write the HTML markup to turn it into a webpage.
 >
-> [![chicken-peanut-stew](https://img.shields.io/static/v1?label=Open%20Project&message=chicken%20peanut%20stew&color=blue)](https://classroom.github.com/a/O9b8VYk_)
+> [https://replit.com/team/web-foundations-july-2022/Chicken-Peanut-Stew-Recipe-Page](https://replit.com/team/web-foundations-july-2022/Chicken-Peanut-Stew-Recipe-Page)
 
 ## Shirt City Landing Page: Debug
 
-<!-- Replace with Replit -->
-
 > 👕 Help the new clothing brand Shirt City debug their landing page.
 >
-> [![shirt-city](https://img.shields.io/static/v1?label=Open%20Project&message=shirt%20city&color=blue)](https://classroom.github.com/a/CiIkIvVu)
+> [https://replit.com/team/web-foundations-july-2022/Shirt-City-Landing-Page-Debug](https://replit.com/team/web-foundations-july-2022/Shirt-City-Landing-Page-Debug)
 
 ## Make a Greeting Card
 
@@ -35,4 +31,4 @@
 
 > 🎉 Starting with the working version of a Birthday Card web page, edit the HTML and CSS to make it your own.
 >
-> [![greeting-card](https://img.shields.io/static/v1?label=Open%20Project&message=greeting%20card&color=blue)](https://classroom.github.com/a/mAHJBeEw)
+> [https://replit.com/team/web-foundations-july-2022/Make-a-Greeting-Card](https://replit.com/team/web-foundations-july-2022/Make-a-Greeting-Card)
