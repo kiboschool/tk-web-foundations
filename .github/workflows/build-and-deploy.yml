@@ -16,7 +16,7 @@ jobs:
           name: mdBook
 
       - name: Generate static content for the course
-        run: mdbook build course
+        run: mdbook build
 
       - name: Setup Node.js (required to install Vercel CLI)
         uses: actions/setup-node@v3
@@ -38,7 +38,7 @@ jobs:
             productionFlag="--prod"
           fi
 
-          vercel course/output --token ${VERCEL_TOKEN} ${productionFlag}
+          vercel output --token ${VERCEL_TOKEN} ${productionFlag}
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
