@@ -52,7 +52,9 @@ Discord is our community platform. It's where you will get daily announcements, 
 2. Click here to join the Kibo School Discord server: **[https://discord.gg/UU6v6F2bMe](https://discord.gg/UU6v6F2bMe).** 
 3. As you join the discord server, you will get a prompt asking what class you are enrolled in. Select **Web Foundations**
 
-![class-selection](https://github.com/kiboschool/tk-future-proof-with-python/blob/main/src/images/web%20foundation%20class%20confirmation.png)
+
+![web foundation discord class confirmation](https://user-images.githubusercontent.com/88333571/216730745-78e1dc01-7aa4-438b-8f68-75d84c9e0100.png)
+
 
 If you have trouble signing up for Discord, wait a few hours then try again.
 
@@ -60,7 +62,8 @@ If you have trouble signing up for Discord, wait a few hours then try again.
 
 1. Click on your username in the right sidebar, then click the pencil icon to edit your profile
 
-![discord-sidebar](insert image)
+![profile rename](https://user-images.githubusercontent.com/88333571/216730806-b13f0ef9-4806-415e-ba1d-3186ba878c77.png)
+
 
 2. Select “Edit Server Profile"
 3. Update your **nickname** to your first name and last name initial (e.g. Aisha D, Okezie C). This will change your nickname in the Kibo School server only.
@@ -84,7 +87,8 @@ Introduce yourself in the #general channel by posting a message with:
 
 _Example:_
 
-![Screenshot 2022-04-08 at 10.13.11 AM.png](insert image link)
+<img width="925" alt="discord intro" src="https://user-images.githubusercontent.com/88333571/216731122-16d7f1b1-78f0-48ee-bb53-a5b940ac80bb.png">
+
 
 ## Prepare for Orientation
 
