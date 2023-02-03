@@ -50,7 +50,7 @@ Discord is our community platform. It's where you will get daily announcements, 
 
 ### Join Kibo School server
 1. If you already have a Discord account, [login in to Discord](https://discord.com/login). Otherwise, [create a Discord account](https://discord.com/register?redirect_to=%2Flogin) then check your email to verify your account. Be sure to check your spam folder if you don't see the email
-2. Click here to join the Kibo School Discord server: **[https://discord.gg/ghmxYFQmPp](https://discord.gg/UU6v6F2bMe).** 
+2. Click here to join the Kibo School Discord server: **[https://discord.gg/UU6v6F2bMe](https://discord.gg/UU6v6F2bMe).** 
 3. As you join the discord server, you will get a prompt asking what class you are enrolled in. Select **Web Foundations**
 
 ![class-selection](insert discord class selection image)
