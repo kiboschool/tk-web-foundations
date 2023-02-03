@@ -1,11 +1,10 @@
 # Set up for class
 
+---
 Welcome to the Try Kibo onboarding process. During this process, you will select a live class, join your class replit team, join Discord and introduce yourself and lastly, prepare for Orientation. At the bottom of this page, there is an onboarding checklist form that you **must** submit after setting up, to help the Kibo team verify that you are completely onboarded. Only those who submit the form after setting up will get an invite to orientation which is happening on Friday, Feb 10 from 3 - 5:30pm GMT.
 
-**The deadline to finish onboarding is Thursday, Feb 9 at 12pm GMT.**
----
 
-<!-- TODO: Update with correct steps and links -->
+**The deadline to finish onboarding is Thursday, Feb 9 at 12pm GMT.**
 
 
 ## Sign up for a live class
