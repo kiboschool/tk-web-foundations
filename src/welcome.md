@@ -63,7 +63,7 @@ practice problems included in the course.
 
 Below is the overall schedule for the program. Each day, your community managers will post a "Daily Peak" in Discord to share events for the day.
 
-<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/presentation/embed?id=1hYxAvs5YTPG9M3EgkdsKMzuzMzxHWe6LmcKeOOG7Z3M" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSg-ckCVV9pwcoo0gGyAG1xpP6mUu34KfiCLw3sj5UjW6t8MDdMgzeAdgQg_jFk6jwVct4bV7LAJRoA/embed?" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
 
 ---
 
