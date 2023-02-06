@@ -7,7 +7,7 @@
 
 <!-- TODO: Replace video -->
 
-📺 Watch this welcome video from your instructor, Wasiu.
+📺 Watch this welcome video from your instructor, Trevor.
 
 </aside>
 
