@@ -48,12 +48,12 @@ practice problems included in the course.
 
 <aside>
 
-📺 Watch this lesson navigation walkthrough video from Emmy, one of your community managers
+📺 Watch this lesson navigation walkthrough video from Emmy, the Try Kibo program manager
 
 </aside>
 
 <div style="position: relative; height: 100%; width: 100%;">
-    <iframe width="100%" height="600" src="https://www.youtube.com/embed/_lvht5x4lXE" title="Lesson Page Walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" height="600" src="https://www.youtube.com/embed/ZFAEBoJ4lkU" title="Lesson Page Walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
