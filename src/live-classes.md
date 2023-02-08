@@ -6,31 +6,27 @@ Video recordings, slides, and links for the exercises will be posted after the c
 
 <!-- TODO: Replace links as appropriate -->
 
-| Week | Topic                  |  Slides     | Section 1 Video | Section 2 Video | Exercise  | Link     |
-|------|------------------------|-------------|-----------------|-----------------|-----------|----------|
-| 1    | Foundations            |[View][S1]   |[Watch][V1]      |[Watch][V1]      |[View][E1] |[Doc][L1] |
-| 2    | Web Design             |[View][S2]   |[Watch][V2a]     |[Watch][V2b]     |[View][E2] |[Doc][L2] |
-| 3    | Action and Interaction |[View][S3]   |[Watch][V3a]     |[Watch][V3b]     |[View][E3] |[Doc][L3] |
-| 4    | Layout                 |             |                 |                 |           |          |
-| 5    | Publishing and Sharing |             |                 |                 |           |          |
-
+| Week | Topic                  | Slides     | Section 1 Video | Section 2 Video | Exercise   | Survey     |
+| ---- | ---------------------- | ---------- | --------------- | --------------- | ---------- | ---------- |
+| 1    | Foundations            | [View][s1] |                 |                 | [View][e1] | [View][sur1] |
+| 2    | Web Design             | [View][s2] |                 |                 | [View][e2] | [View][sur2] |
+| 3    | Action and Interaction | [View][s3] |                 |                 | [View][e3] | [View][sur3] |
+| 4    | Layout                 | [View][s4] |                 |                 |            | [View][sur4] |
+| 5    | Publishing and Sharing |            |                 |                 |            |            |
 
 If you miss a class, first notify your instructor. Then, review the slides and
 recording of the class and complete the activity or exercise from the class so that you do not fall behind.
 
-[S1]: https://docs.google.com/presentation/d/1qbgAhQwj_Uiv4ZHzNYVgq0xplYpN3BR4hAliNlF5mTo/edit?usp=sharing
-[V1]: https://youtu.be/FdenvaWdkIA
-[E1]: https://www.youtube.com/embed/FdenvaWdkIA?start=1915
-[L1]: https://docs.google.com/forms/d/e/1FAIpQLSefepTvuYSTm7Ed6UV6YFAknse_-1Lg6psi_RX4n-UL4KeGdA/viewform
-[S2]: https://docs.google.com/presentation/d/1CliR1sCVeqEFxRNuWDYTyYaEdLMgMwXIfF0A-mcH2is/edit?usp=sharing
-[V2a]: https://youtu.be/MzMIlXdpIxE
-[V2b]: https://youtu.be/RxELqwNp_Kg
-[E2]: https://youtu.be/RxELqwNp_Kg?t=1828
-[L2]: https://docs.google.com/forms/d/e/1FAIpQLSeiRMuey1EvlErCvLGm54BVA50hXQ-6ZjJoONuU8Nf2UtTCmQ/viewform
+[s1]: https://docs.google.com/presentation/d/1H1yHkulWSOeU4_OOqAID9ZngGIiwvXrdKDZzmkXv4oI/edit?usp=sharing
+[s2]: https://docs.google.com/presentation/d/1CI1CfLkrKF9ip_NwlRFceo31qLcEqjaYFJvvZ1kihyw/edit?usp=sharing
+[s3]: https://docs.google.com/presentation/d/1GSFefXUFeAqZIcag0m532N0kAQU3w0D-VfN7XDW22Eo/edit?usp=sharing
+[s4]: https://docs.google.com/presentation/d/1du7uMS-UeoQ7ZCBN9641v19jtaTVCTLimaHZQzw6HTI/edit?usp=sharing
 
-[S3]: https://docs.google.com/presentation/d/10bzjcH_ezmeL_bxk71bXQe1F2FE3sFmCD5bKvMlEFqI/edit?usp=sharing
-[V3a]: https://youtu.be/TAXNkbas62g
-[V3b]: https://youtu.be/kZLrJ7u8Dzo
-[E3]: https://youtu.be/TAXNkbas62g?t=1070
-[L3]: https://docs.google.com/forms/d/e/1FAIpQLSckNUyPq-7j3awnFJHZT6NLIrNNXxDgW6QsKY-a0eMHa7Il0w/viewform
+[e1]: https://www.youtube.com/embed/FdenvaWdkIA?start=1915
+[e2]: https://youtu.be/RxELqwNp_Kg?t=1828
+[e3]: https://youtu.be/TAXNkbas62g?t=1070
 
+[sur1]: https://docs.google.com/forms/d/e/1FAIpQLSfEbvSJ1EYI6MYmu9WJxfwpXeWIeoATpEWTlO8fRoKF4ppOrw/viewform?usp=sf_link
+[sur2]: https://docs.google.com/forms/d/e/1FAIpQLSfwduMaYaJQzMJu2BpXGWmmpjkjO-RN4gjFdYjD2T_94NdYqA/viewform?usp=sf_link
+[sur3]: https://docs.google.com/forms/d/e/1FAIpQLSevuY0Z76veN-dn-S3PdtBaMa7LKHyDBR0f-SSK-QnKGbN_Pw/viewform?usp=sf_link
+[sur4]: https://docs.google.com/forms/d/e/1FAIpQLSdZcQEEfK65XhhVv01Rkaz1m2TQ4G6g5AnQuMVVBezDg9DfHw/viewform?usp=sf_link

@@ -15,8 +15,8 @@ You have worked really hard! We want to recognize that work with a certificate y
 To earn your certificate, **you need to complete the following by end Friday August 19th.**
 
 - Complete all the projects from Weeks 1 - 3, and submit in Replit. (Note: these are the assignments on the “Project” pages of each lesson)
-- Complete the **[Final Project](final-project-instructions.md)** and **submit the form**
-- Complete the **[Web Foundation Program Feedback Survey](https://forms.gle/4uUHS5qxoytCK9HM7)**
+- Complete the **[Final Project](final-project.md)** and **submit the form**
+- Complete the **[Web Foundation Program Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSfFy1PHCgCMM4icSVw-kxVp7Ua5gIVkxFK3znfXHaoIu7uSkQ/viewform?usp=sf_link)**
 
 ## Share your experience
 
