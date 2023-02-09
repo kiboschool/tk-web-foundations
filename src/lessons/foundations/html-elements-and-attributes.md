@@ -300,11 +300,11 @@ There are two kinds of lists. Unordered Lists `<ul>` have dots before each item.
 > - the link to the MDN page, and
 > - what you find interesting about it
 >
-> [https://padlet.com/curriculumpad/xi54mrqkyua1qjww](https://padlet.com/curriculumpad/xi54mrqkyua1qjww)
+> [https://padlet.com/curriculumpad/find-a-new-tag-on-mdn-hic4q8nyf1dusesg](https://padlet.com/curriculumpad/find-a-new-tag-on-mdn-hic4q8nyf1dusesg)
 
 <!-- TODO: duplicate padlets and update links -->
 
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/xi54mrqkyua1qjww" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:408px;display:block;padding:0;margin:0"></iframe></div>
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/find-a-new-tag-on-mdn-hic4q8nyf1dusesg" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:408px;display:block;padding:0;margin:0"></iframe></div>
 
 ## Practice: Use the basic elements
 

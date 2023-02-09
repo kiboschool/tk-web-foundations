@@ -11,10 +11,10 @@ In this lesson you learned:
 
 ## How was this lesson?
 
-<!-- TODO: Update Form -->
+Feedback is a gift! We use your feedback to improve our lessons for future students. Thank you!
 
-Feedback is a gift.
+<!-- TODO: Update form -->
 
-We use your feedback to improve our lessons for future students. Thank you!
+> 👉🏿 Submit your feedback  below or use [this link](https://docs.google.com/forms/d/e/1FAIpQLSdZcQEEfK65XhhVv01Rkaz1m2TQ4G6g5AnQuMVVBezDg9DfHw/viewform?usp=sf_link).
 
-<div style="width:100%;height:500px;margin-top:2em;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeakunDbWmR7o8F4JVG9x1C9Qn3QjEX9mUtog88uQ6CZHtNpA/viewform" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+<div style="width:100%;height:500px;margin-top:2em;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdZcQEEfK65XhhVv01Rkaz1m2TQ4G6g5AnQuMVVBezDg9DfHw/viewform?usp=sf_link" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
