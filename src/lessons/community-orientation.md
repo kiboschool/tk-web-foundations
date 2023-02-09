@@ -80,7 +80,7 @@ In the thread where you found your team:
  
 ---
 
-## Challenge 2: Team Info Program👩🏾‍💻
+## Challenge 2: Team Info Page👩🏾‍💻
 
 > **Description:** In this challenge, you will build a site in Replit with info about your team. Every team member should still be on Zoom
 
