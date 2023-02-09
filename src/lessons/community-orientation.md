@@ -1,88 +1,91 @@
 # Community orientation
 
-**Spend the next hour completing the challenges with your squad.**
-
-<!-- TODO: Update Community Orientation Activities and links -->
-
-## Before you start!
-
-<aside>
-
-
-⚠️ **Make sure you have signed into Orientation**
-
-If not, fill out this form so that we can confirm that you attended: <a href="https://forms.gle/uoTXNbpysxBM5nJy9" target="_blank"> Orientation Sign Up</a>
-
-</aside>
+The community orientation challenges are compusory for all students in the program. By the end of the challenge, you will have:
+- Set an intention for next 5 weeks
+- Built your first team project
+- Understood the tools you will use for class
 
 <aside>
-
-⚠️ **Make sure you have updated your Discord profile.**
-
-If not, update your profile name to your first name and last name initial (e.g. Emmy O, Ope B), add a profile picture, and a description.
-
-![discord-sidebar](https://user-images.githubusercontent.com/3818920/177379432-e2997c28-f0e8-4687-9d9b-4f4cdca0aa72.png)
-
+**Instructions** 
 </aside>
 
-## Squad Challenges: The Rules
+- These challenges are best done on a computer
+- The challenge should take you 60 - 90 minutes to complete
+- The feedback form at the end of this page indicates that you have completed the challenge. **If you do not submit the feedback form, it will be considered that you did not participate during the orientation.**
+- If you have questions or need help, post a question in the **#general** Discord channel and tag @Community Managers
 
-- In order to finish, **EVERYBODY** in your squad must complete the challenges. Remember, we are **_better together_**.
-- You should help each other! Use the squad channels in Discord.
-- These challenges are best done on a computer.
+
 
 **Let’s see which squad can finish all the challenges the quickest! 🏁**
 
-> If you have questions or need help, post a question in the **#help-python** Discord channel and tag @Emmy, @Okezie, @Lynet, or @Rob.
 
 ## Ready?
 
 ![https://media.giphy.com/media/p6qWfRJ4RxltUEmrl9/giphy.gif](https://media.giphy.com/media/p6qWfRJ4RxltUEmrl9/giphy.gif)
 
-## Leaderboard
-
-The instructors will update this as you complete challenges together.
-
-Whenever your squad finishes a challenge, one member should post a message in the “FPWP Community Orientation Leaderboard” thread in the [#general](https://discord.com/channels/866676763450933258/965672754768674866) channel with:
-
-- your squad number
-- the challenge that you completed
-
-Like this:
-
-> Hi, Squad 42 has completed challenge 1. Here's the link to our project: [link]
-
-We will update the leaderboard based on the information that is posted in the thread.
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMqY-gAKYCeaTbCCRqemM0onX2eiu_JAnLx4D7caB-rV9C-tvuI4WEsAf57YuNhq1EsAsWbCSZbPLA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-## Challenge 0: All Onboard 🚀
-
-> **Instructions:** Greet your teammates in Discord.
-
-- Introduce yourself in your squad channel.
-- Include your name, where you're based, and what interests you about the course.
-
-**Completion criteria:**
-
-- All squad members have posted a greeting (e.g. “Hi, I’m [name] from [country]”) in the squad text channel in Discord.
-
-To see the list of your squad members, go to your squad text channel, and look at the Member List panel on the right of the screen. You will see who is online in your squad.
-
-- **All squad members will have their names in the color grey.**
-- Community managers, Instructors, and Kibo Staff will show in other colors.
-
-![discord_squad.png](./community-orientation/discord_squad.png)
-
 ---
 
-## Challenge 1: About Squad Page
+## Challenge 0: Find a team ⛰️
 
-> **Instructions:** Collaborate with your squad members to build a site in Replit with info about your squad.
+> **Description:** In this challenge, you will use the [#help-web](https://discord.com/channels/866676763450933258/965767198197043220) channel in Discord to start a thread and find a team of 3.
 
-All squad members should **join the squad voice channel** to discuss what you want to include in your website.
 
-1. Select one person to [**fork this repl**](https://replit.com/@kibocurriculum/Orientation-Squad-About-Page#index.html)
+1. Open the **[#help-web](https://discord.com/channels/866676763450933258/965767198197043220)** channel in Discord
+2. Create a thread and use **'I NEED A TEAM'** as the thread name
+3. Enter a message to start the thread e.g., "Who is willing to team up for community orientation?"
+4. Once your team is full i.e., 3 students total, change your thread name to **FULL**
+
+<aside>
+     See video on how to find a team using threads
+</aside>
+
+<div style="position: relative; height: 100%; width: 100%;">
+    <iframe width="100%" height="600" src="https://www.youtube.com/embed/18JI-Ij0_Q8" title="Find a team using threads on discord" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+If you see a thread with the name **I NEED A TEAM**, it means that team is incomplete and still needs members. Go into that thread and type **'I’m available'**. Do not create a new thread. If all threads are **FULL** and you still don't have a team, create new thread using **'I NEED A TEAM'** as the name.
+
+
+In the thread where you found your team:
+
+5. Pick a team member to create a zoom meeting and share the join link - this team member will also be your **"scribe"** for today
+     - To create a zoom meeting, click [here](https://zoom.us/signin#/login) and sign in - you should already have a free account. If not, create one.
+     - After signing in, on the top right side of your screen, click on "Host". This should immediately start your zoom meeting.
+     - In the zoom meeting, click the green badge icon on the top right corner of your screen(see below). Copy the zoom meeting link and share with your team in the discord thread.
+
+![Zoom](https://user-images.githubusercontent.com/88333571/217377755-856ecbc3-c915-476d-b157-116803ed86f5.gif)
+
+6. All team members should join the zoom meeting and the scribe should share his/her screen on zoom.
+
+
+**Completion criteria:** You have found a team of 3 and all team members are on zoom.
+    
+    
+---
+
+## Challenge 1: Letter from the future ✉️✍🏾
+
+> **Description:** Imagine it's week 5 of Try Kibo. Write a message to your present self in the padlet below. Describe how you will work to make sure you successfully complete the program. Every team member should post a message
+
+>
+- Click on the + sign
+- Enter your first name and last initial in the "Subject"
+- Write your intention
+- Add an image or GIF to accompany your message(optional)
+- Click "Publish"
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/6hgur4kb7795zx3a" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
+**Completion criteria:** Each team member has posted an intention on the padlet and have read at least one other intention from another student.
+ 
+---
+
+## Challenge 2: Team Info Program👩🏾‍💻
+
+> **Description:** In this challenge, you will build a site in Replit with info about your team. Every team member should still be on Zoom
+
+
+1. While sharing screen, the team scribe should [**fork this repl**](https://replit.com/@kibocurriculum/Orientation-Squad-About-Page#index.html)
 
 <details>
 <summary><strong>Video: How to fork a Repl (click arrow to open
@@ -95,7 +98,7 @@ toggle)</strong></summary>
 2. Share link to collaborate on the Repl with your squad
 
 <details>
-<summary><strong>Video:  Create an invite link to collaborate in Replit</strong></summary>
+<summary><strong>Video:  Create an invite link to collaborate in Replit and share with team</strong></summary>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/596b765c916c4c779e0c4aa66dfea047" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -103,156 +106,39 @@ toggle)</strong></summary>
 
 3. Follow the instructions in `instructions.md`.
 
-Work together as a squad to add all the information to your site:
+Work together as a team to add all the information below to your site:
 
-- Squad information
-    - Squad number and squad name
-    - One thing that everyone in your squad has in common
-    - How your squad members want to help each other learn
-- For each squad member:
-    - Name
-    - Photo
-    - One sentence biography
-    - Why you are learning Web Foundations
+- A team name
+- One thing that everyone in teh team has in common
+- For each team member, add:
+  - First name and last initial (e.g., Aisha D, Okezie C)
+  - Photo
+  - One sentence biography
+  - Why you are learning Web Foundations
+  - One skill that you have that someone else in your team finds useful/wishes they had
 - If you complete all that, as an *optional extension*, add styles:
-    - choose a background color
-    - choose a text color
-    - choose a font family and font size
-
+  - choose a background color
+  - choose a text color
+  - choose a font family and font size
+    
+    
 At the end, your site should look similar to [**this example site**](https://squad-about-page-example.kibocurriculum.repl.co/)
 
-When you are finished, share your completed website in the **[#random](https://discord.com/channels/866676763450933258/936572023319195658)** channel in Discord. To share, copy and post the url from the address bar.
+Once the Team Info Program is done, ensure all team members have a link to the website - you will all submit that link in the next challenge.
 
-**Completion criteria:** All squad member info is shown on the webpage. The url is shared in the **[#random](https://discord.com/channels/866676763450933258/936572023319195658)** channel in Discord.
-
----
-
-## Challenge 2: Thread It 🪡🧵
-
-> **Instructions:** Use the [#help-web](https://discord.com/channels/866676763450933258/965767198197043220) channel in Discord to start a question thread
-
-Watch the clip below to learn how to create a thread in Discord.
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/0nCUVGvqeEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-1. Open the [#help-web](https://discord.com/channels/866676763450933258/965767198197043220) channel in Discord
-2. Post one question you have about web development **OR** respond to someone else’s question **in their thread**.
-
-If you ask a question:
-* Give your thread a name that summarizes the topic of your question
-* Write the details of your question in the first message
-* If someone responds to your question, you can respond back to them!
-
-If you respond to a question:
-* Respond in the thread, so that the channel doesn't get too confusing.
-
-<aside>
-
-⚠️ Be sure to post your responses **in the thread.** Do not post responses as messages in the channel. It would get too confusing!
-
-</aside>
-
-**Completion criteria:** All squad members have posted a question in a thread, or answered/commented on at least one question posted by another class member in the [#help-web](https://discord.com/channels/866676763450933258/965767198197043220) channel.
+**Completion criteria:** All team members have added their infomation in the program and it prints successfully. 
 
 ---
 
-## Challenge 3: Screenshots and URLs
+## Challenge 3: Submitting the feedback form
 
-> **Instructions:** Help each of your teammates share a screenshot and a URL in your squad channel.
-
-When you ask for help on a coding assignment, you need to share information that
-another student or an instructor can use to help you figure out what's going on.
-
-Two of the best tools for sharing that are
-
-* A screenshot of the code
-* A URL of the assignment
-
-Everyone in your squad should complete these steps individually:
-
-1. Go to your version of the [Try It: Change the
-   Color](https://replit.com/@kibocurriculum/Try-it-Change-The-Color) exercise
-   in Replit. (If you haven't completed the replit, don't worry - this is about
-   practicing asking for help in Discord)
-2. Take a **screenshot** of your code. (See below for instructions for your
-   platform)
-3. In your squad channel, post a message with the url of your version of the code and the screenshot of your code.
-
-Here’s how to take a screenshot on Windows, Mac, and Chromebook:
-
-<details>
-<summary><strong>Windows</strong></summary>
-
-Press the Windows key + Print Screen (PrtScn) key.
-
-![image](https://user-images.githubusercontent.com/1774663/178354863-64eed8e8-8787-471d-b023-794a283c3c72.png)
-
-The screenshot will be saved to the Pictures > Screenshots folder. You can drag
-and drop the picture to Discord, or click the (+) button and click "Upload a File".
-
-[See more options for taking screenshots here](https://www.businessinsider.com/how-to-screenshot-on-windows)
-
-</details>
-
-<details>
-<summary><strong>Mac</strong></summary>
-
-Press the Command key + Shift key + 4
-
-The cursor will turn into a +, and you can select the portion of the screen
-you'd like to capture. When you release the mouse, the screenshot will be taken.
-
-Screenshots will save to your desktop, and show as a thumbnail. You can drag
-and drop the picture to Discord, or click the (+) button and click "Upload a File".
-
-[See more options for taking screenshots here](https://support.apple.com/en-us/HT201361)
-
-</details>
-
-<details>
-<summary><strong>Chromebook</strong></summary>
-
-Press Shift + Ctrl + Show windows.
-
-(Or, if your Chromebook has it, press the Screenshot key)
-
-In the menu at the bottom, select Screenshot.
-
-Select an option:
-
-  * Take a full screen screenshot
-  * Take a partial screenshot
-  * Take a window screenshot
-
-Recordings and screenshots get saved to your “Downloads” folder. You can drag
-and drop the picture to Discord, or click the (+) button and click "Upload a File".
-
-[See more options for taking screenshots
-here](https://support.google.com/chromebook/answer/10474268?hl=en)
-
-</details>
-
-> ⚠️ **DO NOT** share a mobile phone picture of your laptop screen. It's difficult
-> to read the text on the screen from a mobile phone picture.
-
-**Completion criteria:** All squad members have shared a url and screenshot of their
-Decrypt Me challenge in the squad text channel.
-
----
-
-## Challenge 4: Feedback Is a Gift 🎁
-
-> **Instructions:** Once you have completed all the other challenges, submit your feedback of the Orientation session by completing the Google form.
-
-<details>
-    <summary> Open the toogle to submit your feedback on the Orientation</summary>
-        <div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScEi5k8YwTfOGue-igLOkx8Kk1JgN8DXXECQiwF_BXp82zleg/viewform?embedded=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
-</details>
+**Description:** Submit the feedback form below indicates that you have completed the challenge. **If you do not submit the feedback form, it will be considered that you did not participate during the orientation.**
 
 
+<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf62wTSH93vntqrOzuj9W5G9yVyp-N9yZstaKdmH4yNsmvF6g/viewform?embedded=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
 
 
-**Completion criteria:** All squad members have submitted their feedback of Orientation.
+**Completion criteria:** You and your team members have submitted the feedback form.
 
 ---
 
@@ -264,24 +150,26 @@ Decrypt Me challenge in the squad text channel.
 
 </aside>
 
-You’re done with orientation and all set to begin class. If you want to keep exploring Discord and hanging out, check out the Music Lounge, the [#random](https://discord.com/channels/866676763450933258/936572023319195658) channel, or the [#games](https://discord.com/channels/866676763450933258/963454071828774963) channel. Or get started on the Week 1 lessons.
+You’re done with orientation and ready to begin class. Week 1 Lesson will be released on Monday, February 13.
 
-## Who You Are (Word Cloud)
 
-These were the words you used to describe yourselves. What an awesome group!
+---
 
-![Word Cloud](https://user-images.githubusercontent.com/3818920/178545313-a017e7bb-0c2b-4580-ac6f-b35c2eff111a.png)
+## Bonus Task: Scavenger hunt - become a discord guru
 
-## Bonus: DJ 🎧
+> **Description:** You will be using Discord a lot through the program - it's a fun app, I promise! Pick at least one Discord feature that you’ll explore on your own this weekend e.g., use music lounge, play games, post a meme with the spoiler feature.
 
-> **Instructions:** Go to the Music Lounge voice channel in Discord, and use the [#music-request](https://discord.com/channels/866676763450933258/888503375233171487) channel to queue up a song to play.
-
-Feel free to hang out and hear what else is playing in the Music Lounge.
+Below are short GIFs to walk you through a few of Discord's fun channels/features
 
 <aside>
-
-Watch the clip below to learn how to request music for the Music Lounge. Details of the process are also posted as a pinned message in the [#music-request](https://discord.com/channels/866676763450933258/888503375233171487) channel.
-
+     Music Lounge - you best bet when you want to unwind 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/po5F1udSA6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+![music channel](https://user-images.githubusercontent.com/88333571/217375724-288f6fd7-d13e-4cc6-a972-bd304f930e14.gif)
+
+
+<aside>
+     Games channel for when you feel competitive. Multi-player feature is also available   
+</aside>
+
+![games](https://user-images.githubusercontent.com/88333571/217383364-8db29ae9-223d-466f-bf58-e4929b5bc940.gif)
