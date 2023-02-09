@@ -4,21 +4,21 @@
 
 [Set up for class](lessons/try-kibo-onboarding.md)
 
-<!-- [Community Orientation](lessons/community-orientation.md) -->
+[Community Orientation](lessons/community-orientation.md)
 
-<!-- [Learning Tips](learning-tips.md) -->
+[Learning Tips](learning-tips.md)
 
-<!-- [Live Classes](live-classes.md) -->
+[Live Classes](live-classes.md)
 
-<!-- [Weekly Projects](weekly-projects.md) -->
+[Weekly Projects](weekly-projects.md)
 
-<!-- [Final Project](final-project.md) -->
+[Final Project](final-project.md)
 
-<!-- [Wrapping Up](wrapping-up.md) -->
+[Wrapping Up](wrapping-up.md)
 
-<!-- ## Lessons -->
+## Lessons
 
-<!-- ### Week 1
+### Week 1
 
 - [Foundations](lessons/foundations.md)
   - [Intro to Web Development](lessons/foundations/intro-to-web-development.md)
@@ -29,11 +29,11 @@
   - [Browser Devtools](lessons/foundations/devtools.md)
   - [Practice](lessons/foundations/practice.md)
   - [Project](lessons/foundations/project.md)
-  - [Wrap Up](lessons/foundations/wrap-up.md) -->
-  <!-- - [Bonus: More HTML elements](lessons/foundations/bonus-more-html-elements.md) -->
-  <!-- - [Bonus: Static and Dynamic](lessons/bonus/static-and-dynamic-websites.md) -->
+  - [Wrap Up](lessons/foundations/wrap-up.md)
+  - [Bonus: More HTML elements](lessons/foundations/bonus-more-html-elements.md)
+  - [Bonus: Static and Dynamic](lessons/bonus/static-and-dynamic-websites.md)
 
-<!-- ### Week 2
+### Week 2
 
 - [Web Design](lessons/web-design.md)
   - [What is Web Design?](lessons/web-design/what-is-web-design.md)
@@ -45,9 +45,9 @@
   - [The Box Model](lessons/web-design/the-box-model.md)
   - [Practice](lessons/web-design/practice.md)
   - [Project](lessons/web-design/project.md)
-  - [Wrap Up](lessons/web-design/wrap-up.md) -->
+  - [Wrap Up](lessons/web-design/wrap-up.md)
 
-<!-- ### Week 3
+### Week 3
 
 - [Action and Interaction](lessons/action-and-interaction.md)
   - [Introduction to JavaScript](lessons/action-and-interaction/introduction-to-javascript.md)
@@ -56,22 +56,22 @@
   - [Events in JavaScript](lessons/action-and-interaction/responding-to-events-in-javascript.md)
   - [Practice](lessons/action-and-interaction/practice.md)
   - [Project](lessons/action-and-interaction/project.md)
-  - [Wrap Up](lessons/action-and-interaction/wrap-up.md) -->
+  - [Wrap Up](lessons/action-and-interaction/wrap-up.md)
 
-<!-- ### Week 4
+### Week 4
 
 - [Layout and Multimedia](lessons/layout.md)
   - [Layout](lessons/layout/layout.md)
-  - [Flexbox](lessons/layout/flexbox.md) -->
-  <!-- - [CSS Grid](lessons/layout/grid.md) -->
-<!--   - [Positioning](lessons/layout/positioning.md)
+  - [Flexbox](lessons/layout/flexbox.md)
+  - [CSS Grid](lessons/layout/grid.md)
+  - [Positioning](lessons/layout/positioning.md)
   - [Multimedia Elements](lessons/bonus/multimedia-layout/multimedia-html-elements.md)
   - [Practice](lessons/layout/practice.md)
-  - [Wrap Up](lessons/layout/wrap-up.md) -->
-  <!-- - [Bonus: More styling](lessons/bonus/multimedia-layout/bonus-more-styling.md) -->
-  <!-- - [Bonus: Interactive Elements](lessons/bonus/multimedia-layout/bonus-interactive-elements.md) -->
+  - [Wrap Up](lessons/layout/wrap-up.md)
+  - [Bonus: More styling](lessons/bonus/multimedia-layout/bonus-more-styling.md)
+  - [Bonus: Interactive Elements](lessons/bonus/multimedia-layout/bonus-interactive-elements.md)
 
-<!-- ### Week 5
+### Week 5
 
   - [Publishing and Sharing](lessons/publishing-and-sharing.md)
     - [How the Internet Works](lessons/publishing-and-sharing/how-the-internet-works-again.md)
@@ -79,5 +79,5 @@
     - [Domains and Hosting](lessons/publishing-and-sharing/domains-and-hosting.md)
     - [Sharing your work](lessons/publishing-and-sharing/sharing-your-work.md)
     - [Practice](lessons/publishing-and-sharing/practice.md)
-    - [Wrap Up](lessons/publishing-and-sharing/wrap-up.md) -->
-    <!-- - [Bonus: More about DNS](lessons/publishing-and-sharing/bonus-dns.md) -->
+    - [Wrap Up](lessons/publishing-and-sharing/wrap-up.md)
+    - [Bonus: More about DNS](lessons/publishing-and-sharing/bonus-dns.md)
