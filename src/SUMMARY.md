@@ -6,7 +6,7 @@
 
 [Community Orientation](lessons/community-orientation.md)
 
-[Learning Tips](learning-tips.md)
+<!-- [Learning Tips](learning-tips.md)
 
 [Live Classes](live-classes.md)
 
@@ -16,9 +16,9 @@
 
 [Wrapping Up](wrapping-up.md)
 
-## Lessons
+## Lessons -->
 
-### Week 1
+<!-- ### Week 1
 
 - [Foundations](lessons/foundations.md)
   - [Intro to Web Development](lessons/foundations/intro-to-web-development.md)
@@ -80,4 +80,5 @@
     - [Sharing your work](lessons/publishing-and-sharing/sharing-your-work.md)
     - [Practice](lessons/publishing-and-sharing/practice.md)
     - [Wrap Up](lessons/publishing-and-sharing/wrap-up.md)
-    - [Bonus: More about DNS](lessons/publishing-and-sharing/bonus-dns.md)
+    - [Bonus: More about DNS](lessons/publishing-and-sharing/bonus-dns.md) -->
+
