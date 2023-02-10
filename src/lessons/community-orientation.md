@@ -1,22 +1,20 @@
 # Community orientation
 
-The community orientation challenges are compusory for all students in the program. By the end of the challenge, you will have:
+The community orientation challenges are required for all students in the program. By the end of the challenge, you will have:
 - Set an intention for next 5 weeks
 - Built your first team project
 - Understood the tools you will use for class
 
-<aside>
-**Instructions** 
-</aside>
+## **Instructions** 
 
 - These challenges are best done on a computer
 - The challenge should take you 60 - 90 minutes to complete
-- The feedback form at the end of this page indicates that you have completed the challenge. **If you do not submit the feedback form, it will be considered that you did not participate during the orientation.**
+- The feedback form at the end of this page indicates that you have completed the challenge. **You must submit the feedback form to receive credit for attending orientation.**
 - If you have questions or need help, post a question in the **#general** Discord channel and tag @Community Managers
 
 
 
-**Let’s see which squad can finish all the challenges the quickest! 🏁**
+**Let’s see which team can finish all the challenges the quickest! 🏁**
 
 
 ## Ready?
@@ -27,16 +25,16 @@ The community orientation challenges are compusory for all students in the progr
 
 ## Challenge 0: Find a team ⛰️
 
-> **Description:** In this challenge, you will use the [#help-web](https://discord.com/channels/866676763450933258/965767198197043220) channel in Discord to start a thread and find a team of 3.
+> **Description:** In this challenge, you will use the [#help-web](https://discord.com/channels/866676763450933258/965767198197043220) channel in Discord to start a message thread and find a team of 3.
 
 
 1. Open the **[#help-web](https://discord.com/channels/866676763450933258/965767198197043220)** channel in Discord
 2. Create a thread and use **'I NEED A TEAM'** as the thread name
 3. Enter a message to start the thread e.g., "Who is willing to team up for community orientation?"
-4. Once your team is full i.e., 3 students total, change your thread name to **FULL**
+4. Once your team has 3 students total, change your thread name to **FULL**
 
 <aside>
-     See video on how to find a team using threads
+     See the video on how to find a team using threads
 </aside>
 
 <div style="position: relative; height: 100%; width: 100%;">
@@ -48,10 +46,10 @@ If you see a thread with the name **I NEED A TEAM**, it means that team is incom
 
 In the thread where you found your team:
 
-5. Pick a team member to create a zoom meeting and share the join link - this team member will also be your **"scribe"** for today
+5. Pick a team member to create a zoom meeting and share the join link - this team member will also be your **"scribe"** for today.
      - To create a zoom meeting, click [here](https://zoom.us/signin#/login) and sign in - you should already have a free account. If not, create one.
      - After signing in, on the top right side of your screen, click on "Host". This should immediately start your zoom meeting.
-     - In the zoom meeting, click the green badge icon on the top right corner of your screen(see below). Copy the zoom meeting link and share with your team in the discord thread.
+     - In the zoom meeting, click the green badge icon on the top left corner of your screen (see below). Copy the zoom meeting link and share with your team in the discord thread.
 
 ![Zoom](https://user-images.githubusercontent.com/88333571/217377755-856ecbc3-c915-476d-b157-116803ed86f5.gif)
 
@@ -65,18 +63,18 @@ In the thread where you found your team:
 
 ## Challenge 1: Letter from the future ✉️✍🏾
 
-> **Description:** Imagine it's week 5 of Try Kibo. Write a message to your present self in the padlet below. Describe how you will work to make sure you successfully complete the program. Every team member should post a message
+> **Description:** Imagine it's week 5 of Try Kibo. Write a message to your present self in the padlet below. Describe how you will work to make sure you successfully complete the program. Every team member should post a message.
 
 >
 - Click on the + sign
 - Enter your first name and last initial in the "Subject"
 - Write your intention
-- Add an image or GIF to accompany your message(optional)
+- Add an image or GIF to accompany your message (optional)
 - Click "Publish"
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/6hgur4kb7795zx3a" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
-**Completion criteria:** Each team member has posted an intention on the padlet and have read at least one other intention from another student.
+**Completion criteria:** Each team member has posted a letter on the padlet and has read at least one other intention from another student.
  
 ---
 
@@ -104,7 +102,7 @@ toggle)</strong></summary>
 
 </details>
 
-3. Follow the instructions in `instructions.md`.
+3. Follow the instructions in the file `instructions.md`.
 
 Work together as a team to add all the information below to your site:
 
@@ -132,8 +130,7 @@ Once the Team Info Program is done, ensure all team members have a link to the w
 
 ## Challenge 3: Submitting the feedback form
 
-**Description:** Submit the feedback form below indicates that you have completed the challenge. **If you do not submit the feedback form, it will be considered that you did not participate during the orientation.**
-
+**Description:** Submit the feedback form below indicates that you have completed the challenge. **You must submit the feedback form to receive credit for attending orientation.**
 
 <div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf62wTSH93vntqrOzuj9W5G9yVyp-N9yZstaKdmH4yNsmvF6g/viewform?embedded=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
 
@@ -150,7 +147,7 @@ Once the Team Info Program is done, ensure all team members have a link to the w
 
 </aside>
 
-You’re done with orientation and ready to begin class. Week 1 Lesson will be released on Monday, February 13.
+You’re done with orientation and ready to begin class. The Week 1 Lesson will be released on Monday, February 13.
 
 
 ---
