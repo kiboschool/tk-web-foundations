@@ -1,6 +1,6 @@
 # Final project preparation
 
-Your final project (due on May 27th) will be a website you create with a team.
+Your final project (due on March 17) will be a website you create with a team.
 
 <aside>
 

@@ -1,5 +1,8 @@
 # Project: Content Gallery
 
+<!-- TODO: Adjust Due Date -->
+**Due date: Sunday, March 5**
+
 <aside>
 
 👥 **This is a team project**. Find teammates in Discord, communicate with them,
