@@ -308,9 +308,11 @@ There are two kinds of lists. Unordered Lists `<ul>` have dots before each item.
 
 ## Practice: Use the basic elements
 
-> 👉🏿 Your turn! Use these tags to mark up the page.
+> 👉🏿 Your turn! Click the link below to attempt the practice exercise on Replit.
 
-To complete this, try to include:
+> [https://replit.com/team/tk8-web-foundations/Practice-Use-the-basic-elements](https://replit.com/team/tk8-web-foundations/Practice-Use-the-basic-elements)
+
+To complete this, try to include these tags:
 
 - a paragraph
 - a link
@@ -322,7 +324,3 @@ To complete this, try to include:
 - Don't worry about the content of the page, it can just say "This is a heading" for the headings, and "this is a link" for the links.
 
 Re-read the lesson or look up the elements using Google if you get stuck.
-
-🔑 Click the link below to complete the exercise on Replit
-
-[https://replit.com/team/tk8-web-foundations/Practice-Use-the-basic-elements](https://replit.com/team/tk8-web-foundations/Practice-Use-the-basic-elements)

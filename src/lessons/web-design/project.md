@@ -1,7 +1,7 @@
 # Project: Article Styling
 
 <!-- TODO: Adjust Due Date -->
-**Due date: Sunday, July 24**
+**Due date: Sunday, February 26**
 
 <aside>
 

@@ -4,7 +4,7 @@ Let's dive deeper into CSS selectors and properties.
 
 <aside>
 
-📺 Check out this [Code.org](http://Code.org) video on CSS
+📺 Check out [this Code.org](http://Code.org) video on CSS
 
 </aside>
 

@@ -1,5 +1,8 @@
 # Project: Your “CS Professor” Page
 
+<!-- TODO: Adjust Due Date -->
+**Due date: Sunday, February 19**
+
 <aside>
 
 **👥 This is a team project.**
@@ -9,7 +12,7 @@
 Find a teammate (or two teammates, for a maximum of three students per team)
 and schedule time to work on the project together.
 
-If you have trouble finding a partner, or have trouble with the project, use the **#help-web** channel in Discord. You can work with anyone, you are not restricted to your squad. You are also allowed to work on your own, but it’s good practice to work together.
+If you have trouble finding a partner, or have trouble with the project, use the **#help-web** channel in Discord. You can work as a team or on your own, but working together is good practice for being on a professional team of developers.
 
 You can work together by sharing your screen, or by creating a new replit and sharing the join link with your teammate. You should each submit a copy of the project, but it can be copied from your teammate’s version (**which you all created together**!).
 
