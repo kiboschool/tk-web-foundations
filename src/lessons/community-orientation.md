@@ -83,7 +83,7 @@ In the thread where you found your team:
 > **Description:** In this challenge, you will build a site in Replit with info about your team. Every team member should still be on Zoom
 
 
-1. While sharing screen, the team scribe should [**fork this repl**](https://replit.com/@kibocurriculum/Orientation-Squad-About-Page#index.html)
+1. While sharing screen, the team scribe should [**fork this repl**](https://replit.com/@kibocurriculum/Try-Kibo-WF-Orientation-About-Page)
 
 <details>
 <summary><strong>Video: How to fork a Repl (click arrow to open
@@ -107,7 +107,7 @@ toggle)</strong></summary>
 Work together as a team to add all the information below to your site:
 
 - A team name
-- One thing that everyone in teh team has in common
+- One thing that everyone in the team has in common
 - For each team member, add:
   - First name and last initial (e.g., Aisha D, Okezie C)
   - Photo
