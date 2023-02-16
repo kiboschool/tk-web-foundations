@@ -61,7 +61,7 @@ In the HTML file, we’ll link to `style.css` using the `<link>` tag:
 
 - The `href` attribute of the `link` says where to find the CSS file
 - The `rel` attribute of the `link` says what the relationship is to the page — for us, always `stylesheet`.
-- The `type` attribute of the `link` says that the kind of file it is — always `text/css` for us.
+- The `type` attribute of the `link` says what kind of file it is — always `text/css` for us.
 
 ## Practice: Link the stylesheet
 
