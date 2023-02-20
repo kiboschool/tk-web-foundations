@@ -33,7 +33,7 @@
   - [Bonus: More HTML elements](lessons/foundations/bonus-more-html-elements.md)
   - [Bonus: Static and Dynamic](lessons/bonus/static-and-dynamic-websites.md)
 
-<!-- ### Week 2
+### Week 2
 
 - [Web Design](lessons/web-design.md)
   - [What is Web Design?](lessons/web-design/what-is-web-design.md)
@@ -45,7 +45,7 @@
   - [The Box Model](lessons/web-design/the-box-model.md)
   - [Practice](lessons/web-design/practice.md)
   - [Project](lessons/web-design/project.md)
-  - [Wrap Up](lessons/web-design/wrap-up.md) -->
+  - [Wrap Up](lessons/web-design/wrap-up.md)
 
 <!-- ### Week 3
 
