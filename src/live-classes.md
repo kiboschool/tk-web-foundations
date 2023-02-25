@@ -9,7 +9,7 @@ Video recordings, slides, and links for the exercises will be posted after the c
 | Week | Topic                  | Slides     | Class A Video | Class B Video | Exercise | Survey       |
 | ---- | ---------------------- | ---------- | ------------- | ------------- | -------- | ------------ |
 | 1    | Foundations            | [View][s1] | [View][v1a]   | [View][v1b]   |          | [View][sur1] |
-| 2    | Web Design             | [View][s2] |               |               |          | [View][sur2] |
+| 2    | Web Design             | [View][s2] | [View][v2a]   | [View][v2b]   |          | [View][sur2] |
 | 3    | Action and Interaction | [View][s3] |               |               |          | [View][sur3] |
 | 4    | Layout                 | [View][s4] |               |               |          | [View][sur4] |
 | 5    | Publishing and Sharing |            |               |               |          |              |
@@ -23,6 +23,8 @@ recording of the class and complete the activity or exercise from the class so t
 [s4]: https://docs.google.com/presentation/d/1du7uMS-UeoQ7ZCBN9641v19jtaTVCTLimaHZQzw6HTI/edit?usp=sharing
 [v1a]: https://youtu.be/P5or2M-ZtrI
 [v1b]: https://www.youtube.com/watch?v=xugTElKajzM
+[v2a]: https://youtu.be/rdB9HB9XP0U
+[v2b]: https://youtu.be/JXTkAo8a1Pc
 [e1]: https://www.youtube.com/embed/FdenvaWdkIA?start=1915
 [e2]: https://youtu.be/RxELqwNp_Kg?t=1828
 [e3]: https://youtu.be/TAXNkbas62g?t=1070
