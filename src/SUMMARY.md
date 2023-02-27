@@ -47,7 +47,7 @@
   - [Project](lessons/web-design/project.md)
   - [Wrap Up](lessons/web-design/wrap-up.md)
 
-<!-- ### Week 3
+### Week 3
 
 - [Action and Interaction](lessons/action-and-interaction.md)
   - [Introduction to JavaScript](lessons/action-and-interaction/introduction-to-javascript.md)
@@ -56,7 +56,7 @@
   - [Events in JavaScript](lessons/action-and-interaction/responding-to-events-in-javascript.md)
   - [Practice](lessons/action-and-interaction/practice.md)
   - [Project](lessons/action-and-interaction/project.md)
-  - [Wrap Up](lessons/action-and-interaction/wrap-up.md) -->
+  - [Wrap Up](lessons/action-and-interaction/wrap-up.md)
 
 <!-- ### Week 4
 
