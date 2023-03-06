@@ -58,7 +58,7 @@
   - [Project](lessons/action-and-interaction/project.md)
   - [Wrap Up](lessons/action-and-interaction/wrap-up.md)
 
-<!-- ### Week 4
+### Week 4
 
 - [Layout and Multimedia](lessons/layout.md)
   - [Layout](lessons/layout/layout.md)
@@ -69,7 +69,7 @@
   - [Practice](lessons/layout/practice.md)
   - [Wrap Up](lessons/layout/wrap-up.md)
   - [Bonus: More styling](lessons/bonus/multimedia-layout/bonus-more-styling.md)
-  - [Bonus: Interactive Elements](lessons/bonus/multimedia-layout/bonus-interactive-elements.md) -->
+  - [Bonus: Interactive Elements](lessons/bonus/multimedia-layout/bonus-interactive-elements.md)
 
 <!-- ### Week 5
 
