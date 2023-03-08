@@ -12,9 +12,9 @@
 
 [Weekly Projects](weekly-projects.md)
 
-<!-- [Final Project](final-project.md)
+[Final Project](final-project.md)
 
-[Wrapping Up](wrapping-up.md) -->
+[Wrapping Up](wrapping-up.md)
 
 ## Lessons
 
