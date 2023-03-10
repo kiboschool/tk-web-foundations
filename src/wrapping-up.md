@@ -1,8 +1,6 @@
-# Wrapping up
+# Wrapping up: Final steps for Web Foundations
 
 <!-- TODO: Update dates, links, instructions -->
-
-_Final Steps for Web Foundations_
 
 ---
 
@@ -16,7 +14,7 @@ To earn your certificate, **you need to complete the following.**
 
 - Complete all the projects from Weeks 1 - 3, and submit in Replit. (Note: these are the assignments on the “Project” pages of each lesson)
 - Complete the **[Final Project](final-project.md)** and **submit the form**
-- Complete the **[Web Foundation Program Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSfFy1PHCgCMM4icSVw-kxVp7Ua5gIVkxFK3znfXHaoIu7uSkQ/viewform?usp=sf_link)**
+- Complete the <a href="https://forms.gle/PboqmgCxRCjBvc5L9" target="_blank">**Web Foundations Feedback Survey**</a>
 
 ## Share your experience
 
