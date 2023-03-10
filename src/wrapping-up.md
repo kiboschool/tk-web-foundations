@@ -7,9 +7,7 @@ Congratulations on ***almost*** finishing your Web Foundations journey. Below is
 
 ## Earn Your Web Foundations Certificate
 
-You have worked really hard! We want to recognize that work with a certificate you can share digitally.
-
-To earn your certificate, **you need to complete the following.**
+You have worked really hard and we want to recognize that work with a certificate you can share digitally. To earn your certificate, **you need to complete the following by Friday, Mar 17**
 
 - Complete all the projects from Weeks 1 - 3, and submit in Replit. (Note: these are the assignments on the “Project” pages of each lesson)
 - Complete the **[Final Project](final-project.md)** and **submit the form**
