@@ -39,8 +39,6 @@ We love sharing alumni stories on social media, and need your permission to do s
 
 ![1](https://user-images.githubusercontent.com/88333571/224418940-9a507166-c93b-4a4c-9851-7039c6b0db77.png)
 
----
-
 ## Stay in the Kibo family
 
 **Stay in Discord:** We will be adding you to our Discord alumni channel. You'll join fellow Kibo alums, stay connected with your peers, and be invited to more community events like the fireside chat.
@@ -53,8 +51,8 @@ We love sharing alumni stories on social media, and need your permission to do s
 
 This experience has been better by the efforts of so many people, including your peers. Take a minute to write and read notes of gratitude:
 
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/try-kibo-feb-2023-gratitude-board-oxd9ef5vzjaommyo" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
----
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4;margin-top:30px;"><iframe src="https://padlet.com/curriculumpad/try-kibo-feb-2023-gratitude-board-oxd9ef5vzjaommyo" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
 
 ## Keep coding
 
@@ -66,15 +64,15 @@ Remember that programming is a long journey and what matters is to learn well, n
     - [Shay Howe’s Learn HTML and CSS](https://learn.shayhowe.com/html-css/)
     - [FreeCodeCamp’s Responsive Web Design Course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
-### Apply to Kibo's degree program
+### Apply to Kibo's Computer Science degree program
 
 ![Mar 2023 Degree Promo - Twitter](https://user-images.githubusercontent.com/88333571/224420008-37fb778c-c2d3-4eee-999c-760acd5872ac.png)
 
-Kibo just launched application for its 3-year BSc in Computer Science🎓. 
+Kibo has opened applications for its 3-year BSc degree program in Computer Science🎓. 
 
-In Oct 2022, we launched the <a href="https://www.linkedin.com/feed/update/urn:li:activity:6982627519971643392" target = "_blank">founding class </a> and for this class, we are looking for students in Nigeria (Abeokuta, Ibadan, Lagos), Ghana (Accra, Kumasi), and Kenya (Nairobi) who are ready to become world-class technologists! If you liked this class, and want to learn much more, consider applying to join the Bachelor's Degree program.
+In October 2022, we launched the <a href="https://www.linkedin.com/feed/update/urn:li:activity:6982627519971643392" target = "_blank">founding class </a> for students in Nigeria (Abeokuta, Ibadan, Lagos), Ghana (Accra, Kumasi), and Kenya (Nairobi) to transform them into world-class technologists! If you enjoyed Try Kibo and want to learn much more, consider applying to join Kibo's Bachelor's Degree program.
 
-Learn more and apply here <a href="https://kibo.school/degree/" target="_blank">here </a>
+Learn more and <a href="https://kibo.school/degree/" target="_blank">apply here </a>
 
 ---
 
