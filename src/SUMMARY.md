@@ -71,7 +71,7 @@
   - [Bonus: More styling](lessons/bonus/multimedia-layout/bonus-more-styling.md)
   - [Bonus: Interactive Elements](lessons/bonus/multimedia-layout/bonus-interactive-elements.md)
 
-<!-- ### Week 5
+### Week 5
 
   - [Publishing and Sharing](lessons/publishing-and-sharing.md)
     - [How the Internet Works](lessons/publishing-and-sharing/how-the-internet-works-again.md)
@@ -80,5 +80,5 @@
     - [Sharing your work](lessons/publishing-and-sharing/sharing-your-work.md)
     - [Practice](lessons/publishing-and-sharing/practice.md)
     - [Wrap Up](lessons/publishing-and-sharing/wrap-up.md)
-    - [Bonus: More about DNS](lessons/publishing-and-sharing/bonus-dns.md) -->
+    - [Bonus: More about DNS](lessons/publishing-and-sharing/bonus-dns.md)
 
