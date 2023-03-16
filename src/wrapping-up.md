@@ -50,7 +50,8 @@ We love sharing alumni stories on social media, and need your permission to do s
 
 **Stay in Discord:** We will be adding you to our Discord alumni channel. You'll join fellow Kibo alums, stay connected with your peers, and be invited to more community events like the fireside chat.
 
-**Alumni Newsletter:** We will send regular updates about what the Kibo family is up to. If you have a story you’d like to share with the Kibo community, let us know!
+**Alumni Newsletter:** We will send regular updates about what the Kibo family is up to. If you have a story you’d like to share with the Kibo community, let us know! 
+
 ---
 
 ## Share gratitude
