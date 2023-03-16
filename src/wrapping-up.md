@@ -1,8 +1,5 @@
 # Wrapping up: Final steps for Web Foundations
 
-
----
-
 Congratulations on ***almost*** finishing your Web Foundations journey. Below is what you need to do to finish strong.
 
 ## Earn Your Web Foundations Certificate
@@ -12,6 +9,16 @@ You have worked really hard and we want to recognize that work with a certificat
 - Complete all the projects from Weeks 1 - 3, and submit in Replit. (Note: these are the assignments on the “Project” pages of each lesson)
 - Complete the **[Final Project](final-project.md)** and **submit the form**
 - Complete the <a href="https://forms.gle/PboqmgCxRCjBvc5L9" target="_blank">**Web Foundations Feedback Survey**</a>
+
+### Apply to Kibo's Computer Science degree program
+
+![Mar 2023 Degree Promo - Twitter](https://user-images.githubusercontent.com/88333571/224420008-37fb778c-c2d3-4eee-999c-760acd5872ac.png)
+
+Kibo has opened applications for its 3-year BSc degree program in Computer Science🎓. 
+
+In October 2022, we launched the <a href="https://www.linkedin.com/feed/update/urn:li:activity:6982627519971643392" target = "_blank">founding class </a> for students in Nigeria (Abeokuta, Ibadan, Lagos), Ghana (Accra, Kumasi), and Kenya (Nairobi) to transform them into world-class technologists! If you enjoyed Try Kibo and want to learn much more, consider applying to join Kibo's Bachelor's Degree program.
+
+Learn more and <a href="https://kibo.school/degree/" target="_blank">apply here </a>
 
 ## Share your experience
 
@@ -44,7 +51,6 @@ We love sharing alumni stories on social media, and need your permission to do s
 **Stay in Discord:** We will be adding you to our Discord alumni channel. You'll join fellow Kibo alums, stay connected with your peers, and be invited to more community events like the fireside chat.
 
 **Alumni Newsletter:** We will send regular updates about what the Kibo family is up to. If you have a story you’d like to share with the Kibo community, let us know!
-
 ---
 
 ## Share gratitude
@@ -63,18 +69,6 @@ Remember that programming is a long journey and what matters is to learn well, n
     - [Interneting Is Hard](https://www.internetingishard.com/)
     - [Shay Howe’s Learn HTML and CSS](https://learn.shayhowe.com/html-css/)
     - [FreeCodeCamp’s Responsive Web Design Course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
-
-### Apply to Kibo's Computer Science degree program
-
-![Mar 2023 Degree Promo - Twitter](https://user-images.githubusercontent.com/88333571/224420008-37fb778c-c2d3-4eee-999c-760acd5872ac.png)
-
-Kibo has opened applications for its 3-year BSc degree program in Computer Science🎓. 
-
-In October 2022, we launched the <a href="https://www.linkedin.com/feed/update/urn:li:activity:6982627519971643392" target = "_blank">founding class </a> for students in Nigeria (Abeokuta, Ibadan, Lagos), Ghana (Accra, Kumasi), and Kenya (Nairobi) to transform them into world-class technologists! If you enjoyed Try Kibo and want to learn much more, consider applying to join Kibo's Bachelor's Degree program.
-
-Learn more and <a href="https://kibo.school/degree/" target="_blank">apply here </a>
-
----
 
 # **Thank you! ✨**
 
