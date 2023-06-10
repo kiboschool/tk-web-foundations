@@ -4,14 +4,15 @@
 
 In previous lessons, you learned how HTML and CSS can be combined to build cool websites. This week, we'll shift focus to JavaScript, and how to make your site interactive.
 
-JavaScript is a different kind of language than HTML and CSS. It's more like Python - it runs step by step, instead of representing things on the page (HTML) or selectors and styles to apply (CSS).
+JavaScript is a different kind of language than HTML and CSS. It runs step by step, instead of representing things on the page (HTML) or selectors and styles to apply (CSS).
 
 ## Learning Outcomes
 
 After this week, you will be able to:
 
 - Use the console to experiment with JavaScript on a page
-- Write JavaScript to make changes on the page in response to user actions
+- Create Javascript functions to perform common tasks
+- Update page data using Javascript
 
 ## Overview
 
