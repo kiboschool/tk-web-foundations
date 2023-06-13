@@ -5,7 +5,7 @@
 
 <aside>
 
-<!-- TODO: Replace video -->
+<!-- COURSE START TODO: Record and replace video links with new videos-->
 
 📺 Watch this welcome video from your instructor, Trevor.
 
@@ -26,8 +26,8 @@ The course culminates in a project where you'll create a website of your own des
 ## Course Overview
 
 * Week 1: Foundations
-* Week 2: Web Design
-* Week 3: JavaScript
+* Week 2: Javascript
+* Week 3: Javascript and the Page
 * Week 4: Layout and Multimedia
 * Week 5: Review and Final Project
 
@@ -59,7 +59,7 @@ practice problems included in the course.
 
 ## Program schedule
 
-<!-- TODO: Replace Program schedule -->
+<!-- COURSE START TODO: Replace Program schedule -->
 
 Below is the overall schedule for the program. Each day, your community managers will post a "Daily Peak" in Discord to share events for the day.
 

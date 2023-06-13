@@ -9,3 +9,6 @@ title = "Try Kibo: Web Foundations"
 build-dir = "output"
 create-missing = false
 use-default-preprocessors = false
+
+[output.html]
+default-theme = "light"

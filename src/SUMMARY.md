@@ -1,5 +1,7 @@
 # Web Foundations
 
+<!-- WEEKLY TODO: Release the upcoming weeks' lessons -->
+
 [Welcome!](welcome.md)
 
 [Set up for class](lessons/try-kibo-onboarding.md)
@@ -33,7 +35,7 @@
   - [Bonus: More HTML elements](lessons/foundations/bonus-more-html-elements.md)
   - [Bonus: Static and Dynamic](lessons/bonus/static-and-dynamic-websites.md)
 
-### Week 3
+### Week 2
 
 - [Action and Interaction](lessons/action-and-interaction.md)
   - [Introduction to JavaScript](lessons/action-and-interaction/introduction-to-javascript.md)
@@ -43,7 +45,8 @@
   - [Practice](lessons/action-and-interaction/practice.md)
   - [Project](lessons/action-and-interaction/project.md)
   - [Wrap Up](lessons/action-and-interaction/wrap-up.md)
-### Week 2
+
+### Week 3
 
 - [Web Design](lessons/web-design.md)
   - [What is Web Design?](lessons/web-design/what-is-web-design.md)
