@@ -11,7 +11,7 @@ As you’ve heard lots of times by now, HTML is for the content and structure of
 
 You’ll learn a little bit of JavaScript in the next few lessons, enough to add some basic interactivity to your pages. There’s way more JavaScript to learn later, which we aren’t covering here. After this course, you can find other resources to pursue further learning in JavaScript.
 
-JavaScript is also **confusing**. Don’t be surprised if you get stuck on the syntax or logic. Ask for help!
+JavaScript can also be **confusing**. Don’t be surprised if you get stuck on the syntax or logic. Ask your classmates and instructors for help!
 
 </aside>
 
@@ -19,9 +19,9 @@ JavaScript is also **confusing**. Don’t be surprised if you get stuck on the s
 
 JavaScript is a different kind of language than HTML and CSS.
 
-HTML and CSS happen “all at once”. The browser shows the whole HTML page, with all the styles applied. The order of elements in HTML determines the structure of page content, and the order of CSS determines precedence, but there is no notion of “time”.
+HTML and CSS happen “all at once”. When the web browser loads it shows the whole HTML page, with all the styles applied. The order of HTML elements determines the structure of page content, and the order of CSS determines which styles are applied, but there is no idea of “time”.
 
-JavaScript happens step by step. Each line runs, one after the other. Instead of thinking in terms of the structure of the page, instead you think about steps for the computer to follow, like a recipe for cooking a meal.
+JavaScript happens step by step. Like a recipe for cooking a meal. Each line "runs", one after the other. Instead of thinking of the structure of the page, think about Javascript as steps for the computer to follow. 
 
 ### JavaScript in 14 minutes
 
