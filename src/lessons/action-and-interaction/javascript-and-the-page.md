@@ -1,6 +1,6 @@
 # JavaScript and the Page
 
-JavaScript and Python have similar capabilities. So, why use JavaScript at all? Well, there are a few different reasons people might give, but one key reason is that the _browser_ understands JavaScript.
+JavaScript has similarities to other programming languages. So, why use JavaScript at all? Well, there are a few different reasons people might give, but one key reason is that the _browser_ understands JavaScript.
 
 When you include JavaScript on a webpage, your code has access to the elements on the page, and it can add, change, or remove them. JS can make things happen on the page!
 
@@ -12,7 +12,7 @@ This lesson introduces some of the ways JS can interact with your HTML elements.
 
 As you’ve learned, webpages are made of HTML Elements. For JavaScript to act on the page, it has to be able to interact with those elements.
 
-In the console, copy and paste the following snippet, then hit Enter:
+In the console, copy and paste the following code snippet, then hit Enter:
 
 ```javascript
 document.querySelector('h1.menu-title')

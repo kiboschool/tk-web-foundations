@@ -1,35 +1,50 @@
 # JavaScript Syntax
 
-JavaScript has many of the same features as other programming languages, like Python. In this lesson, you'll see a quick tour of those features.
-
-> This lesson assumes that you are coming to JavaScript with some experience writing code in Python. It attempts to translate some of the concepts and syntax you're familiar with from Python into their JS equivalents.
+The syntax of a spoken language defines the correct order and arrangement of words. JavaScript's syntax has many of the same features as other programming languages. In this lesson, you'll see a quick tour of those features.
 
 ## Basics and Data Types
 
-JavaScript evaluates statements line by line.  For many of the basics, the syntax is very similar to Python.
+JavaScript evaluates statements one line at a time.
 
-* **Numbers** are represented by typing them literally, like `15` or `-3.14`
-* **Strings** are enclosed in single or double quotes, like `"hello"` or `'world'`
-* **Lists** are created and accessed using square brackets `[1,2,3]` and `numbers[0]`. (Lists are called 'Arrays' in JavaScript).
+* **Numbers** are represented by typing them literally, like `15` or `-3.14`.
+* **Strings** are letters or other characters enclosed in single or double quotes, like `"hello"` or `'world'`.
+* **Arrays** are lists created using square brackets `[1,2,3]` and items inside of the array are accessed using square brackets`numbers[1]`.
+
+## Keywords
+
+Javascript reserves some special words that are used to do specific things. Each of these **keywords** has rules defining how they're allowed to be written. When we don't follow these rules, Javascript will show us helpful error messages to point out the problems. For example, `let for = 0` shows us the error. 
+
+![Javascript Keyword Error](actions/keyword_error.png)
+
+Some examples of Javascript keywords are `let` `const` `if` `for` `function` and `else`, although there are many others.
 
 ## Comments
 
-* Python comments start with `#`, JavaScript comments start with `//`.
-* JavaScript also allows multiline comments, starting with `/*` and ending with `*/`
+* JavaScript comments allow you to describe your code in plain language, or disable code from running.
+* Single-line comments start with `//`.
+* Multi-line comments start with `/*` and end with `*/`, and will disable everything between them.
 
 ```js
-// This is a JavaScript comment
-/* This is a JS comment
-that can go across multiple lines
-until the end of the comment
+// This is a single line JavaScript comment
+
+/* This is a
+mutliple line
+Javascript comment
 */
+```
+
+Normally writing `melon pizza` would show an error message. Writing it in a comment will cause Javascript to skip the comment and continue running the code that comes after it.
+```js
+alert("Hello, world! My favorite pizza is ")
+// melon pizza
+console.log("Pepperoni")
 ```
 
 ## Variables
 
-Variables play the same role in JavaScript and Python. They are temporary holders of data that you can name and then reuse later in your program.
+Variables are temporary holders of data that you can name and then reuse later in your program.
 
-The syntax is slightly different. In JavaScript, you have to use a keyword before your variable:
+In JavaScript, you have to use a keyword before your variable name to define it:
 
 ```js
 let x = 10
@@ -37,25 +52,24 @@ let name = "Wasiu"
 let numbers = [1,2,3]
 ```
 
-There are two other keywords (`var` and `const`) that also work for creating variables that behave slightly differently, but for now you should be okay just using `let`.
+There are two other keywords (`var` and `const`) that also create variables that behave slightly differently, but for now you should be okay just using `let`.
 
 ## Conditions
 
-Like Python, JS uses the keyword `if` for conditional statements. However, the syntax for is a bit different:
+JS uses the keyword `if` for conditional statements. If the condition evaluates to true, it will run the lines between the curly brackets. If the condition evaluates to false, it will skip those lines:
 
 ```js
+let x = 75
 if (x < 100) {
   console.log("it was less than one hundred")
-} else {
-  console.log("it was one hundred or more")
 }
 ```
 
-The condition is wrapped in parentheses `()`, and the statements are wrapped in curly braces `{}`. There is no colon (`:`) after the condition, like there would be in Python.
+The condition is wrapped in parentheses `()`, and the statement to be run is wrapped in curly braces `{}`. This `console.log` will be run because the condition `(x is less than 75)` is true.
 
 ## Loops
 
-JavaScript can loop through an array using a similar syntax to how Python can loop through a List.
+JavaScript can loop through an array (also known as a list) to perform the same actions on every element inside of the array. 
 
 ```js
 let numbers = [1,2,3]
@@ -66,25 +80,21 @@ for (let number in numbers) {
 
 Like for conditional statements, JavaScript wraps the initialization in parens `()` and the body of the loop in curly braces `{}`.
 
-Unlike Python, JavaScript does not have the `range` function. The syntax for looping over a range is much uglier: the three-statement for loop.
-
-Here's an example, looping from 1 to 99.
-
-```js
-for (let i = 0; i < 100; i++) {
-  console.log(i)
-}
-```
 
 ## Functions
 
-As you may have inferred from the examples, the function call syntax in JS is similar to Python. `console.log("hello")` passes the argument `"hello"` to the function `console.log`. The dot between `console` and `log` may be unfamiliar, but the function call works similarly to what you've used before.
+Functions are reusable instructions for running several statement in Javascript. Some functions like `console.log` are pre-defined for you to use in Javascript to perform common tasks. You can also define your own functions using the `function` keyword.
+
+The result of running functions can depend on the 
+
+`console.log("hello")` passes the argument `"hello"` to the function `console.log`. The dot between `console` and `log` may be unfamiliar, but the function call works similarly to what you've used before.
 
 To define a function in JavaScript, you can use the `function` keyword the way you would use `def` in Python. As with conditional statements and loops, there are more parentheses and brackets.
 
 ```js
 function greetPerson(name) {
-  console.log("Hello, " + name)
+  let greeting = "Hello, " + name
+  console.log(greeting)
 }
 
 greetPerson("Tolu") // logs "Hello, Tolu"
@@ -131,7 +141,3 @@ This was a whirlwind tour through the language, and there's tons of stuff that i
 * If you can read and write Python, you can learn to read and write JavaScript
 * JavaScript uses `()` and `{}` for conditions, loops, and functions
 * JavaScript has different conventions than Python
-
-## Further Reading: JS vs Python
-
-> Read more about the [differences between JS and Python on FreeCodeCamp](https://www.freecodecamp.org/news/python-vs-javascript-what-are-the-key-differences-between-the-two-popular-programming-languages/)
