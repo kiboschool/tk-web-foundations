@@ -62,7 +62,7 @@ You will learn with a smaller group of peers during Try Kibo. This group is your
 ### 2. Join Try Kibo discord server
 - If you already have a Discord account, [log in to Discord](https://discord.com/login). Otherwise, create a Discord account then check your email to verify your account. Be sure to check your spam folder if you don't see the email
 - Click here to join the Kibo School Discord server: **[https://discord.gg/52vqK7ZYaJ](https://discord.gg/52vqK7ZYaJ).**
-- As you join the discord server, you will get a prompt asking what class and squad you are in. You should already know this if you have done the above. Select the appropriate options and click “finish”
+- As you join the discord server, you will get a prompt asking what class and squad you are in. You should already know this if you have done #1 above. Select the appropriate options and click “finish”
 
 
 ### 3. Update your Discord profile
@@ -96,6 +96,7 @@ _Example:_
 ## Submit Onboarding Checklist
 
 We’re excited to see you at Orientation! Up next, complete the onboarding checklist.
+
 
 <div style="width:100%;height:500px;"><iframe src="https://airtable.com/embed/shruooLH1D4aXY22t?" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
 
