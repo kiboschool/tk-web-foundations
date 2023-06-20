@@ -45,16 +45,6 @@ Active engagement is necessary for success in the course! You should try buildin
 
 You are encouraged to seek out additional practice outside of the practice problems included in the course.
 
-<aside>
-
-📺 Watch this lesson navigation walkthrough video from Emmy, the Try Kibo program manager
-
-</aside>
-
-<div style="position: relative; height: 100%; width: 100%;">
-    <iframe width="100%" height="600" src="https://www.youtube.com/embed/ZFAEBoJ4lkU" title="Lesson Page Walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 
 ## Program schedule
 
