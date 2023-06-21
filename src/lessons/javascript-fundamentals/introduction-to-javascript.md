@@ -43,13 +43,13 @@ You’ve been using the DevTools for debugging HTML and CSS for the entire class
 
 Like you learned in the exercise above, you can open the console with a keyboard shortcut. You can also inspect an element, then click to the console tab. Open the console now, on this page. It should like something like this:
 
-![image of the console](actions/console.png)
+![the javascript console](actions/console.png)
 
 ### Log messages
 
 The browser can display information from JavaScript code to the console. You may see some **log messages** when you open the console, from the JavaScript that’s already running on the page.
 
-You can log messages to yourself with JavaScript by writing the following code snippet in the console and hitting the **Enter** key.
+You can display messages to yourself with JavaScript by writing the following code snippet in the console and hitting the **Enter** key.
 
 `console.log("the message you want to say")`
 
@@ -57,9 +57,11 @@ Try it now!
 
 ### Error messages
 
-Another thing you might see in the console are **error messages.** They are usually shown in red text, and tell you what has gone wrong on the page.
+Another thing you might see in the console are **error messages.** They tell you what has gone wrong on the page and are usually shown in red text.
 
 You can see an error if you type something that isn’t valid JavaScript, like `melon pizza`. For me, that shows the error message `Uncaught SyntaxError: Unexpected identifier`. Try it out in the console to see if you get the same error.
+
+![a javascript error message](actions/unexpected_identifier_error.png)
 
 ### Alert messages
 You can also show popup messages to a user reading the page using the **alert** function. You can alert messages to yourself with JavaScript by writing the following code snippet in the console and hitting the **Enter** key.
@@ -67,6 +69,8 @@ You can also show popup messages to a user reading the page using the **alert** 
 `alert("the message you want a user to see")`
 
 Try it now!
+
+![an alert message popup](actions/alert_message.png)
 
 ### A playground for code
 
@@ -94,10 +98,21 @@ Try entering the following lines of code into the console one by one. Press the 
 
 We won’t do a whole lesson on numbers in JavaScript now, but you can start to use the console as a calculator that comes with you to every webpage!
 
-## Practice
+## Activity: Use the Javascript console
 
 Open up the JavaScript console, and practice entering some expressions, such as:
 - calculations with numbers, like above
 - using `alert` to show a popup message
 - using `console.log` to show a message in the console
 - typing something that is not valid JavaScript, to see what an error message looks like
+
+## Running JavaScript Code
+Previously, we saw how to link a JavaScript file to our HTML web page. When building web applications, that is the default way to execute your JavaScript code.
+
+We also saw how to use the DevTools Console to run small snippets of code. That is usually a good way to try out a small portion of JavaScript code, especially when learning or testing some code.
+
+Alternatively, we can also use web-based interactive tools similar to [CodePen.io](https://codepen.io/) which we used during our HTML and CSS lessons. One such tool is [PythonTutor.com](https://pythontutor.com/). Although it's called Python Tutor, we can also use it to run JavaScript code (among other languages). In the coming lessons, we'll be using this interactive tool to execute our JavaScript code. The cool thing about this tool is that it also helps you to visualize what happens behind the scenes during code execution.
+
+The video below demonstrates how to use this tool.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nnbSQQH-SGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

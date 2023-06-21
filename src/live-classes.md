@@ -10,7 +10,7 @@ Video recordings, slides, and links for the exercises will be posted after the c
 | ---- | ---------------------- | ---------- | ------------- | ------------- | -------- | ------------ |
 | 1    | Foundations            | [View][s1] | [View][v1a]   | [View][v1b]   |          | [View][sur1] |
 | 2    | Web Design             | [View][s2] | [View][v2a]   | [View][v2b]   |          | [View][sur2] |
-| 3    | Action and Interaction | [View][s3] |               |               |          | [View][sur3] |
+| 3    | Javascript Fundamentals | [View][s3] |               |               |          | [View][sur3] |
 | 4    | Layout                 | [View][s4] |               |               |          | [View][sur4] |
 | 5    | Publishing and Sharing |            |               |               |          |              |
 

@@ -83,7 +83,7 @@ Like for conditional statements, JavaScript wraps the initialization in parens `
 
 ## Functions
 
-Functions are reusable instructions for running several statement in Javascript. Some functions like `console.log` are pre-defined for you to use in Javascript to perform common tasks. You can also define your own functions using the `function` keyword.
+Functions are reusable instructions for running several statement in Javascript. Some functions like `console.log` are pre-defined for you to use in Javascript to perform common tasks, like printing a message in the console. You can also define your own functions using the `function` keyword.
 
 The result of running functions can depend on the 
 

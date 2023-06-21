@@ -37,14 +37,14 @@
 
 ### Week 2
 
-- [Action and Interaction](lessons/action-and-interaction.md)
-  - [Introduction to JavaScript](lessons/action-and-interaction/introduction-to-javascript.md)
-  - [JavaScript syntax](lessons/action-and-interaction/javascript-syntax.md)
-  - [JavaScript and the page](lessons/action-and-interaction/javascript-and-the-page.md)
-  - [Events in JavaScript](lessons/action-and-interaction/responding-to-events-in-javascript.md)
-  - [Practice](lessons/action-and-interaction/practice.md)
-  - [Project](lessons/action-and-interaction/project.md)
-  - [Wrap Up](lessons/action-and-interaction/wrap-up.md)
+- [Javascript Fundamentals](lessons/javascript-fundamentals.md)
+  - [Introduction to JavaScript](lessons/javascript-fundamentals/introduction-to-javascript.md)
+  - [JavaScript syntax](lessons/javascript-fundamentals/javascript-syntax.md)
+  - [JavaScript and the page](lessons/javascript-fundamentals/javascript-and-the-page.md)
+  - [Events in JavaScript](lessons/javascript-fundamentals/responding-to-events-in-javascript.md)
+  - [Practice](lessons/javascript-fundamentals/practice.md)
+  - [Project](lessons/javascript-fundamentals/project.md)
+  - [Wrap Up](lessons/javascript-fundamentals/wrap-up.md)
 
 ### Week 3
 
