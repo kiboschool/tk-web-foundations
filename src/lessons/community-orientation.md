@@ -72,7 +72,7 @@ In the thread where you found your team:
 - Add an image or GIF to accompany your message (optional)
 - Click "Publish"
 
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/6hgur4kb7795zx3a" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/smkjzqljjz23d9pg" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 **Completion criteria:** Each team member has posted a letter on the padlet and has read at least one other intention from another student.
  

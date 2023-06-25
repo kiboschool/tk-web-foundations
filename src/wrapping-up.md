@@ -58,7 +58,7 @@ We love sharing alumni stories on social media, and need your permission to do s
 
 This experience has been better by the efforts of so many people, including your peers. Take a minute to write and read notes of gratitude:
 
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4;margin-top:30px;"><iframe src="https://padlet.com/curriculumpad/try-kibo-feb-2023-gratitude-board-oxd9ef5vzjaommyo" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4;margin-top:30px;"><iframe src="https://padlet.com/curriculumpad/try-kibo-feb-2023-gratitude-board-mo7fk97b6k9pdfkp" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 
 ## Keep coding
