@@ -20,7 +20,7 @@ The DevTools are awesome for seeing how a webpage is working, and testing out co
 You can read more on MDN about:
 - [What the DevTools are](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
 - How to use them to [View and change the HTML Elements](https://developer.chrome.com/docs/devtools/dom/)
-- and [CSS Properties and Values](https://developer.chrome.com/docs/devtools/css/).
+- [CSS Properties and Values](https://developer.chrome.com/docs/devtools/css/).
 
 ## Try it: Devtools Scavenger hunt
 

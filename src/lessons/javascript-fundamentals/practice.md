@@ -1,42 +1,35 @@
-# Practice JavaScript
+# Week 6 Exercises
+
+**Due Date: XXX**
+
+In this week, there are several exercises for you to engage with. Some of which are optional and others mandatory. You are encouraged to attempt all the exercises, however, you are expected to submit the mandatory exercises to Gradescope.
+
 
 <aside>
 
-💡 This is your chance to put what you’ve learned into action. Try solving these practice challenges to check that you understand the concepts.
+
+💡 This is an individual project. You are expected to work independently.
+
+If you get stuck, confused, or have trouble with the project, ask for help on Discord or attend Office Hours. Try not to spoil the project for others - use Discord spoiler tags if you are going to include a screenshot or code sample.
 
 </aside>
 
-## Click counter
+## Mandatory Exercises
+This week, the mandatory exercises are:
 
-<aside>
+1. **Both Numbers are Even**:In this exercise, you would implement a function to determine if two given numbers are even or not.
 
-🔢 Practice JavaScript by making a button that tracks how many times it’s been clicked.
+1. **Fizz Buzz**: In this exercise, you would write a program to determine if a given number is divisible by 3 or 5.
 
-[**Access and submit on Replit here**](https://replit.com/team/tk8-web-foundations/Click-Counter)
+1. **Count Characters in String**: In this exercise, you would write a program to count the number of characters in a string.
 
-</aside>
+1. **Can I Drive and Vote**:In this exercise you will write a program to help determine if a person can either drive or vote, based on the person's age and country of residence.
 
-## Slide show
+1. **Can I Order Item**: In this exercise, you would implement a function that checks if a specified dish is available in stock.
 
-<aside>
 
-📽️ You don’t need PowerPoint or Google Slides! You can use _JavaScript_ instead.
+## Accept the Assignment
+<!-- >
+> [![chicken-peanut-stew](https://img.shields.io/static/v1?label=Open%20Project&message=chicken%20peanut%20stew&color=blue)](https://classroom.github.com/a/8GyiVIrS) -->
 
-[**Access and submit on Replit here**](https://replit.com/team/tk8-web-foundations/Slide-Show)
-
-</aside>
-
-<details><summary>Solution: Slide Show</summary>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://youtube.com/embed/Bqw7t_Q3eZw" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-</details>
-
-## Video Like Button
-
-<aside>
-
-👍🏿 Make the Like button count up, similar to YouTube’s Like button.
-[**Access and submit on Replit here**](https://replit.com/team/tk8-web-foundations/Video-Like-Button)
-
-</aside>
+[Open the assignment on Github Classroom](https://classroom.github.com/a/ooXOUO9n)

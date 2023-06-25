@@ -1,27 +1,31 @@
-# Introduction to javascript
+# Introduction to Javascript
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; margin: 20px 0px;"><iframe src="" title="YouTube video player" frameborder="0"  allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url(./actions/jav.png); background-size: cover;"></iframe></div>
 
-As you’ve heard lots of times by now, HTML is for the content and structure of the page, CSS is for styling how the elements should appear, and JavaScript is for adding interactivity. Now that you’ve learned lots of HTML and CSS, it’s time for some JavaScript.
+## About JavaScript
+
+The JavaScript language is responsible for changing data and allowing webpages to interact with users. It is different from HTML and CSS in some important ways.
+
+HTML and CSS happen “all at once”. When the web browser loads it shows the whole HTML page, with all of the CSS styles applied. The order of HTML elements determines the structure of page content, and CSS determines which styles are applied, but they have no concept of “time” or "change".
+
+JavaScript happens step by step over time. Like a recipe for cooking a meal. Each line "runs", one after the other. Think about Javascript as instructions for the computer to follow to complete a task, like cooking a recipe or building a bike.
 
 <aside>
 
 
 ⚠️ **JavaScript is a deep topic.**
 
-You’ll learn a little bit of JavaScript in the next few lessons, enough to add some basic interactivity to your pages. There’s way more JavaScript to learn later, which we aren’t covering here. After this course, you can find other resources to pursue further learning in JavaScript.
+You’ll learn the fundamentals of JavaScript in the next few lessons, enough to do some small calculations and print messages. Next week, we will learn how to use Javascript to interact with the webpage. 
 
-JavaScript can also be **confusing**. Don’t be surprised if you get stuck on the syntax or logic. Ask your classmates and instructors for help!
+There’s way more to JavaScript which we aren’t covering here. Learning Javascript can help you learn other programming languages like Python or C, because it is more similiar to them than HTML or CSS are.
+
+After this course, you can find other resources to pursue further learning in JavaScript, or consider joining Kibo's [Computer Science Degree program](https://kibo.school/degree/).
+
+JavaScript can be **confusing**. Don’t be surprised if you get stuck on the syntax or logic. Ask your classmates and instructors for help!
 
 </aside>
 
-## About JavaScript
 
-JavaScript is a different kind of language than HTML and CSS.
-
-HTML and CSS happen “all at once”. When the web browser loads it shows the whole HTML page, with all the styles applied. The order of HTML elements determines the structure of page content, and the order of CSS determines which styles are applied, but there is no idea of “time”.
-
-JavaScript happens step by step. Like a recipe for cooking a meal. Each line "runs", one after the other. Instead of thinking of the structure of the page, think about Javascript as steps for the computer to follow. 
 
 ### JavaScript in 14 minutes
 
@@ -41,7 +45,7 @@ For a quick overview of the main concepts in JavaScript, try [JavaScript in 14 M
 
 You’ve been using the DevTools for debugging HTML and CSS for the entire class. Now that you’re learning JavaScript, you can use a whole new part of the DevTools: the Console.
 
-Like you learned in the exercise above, you can open the console with a keyboard shortcut. You can also inspect an element, then click to the console tab. Open the console now, on this page. It should like something like this:
+Like you learned in the exercise above, you can open the console with a keyboard shortcut, or right-click the page and then click on **"Inspect"**. Open the console now, on this page. It should look something like this:
 
 ![the javascript console](actions/console.png)
 
@@ -74,15 +78,15 @@ Try it now!
 
 ### A playground for code
 
-The console isn’t just for log and error messages. Just like the Style tab and Elements panel let you try out different CSS properties and HTML, the console lets you try out JavaScript code and see the result.
+The console isn’t just for log and error messages. The console lets you try out JavaScript code and see the result, like how the Elements panel and Styles tab let you try out different HTML elements and CSS properties.
 
-Just like the Elements and Style tab, the console doesn’t make any permanent changes to the page. You can’t permanently break anything by typing the wrong JavaScript into the console. You can always reset by refreshing the page.
+Just like the Elements and Style tab, you can’t permanently break anything by typing the wrong JavaScript into the console. You can always reset your changes by refreshing the page.
 
 > However, if you *want* your changes to be saved between page refreshes, you’ll need to copy what you write into a JavaScript file like `script.js` and run it from there.
 
 So far, you might not know much JavaScript that you could run in the console — you’ve seen how to make an error, but that’s not very useful. You’ve seen how to log a message, which could be useful eventually, but doesn’t do a whole lot yet.
 
-In the activity above, you also learned `alert`, which shows a popup message on the page. That’s kinda cool! Perhaps even more useful for you, the console can act like a built-in calculator.
+In the activity above, you also learned `alert`, which shows a popup message on the page. That’s kinda of cool! Perhaps even more useful for you, the console can act like a built-in calculator.
 
 Try entering the following lines of code into the console one by one. Press the Enter key after each line, and see the result:
 
@@ -96,7 +100,7 @@ Try entering the following lines of code into the console one by one. Press the 
 18 / 3
 ```
 
-We won’t do a whole lesson on numbers in JavaScript now, but you can start to use the console as a calculator that comes with you to every webpage!
+We won’t do a whole lesson on numbers in JavaScript now, but you can start to use the console as a calculator that you can use on every webpage!
 
 ## Activity: Use the Javascript console
 
@@ -105,14 +109,3 @@ Open up the JavaScript console, and practice entering some expressions, such as:
 - using `alert` to show a popup message
 - using `console.log` to show a message in the console
 - typing something that is not valid JavaScript, to see what an error message looks like
-
-## Running JavaScript Code
-Previously, we saw how to link a JavaScript file to our HTML web page. When building web applications, that is the default way to execute your JavaScript code.
-
-We also saw how to use the DevTools Console to run small snippets of code. That is usually a good way to try out a small portion of JavaScript code, especially when learning or testing some code.
-
-Alternatively, we can also use web-based interactive tools similar to [CodePen.io](https://codepen.io/) which we used during our HTML and CSS lessons. One such tool is [PythonTutor.com](https://pythontutor.com/). Although it's called Python Tutor, we can also use it to run JavaScript code (among other languages). In the coming lessons, we'll be using this interactive tool to execute our JavaScript code. The cool thing about this tool is that it also helps you to visualize what happens behind the scenes during code execution.
-
-The video below demonstrates how to use this tool.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nnbSQQH-SGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

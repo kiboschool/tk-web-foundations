@@ -1,6 +1,6 @@
 # JavaScript Syntax
 
-The syntax of a spoken language defines the correct order and arrangement of words. JavaScript's syntax has many of the same features as other programming languages. In this lesson, you'll see a quick tour of those features.
+The syntax of a spoken language defines the correct order and arrangement of words. JavaScript's syntax has many of the same features as other programming languages. This lesson will serve as a quick tour of those features. We will go into more detail in the following lessons.
 
 ## Basics and Data Types
 
@@ -65,7 +65,7 @@ if (x < 100) {
 }
 ```
 
-The condition is wrapped in parentheses `()`, and the statement to be run is wrapped in curly braces `{}`. This `console.log` will be run because the condition `(x is less than 75)` is true.
+The condition is wrapped in parenthesis `()`, and the statement to be run is wrapped in curly braces `{}`. This `console.log` will be run because the condition `(x is less than 75)` is true.
 
 ## Loops
 
@@ -83,13 +83,15 @@ Like for conditional statements, JavaScript wraps the initialization in parens `
 
 ## Functions
 
-Functions are reusable instructions for running several statement in Javascript. Some functions like `console.log` are pre-defined for you to use in Javascript to perform common tasks, like printing a message in the console. You can also define your own functions using the `function` keyword.
+Functions are reusable instructions for running several statements in Javascript. Some functions like `console.log` are pre-defined for you to use in Javascript to perform common tasks, like printing a message in the console. You can also define your own functions using the `function` keyword.
 
-The result of running functions can depend on the 
+The result of running functions can depend on the data you pass into the parenthesis `()` when the function is run. This data is called an "argument". However, arguments are optional and not required in every function.
 
 `console.log("hello")` passes the argument `"hello"` to the function `console.log`. The dot between `console` and `log` may be unfamiliar, but the function call works similarly to what you've used before.
 
-To define a function in JavaScript, you can use the `function` keyword the way you would use `def` in Python. As with conditional statements and loops, there are more parentheses and brackets.
+To define a function in JavaScript, you can use the `function` keyword, followed by parenthesis `()`, and then curly brackets `{}`. Defining a function is like writing down a recipe on paper to cook later.
+
+To run a function, write the function's name followed by parenthesis and any data you would like to "pass" into the function to use. Running a function is like using a recipe to cook a meal right now. It will make the function perform the tasks defined between the opening `{` and closing `}` curly braces. 
 
 ```js
 function greetPerson(name) {
@@ -102,11 +104,21 @@ greetPerson("Rosemary") // logs "Hello, Rosemary"
 greetPerson("Oluwaseyi") // logs "Hello, Oluwaseyi"
 ```
 
+Functions can also be defined without requiring arguments to be passed when they are run.
+
+```js
+function greetWorld() {
+  console.log("Hello, world!")
+}
+
+greetWorld() // logs "Hello, world!"
+```
+
 There are more ways to create functions in JavaScript, but that's all you need to know for now.
 
 ## Objects
 
-JavaScript's equivalent for Python's dictionaries are called _objects_. They also use the curly brace syntax to create them and the square brackets to access items inside.
+Objects are a way of grouping several realtes values together curly brace syntax to create them and the square brackets to access items inside.
 
 ```js
 let party = {
@@ -133,11 +145,3 @@ function greetPerson(name) { console.log("Hello, " + name) }
 
 This should be avoided, but it's sometimes helpful to know.
 
-## Summary
-
-This was a whirlwind tour through the language, and there's tons of stuff that it didn't cover. The important things to remember are:
-
-* Python and JavaScript have similar syntax, but not the same.
-* If you can read and write Python, you can learn to read and write JavaScript
-* JavaScript uses `()` and `{}` for conditions, loops, and functions
-* JavaScript has different conventions than Python

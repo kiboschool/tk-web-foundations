@@ -1,5 +1,5 @@
 # Web Foundations
-[https://bit.ly/tk8-wf](https://bit.ly/tk8-wf)
+Lessons Link: [https://bit.ly/tk8-wf](https://bit.ly/tk8-wf)
 
 **Welcome to Web Foundations!** You are joining a global learning community dedicated to helping you learn and thrive in computer science.
 
@@ -26,25 +26,25 @@ The course culminates in a project where you'll create a website of your own des
 ## Course Overview
 
 * Week 1: Foundations
-* Week 2: Javascript
-* Week 3: Javascript and the Page
-* Week 4: Layout and Multimedia
-* Week 5: Review and Final Project
+* Week 2: Web Design
+* Week 3: Javascript Fundamentals
+* Week 4: Action and Interaction
+* Week 5: Final Project
 
 ## How the course works
 
 There are multiple ways you'll learn in this course:
 
 * Read and engage with the materials on this site
-* Attend live class and complete the activities in class
-* Practice with exercises to try out the concepts
+* Attend live class and complete activities in class
+* Practice coding with exercises
 * Complete projects to demonstrate what you have learned
 
 Active engagement is necessary for success in the course! You should try
 building lots of websites, so that you can explore the concepts in a variety of ways.
 
-You are encouraged to seek out additional practice outside of the
-practice problems included in the course.
+You are encouraged to seek out additional coding practice outside of 
+the practice problems included in the course.
 
 <aside>
 
@@ -67,4 +67,4 @@ Below is the overall schedule for the program. Each day, your community managers
 
 ---
 
-Copyright © 2022 Kibo, Inc. All Rights Reserved.
+Copyright © 2023 Kibo, Inc. All Rights Reserved.

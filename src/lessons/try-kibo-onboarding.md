@@ -13,6 +13,7 @@ At the bottom of this page, there is an **onboarding checklist** that you **must
 **The deadline to finish onboarding is Thursday, Feb 29 at 12pm GMT.**
 
 
+<!-- COURSE START TODO: Replace class time and instructor name and linkedin -->
 ## Sign up for a live class
 **Live class**: This is a mandatory class which happens once a week on Zoom. This is one of the most loved parts of the program! You get a chance to solve problems and learn with <a href="https://www.linkedin.com/in/trevor-jameson/"> Trevor Jameson </a> who will be your instructor. Live classes take place on Wednesdays and Thursdays from weeks 1 - 4 in the program, and will be 1 hour and 30 minutes long.
 
@@ -99,7 +100,7 @@ _Example:_
 
 ## Prepare for Orientation
 
-Orientation is mandatory and will happen on Friday, June 30 from 3 - 5:30pm GMT on Zoom (<a href="https://www.timeanddate.com/worldclock/converter.html?iso=20230210T150000&p1=tz_gmt">convert to you local timezone</a>). To join orientation, you are required to sign in to zoom. You must sign in with the same email you used for Kibo (the emailwe used to send you this onboarding information). 
+Orientation is mandatory and will happen on **Friday, June 30 from 3 - 5:30pm GMT on Zoom** (<a href="https://www.timeanddate.com/worldclock/converter.html?iso=20230210T150000&p1=tz_gmt">convert to you local timezone</a>). To join orientation, you are required to sign in to zoom. You must sign in with the same email you used for Kibo (the emailwe used to send you this onboarding information). 
 
 If you do not already have a zoom account with the email you used to sign up for Kibo, <a href="https://zoom.us/signup#/signup" target="_blank"> click this page </a> to create a free zoom account. If you use Gmail, you can click the 'Sign in with Google' icon. Skip this step if you already have a zoom account with the email you used for Kibo.
 
