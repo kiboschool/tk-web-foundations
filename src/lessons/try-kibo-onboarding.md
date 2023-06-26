@@ -3,7 +3,7 @@
 ---
 Welcome to the Try Kibo onboarding process. During this process, you will select a live class, join your class replit team, join Discord and introduce yourself and lastly, prepare for Orientation.
 
-At the end of this page, there is an onboarding checklist that you must submit in order to receive an invitation to Orientation
+**The onboarding is best completed on a laptop or computer.** At the end of this page, there is an onboarding checklist that you must submit in order to receive an invitation to Orientation
 
 **Deadline: 12pm GMT. Thursday, June 29.**
 
