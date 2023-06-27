@@ -5,6 +5,9 @@ The community orientation challenges are required for all students in the progra
 - Built your first squad project
 - Understood the tools you will use for class
 
+> Demo video
+
+
 ## **Instructions** 
 
 - These challenges are best done on a computer
@@ -31,8 +34,8 @@ The community orientation challenges are required for all students in the progra
 
 1. Log in to Discord, under the Squad channels category, you will find your squad
 2. Join the voice channel and post a message in the chat introducing yourself e.g., "Hello, My name is Emmy from Lagos, Nigeria"
-
 Wait for other Squad members to join and introduce themselves. After all squad members have posted a message and joined the squad voice channel:
+
 3. Pick a **"scribe"**. Your scribe will act as the moderator and will be in charge of creating/sharing links, sharing screen, and asking questions that your squad might have in the #help channel.
 4. All squad members will remain in the Squad voice channel throughout the community orientation. 
 
@@ -44,7 +47,7 @@ Wait for other Squad members to join and introduce themselves. After all squad m
 
 > **Description:** Imagine it's week 5 of Try Kibo. Write a message to your present self in the padlet below. Describe how you will work to make sure you successfully complete the program. Every team member should post a message.
 
->
+
 - Click on the + sign
 - Enter your first name and last initial in the "Subject"
 - Write your intention
@@ -89,7 +92,7 @@ Work together as a team to add all the information below to your site:
 - Your Squad name 
 - One thing that everyone in the squad has in common
 - Each squad must individually add their profile to the page. add:
-  - First name and last initial (e.g., Aisha D, Okezie C)
+  - First name and last initial (e.g., Mercy W, Osamudiamen O)
   - Photo
   - A one-sentence biography
   - Why you are learning Web Foundations
