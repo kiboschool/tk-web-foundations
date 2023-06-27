@@ -6,6 +6,9 @@ The community orientation challenges are required for all students in the progra
 - Understood the tools you will use for class
 
 > Demo video
+<div style="position: relative; height: 100%; width: 100%;">
+  <iframe width="100%" height="600" src="https://www.youtube.com/embed/m-qqFUIjSvY" title="Try Kibo - Future Proof With Python Intro Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 
 ## **Instructions** 
@@ -34,6 +37,7 @@ The community orientation challenges are required for all students in the progra
 
 1. Log in to Discord, under the Squad channels category, you will find your squad
 2. Join the voice channel and post a message in the chat introducing yourself e.g., "Hello, My name is Emmy from Lagos, Nigeria"
+
 Wait for other Squad members to join and introduce themselves. After all squad members have posted a message and joined the squad voice channel:
 
 3. Pick a **"scribe"**. Your scribe will act as the moderator and will be in charge of creating/sharing links, sharing screen, and asking questions that your squad might have in the #help channel.
