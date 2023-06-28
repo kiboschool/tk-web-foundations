@@ -92,7 +92,7 @@ The following guidelines apply in JavaScript:
 * Use names that are intuitive - that describe the variable- to make your code clearer.
 
 ## Naming Conventions
-As you saw with the variable names in the examples (such as`costPerHour`), JavaScript typically uses "camelCase" naming for variables and functions, instead of the "snake_case" that Python typically uses.
+As you saw with the variable names in the examples (such as`costPerHour`), JavaScript typically uses "camelCase" naming for variables and functions.
 
 ## Variable Types
 Different types of values can be stored in variables. In our previous example, the `costPerHour` variable was storing a number. There are other types of variables apart from numbers, let us look at them.
