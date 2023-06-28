@@ -2,20 +2,11 @@
 
 **Due Date: XXX**
 
-In this week, there are several exercises for you to engage with. Some of which are optional and others mandatory. You are encouraged to attempt all the exercises, however, you are expected to submit the mandatory exercises to Gradescope.
-
-
 <aside>
 
-
-💡 This is an individual project. You are expected to work independently.
-
-If you get stuck, confused, or have trouble with the project, ask for help on Discord or attend Office Hours. Try not to spoil the project for others - use Discord spoiler tags if you are going to include a screenshot or code sample.
+💡 This is your chance to put what you’ve learned into action. Try solving these practice challenges to check that you understand the concepts.
 
 </aside>
-
-## Mandatory Exercises
-This week, the mandatory exercises are:
 
 1. **Both Numbers are Even**:In this exercise, you would implement a function to determine if two given numbers are even or not.
 
