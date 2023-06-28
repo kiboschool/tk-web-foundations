@@ -114,7 +114,7 @@ Numbers are represented by typing them literally, like `15` or `-3.14`. Numbers 
 
 ### Strings
 
-Strings are used to represent text. They are wrapped in single or double quotes like in Python. They can also be enclosed in backticks. Ensure you are consistent with your eneclosing characters, the quotes at the start and end of the string must match.
+Strings are used to represent text. They are wrapped in single or double quotes. They can also be enclosed in backticks. Ensure you are consistent with your enclosing characters, the quotes at the start and end of the string must match.
 
 You can also escape special characters in strings by  using a backslash `\`, this is usually helpful when you need to use special characters in your strings. For example, let’s assume your string has a quote symbol in it.
 A sample string is: `"I am learning", says Ade"`
