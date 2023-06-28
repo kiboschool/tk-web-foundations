@@ -1,28 +1,26 @@
 # What is web design?
 
-Web design is about all the choices you make about what shows up on the page,
-and how it looks and behaves. All of these parts are interconnected - what
-elements you choose is closely tied to how they look! What an element _does_ is
-connected to how it should _feel_ to use it. For instance, it's really helpful
-to the user if a link looks different when you tap it or hover over it with the
+Web design is all about what shows up on the page, and how it looks and behaves. 
+All of these parts are connected - what HTML elements you choose is closely tied to how they look! 
+
+What an element _does_ is connected to how it _feels_ to use it. For example, 
+it's helpful to the user if a link looks changes color when they click it or hover over it with the
 cursor.
 
-Learning web design means learning both what a good site or feature looks like,
+Learning web design means learning what a good website or feature looks like,
 _and_ how to actually make it happen in code. It's about both the _skills_ and
 about _judgement_.
 
-You won't become a master web designer in just this week, but you'll learn to
-control key properties that determine the appearance of web pages, and you'll
-start to develop your eye for spotting what makes a design good or bad.
+You won't become a master web designer in just a week. You will learn to
+use CSS properties that determine the appearance of web pages, and you'll
+start to develop your best judgement for seeing what makes a design good or bad.
 
 ## Noticing
 
-Getting a site to look good starts with noticing what doesn’t look right. Then, 
+Designing a site to look good starts with noticing what doesn’t look right. Then, 
 you can make large or small changes to the design to fix it.
 
-You’ve visited tons of websites in your life, and you’ve noticed that some sites 
-look good, and others look bad. Now, you’ll need to hone this skill. You need to
-learn to tell *why* some sites look good and others look bad.
+You’ve already visited plenty of websites in your life, and you’ve probably noticed that some sites look good, and others look bad. Now, you’ll need to hone this skill to notice *why* you feel this way about some sites.
 
 ## Practice: Noticing
 
@@ -34,7 +32,7 @@ learn to tell *why* some sites look good and others look bad.
 2. For each level, click on the better design
 3. Try to get through at least all of the Easy levels.
 
-**Once you are done playing, consider the following reflection questions**
+**Once you are done playing, ask yourself the following questions**
 
 - Were some design mistakes easier or harder to notice?
 - Do you think you could spot the mistakes without the comparison image?
@@ -43,7 +41,7 @@ learn to tell *why* some sites look good and others look bad.
 
 ## What makes a site look good?
 
-Everyone has different taste, so there’s no universal “best” style. All the same, some sites look good and others don’t. Usually, what makes sites look good is a combination of just a few characteristics:
+Everyone has different taste in design, so there’s no universal “best” styles. Even so, some sites seem better to more people or are easier to use. Usually, what makes sites look good is a combination of just a few characteristics:
 
 - Text Styling
 - Spacing
@@ -92,7 +90,7 @@ see, step by step, how to style a page.
 
 💕 In the following Padlet, share a link to a site you think has good design. 
 Write in the comment _why_ you think the design is good — is it the colors? The 
-typography? The way the elements are laid out? 
+typography? The way the elements are spaced? 
 
 Feel free to comment on other posts if you agree or disagree!
 

@@ -9,7 +9,7 @@ In week 1, you learned the basics of CSS. So you already know:
 
 But... the sites you made in Week 1 were not pretty!
 
-It’s not enough to apply just any styles. You have to know which styles to apply to make your site look good.
+It’s not enough to apply just any styles. You have to know which styles will make your site look good.
 
 ## Learning Outcomes
 

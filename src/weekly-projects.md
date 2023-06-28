@@ -9,7 +9,7 @@ This page will list all of the projects, so you have a convenient place to find 
 
 * [Week 1: CS Professor Page](lessons/foundations/project.md)
 * [Week 2: Profile Page](lessons/web-design/project.md)
-* [Week 3: Content Gallery](lessons/action-and-interaction/project.md)
+* [Week 3: Content Gallery](lessons/javascript-fundamentals/project.md)
 * [Final Project](./final-project.md)
 
 Note that there are no Weekly Projects in weeks 4 or 5, so that you have time to

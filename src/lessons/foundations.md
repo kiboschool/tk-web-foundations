@@ -18,7 +18,7 @@ After this week, you will be able to:
 
 ## An overview of this week's content
 
-<!-- TODO: replace weekly intro video -->
+<!-- COURSE START TODO: replace weekly intro video -->
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.youtube.com/embed/1GJTuanORg0" title="Linking your CSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </details>+

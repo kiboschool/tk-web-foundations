@@ -1,6 +1,6 @@
 # Project: Your “CS Professor” Page
 
-<!-- TODO: Adjust Due Date -->
+<!-- COURSE START TODO: Update Due Date -->
 **Due date: Sunday, February 19**
 
 <aside>

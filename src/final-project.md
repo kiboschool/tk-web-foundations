@@ -41,7 +41,7 @@ Here’s some guidelines that can help you pick an exciting project you’ll be 
 
 - Different HTML elements
 - Web Design (fonts, colors, layout)
-- Interactivity (images, media, and maybe some JavaScript)
+- Interactivity (images, media, and some JavaScript)
 
 ### What features should you **avoid**?
 
@@ -49,15 +49,15 @@ Here’s some guidelines that can help you pick an exciting project you’ll be 
 - Forms
 - Payment
 
-We haven’t covered how to collect and save data from users. Don’t plan to build a banking app, a social media website, or an e-commerce site. For those to work, they need to save data from users, which we haven’t covered.
+We haven’t learned how to collect and save data from users. Don’t plan to build a banking app, a social media website, or an e-commerce site. For those to work, they need to save data from users, which is not taught in Web Foundations.
 
-If you have an idea that you and your team really love, that depends on saving user data, try to come up with a version of the design that works without saving any user data. For instance, you could have a version of Youtube that only has a few videos, and doesn’t save comments or likes. Without those features, it’s not exactly like youtube, but it’s still pretty cool.
+If you have an idea that your team really loves that depends on saving user data, try to come up with a version that works without saving any user data. For example, you could have a version of Youtube that only has a few videos, and doesn’t save comments or likes. Without those features, it’s not exactly like youtube, but it’s still pretty cool.
 
 ## How should you work together?
 
-You’ll should figure out what works best for your team. The best teams communicate clearly up front, so that there isn’t confusion about what is going on. Try to agree on how you’ll communicate (Discord, Whatsapp, email, or something else), and when you’ll get together to work on the project.
+You should talk with your team about what works best for everyone. The best teams communicate clearly and often, so that there isn’t confusion about what is going on. Try to agree on how you’ll communicate (Discord, Whatsapp, email, or something else), and what times you’ll meet to work on the project.
 
-It may be helpful to create a **design doc**. Using Google docs or a text file in Repl.it, write down your ideas. You might include links, images, drawings, and text that helps to explain what you are planning to build.
+You should also create shared a **design doc** to write down your ideas. You can use [Google Docs](https://docs.google.com/) or a text file in Repl.it. You might include links, images, drawings, and text that explains what you are planning to build.
 
 A design doc can also help you track what work you’ve done, and what work is left to do.
 
