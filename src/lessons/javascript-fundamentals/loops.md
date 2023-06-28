@@ -1,6 +1,6 @@
 # Loops
 
-When you learnt the Python programming language, you saw how to use loops, such as the `for` construct to perform repititive tasks. In JavaScript, the provision for loops also exist, however there are some differences.
+Loops are a way to perform repetitive tasks in JavaScript.
 
 Watch this video to have an overview of loops in JavaScript
 
