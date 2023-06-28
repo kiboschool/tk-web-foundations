@@ -135,4 +135,4 @@ Some ideas to include in your image: browser, server, files (HTML, CSS, JS)
 
 > [https://padlet.com/curriculumpad/230ru4pldu3v5md9](https://padlet.com/curriculumpad/230ru4pldu3v5md9)
 
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/fjcltmo65xl2fj8n" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/e0tlyys31fbmpmt4" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>

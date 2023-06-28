@@ -1,11 +1,34 @@
 # TK Web Foundations
 
-The curriculum for the Try Kibo Web Foundations class.
+The curriculum for the Try Kibo: Web Foundations class.
 
 TL;DR --
 * Uses [mdbook](https://github.com/rust-lang/mdBook) to build markdown pages into static html
 * Pages are determined by the `src/SUMMARY.md` file
-* Git push to the `main` branch to deploy the main site (ditto for `draft`)
+* Git push to the `main` branch to deploy the main site (pushes to `draft` deploy to the draft site)
+
+# TODO: updates each time we run the course
+
+## Instructor
+
+Before class:
+- Replace bitly links with new link
+- Replace replit links with new replit team links
+- Update padlets / any other embeds
+- Record course welcome video
+- Record weekly overview videos
+
+As class is in session: 
+- add recordings and slides to the live class page
+- release each week's lessons
+
+## Program Manager
+
+- Update the community orientation page
+- Update the Program Schedule
+- Update the Due Dates for activities
+- Update the Lesson feedback forms
+- Update the Course wrap up page
 
 ## Getting Started
 

@@ -46,8 +46,8 @@
   - [The Box Model](lessons/web-design/the-box-model.md)
   - [Practice](lessons/web-design/practice.md)
   - [Project](lessons/web-design/project.md)
-  - [Wrap Up](lessons/web-design/wrap-up.md)
   - [Bonus: Web Fonts](lessons/web-design/styling-text/fonts.md)
+  - [Wrap Up](lessons/web-design/wrap-up.md)
 
 ### Week 3
 
@@ -72,7 +72,6 @@
   - [Project](lessons/action-and-interaction/project.md)
   - [Wrap Up](lessons/action-and-interaction/wrap-up.md)
 
-
 ### Week 5
 
 - [Layout and Multimedia](lessons/layout.md)
@@ -84,16 +83,15 @@
   - [Practice](lessons/layout/practice.md)
   - [Wrap Up](lessons/layout/wrap-up.md)
   - [Bonus: More styling](lessons/bonus/multimedia-layout/bonus-more-styling.md)
-  - [Bonus: Interactive Elements](lessons/bonus/multimedia-layout/bonus-interactive-elements.md)
+  - [Bonus: Interactive Elements](lessons/bonus/multimedia-layout/bonus-interactive-elements.md) -->
 
 ### Bonus Lessons
 
-  - [Publishing and Sharing](lessons/publishing-and-sharing.md)
-    - [How the Internet Works](lessons/publishing-and-sharing/how-the-internet-works-again.md)
-    - [Publishing your site](lessons/publishing-and-sharing/publishing-your-site.md)
-    - [Domains and Hosting](lessons/publishing-and-sharing/domains-and-hosting.md)
-    - [Sharing your work](lessons/publishing-and-sharing/sharing-your-work.md)
-    - [Practice](lessons/publishing-and-sharing/practice.md)
-    - [Wrap Up](lessons/publishing-and-sharing/wrap-up.md)
-    - [Bonus: More about DNS](lessons/publishing-and-sharing/bonus-dns.md)
-
+- [Publishing and Sharing](lessons/publishing-and-sharing.md)
+  - [How the Internet Works](lessons/publishing-and-sharing/how-the-internet-works-again.md)
+  - [Publishing your site](lessons/publishing-and-sharing/publishing-your-site.md)
+  - [Domains and Hosting](lessons/publishing-and-sharing/domains-and-hosting.md)
+  - [Sharing your work](lessons/publishing-and-sharing/sharing-your-work.md)
+  - [Practice](lessons/publishing-and-sharing/practice.md)
+  - [Wrap Up](lessons/publishing-and-sharing/wrap-up.md)
+  - [Bonus: More about DNS](lessons/publishing-and-sharing/bonus-dns.md) -->
