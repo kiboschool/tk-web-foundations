@@ -23,15 +23,5 @@ both of your names are linked to the submission in Github and Gradescope.
 In this project, you’ll combine interactive elements with CSS and JavaScript to
 build an interactive gallery of content.
 
-[![content-gallery](https://img.shields.io/static/v1?label=Open%20Project&message=content%20gallery&color=blue)](https://classroom.github.com/a/DylLWGdB)
-
-## Rubric
-
-| Points | Criteria | Description |
-|---|---|---|
-| 20 pts | Site uses appropriate HTML elements | - Should use multimedia elements<br>- Elements should be used for their intended purposes |
-| 30 pts | Interactive JS features | - Uses JS Event Listener to respond to click<br>- Updates the page in response to events |
-| 10 pts | Site is styled effectively | - Color palette creates contrast<br>- Appropriate spacing between elements<br>- Text is styled for readability |
-| 10 pts | Code is styled well | - indented properly<br>- organized effectively<br>- appropriately commented |
-| **60 pts** | **Total** | 70 possible points, scored out of 60 |
+<!-- TODO: Add Replit link -->
 
