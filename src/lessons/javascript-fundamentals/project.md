@@ -19,4 +19,5 @@ You can work together by sharing your screen, or by working together at the same
 
 In this project, you’ll get a chance to combine interactive elements with CSS and JavaScript to build an interactive gallery of content.
 
+<!-- COURSE START TODO: Adjust Replit link -->
 [**Access** and **submit** the project in Replit here](https://replit.com/team/tk8-web-foundations/Content-Gallery)
