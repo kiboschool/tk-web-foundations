@@ -1,7 +1,9 @@
 # Variables and Data Types
 
 ## Basics
-JavaScript has many of the same features as other programming languages, like Python. In this lesson, you'll see a quick tour of those features.
+In this lesson, you'll see a quick tour of basic JavaScript features, starting with data types.
+
+JavaScript knows about different kinds of data, such as:
 
 * **Numbers** are represented by typing them literally, like `15` or `-3.14`
 * **Strings** are enclosed in single or double quotes, like `"hello"` or `'world'`
