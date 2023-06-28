@@ -25,5 +25,3 @@ Watch this video on the `while` and `do while` loops
 </strong>
 </aside>
 <iframe width="750" height="315" src="https://www.youtube.com/embed/gTdesbu8nyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-##More content here
