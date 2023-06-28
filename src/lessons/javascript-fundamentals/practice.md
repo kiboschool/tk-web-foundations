@@ -19,8 +19,4 @@
 1. **Can I Order Item**: In this exercise, you would implement a function that checks if a specified dish is available in stock.
 
 
-## Accept the Assignment
-<!-- >
-> [![chicken-peanut-stew](https://img.shields.io/static/v1?label=Open%20Project&message=chicken%20peanut%20stew&color=blue)](https://classroom.github.com/a/8GyiVIrS) -->
-
-[Open the assignment on Github Classroom](https://classroom.github.com/a/ooXOUO9n)
+<!-- TODO: add replit links to above descriptions -->
