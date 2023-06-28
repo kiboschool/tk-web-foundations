@@ -1,4 +1,4 @@
-# Week 6 Exercises
+# Practice
 
 **Due Date: XXX**
 
