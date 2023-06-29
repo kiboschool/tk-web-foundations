@@ -40,7 +40,7 @@ The community orientation challenges are required for all students in the progra
 
 Wait for other Squad members to join and introduce themselves. After all squad members have posted a message and joined the squad voice channel:
 
-3. Pick a **"scribe"**. Your scribe will act as the moderator and will be in charge of creating/sharing links, sharing screen, and asking questions that your squad might have in the #help channel.
+3. Pick a **"scribe"**. Your scribe will act as the moderator and will be in charge of creating/sharing links, sharing screens, and asking questions that your squad might have in the #help channel.
 4. All squad members will remain in the Squad voice channel throughout the community orientation. 
 
 **Completion criteria:** Every squad member has sent a message in the squad chat, has joined the voice channel and your squad has a scribe.
@@ -70,7 +70,7 @@ Wait for other Squad members to join and introduce themselves. After all squad m
 
 
 1. Your scribe should share their screen
-2. While sharing screen, the team scribe should [**fork this repl**](https://replit.com/@kibocurriculum/Try-Kibo-WF-Orientation-About-Page)
+2. While sharing screen, the team scribe should <a href="https://replit.com/@kibocurriculum/Try-Kibo-WF-Orientation-About-Page">**fork this repl** </a>
 
 <details>
 <summary><strong>Video: How to fork a Repl (click arrow to open
@@ -80,7 +80,7 @@ toggle)</strong></summary>
 
 </details>
 
-2. Share link to collaborate on the Repl with your squad
+3. Share link to collaborate on the Repl with your squad
 
 <details>
 <summary><strong>Video:  Create an invite link to collaborate in Replit and share with team</strong></summary>
@@ -89,7 +89,7 @@ toggle)</strong></summary>
 
 </details>
 
-3. Follow the instructions in the file `instructions.md`.
+4. Follow the instructions in the file `instructions.md`.
 
 Work together as a team to add all the information below to your site:
 
@@ -102,7 +102,7 @@ Work together as a team to add all the information below to your site:
   - Why you are learning Web Foundations
 
     
-In the end, your site should look similar to [**this example site**](https://squad-about-page-example.kibocurriculum.repl.co/)
+In the end, your site should look similar to <a href="https://squad-about-page-example.kibocurriculum.repl.co/">**this example site** </a>
 
 Once the Team Info Program is done, ensure all team members have a link to the website - you will all individually submit that link in the next challenge.
 
@@ -114,10 +114,9 @@ Once the Team Info Program is done, ensure all team members have a link to the w
 
 **Description:** Submit the feedback form below indicating that you have completed the challenge. **You must submit the feedback form to receive credit for attending orientation.**
 
-1. Each squad member should submit the form below
-<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdE3i4C8qyP46mIcuP4gw9WuRDyqc1QKzvv5UGTXe0XiYBwjQ/viewform?embedded=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+1. Each squad member should submit <a href="https://forms.gle/JQ73bg8pMxLyTtnB7">**this form** </a>
 
-2. After each member has submitted, your scribe should get the link to the website and share it in the #random channel saying "Squad # has completed all the challenges.
+2. After each member has submitted the form above, your scribe should get the link to the website and share it in the <a href="https://discord.com/channels/866676763450933258/936572023319195658"> #random </a>channel saying "Squad # has completed all the challenges."
 
 Once this is done, the community orientation leaderboard will be updated with your Squad name 
 
