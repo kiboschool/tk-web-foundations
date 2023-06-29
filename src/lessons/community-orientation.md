@@ -70,7 +70,7 @@ Wait for other Squad members to join and introduce themselves. After all squad m
 
 
 1. Your scribe should share their screen
-2. While sharing screen, the team scribe should <a href="https://replit.com/@kibocurriculum/Try-Kibo-WF-Orientation-About-Page">**fork this repl** </a>
+2. While sharing screen, the team scribe should <a href="https://replit.com/@kibocurriculum/Try-Kibo-WF-Orientation-About-Page" target="_blank">**fork this repl** </a>
 
 <details>
 <summary><strong>Video: How to fork a Repl (click arrow to open
@@ -102,7 +102,7 @@ Work together as a team to add all the information below to your site:
   - Why you are learning Web Foundations
 
     
-In the end, your site should look similar to <a href="https://squad-about-page-example.kibocurriculum.repl.co/">**this example site** </a>
+In the end, your site should look similar to <a href="https://squad-about-page-example.kibocurriculum.repl.co/" target="_blank" >**this example site** </a>
 
 Once the Team Info Program is done, ensure all team members have a link to the website - you will all individually submit that link in the next challenge.
 
@@ -114,9 +114,9 @@ Once the Team Info Program is done, ensure all team members have a link to the w
 
 **Description:** Submit the feedback form below indicating that you have completed the challenge. **You must submit the feedback form to receive credit for attending orientation.**
 
-1. Each squad member should submit <a href="https://forms.gle/JQ73bg8pMxLyTtnB7">**this form** </a>
+1. Each squad member should submit <a href="https://forms.gle/JQ73bg8pMxLyTtnB7" target="_blank" >**this form** </a>
 
-2. After each member has submitted the form above, your scribe should get the link to the website and share it in the <a href="https://discord.com/channels/866676763450933258/936572023319195658"> #random </a>channel saying "Squad # has completed all the challenges."
+2. After each member has submitted the form above, your scribe should get the link to the website and share it in the <a href="https://discord.com/channels/866676763450933258/936572023319195658" target="_blank"> #random </a>channel saying "Squad # has completed all the challenges."
 
 Once this is done, the community orientation leaderboard will be updated with your Squad name 
 
