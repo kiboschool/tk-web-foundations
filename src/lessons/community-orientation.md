@@ -147,7 +147,7 @@ Once the Team Info Program is done, ensure all team members have a link to the w
 
 </aside>
 
-You’re done with orientation and ready to begin class. The Week 1 Lesson will be released on Monday, February 13.
+You’re done with orientation and ready to begin class. The Week 1 Lesson will be released on Monday, July 3.
 
 
 ---
