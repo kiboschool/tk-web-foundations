@@ -4,9 +4,9 @@
 
 [Set up for class](lessons/try-kibo-onboarding.md)
 
-<!-- [Community Orientation](lessons/community-orientation.md)
+[Community Orientation](lessons/community-orientation.md)
 
-[Learning Tips](learning-tips.md)
+<!-- [Learning Tips](learning-tips.md)
 
 [Live Classes](live-classes.md)
 
