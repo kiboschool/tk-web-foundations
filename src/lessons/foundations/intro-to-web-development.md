@@ -74,7 +74,7 @@ Here's a small example program in JavaScript that adds a list of names to the pa
 ```js
 let names = ["Lola", "Wasiu", "Rob"]
 
-for (let name in names) {
+for (let name of names) {
 	document.querySelector('.container') += name
 }
 ```

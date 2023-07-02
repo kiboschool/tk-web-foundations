@@ -17,13 +17,13 @@
 
 > 🍲 Starting with a plain text version of a recipe, write the HTML markup to turn it into a webpage.
 >
-> [https://replit.com/team/tk8-web-foundations/Chicken-Peanut-Stew-Recipe-Page](https://replit.com/team/tk8-web-foundations/Chicken-Peanut-Stew-Recipe-Page)
+> [https://replit.com/team/tk9-wf/Chicken-Peanut-Stew-Recipe-Page](https://replit.com/team/tk9-wf/Chicken-Peanut-Stew-Recipe-Page)
 
 ## Shirt City Landing Page: Debug
 
 > 👕 Help the new clothing brand Shirt City debug their landing page.
 >
-> [https://replit.com/team/tk8-web-foundations/Shirt-City-Landing-Page-Debug](https://replit.com/team/tk8-web-foundations/Shirt-City-Landing-Page-Debug)
+> [https://replit.com/team/tk9-wf/Shirt-City-Landing-Page-Debug](https://replit.com/team/tk9-wf/Shirt-City-Landing-Page-Debug)
 
 ## Make a Greeting Card
 
@@ -31,4 +31,4 @@
 
 > 🎉 Starting with the working version of a Birthday Card web page, edit the HTML and CSS to make it your own.
 >
-> [https://replit.com/team/tk8-web-foundations/Make-a-Greeting-Card](https://replit.com/team/tk8-web-foundations/Make-a-Greeting-Card)
+> [https://replit.com/team/tk9-wf/Make-a-Greeting-Card](https://replit.com/team/tk9-wf/Make-a-Greeting-Card)
