@@ -6,7 +6,7 @@
 
 <aside>
 
-<!-- TODO: Replace video -->
+<!-- COURSE START TODO: Record and replace video links with new videos-->
 
 📺 Watch this welcome video from your instructor, Theresa.
 
@@ -28,27 +28,37 @@ The course culminates in a project where you'll create a website of your own des
 
 * Week 1: Foundations
 * Week 2: Web Design
-* Week 3: JavaScript
-* Week 4: Layout and Multimedia
-* Week 5: Review and Final Project
+* Week 3: Javascript Fundamentals
+* Week 4: Action and Interaction
+* Week 5: Final Project
 
 ## How the course works
 
 There are multiple ways you'll learn in this course:
 
 * Read and engage with the materials on this site
-* Attend live class and complete the activities in class
-* Practice with exercises to try out the concepts
+* Attend live class and complete activities in class
+* Practice coding with exercises
 * Complete projects to demonstrate what you have learned
 
 Active engagement is necessary for success in the course! You should try building lots of websites so that you can explore the concepts in a variety of ways.
 
-You are encouraged to seek out additional practice outside of the practice problems included in the course.
+You are encouraged to seek out additional practice outside of the
+practice problems included in the course.
 
+<aside>
+
+📺 Watch this lesson navigation walkthrough video from Emmy, the Try Kibo program manager
+
+</aside>
+
+<div style="position: relative; height: 100%; width: 100%;">
+    <iframe width="100%" height="600" src="https://www.youtube.com/embed/ZFAEBoJ4lkU" title="Lesson Page Walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Program schedule
 
-<!-- TODO: Replace Program schedule -->
+<!-- COURSE START TODO: Replace Program schedule -->
 
 Below is the overall schedule for the program. Each day, your community managers will post a "Daily Peak" in Discord to share events for the day.
 
@@ -56,4 +66,4 @@ Below is the overall schedule for the program. Each day, your community managers
 
 ---
 
-Copyright © 2022 Kibo, Inc. All Rights Reserved.
+Copyright © 2023 Kibo, Inc. All Rights Reserved.

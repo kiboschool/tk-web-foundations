@@ -310,7 +310,7 @@ There are two kinds of lists. Unordered Lists `<ul>` have dots before each item.
 
 > 👉🏿 Your turn! Click the link below to attempt the practice exercise on Replit.
 
-> [https://replit.com/team/tk8-web-foundations/Practice-Use-the-basic-elements](https://replit.com/team/tk8-web-foundations/Practice-Use-the-basic-elements)
+> [https://replit.com/team/tk9-wf/Practice-Use-the-basic-elements](https://replit.com/team/tk9-wf/Practice-Use-the-basic-elements)
 
 To complete this, try to include these tags:
 

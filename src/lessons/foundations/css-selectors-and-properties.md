@@ -69,7 +69,7 @@ In the HTML file, we’ll link to `style.css` using the `<link>` tag:
 >
 > 👉🏿 Use the link below to attempt the practice exercise
 >
-> [https://replit.com/team/tk8-web-foundations/Practice-Link-the-Stylesheet](https://replit.com/team/tk8-web-foundations/Practice-Link-the-Stylesheet)
+> [https://replit.com/team/tk9-wf/Practice-Link-the-Stylesheet](https://replit.com/team/tk9-wf/Practice-Link-the-Stylesheet)
 
 ## CSS Syntax
 
@@ -218,7 +218,7 @@ If you want to see them and browse more examples, check out the [MDN page on CSS
 > 👉🏿 Practice using selectors
 >
 > In the CSS file, fill in the selectors for each of the rules so that the styles work.
-> [https://replit.com/team/tk8-web-foundations/Practice-Select-the-Elements](https://replit.com/team/tk8-web-foundations/Practice-Select-the-Elements)
+> [https://replit.com/team/tk9-wf/Practice-Select-the-Elements](https://replit.com/team/tk9-wf/Practice-Select-the-Elements)
 
 ## Practice: CSS Diner
 

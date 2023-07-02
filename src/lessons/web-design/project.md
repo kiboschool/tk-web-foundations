@@ -1,6 +1,6 @@
 # Project: Article Styling
 
-<!-- TODO: Adjust Due Date -->
+<!-- COURSE START TODO: Adjust Due Date -->
 **Due date: Sunday, February 26**
 
 <aside>

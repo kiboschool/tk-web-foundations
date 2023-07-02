@@ -1,6 +1,9 @@
 # Final project preparation
 
-Your final project (due on March 17) will be a website you create with a team.
+
+<!-- COURSE START TODO: Replace final project due -->
+
+Your final project (due on August 2) will be a website you create with a team.
 
 <aside>
 

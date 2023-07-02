@@ -15,10 +15,10 @@ Feedback is a gift! We use your feedback to improve our lessons for future stude
 
 <!-- TODO: Update form -->
 
-> 👉🏿 Submit your feedback  below or use [this link](https://docs.google.com/forms/d/e/1FAIpQLSe5TtDfkuzDwTo4aH0cPZ_O2HOaYJF46BF1jkBvmjBJ9dyo-Q/viewform).
+> 👉🏿 Submit your feedback  below or use [this link](https://docs.google.com/forms/d/e/1FAIpQLSepefPqVxP7OxEXKZpE4nb19iU4uWQntZPjeVbqJGo_ZEOHkw/viewform).
 
 
-<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfEbvSJ1EYI6MYmu9WJxfwpXeWIeoATpEWTlO8fRoKF4ppOrw/viewform?embedded=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSepefPqVxP7OxEXKZpE4nb19iU4uWQntZPjeVbqJGo_ZEOHkw/viewform?embedded=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
 
 # Further readings
 
