@@ -73,7 +73,7 @@ JavaScript can loop through an array (also known as a list) to perform the same 
 
 ```js
 let numbers = [1,2,3]
-for (let number in numbers) {
+for (let number of numbers) {
   console.log(number)
 }
 ```
