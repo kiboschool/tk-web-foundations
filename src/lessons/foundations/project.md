@@ -9,7 +9,7 @@
 
 <!-- TODO: ensure replit project is a group project -->
 
-Find a teammate (or two teammates, for a maximum of three students per team)
+Find a teammate in your squad (or two teammates, for a maximum of three students per team)
 and schedule time to work on the project together.
 
 If you have trouble finding a partner, or have trouble with the project, use the **#help-web** channel in Discord. You can work as a team or on your own, but working together is good practice for being on a professional team of developers.
