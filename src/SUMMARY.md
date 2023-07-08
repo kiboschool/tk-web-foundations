@@ -10,7 +10,7 @@
 
 [Learning Tips](learning-tips.md)
 
-<!-- [Live Classes](live-classes.md) -->
+[Live Classes](live-classes.md)
 
 <!-- [Weekly Projects](weekly-projects.md) -->
 
