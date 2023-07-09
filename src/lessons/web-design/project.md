@@ -1,7 +1,7 @@
 # Project: Article Styling
 
 <!-- COURSE START TODO: Adjust Due Date -->
-**Due date: Sunday, February 26**
+**Due date: Sunday, July 16**
 
 <aside>
 
@@ -15,7 +15,7 @@ If you get stuck, confused, or have trouble with the project, you should use the
 
 In this project, you'll use what you've learned about web design to style an article page based on an image.
 
-> [**Access** and **submit** the project in Replit here](https://replit.com/team/tk8-web-foundations/Project-Style-the-Blog-Article)
+> [**Access** and **submit** the project in Replit here](https://replit.com/team/tk9-wf/Project-Style-the-Blog-Article)
 
 Remember...
 

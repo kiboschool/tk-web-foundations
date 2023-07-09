@@ -81,7 +81,7 @@ It’s also nice to be able to make the cursor show differently when hovering so
 
 🏫 Practice applying what you’ve learned about styling text by styling the homepage for a school.
 
-[Access the Repl here](https://replit.com/team/tk8-web-foundations/Typesetting-a-community-college-homepage)
+[Access the Repl here](https://replit.com/team/tk9-wf/Typesetting-a-community-college-homepage)
 
 </aside>
 
