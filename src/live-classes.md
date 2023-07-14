@@ -24,7 +24,7 @@ recording of the class and complete the activity or exercise from the class so t
 [v1a]: https://zoom.us/rec/share/_iUd5Zr3yRbwBi39MYSR6uFyQVzlf3-J9Sv7ay_67maieCQjgpHFBoAjTjYFbsYR.eJtCMYb4sOCVbStr
 [v1b]: https://zoom.us/rec/share/3qgXyz0jDTpkloNG2vdVU8IwvEXae-O3RUPHPOfggqwGkDwQf2JgSQfpdFw5wITg._UEhOxLDsgioLZHl
 [v2a]: https://zoom.us/rec/share/VC3nVjSWKqfTR14zT0gJuaLD-jzyZtOEbGntZCxR3V1dp8H70wfuKu4YKRY7IY1c.gmyxi0rroKCu8WWT
-<!-- [v2b]: https://zoom.us/rec/share/CYvD0AdYGMPsd9NrcS4bVDJD2OXvsEKHipLeTS2DLieKbxpIkLlaD-Wokqd7tTxg.YSBE_mspSrtxNxYo -->
+[v2b]: https://zoom.us/rec/share/CYvD0AdYGMPsd9NrcS4bVDJD2OXvsEKHipLeTS2DLieKbxpIkLlaD-Wokqd7tTxg.YSBE_mspSrtxNxYo
 [e1a]: https://replit.com/team/tk9-wf/week1-fix-the-error
 [e1b]: https://replit.com/team/tk9-wf/MyPortfolio-structure-and-page-content
 [e2a]: https://replit.com/team/tk9-wf/week2-hunt-the-bug
