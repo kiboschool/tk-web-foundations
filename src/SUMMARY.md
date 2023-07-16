@@ -63,6 +63,7 @@
   - [Functions](lessons/javascript-fundamentals/functions.md)
   - [Practice](lessons/javascript-fundamentals/practice.md)
   - [Project](lessons/javascript-fundamentals/project.md)
+  - [Wrap Up](lessons/javascript-fundamentals/wrap-up.md)
 
 ### Week 4
 
