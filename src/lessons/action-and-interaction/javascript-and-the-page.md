@@ -131,6 +131,6 @@ You won’t learn everything about JavaScript syntax in this course. Instead, yo
 
 🐈 Practice hiding elements by making the cat disappear after a few seconds.
 
-[Access the exercise here](https://replit.com/team/tk8-web-foundations/Practice-The-Cat-that-Disappeared)
+[Access the exercise here](https://replit.com/team/tk9-wf/Practice-The-Cat-that-Disappeared)
 
 </aside

@@ -1,7 +1,7 @@
 # Project: Content Gallery
 
 <!-- COURSE START TODO: Adjust Due Date -->
-**Due date: Sunday, March 5**
+**Due date: Sunday, July 30**
 
 <aside>
 
@@ -9,7 +9,7 @@
 then join the Replit team together and schedule time to work on the project.
 
 If you have trouble finding a partner, or have trouble with the project, use the
-help channel in Discord.
+find-project-partner channel in Discord.
 
 You can work together by sharing your screen, or by working together at the same time in Replit. We do not advise splitting the project into tasks. Find a time to work together at the same time.
 
@@ -20,4 +20,4 @@ You can work together by sharing your screen, or by working together at the same
 In this project, you’ll get a chance to combine interactive elements with CSS and JavaScript to build an interactive gallery of content.
 
 <!-- COURSE START TODO: Adjust Replit link -->
-[**Access** and **submit** the project in Replit here](https://replit.com/team/tk8-web-foundations/Content-Gallery)
+[**Access** and **submit** the project in Replit here](https://replit.com/team/tk9-wf/Content-Gallery)

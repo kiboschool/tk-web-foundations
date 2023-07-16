@@ -111,4 +111,4 @@ For more, check out
 
 > 📺 Practice using the `<iframe>` element by embedding a map and a video into a page.
 >
-> [Access the exercise here](https://replit.com/team/tk8-web-foundations/Add-Embedded-Videos-and-Maps)
+> [Access the exercise here](https://replit.com/team/tk9-wf/Add-Embedded-Videos-and-Maps)

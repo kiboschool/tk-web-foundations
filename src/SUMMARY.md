@@ -12,11 +12,11 @@
 
 [Live Classes](live-classes.md)
 
-<!-- [Weekly Projects](weekly-projects.md) -->
+[Weekly Projects](weekly-projects.md)
 
-<!-- [Final Project](final-project.md) -->
+[Final Project](final-project.md)
 
-<!-- [Wrapping Up](wrapping-up.md) -->
+[Wrapping Up](wrapping-up.md)
 
 ## Lessons
 
@@ -49,7 +49,7 @@
   - [Bonus: Web Fonts](lessons/web-design/styling-text/fonts.md)
   - [Wrap Up](lessons/web-design/wrap-up.md)
 
-<!-- ### Week 3
+### Week 3
 
 - [Javascript Fundamentals](lessons/javascript-fundamentals.md)
   - [Introduction to JavaScript](lessons/javascript-fundamentals/introduction-to-javascript.md)
@@ -62,17 +62,18 @@
   - [Loops](lessons/javascript-fundamentals/loops.md)
   - [Functions](lessons/javascript-fundamentals/functions.md)
   - [Practice](lessons/javascript-fundamentals/practice.md)
-  - [Project](lessons/javascript-fundamentals/project.md) -->
+  - [Project](lessons/javascript-fundamentals/project.md)
+  - [Wrap Up](lessons/javascript-fundamentals/wrap-up.md)
 
-<!-- ### Week 4
+### Week 4
 
 - [Action & Interaction](lessons/action-and-interaction/action-and-interaction.md)
   - [JavaScript and the page](lessons/action-and-interaction/javascript-and-the-page.md)
   - [Events in JavaScript](lessons/action-and-interaction/responding-to-events-in-javascript.md)
   - [Practice](lessons/action-and-interaction/practice.md)
-  - [Wrap Up](lessons/action-and-interaction/wrap-up.md) -->
+  - [Wrap Up](lessons/action-and-interaction/wrap-up.md)
 
-<!-- ### Week 5
+### Week 5
 
 - [Publishing and Sharing](lessons/publishing-and-sharing.md)
   - [How the Internet Works](lessons/publishing-and-sharing/how-the-internet-works-again.md)
@@ -83,7 +84,7 @@
   - [Wrap Up](lessons/publishing-and-sharing/wrap-up.md)
   - [Bonus: More about DNS](lessons/publishing-and-sharing/bonus-dns.md) -->
 
-<!-- ### Bonus: Layout and Multimedia
+### Bonus: Layout and Multimedia
 
 - [Layout and Multimedia](lessons/layout.md)
   - [Layout](lessons/layout/layout.md)
@@ -94,6 +95,6 @@
   - [Practice](lessons/layout/practice.md)
   - [Wrap Up](lessons/layout/wrap-up.md)
   - [Bonus: More styling](lessons/bonus/multimedia-layout/bonus-more-styling.md)
-  - [Bonus: Interactive Elements](lessons/bonus/multimedia-layout/bonus-interactive-elements.md) --> -->
+  - [Bonus: Interactive Elements](lessons/bonus/multimedia-layout/bonus-interactive-elements.md) -->
 
 

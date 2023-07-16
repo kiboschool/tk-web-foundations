@@ -12,7 +12,7 @@
 
 📽️ Practice writing a Readme for an HTML slide show project.
 
-[**Access** and **Submit** exercise here](https://replit.com/team/tk8-web-foundations/Write-a-Readme)
+[**Access** and **Submit** exercise here](https://replit.com/team/tk9-wf/Write-a-Readme)
 
 </aside>
 
@@ -24,7 +24,7 @@
 
 👀 Add tags to this site so that it has a cool preview when shared on social media or viewed in search results.
 
-[**Access** and **Submit** exercise here](https://replit.com/team/tk8-web-foundations/Add-Cool-Link-Previews)
+[**Access** and **Submit** exercise here](https://replit.com/team/tk9-wf/Add-Cool-Link-Previews)
 
 </aside>
 
