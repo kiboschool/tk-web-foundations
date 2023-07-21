@@ -12,11 +12,11 @@
 
 [Live Classes](live-classes.md)
 
-<!-- [Weekly Projects](weekly-projects.md) -->
+[Weekly Projects](weekly-projects.md)
 
-<!-- [Final Project](final-project.md) -->
+[Final Project](final-project.md)
 
-<!-- [Wrapping Up](wrapping-up.md) -->
+[Wrapping Up](wrapping-up.md)
 
 ## Lessons
 
@@ -73,7 +73,7 @@
   - [Practice](lessons/action-and-interaction/practice.md)
   - [Wrap Up](lessons/action-and-interaction/wrap-up.md)
 
-<!-- ### Week 5
+### Week 5
 
 - [Publishing and Sharing](lessons/publishing-and-sharing.md)
   - [How the Internet Works](lessons/publishing-and-sharing/how-the-internet-works-again.md)
@@ -82,9 +82,9 @@
   - [Sharing your work](lessons/publishing-and-sharing/sharing-your-work.md)
   - [Practice](lessons/publishing-and-sharing/practice.md)
   - [Wrap Up](lessons/publishing-and-sharing/wrap-up.md)
-  - [Bonus: More about DNS](lessons/publishing-and-sharing/bonus-dns.md) --> -->
+  - [Bonus: More about DNS](lessons/publishing-and-sharing/bonus-dns.md) 
 
-<!-- ### Bonus: Layout and Multimedia
+### Bonus: Layout and Multimedia
 
 - [Layout and Multimedia](lessons/layout.md)
   - [Layout](lessons/layout/layout.md)
@@ -95,6 +95,6 @@
   - [Practice](lessons/layout/practice.md)
   - [Wrap Up](lessons/layout/wrap-up.md)
   - [Bonus: More styling](lessons/bonus/multimedia-layout/bonus-more-styling.md)
-  - [Bonus: Interactive Elements](lessons/bonus/multimedia-layout/bonus-interactive-elements.md) --> -->
+  - [Bonus: Interactive Elements](lessons/bonus/multimedia-layout/bonus-interactive-elements.md) 
 
 
