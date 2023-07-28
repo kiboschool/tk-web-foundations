@@ -41,7 +41,8 @@ Here’s some guidelines that can help you pick an exciting project you’ll be 
 
 - Different HTML elements
 - Web Design (fonts, colors, layout)
-- Interactivity (images, media, and some JavaScript)
+- Interactivity (images and some JavaScript)
+<!-- - Interactivity (images, media, and some JavaScript) -->
 
 ### What features should you **avoid**?
 
