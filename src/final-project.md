@@ -1,7 +1,7 @@
 # Final project
 
 ---
-**Due date: Sunday, August 4**
+**Due date: Friday, August 4**
 
 **In week 5 there are no new topics to learn.** So you’ll focus on your final project, and then work on finishing up the work from the previous weeks and wrapping up the course.
 
