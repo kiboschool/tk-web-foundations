@@ -1,6 +1,7 @@
 # Final project
 
 ---
+**Due date: Friday, August 4**
 
 **In week 5 there are no new topics to learn.** So you’ll focus on your final project, and then work on finishing up the work from the previous weeks and wrapping up the course.
 
@@ -41,7 +42,8 @@ Here’s some guidelines that can help you pick an exciting project you’ll be 
 
 - Different HTML elements
 - Web Design (fonts, colors, layout)
-- Interactivity (images, media, and some JavaScript)
+- Interactivity (images and some JavaScript)
+<!-- - Interactivity (images, media, and some JavaScript) -->
 
 ### What features should you **avoid**?
 
@@ -63,9 +65,10 @@ A design doc can also help you track what work you’ve done, and what work is l
 
 <aside>
 
-✨ Your team should **create a new project in Replit**, so that you can collaborate.
+✨ Your team should use **[this replit project](https://replit.com/team/tk9-wf/Final-Project)** to collaborate.
 
 </aside>
+
 
 ## Submitting the Project
 
