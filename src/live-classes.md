@@ -11,7 +11,7 @@ Video recordings, slides, and links for the exercises will be posted after the c
 | 1    | Foundations            | [View][s1] | [View][v1a]   | [View][v1b]   | [View][e1a] [View][e1b]        | [View][sur1] |
 | 2    | Web Design             | [View][s2] | [View][v2a]   | [View][v2b]   | [View][e2a] [View][e2b]        | [View][sur2] |
 | 3    | Javascript Fundamentals | [View][s3] | [View][v3a]  | [View][v3b]   | [View][e3]                     | [View][sur3] |
-<!-- | 4    | Action & Interaction                 | [View][s4] |               |               |          | [View][sur4] | -->
+| 4    | Action & Interaction   | [View][s4] |  [View][v4a]  | [View][v4b]   | [View][e4a] [View][e4b]        | [View][sur4] |
 <!-- | 5    | Layout |            |               |               |          |              | -->
 
 If you miss a class, first notify your instructor. Then, review the slides and
@@ -20,19 +20,23 @@ recording of the class and complete the activity or exercise from the class so t
 [s1]: https://docs.google.com/presentation/d/1JWJ-rzUvNzwUpOUfYQ2dJJPbbBWWDO-E-xki_CSvJlg/edit?usp=sharing
 [s2]: https://docs.google.com/presentation/d/1Y89LPjdFIRHdODnD64FbUvj1Nk3mlifniQ1WiXzCAWY/edit?usp=sharing
 [s3]: https://docs.google.com/presentation/d/1U56UeTYwNPZzZ8v8wmn-yrz5fRJv5ov3x6IzIyDotfo/edit?usp=sharing
-<!-- [s4]: https://docs.google.com/presentation/d/1du7uMS-UeoQ7ZCBN9641v19jtaTVCTLimaHZQzw6HTI/edit?usp=sharing -->
+[s4]: https://docs.google.com/presentation/d/1DL-UUGyn5mRohhF8HHtL3InNeiRMrcX6zGq2pSHJ3pg/edit?usp=sharing
 [v1a]: https://zoom.us/rec/share/_iUd5Zr3yRbwBi39MYSR6uFyQVzlf3-J9Sv7ay_67maieCQjgpHFBoAjTjYFbsYR.eJtCMYb4sOCVbStr
 [v1b]: https://zoom.us/rec/share/3qgXyz0jDTpkloNG2vdVU8IwvEXae-O3RUPHPOfggqwGkDwQf2JgSQfpdFw5wITg._UEhOxLDsgioLZHl
 [v2a]: https://zoom.us/rec/share/VC3nVjSWKqfTR14zT0gJuaLD-jzyZtOEbGntZCxR3V1dp8H70wfuKu4YKRY7IY1c.gmyxi0rroKCu8WWT
 [v2b]: https://zoom.us/rec/share/CYvD0AdYGMPsd9NrcS4bVDJD2OXvsEKHipLeTS2DLieKbxpIkLlaD-Wokqd7tTxg.YSBE_mspSrtxNxYo
 [v3a]: https://zoom.us/rec/share/pGYYFXqO3KjI4PyMVPPEMGUqdqNgPQuqY76M6IUQJXf7FPVMk134DHZxs5IH9UfW.wpGjG3t96-j06fHn
 [v3b]: https://zoom.us/rec/share/-f0zuk7JvWWNbsz-G1g5Lonfvg-frKazumRWracabnlgoptyUuJS74POCdPfdzti.A46ViwjUCj3VoD8T
+[v4a]: https://zoom.us/rec/share/PQ4MrHW7G9HEz0Eu6oIE5jI1kX7gf0IHt4_vlFEzitU3bkY7HCFXZzvrh2SjuaOP.hefGmdm9THuUNEJU
+[v4b]: https://zoom.us/rec/share/y4hKClYKSCyopBROKaV4dpJqOZklhjiI-F7P7mvRPXTxbl48pqp2UX9TXPvt_mFc.HKbr1xJfXG1iVqr6
 [e1a]: https://replit.com/team/tk9-wf/week1-fix-the-error
 [e1b]: https://replit.com/team/tk9-wf/MyPortfolio-structure-and-page-content
 [e2a]: https://replit.com/team/tk9-wf/week2-hunt-the-bug
 [e2b]: https://replit.com/team/tk9-wf/style-your-portfolio
-[e3]: https://www.w3schools.com/js/exercise_js.asp
+[e3]:  https://www.w3schools.com/js/exercise_js.asp
+[e4a]: https://replit.com/team/tk9-wf/week3-for-the-love-of-peace
+[e4b]: https://replit.com/team/tk9-wf/interact-with-your-website
 [sur1]: https://docs.google.com/forms/d/e/1FAIpQLSdwvTXIBDsHSMzqs4wDNZx6BvZyw4RPkZQGMGcyTvSRoiUrUQ/viewform
 [sur2]: https://docs.google.com/forms/d/e/1FAIpQLSdwvTXIBDsHSMzqs4wDNZx6BvZyw4RPkZQGMGcyTvSRoiUrUQ/viewform
 [sur3]: https://docs.google.com/forms/d/e/1FAIpQLSdwvTXIBDsHSMzqs4wDNZx6BvZyw4RPkZQGMGcyTvSRoiUrUQ/viewform?usp=sf_link
-<!-- [sur4]: https://docs.google.com/forms/d/e/1FAIpQLSdZcQEEfK65XhhVv01Rkaz1m2TQ4G6g5AnQuMVVBezDg9DfHw/viewform?usp=sf_link -->
+[sur4]: https://docs.google.com/forms/d/e/1FAIpQLSdwvTXIBDsHSMzqs4wDNZx6BvZyw4RPkZQGMGcyTvSRoiUrUQ/viewform?usp=sf_link
