@@ -42,7 +42,8 @@ We love sharing alumni stories on social media, and need your permission to do s
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/-epo6wF180A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-![Tips For Pets Keeping YouTube Thumbnail (4)](https://github.com/kiboschool/tk-web-foundations/assets/88333571/6051e6cc-d316-43e6-85de-04ca789dd5f1)
+![Tips For Pets Keeping YouTube Thumbnail (5)](https://github.com/kiboschool/tk-web-foundations/assets/88333571/a60b1669-fe00-4af7-b991-8f948882ccf4)
+
 
 ## Stay in the Kibo family
 
