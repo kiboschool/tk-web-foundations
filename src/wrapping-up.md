@@ -4,21 +4,23 @@ Congratulations on ***almost*** finishing your Web Foundations journey. Below is
 
 ## Earn Your Web Foundations Certificate
 
-You have worked really hard and we want to recognize that work with a certificate you can share digitally. To earn your certificate, **you need to complete the following by Friday, Mar 17**
+You have worked really hard and we want to recognize that work with a certificate you can share digitally. To earn your certificate, **you need to complete the following by Friday, Aug 4**
 
 - Complete all the projects from Weeks 1 - 3, and submit in Replit. (Note: these are the assignments on the “Project” pages of each lesson)
 - Complete the **[Final Project](final-project.md)** and **submit the form**
-- Complete the <a href="https://forms.gle/PboqmgCxRCjBvc5L9" target="_blank">**Web Foundations Feedback Survey**</a>
+- Complete the <a href="https://forms.gle/7pkJZvEUeeFZKUMH8" target="_blank">**Web Foundations Feedback Survey**</a>
 
-### Apply to Kibo's Computer Science degree program
+---
 
-![Mar 2023 Degree Promo - Twitter](https://user-images.githubusercontent.com/88333571/224420008-37fb778c-c2d3-4eee-999c-760acd5872ac.png)
+## Study computer science at Kibo in 2024
 
-Kibo has opened applications for its 3-year BSc degree program in Computer Science🎓. 
+![Mar 2023 Degree Promo - Twitter (1)](https://github.com/kiboschool/tk-future-proof-with-python/assets/88333571/04ea69f4-1a6a-425a-bbf3-552b2d56b831)
 
-In October 2022, we launched the <a href="https://www.linkedin.com/feed/update/urn:li:activity:6982627519971643392" target = "_blank">founding class </a> for students in Nigeria (Abeokuta, Ibadan, Lagos), Ghana (Accra, Kumasi), and Kenya (Nairobi) to transform them into world-class technologists! If you enjoyed Try Kibo and want to learn much more, consider applying to join Kibo's Bachelor's Degree program.
+From software engineering and product management to data science and academia, your professional options with computer science are virtually limitless. Build a career of impact as a world-class technologist at Kibo.
 
-Learn more and <a href="https://kibo.school/degree/" target="_blank">apply here </a>
+Learn more and indicate you interest here <a href="https://kibo.school/degree/" target="_blank">here </a>
+
+---
 
 ## Share your experience
 
@@ -38,13 +40,9 @@ We love sharing alumni stories on social media, and need your permission to do s
 
  Here are some testimonials from Try Kibo Alumni of previous cohorts
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/bUwyrTy2VLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/-epo6wF180A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-![2](https://user-images.githubusercontent.com/88333571/224418893-862fd995-a76a-4507-a648-3086ebbacc83.png)
-
-![3](https://user-images.githubusercontent.com/88333571/224418918-04704f4f-806e-485b-bf11-3b9c98506b04.png)
-
-![1](https://user-images.githubusercontent.com/88333571/224418940-9a507166-c93b-4a4c-9851-7039c6b0db77.png)
+![Tips For Pets Keeping YouTube Thumbnail (4)](https://github.com/kiboschool/tk-web-foundations/assets/88333571/6051e6cc-d316-43e6-85de-04ca789dd5f1)
 
 ## Stay in the Kibo family
 
@@ -58,7 +56,7 @@ We love sharing alumni stories on social media, and need your permission to do s
 
 This experience has been better by the efforts of so many people, including your peers. Take a minute to write and read notes of gratitude:
 
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4;margin-top:30px;"><iframe src="https://padlet.com/curriculumpad/try-kibo-feb-2023-gratitude-board-mo7fk97b6k9pdfkp" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4;margin-top:30px;"><iframe src="https://padlet.com/embed/k9lk72lhey17gkew" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 
 ## Keep coding
@@ -75,6 +73,6 @@ Remember that programming is a long journey and what matters is to learn well, n
 
 Kibo would not be the same without your participation. We are so grateful that you joined us!
 
-![image (41)](https://user-images.githubusercontent.com/88333571/224420615-bc22410d-cadd-49a8-ba7d-3623b5649e01.png)
+![image (46)](https://github.com/kiboschool/tk-web-foundations/assets/88333571/af6590ec-d008-4ad8-ba03-5e6cfd9324c4)
 
-![image (42)](https://user-images.githubusercontent.com/88333571/224420744-81cd1ca1-9be6-453b-80f3-4fa64dd844d4.png)
+![image (47)](https://github.com/kiboschool/tk-web-foundations/assets/88333571/720470c9-33db-496c-9ea6-14d843919e49)
