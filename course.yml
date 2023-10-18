@@ -6,6 +6,7 @@ units:
     activities:
       - name: Welcome
         path: src/welcome.md
+        grade_weight: 100
       - name: Set up for class
         path: src/lessons/try-kibo-onboarding.md
       - name: Community Orientation
