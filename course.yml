@@ -7,107 +7,155 @@ units:
       - name: Welcome
         path: src/welcome.md
         grade_weight: 100
+        publish: true
       - name: Set up for class
         path: src/lessons/try-kibo-onboarding.md
+        publish: true
       - name: Community Orientation
         path: src/lessons/community-orientation.md
+        publish: 2023-10-27
       - name: Learning Tips
         path: src/learning-tips.md
+        publish: 2023-10-27
       - name: Live Classes
         path: src/live-classes.md
+        publish: 2023-10-27
   - name: 'Week 1: Foundations'
     activities:
       - name: Introduction
         path: src/lessons/foundations.md
+        publish: 2023-10-29
       - name: Intro to Web Development
         path: src/lessons/foundations/intro-to-web-development.md
+        publish: 2023-10-29
       - name: Websites and the Internet
         path: src/lessons/foundations/websites-and-the-internet.md
+        publish: 2023-10-29
       - name: HTML Elements and Attributes
         path: src/lessons/foundations/html-elements-and-attributes.md
+        publish: 2023-10-29
       - name: CSS Selectors and Properties
         path: src/lessons/foundations/css-selectors-and-properties.md
+        publish: 2023-10-29
       - name: A Taste of Javascript
         path: src/lessons/foundations/a-taste-of-javascript.md
+        publish: 2023-10-29
       - name: Browser Devtools
         path: src/lessons/foundations/devtools.md
+        publish: 2023-10-29
       - name: Practice
         path: src/lessons/foundations/practice.md
+        publish: 2023-10-29
       - name: Project
         path: src/lessons/foundations/project.md
+        publish: 2023-10-29
       - name: Wrap Up
         path: src/lessons/foundations/wrap-up.md
+        publish: 2023-10-29
       - name: 'Bonus: More HTML elements'
         path: src/lessons/foundations/bonus-more-html-elements.md
+        publish: 2023-10-29
       - name: 'Bonus: Static and Dynamic'
         path: src/lessons/bonus/static-and-dynamic-websites.md
+        publish: 2023-10-29
   - name: 'Week 2: Web Design'
     activities:
       - name: Introduction
         path: src/lessons/web-design.md
+        publish: 2023-11-04
       - name: What is Web Design?
         path: src/lessons/web-design/what-is-web-design.md
+        publish: 2023-11-04
       - name: Styling Text
         path: src/lessons/web-design/styling-text.md
+        publish: 2023-11-04
       - name: CSS Text Properties
         path: src/lessons/web-design/styling-text/css-text-properties.md
+        publish: 2023-11-04
       - name: Styling Elements
         path: src/lessons/web-design/styling-text/styling-elements.md
+        publish: 2023-11-04
       - name: Colors
         path: src/lessons/web-design/colors.md
+        publish: 2023-11-04
       - name: The Box Model
         path: src/lessons/web-design/the-box-model.md
+        publish: 2023-11-04
       - name: Practice
         path: src/lessons/web-design/practice.md
+        publish: 2023-11-04
       - name: Project
         path: src/lessons/web-design/project.md
-      - name: 'Bonus: Web Fonts'
-        path: src/lessons/web-design/styling-text/fonts.md
+        publish: 2023-11-04
       - name: Wrap Up
         path: src/lessons/web-design/wrap-up.md
+        publish: 2023-11-04
+      - name: 'Bonus: Web Fonts'
+        path: src/lessons/web-design/styling-text/fonts.md
+        publish: 2023-11-04
   - name: 'Week 3: Layout and Multimedia'
     activities:
       - name: Introduction
         path: src/lessons/layout.md
+        publish: 2023-11-11
       - name: Layout
         path: src/lessons/layout/layout.md
+        publish: 2023-11-11
       - name: Flexbox
         path: src/lessons/layout/flexbox.md
+        publish: 2023-11-11
       - name: CSS Grid
         path: src/lessons/layout/grid.md
+        publish: 2023-11-11
       - name: Positioning
         path: src/lessons/layout/positioning.md
+        publish: 2023-11-11
       - name: Multimedia Elements
         path: src/lessons/bonus/multimedia-layout/multimedia-html-elements.md
+        publish: 2023-11-11
       - name: Practice
         path: src/lessons/layout/practice.md
+        publish: 2023-11-11
       - name: Wrap Up
         path: src/lessons/layout/wrap-up.md
+        publish: 2023-11-11
       - name: 'Bonus: More styling'
         path: src/lessons/bonus/multimedia-layout/bonus-more-styling.md
+        publish: 2023-11-11
       - name: 'Bonus: Interactive Elements'
         path: src/lessons/bonus/multimedia-layout/bonus-interactive-elements.md
+        publish: 2023-11-11
   - name: 'Week 4: Publishing and Sharing'
     activities:
       - name: Introduction
         path: src/lessons/publishing-and-sharing.md
+        publish: 2023-11-18
       - name: How the Internet Works
         path: src/lessons/publishing-and-sharing/how-the-internet-works-again.md
+        publish: 2023-11-18
       - name: Publishing your site
         path: src/lessons/publishing-and-sharing/publishing-your-site.md
+        publish: 2023-11-18
       - name: Domains and Hosting
         path: src/lessons/publishing-and-sharing/domains-and-hosting.md
+        publish: 2023-11-18
       - name: Sharing your work
         path: src/lessons/publishing-and-sharing/sharing-your-work.md
+        publish: 2023-11-18
       - name: Practice
         path: src/lessons/publishing-and-sharing/practice.md
+        publish: 2023-11-18
       - name: Wrap Up
         path: src/lessons/publishing-and-sharing/wrap-up.md
+        publish: 2023-11-18
       - name: 'Bonus: More about DNS'
         path: src/lessons/publishing-and-sharing/bonus-dns.md
+        publish: 2023-11-18
   - name: 'Week 5: Final Project and Wrap Up'
     activities:
       - name: Final Project
         path: src/final-project.md
+        publish: 2023-11-18
       - name: Wrapping Up
         path: src/wrapping-up.md
+        publish: 2023-11-18
