@@ -45,5 +45,3 @@ document.querySelector('#yum')
 `#gross`, `.reaction`, and `#yum` are all CSS Selectors! When you learn to use JavaScript to create interactions, you’ll still use concepts from HTML and CSS.
 
 The same CSS selectors that you use for styles will also let you pick HTML elements in your JS code.
-
-In week 3, we’ll talk more about how the rest of the code works.

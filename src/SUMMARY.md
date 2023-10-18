@@ -12,8 +12,6 @@
 
 [Live Classes](live-classes.md)
 
-<!-- [Weekly Projects](weekly-projects.md) -->
-
 [Final Project](final-project.md)
 
 [Wrapping Up](wrapping-up.md)
@@ -49,6 +47,31 @@
   - [Bonus: Web Fonts](lessons/web-design/styling-text/fonts.md)
   - [Wrap Up](lessons/web-design/wrap-up.md)
 
+### Week 3: Layout and Multimedia
+
+- [Layout and Multimedia](lessons/layout.md)
+  - [Layout](lessons/layout/layout.md)
+  - [Flexbox](lessons/layout/flexbox.md)
+  - [CSS Grid](lessons/layout/grid.md)
+  - [Positioning](lessons/layout/positioning.md)
+  - [Multimedia Elements](lessons/bonus/multimedia-layout/multimedia-html-elements.md)
+  - [Practice](lessons/layout/practice.md)
+  - [Wrap Up](lessons/layout/wrap-up.md)
+  - [Bonus: More styling](lessons/bonus/multimedia-layout/bonus-more-styling.md)
+  - [Bonus: Interactive Elements](lessons/bonus/multimedia-layout/bonus-interactive-elements.md)  -->
+
+### Week 4: Publishing and Sharing
+
+- [Publishing and Sharing](lessons/publishing-and-sharing.md)
+  - [How the Internet Works](lessons/publishing-and-sharing/how-the-internet-works-again.md)
+  - [Publishing your site](lessons/publishing-and-sharing/publishing-your-site.md)
+  - [Domains and Hosting](lessons/publishing-and-sharing/domains-and-hosting.md)
+  - [Sharing your work](lessons/publishing-and-sharing/sharing-your-work.md)
+  - [Practice](lessons/publishing-and-sharing/practice.md)
+  - [Wrap Up](lessons/publishing-and-sharing/wrap-up.md)
+  - [Bonus: More about DNS](lessons/publishing-and-sharing/bonus-dns.md)  -->
+
+<!--
 ### Week 3
 
 - [Javascript Fundamentals](lessons/javascript-fundamentals.md)
@@ -65,6 +88,9 @@
   - [Project](lessons/javascript-fundamentals/project.md)
   - [Wrap Up](lessons/javascript-fundamentals/wrap-up.md)
 
+-->
+
+<!--
 ### Week 4
 
 - [Action & Interaction](lessons/action-and-interaction/action-and-interaction.md)
@@ -72,29 +98,5 @@
   - [Events in JavaScript](lessons/action-and-interaction/responding-to-events-in-javascript.md)
   - [Practice](lessons/action-and-interaction/practice.md)
   - [Wrap Up](lessons/action-and-interaction/wrap-up.md)
-
-<!-- ### Week 5
-
-- [Publishing and Sharing](lessons/publishing-and-sharing.md)
-  - [How the Internet Works](lessons/publishing-and-sharing/how-the-internet-works-again.md)
-  - [Publishing your site](lessons/publishing-and-sharing/publishing-your-site.md)
-  - [Domains and Hosting](lessons/publishing-and-sharing/domains-and-hosting.md)
-  - [Sharing your work](lessons/publishing-and-sharing/sharing-your-work.md)
-  - [Practice](lessons/publishing-and-sharing/practice.md)
-  - [Wrap Up](lessons/publishing-and-sharing/wrap-up.md)
-  - [Bonus: More about DNS](lessons/publishing-and-sharing/bonus-dns.md)  -->
-
-<!-- ### Bonus: Layout and Multimedia
-
-- [Layout and Multimedia](lessons/layout.md)
-  - [Layout](lessons/layout/layout.md)
-  - [Flexbox](lessons/layout/flexbox.md)
-  - [CSS Grid](lessons/layout/grid.md)
-  - [Positioning](lessons/layout/positioning.md)
-  - [Multimedia Elements](lessons/bonus/multimedia-layout/multimedia-html-elements.md)
-  - [Practice](lessons/layout/practice.md)
-  - [Wrap Up](lessons/layout/wrap-up.md)
-  - [Bonus: More styling](lessons/bonus/multimedia-layout/bonus-more-styling.md)
-  - [Bonus: Interactive Elements](lessons/bonus/multimedia-layout/bonus-interactive-elements.md)  -->
-
+-->
 

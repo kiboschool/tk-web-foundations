@@ -28,8 +28,8 @@ The course culminates in a project where you'll create a website of your own des
 
 * Week 1: Foundations
 * Week 2: Web Design
-* Week 3: Javascript Fundamentals
-* Week 4: Action and Interaction
+* Week 3: Layout and Multimedia
+* Week 4: Publishing and Sharing
 * Week 5: Final Project
 
 ## How the course works

@@ -23,7 +23,7 @@ the team together.
 
 Your final project will be a website you design and create with a team.
 
-You’ve learned a ton about HTML, CSS, and JavaScript in this course. The final
+You’ve learned a ton about HTML, CSS, and the web in this course. The final
 project is your chance to build a website of your own design from scratch.
 
 There are few requirements. You must use the knowledge you learned in the
@@ -42,7 +42,7 @@ Here’s some guidelines that can help you pick an exciting project you’ll be 
 
 - Different HTML elements
 - Web Design (fonts, colors, layout)
-- Interactivity (images and some JavaScript)
+- Interactivity (media elements)
 <!-- - Interactivity (images, media, and some JavaScript) -->
 
 ### What features should you **avoid**?
