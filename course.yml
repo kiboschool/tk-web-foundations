@@ -1,0 +1,112 @@
+name: 'Try Kibo: Web Foundations'
+term: Oct-23
+code: TKWF
+units:
+  - name: Introduction
+    activities:
+      - name: Welcome
+        path: src/welcome.md
+      - name: Set up for class
+        path: src/lessons/try-kibo-onboarding.md
+      - name: Community Orientation
+        path: src/lessons/community-orientation.md
+      - name: Learning Tips
+        path: src/learning-tips.md
+      - name: Live Classes
+        path: src/live-classes.md
+  - name: 'Week 1: Foundations'
+    activities:
+      - name: Introduction
+        path: src/lessons/foundations.md
+      - name: Intro to Web Development
+        path: src/lessons/foundations/intro-to-web-development.md
+      - name: Websites and the Internet
+        path: src/lessons/foundations/websites-and-the-internet.md
+      - name: HTML Elements and Attributes
+        path: src/lessons/foundations/html-elements-and-attributes.md
+      - name: CSS Selectors and Properties
+        path: src/lessons/foundations/css-selectors-and-properties.md
+      - name: A Taste of Javascript
+        path: src/lessons/foundations/a-taste-of-javascript.md
+      - name: Browser Devtools
+        path: src/lessons/foundations/devtools.md
+      - name: Practice
+        path: src/lessons/foundations/practice.md
+      - name: Project
+        path: src/lessons/foundations/project.md
+      - name: Wrap Up
+        path: src/lessons/foundations/wrap-up.md
+      - name: 'Bonus: More HTML elements'
+        path: src/lessons/foundations/bonus-more-html-elements.md
+      - name: 'Bonus: Static and Dynamic'
+        path: src/lessons/bonus/static-and-dynamic-websites.md
+  - name: 'Week 2: Web Design'
+    activities:
+      - name: Introduction
+        path: src/lessons/web-design.md
+      - name: What is Web Design?
+        path: src/lessons/web-design/what-is-web-design.md
+      - name: Styling Text
+        path: src/lessons/web-design/styling-text.md
+      - name: CSS Text Properties
+        path: src/lessons/web-design/styling-text/css-text-properties.md
+      - name: Styling Elements
+        path: src/lessons/web-design/styling-text/styling-elements.md
+      - name: Colors
+        path: src/lessons/web-design/colors.md
+      - name: The Box Model
+        path: src/lessons/web-design/the-box-model.md
+      - name: Practice
+        path: src/lessons/web-design/practice.md
+      - name: Project
+        path: src/lessons/web-design/project.md
+      - name: 'Bonus: Web Fonts'
+        path: src/lessons/web-design/styling-text/fonts.md
+      - name: Wrap Up
+        path: src/lessons/web-design/wrap-up.md
+  - name: 'Week 3: Layout and Multimedia'
+    activities:
+      - name: Introduction
+        path: src/lessons/layout.md
+      - name: Layout
+        path: src/lessons/layout/layout.md
+      - name: Flexbox
+        path: src/lessons/layout/flexbox.md
+      - name: CSS Grid
+        path: src/lessons/layout/grid.md
+      - name: Positioning
+        path: src/lessons/layout/positioning.md
+      - name: Multimedia Elements
+        path: src/lessons/bonus/multimedia-layout/multimedia-html-elements.md
+      - name: Practice
+        path: src/lessons/layout/practice.md
+      - name: Wrap Up
+        path: src/lessons/layout/wrap-up.md
+      - name: 'Bonus: More styling'
+        path: src/lessons/bonus/multimedia-layout/bonus-more-styling.md
+      - name: 'Bonus: Interactive Elements'
+        path: src/lessons/bonus/multimedia-layout/bonus-interactive-elements.md
+  - name: 'Week 4: Publishing and Sharing'
+    activities:
+      - name: Introduction
+        path: src/lessons/publishing-and-sharing.md
+      - name: How the Internet Works
+        path: src/lessons/publishing-and-sharing/how-the-internet-works-again.md
+      - name: Publishing your site
+        path: src/lessons/publishing-and-sharing/publishing-your-site.md
+      - name: Domains and Hosting
+        path: src/lessons/publishing-and-sharing/domains-and-hosting.md
+      - name: Sharing your work
+        path: src/lessons/publishing-and-sharing/sharing-your-work.md
+      - name: Practice
+        path: src/lessons/publishing-and-sharing/practice.md
+      - name: Wrap Up
+        path: src/lessons/publishing-and-sharing/wrap-up.md
+      - name: 'Bonus: More about DNS'
+        path: src/lessons/publishing-and-sharing/bonus-dns.md
+  - name: 'Week 5: Final Project and Wrap Up'
+    activities:
+      - name: Final Project
+        path: src/final-project.md
+      - name: Wrapping Up
+        path: src/wrapping-up.md
